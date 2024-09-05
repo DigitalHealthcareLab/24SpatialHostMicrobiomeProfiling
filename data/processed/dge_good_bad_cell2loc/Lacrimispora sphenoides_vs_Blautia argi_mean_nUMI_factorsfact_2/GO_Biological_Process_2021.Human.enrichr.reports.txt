@@ -1,0 +1,44 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	regulation of transmission of nerve impulse (GO:0051969)	1/6	4.193120e-03	2.996309e-02	0	0	3.074000e+02	1.682803e+03	TYMP
+GO_Biological_Process_2021	regulation of digestive system process (GO:0044058)	1/6	4.193120e-03	2.996309e-02	0	0	3.074000e+02	1.682803e+03	TYMP
+GO_Biological_Process_2021	induction of bacterial agglutination (GO:0043152)	1/6	4.193120e-03	2.996309e-02	0	0	3.074000e+02	1.682803e+03	DMBT1
+GO_Biological_Process_2021	detection of molecule of bacterial origin (GO:0032490)	1/7	4.890388e-03	2.996309e-02	0	0	2.561538e+02	1.362862e+03	DMBT1
+GO_Biological_Process_2021	nucleoside metabolic process (GO:0009116)	1/10	6.979474e-03	2.996309e-02	0	0	1.707436e+02	8.477047e+02	TYMP
+GO_Biological_Process_2021	pyrimidine nucleoside catabolic process (GO:0046135)	1/11	7.674931e-03	2.996309e-02	0	0	1.536615e+02	7.483003e+02	TYMP
+GO_Biological_Process_2021	pyrimidine nucleoside salvage (GO:0043097)	1/11	7.674931e-03	2.996309e-02	0	0	1.536615e+02	7.483003e+02	TYMP
+GO_Biological_Process_2021	pyrimidine-containing compound salvage (GO:0008655)	1/11	7.674931e-03	2.996309e-02	0	0	1.536615e+02	7.483003e+02	TYMP
+GO_Biological_Process_2021	nucleoside salvage (GO:0043174)	1/12	8.369936e-03	2.996309e-02	0	0	1.396853e+02	6.681301e+02	TYMP
+GO_Biological_Process_2021	mitochondrial genome maintenance (GO:0000002)	1/12	8.369936e-03	2.996309e-02	0	0	1.396853e+02	6.681301e+02	TYMP
+GO_Biological_Process_2021	nucleoside catabolic process (GO:0009164)	1/12	8.369936e-03	2.996309e-02	0	0	1.396853e+02	6.681301e+02	TYMP
+GO_Biological_Process_2021	pyrimidine-containing compound metabolic process (GO:0072527)	1/12	8.369936e-03	2.996309e-02	0	0	1.396853e+02	6.681301e+02	TYMP
+GO_Biological_Process_2021	detection of bacterium (GO:0016045)	1/14	9.758591e-03	2.996309e-02	0	0	1.181834e+02	5.471429e+02	DMBT1
+GO_Biological_Process_2021	pyrimidine nucleoside biosynthetic process (GO:0046134)	1/14	9.758591e-03	2.996309e-02	0	0	1.181834e+02	5.471429e+02	TYMP
+GO_Biological_Process_2021	pyrimidine nucleoside metabolic process (GO:0006213)	1/15	1.045224e-02	2.996309e-02	0	0	1.097363e+02	5.005004e+02	TYMP
+GO_Biological_Process_2021	pyrimidine-containing compound catabolic process (GO:0072529)	1/17	1.183819e-02	3.181513e-02	0	0	9.600962e+01	4.259394e+02	TYMP
+GO_Biological_Process_2021	regulation of nervous system process (GO:0031644)	1/19	1.322233e-02	3.344473e-02	0	0	8.533333e+01	3.691390e+02	TYMP
+GO_Biological_Process_2021	regulation of myelination (GO:0031641)	1/26	1.805268e-02	4.312585e-02	0	0	6.141846e+01	2.465620e+02	TYMP
+GO_Biological_Process_2021	regulation of cell communication (GO:0010646)	1/38	2.628224e-02	5.797504e-02	0	0	4.147401e+01	1.509182e+02	TYMP
+GO_Biological_Process_2021	response to peptide (GO:1901652)	1/39	2.696513e-02	5.797504e-02	0	0	4.038057e+01	1.459035e+02	REG1A
+GO_Biological_Process_2021	regulation of nervous system development (GO:0051960)	1/42	2.901116e-02	5.936532e-02	0	0	3.742026e+01	1.324705e+02	TYMP
+GO_Biological_Process_2021	antibacterial humoral response (GO:0019731)	1/44	3.037296e-02	5.936532e-02	0	0	3.567621e+01	1.246599e+02	DMBT1
+GO_Biological_Process_2021	response to peptide hormone (GO:0043434)	1/52	3.580243e-02	6.693498e-02	0	0	3.006787e+01	1.001182e+02	REG1A
+GO_Biological_Process_2021	ribosomal large subunit biogenesis (GO:0042273)	1/57	3.918150e-02	7.020019e-02	0	0	2.737637e+01	8.868715e+01	WDR74
+GO_Biological_Process_2021	ribonucleoprotein complex biogenesis (GO:0022613)	1/60	4.120366e-02	7.087030e-02	0	0	2.598044e+01	8.285756e+01	WDR74
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	1/64	4.389373e-02	7.259348e-02	0	0	2.432601e+01	7.604270e+01	REG1A
+GO_Biological_Process_2021	defense response to Gram-positive bacterium (GO:0050830)	1/70	4.791570e-02	7.402047e-02	0	0	2.220401e+01	6.746272e+01	DMBT1
+GO_Biological_Process_2021	nucleic acid metabolic process (GO:0090304)	1/71	4.858449e-02	7.402047e-02	0	0	2.188571e+01	6.619227e+01	WDR74
+GO_Biological_Process_2021	defense response to Gram-negative bacterium (GO:0050829)	1/73	4.992078e-02	7.402047e-02	0	0	2.127564e+01	6.376986e+01	DMBT1
+GO_Biological_Process_2021	epithelial cell differentiation (GO:0030855)	1/101	6.844676e-02	9.810702e-02	0	0	1.529692e+01	4.102175e+01	DMBT1
+GO_Biological_Process_2021	epithelium development (GO:0060429)	1/122	8.212049e-02	1.139091e-01	0	0	1.262873e+01	3.156638e+01	DMBT1
+GO_Biological_Process_2021	RNA metabolic process (GO:0016070)	1/133	8.920832e-02	1.198737e-01	0	0	1.156993e+01	2.796199e+01	WDR74
+GO_Biological_Process_2021	rRNA metabolic process (GO:0016072)	1/162	1.076515e-01	1.390697e-01	0	0	9.472050e+00	2.111183e+01	WDR74
+GO_Biological_Process_2021	rRNA processing (GO:0006364)	1/173	1.145561e-01	1.390697e-01	0	0	8.861360e+00	1.919983e+01	WDR74
+GO_Biological_Process_2021	mitochondrion organization (GO:0007005)	1/175	1.158061e-01	1.390697e-01	0	0	8.758621e+00	1.888217e+01	TYMP
+GO_Biological_Process_2021	defense response to bacterium (GO:0042742)	1/176	1.164305e-01	1.390697e-01	0	0	8.708132e+00	1.872650e+01	DMBT1
+GO_Biological_Process_2021	ribosome biogenesis (GO:0042254)	1/192	1.263653e-01	1.468570e-01	0	0	7.972211e+00	1.649114e+01	WDR74
+GO_Biological_Process_2021	ncRNA processing (GO:0034470)	1/201	1.319080e-01	1.492643e-01	0	0	7.610000e+00	1.541520e+01	WDR74
+GO_Biological_Process_2021	innate immune response (GO:0045087)	1/302	1.919098e-01	2.115929e-01	0	0	5.030667e+00	8.304272e+00	DMBT1
+GO_Biological_Process_2021	cellular protein metabolic process (GO:0044267)	1/417	2.555297e-01	2.746944e-01	0	0	3.618713e+00	4.937432e+00	DMBT1
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	1/474	2.853089e-01	2.992264e-01	0	0	3.173362e+00	3.979975e+00	REG1A
+GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	1/625	3.589371e-01	3.674833e-01	0	0	2.386834e+00	2.445570e+00	REG1A
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	1/764	4.204262e-01	4.204262e-01	0	0	1.937998e+00	1.679249e+00	REG1A

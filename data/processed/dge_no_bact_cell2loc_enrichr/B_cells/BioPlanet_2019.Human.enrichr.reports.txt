@@ -1,0 +1,54 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+BioPlanet_2019	Complement cascade	4/77	5.157192e-06	2.049866e-04	0	0	4.193256e+01	5.105339e+02	IGHG3;IGHG4;IGKC;IGLC1
+BioPlanet_2019	Termination of O-glycan biosynthesis	3/26	7.735345e-06	2.049866e-04	0	0	9.636232e+01	1.134157e+03	MUC1;MUC2;MUC13
+BioPlanet_2019	Innate immune system	5/319	1.027372e-04	1.507936e-03	0	0	1.251975e+01	1.149730e+02	IGHG3;IGHG4;IGKC;IGLC1;CTSB
+BioPlanet_2019	O-linked glycosylation of mucins	3/63	1.138065e-04	1.507936e-03	0	0	3.687037e+01	3.348202e+02	MUC1;MUC2;MUC13
+BioPlanet_2019	Interleukin-9 regulation of target genes	2/26	6.912392e-04	7.327135e-03	0	0	5.936310e+01	4.319867e+02	MUC2;LCN2
+BioPlanet_2019	Post-translational protein modification	3/196	3.096721e-03	2.735437e-02	0	0	1.138572e+01	6.578001e+01	MUC1;MUC2;MUC13
+BioPlanet_2019	SARS coronavirus protease	1/7	1.045432e-02	6.527031e-02	0	0	1.147356e+02	5.232793e+02	ANPEP
+BioPlanet_2019	Interleukin-4 signaling pathway	2/104	1.059539e-02	6.527031e-02	0	0	1.391317e+01	6.326784e+01	IGHG3;PIGR
+BioPlanet_2019	Oncostatin M	3/311	1.108364e-02	6.527031e-02	0	0	7.093074e+00	3.193504e+01	KRT8;LCN2;CTSB
+BioPlanet_2019	Immunoregulatory interactions between a lymphoid and a non-lymphoid cell	2/119	1.369766e-02	7.259759e-02	0	0	1.212027e+01	5.200238e+01	IGKC;IGLC1
+BioPlanet_2019	Immune system	5/998	1.543373e-02	7.436253e-02	0	0	3.822155e+00	1.594297e+01	IGHG3;IGHG4;IGKC;IGLC1;CTSB
+BioPlanet_2019	Toll-like receptor endosomal trafficking and processing	1/12	1.785697e-02	7.886828e-02	0	0	6.256740e+01	2.518564e+02	CTSB
+BioPlanet_2019	Interleukin-6 regulation of target genes	1/14	2.080301e-02	8.120762e-02	0	0	5.293634e+01	2.050043e+02	SERPINA1
+BioPlanet_2019	Signaling by the B cell receptor (BCR)	2/151	2.145107e-02	8.120762e-02	0	0	9.501918e+00	3.650618e+01	IGKC;IGLC1
+BioPlanet_2019	Renin-angiotensin system	1/17	2.520608e-02	8.282961e-02	0	0	4.300431e+01	1.582847e+02	ANPEP
+BioPlanet_2019	Dendritic cells in regulating TH1 and TH2 development	1/17	2.520608e-02	8.282961e-02	0	0	4.300431e+01	1.582847e+02	ANPEP
+BioPlanet_2019	Protein metabolism	3/442	2.798820e-02	8.282961e-02	0	0	4.943305e+00	1.767712e+01	MUC1;MUC2;MUC13
+BioPlanet_2019	STAT3 pathway	1/19	2.813081e-02	8.282961e-02	0	0	3.822222e+01	1.364873e+02	REG1A
+BioPlanet_2019	Interleukin-11 pathway	1/23	3.395486e-02	9.471618e-02	0	0	3.126646e+01	1.057658e+02	MUC1
+BioPlanet_2019	Antigen-activated B-cell receptor generation of second messengers	2/211	3.971085e-02	1.052338e-01	0	0	6.753589e+00	2.178796e+01	IGKC;IGLC1
+BioPlanet_2019	NF-kappaB activation by non-typeable Hemophilus influenzae	1/31	4.550191e-02	1.148381e-01	0	0	2.291954e+01	7.082140e+01	MUC2
+BioPlanet_2019	Trefoil factor initiation of mucosal healing	1/38	5.549604e-02	1.278822e-01	0	0	1.857689e+01	5.371402e+01	MUC2
+BioPlanet_2019	p38 alpha/beta MAPK downstream pathway	1/38	5.549604e-02	1.278822e-01	0	0	1.857689e+01	5.371402e+01	KRT8
+BioPlanet_2019	Adaptive immune system	3/606	6.138532e-02	1.304246e-01	0	0	3.568638e+00	9.958587e+00	IGKC;IGLC1;CTSB
+BioPlanet_2019	Gastrin pathway	1/44	6.398186e-02	1.304246e-01	0	0	1.597995e+01	4.393137e+01	REG1A
+BioPlanet_2019	HNF3A pathway	1/44	6.398186e-02	1.304246e-01	0	0	1.597995e+01	4.393137e+01	SERPINA1
+BioPlanet_2019	Intestinal immune network for IgA production	1/48	6.959808e-02	1.348555e-01	0	0	1.461702e+01	3.895463e+01	PIGR
+BioPlanet_2019	Type II interferon signaling (interferon-gamma)	1/50	7.239397e-02	1.348555e-01	0	0	1.401900e+01	3.680874e+01	REG1A
+BioPlanet_2019	Glutathione metabolism	1/51	7.378886e-02	1.348555e-01	0	0	1.373793e+01	3.580857e+01	ANPEP
+BioPlanet_2019	Vibrio cholerae infection	1/55	7.934818e-02	1.401818e-01	0	0	1.271775e+01	3.222564e+01	MUC2
+BioPlanet_2019	Complement and coagulation cascades	1/70	9.990979e-02	1.708135e-01	0	0	9.945527e+00	2.290940e+01	SERPINA1
+BioPlanet_2019	p73 transcription factor network	1/79	1.120329e-01	1.747856e-01	0	0	8.793988e+00	1.924971e+01	SERPINA1
+BioPlanet_2019	Antigen processing and presentation	1/81	1.147054e-01	1.747856e-01	0	0	8.573276e+00	1.856447e+01	CTSB
+BioPlanet_2019	SMAD2/3 nuclear pathway	1/82	1.160388e-01	1.747856e-01	0	0	8.467007e+00	1.823650e+01	IGHA1
+BioPlanet_2019	Response to elevated platelet cytosolic calcium	1/83	1.173702e-01	1.747856e-01	0	0	8.363331e+00	1.791779e+01	SERPINA1
+BioPlanet_2019	C-Myb transcription factor network	1/85	1.200272e-01	1.747856e-01	0	0	8.163383e+00	1.730667e+01	ANPEP
+BioPlanet_2019	Hematopoietic cell lineage	1/88	1.239981e-01	1.747856e-01	0	0	7.880698e+00	1.645087e+01	ANPEP
+BioPlanet_2019	Salivary secretion	1/89	1.253180e-01	1.747856e-01	0	0	7.790752e+00	1.618062e+01	DMBT1
+BioPlanet_2019	Interferon-gamma signaling pathway	1/97	1.358074e-01	1.799449e-01	0	0	7.138649e+00	1.425244e+01	REG1A
+BioPlanet_2019	Mitochondrial pathway of apoptosis: BH3-only Bcl-2 family	1/97	1.358074e-01	1.799449e-01	0	0	7.138649e+00	1.425244e+01	CTSB
+BioPlanet_2019	MHC class II antigen presentation	1/103	1.435947e-01	1.844593e-01	0	0	6.716700e+00	1.303551e+01	CTSB
+BioPlanet_2019	Amoebiasis	1/105	1.461753e-01	1.844593e-01	0	0	6.586870e+00	1.266621e+01	MUC2
+BioPlanet_2019	Lysosome	1/121	1.665514e-01	2.052843e-01	0	0	5.704023e+00	1.022418e+01	CTSB
+BioPlanet_2019	EGFR1 pathway	1/152	2.047009e-01	2.410922e-01	0	0	4.525919e+00	7.179037e+00	LCN2
+BioPlanet_2019	Integrated breast cancer pathway	1/152	2.047009e-01	2.410922e-01	0	0	4.525919e+00	7.179037e+00	PIGR
+BioPlanet_2019	Toll receptor cascades	1/159	2.130787e-01	2.455037e-01	0	0	4.323876e+00	6.685118e+00	CTSB
+BioPlanet_2019	Platelet activation, signaling and aggregation	1/205	2.660480e-01	3.000115e-01	0	0	3.341109e+00	4.423891e+00	SERPINA1
+BioPlanet_2019	Insulin signaling pathway	1/277	3.421045e-01	3.777404e-01	0	0	2.460520e+00	2.639250e+00	REG1A
+BioPlanet_2019	Interleukin-2 signaling pathway	2/847	3.648157e-01	3.945966e-01	0	0	1.616653e+00	1.630173e+00	FCGBP;CTSB
+BioPlanet_2019	Hemostasis pathway	1/468	5.087804e-01	5.393073e-01	0	0	1.440080e+00	9.731176e-01	SERPINA1
+BioPlanet_2019	TGF-beta regulation of extracellular matrix	1/565	5.769786e-01	5.996052e-01	0	0	1.186476e+00	6.525026e-01	LCN2
+BioPlanet_2019	T cell receptor regulation of apoptosis	1/603	6.011184e-01	6.126784e-01	0	0	1.109405e+00	5.646467e-01	CTSB
+BioPlanet_2019	Metabolism	1/1615	9.201663e-01	9.201663e-01	0	0	3.921719e-01	3.262907e-02	ANPEP

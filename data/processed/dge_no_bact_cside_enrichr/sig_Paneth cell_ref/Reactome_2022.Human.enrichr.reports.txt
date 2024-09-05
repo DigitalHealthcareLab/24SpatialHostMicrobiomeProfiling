@@ -1,0 +1,6 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2022	Alpha-defensins R-HSA-1462054	1/8	3.999883e-04	1.999942e-03	0	0	1.999200e+04	1.564189e+05	DEFA5
+Reactome_2022	Defensins R-HSA-1461973	1/43	2.149961e-03	5.374903e-03	0	0	1.995700e+04	1.225820e+05	DEFA5
+Reactome_2022	Antimicrobial Peptides R-HSA-6803157	1/89	4.449938e-03	7.416563e-03	0	0	1.991100e+04	1.078154e+05	DEFA5
+Reactome_2022	Innate Immune System R-HSA-168249	1/1035	5.174978e-02	6.468723e-02	0	0	1.896500e+04	5.616172e+04	DEFA5
+Reactome_2022	Immune System R-HSA-168256	1/1943	9.714975e-02	9.714975e-02	0	0	1.805700e+04	4.209993e+04	DEFA5

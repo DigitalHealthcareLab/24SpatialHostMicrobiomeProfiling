@@ -1,0 +1,18 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	positive regulation of mRNA splicing, via spliceosome (GO:0048026)	1/18	8.999789e-04	4.533244e-03	0	0	1.998200e+04	1.401365e+05	TRA2B
+GO_Biological_Process_2021	positive regulation of mRNA processing (GO:0050685)	1/23	1.149975e-03	4.533244e-03	0	0	1.997700e+04	1.352046e+05	TRA2B
+GO_Biological_Process_2021	RNA splicing, via transesterification reactions (GO:0000375)	1/25	1.249973e-03	4.533244e-03	0	0	1.997500e+04	1.335255e+05	TRA2B
+GO_Biological_Process_2021	cellular response to hexose stimulus (GO:0071331)	1/25	1.249973e-03	4.533244e-03	0	0	1.997500e+04	1.335255e+05	TRA2B
+GO_Biological_Process_2021	positive regulation of RNA splicing (GO:0033120)	1/31	1.549969e-03	4.533244e-03	0	0	1.996900e+04	1.291899e+05	TRA2B
+GO_Biological_Process_2021	cellular response to glucose stimulus (GO:0071333)	1/32	1.599968e-03	4.533244e-03	0	0	1.996800e+04	1.285494e+05	TRA2B
+GO_Biological_Process_2021	cellular glucose homeostasis (GO:0001678)	1/43	2.149961e-03	5.099915e-03	0	0	1.995700e+04	1.225820e+05	TRA2B
+GO_Biological_Process_2021	response to glucose (GO:0009749)	1/49	2.449958e-03	5.099915e-03	0	0	1.995100e+04	1.199391e+05	TRA2B
+GO_Biological_Process_2021	regulation of alternative mRNA splicing, via spliceosome (GO:0000381)	1/54	2.699955e-03	5.099915e-03	0	0	1.994600e+04	1.179710e+05	TRA2B
+GO_Biological_Process_2021	regulation of RNA metabolic process (GO:0051252)	1/65	3.249949e-03	5.524914e-03	0	0	1.993500e+04	1.142099e+05	TRA2B
+GO_Biological_Process_2021	regulation of RNA splicing (GO:0043484)	1/76	3.799944e-03	5.872640e-03	0	0	1.992400e+04	1.110318e+05	TRA2B
+GO_Biological_Process_2021	regulation of mRNA splicing, via spliceosome (GO:0048024)	1/90	4.499937e-03	6.374911e-03	0	0	1.991000e+04	1.075875e+05	TRA2B
+GO_Biological_Process_2021	RNA splicing (GO:0008380)	1/98	4.899934e-03	6.407606e-03	0	0	1.990200e+04	1.058495e+05	TRA2B
+GO_Biological_Process_2021	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO:0000377)	1/251	1.254989e-02	1.523915e-02	0	0	1.974900e+04	8.646199e+04	TRA2B
+GO_Biological_Process_2021	mRNA splicing, via spliceosome (GO:0000398)	1/274	1.369988e-02	1.552653e-02	0	0	1.972600e+04	8.463180e+04	TRA2B
+GO_Biological_Process_2021	mRNA processing (GO:0006397)	1/300	1.499987e-02	1.593737e-02	0	0	1.970000e+04	8.273436e+04	TRA2B
+GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	1/1079	5.394978e-02	5.394978e-02	0	0	1.892100e+04	5.524367e+04	TRA2B

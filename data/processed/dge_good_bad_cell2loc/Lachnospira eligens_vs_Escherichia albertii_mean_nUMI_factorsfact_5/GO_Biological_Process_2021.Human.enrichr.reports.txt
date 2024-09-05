@@ -1,0 +1,63 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	antibacterial humoral response (GO:0019731)	2/44	2.568962e-04	1.592757e-02	0	0	1.055397e+02	8.724795e+02	DMBT1;JCHAIN
+GO_Biological_Process_2021	induction of bacterial agglutination (GO:0043152)	1/6	3.295826e-03	2.430209e-02	0	0	3.996800e+02	2.284211e+03	DMBT1
+GO_Biological_Process_2021	positive regulation of respiratory burst (GO:0060267)	1/7	3.844172e-03	2.430209e-02	0	0	3.330500e+02	1.852157e+03	JCHAIN
+GO_Biological_Process_2021	detection of molecule of bacterial origin (GO:0032490)	1/7	3.844172e-03	2.430209e-02	0	0	3.330500e+02	1.852157e+03	DMBT1
+GO_Biological_Process_2021	positive regulation of histone H4 acetylation (GO:0090240)	1/7	3.844172e-03	2.430209e-02	0	0	3.330500e+02	1.852157e+03	MUC1
+GO_Biological_Process_2021	defense response to bacterium (GO:0042742)	2/176	4.019697e-03	2.430209e-02	0	0	2.530651e+01	1.396046e+02	DMBT1;JCHAIN
+GO_Biological_Process_2021	regulation of respiratory burst (GO:0060263)	1/9	4.940043e-03	2.430209e-02	0	0	2.497625e+02	1.326334e+03	JCHAIN
+GO_Biological_Process_2021	regulation of DNA-templated transcription in response to stress (GO:0043620)	1/9	4.940043e-03	2.430209e-02	0	0	2.497625e+02	1.326334e+03	MUC1
+GO_Biological_Process_2021	glomerular filtration (GO:0003094)	1/9	4.940043e-03	2.430209e-02	0	0	2.497625e+02	1.326334e+03	JCHAIN
+GO_Biological_Process_2021	regulation of histone H4 acetylation (GO:0090239)	1/9	4.940043e-03	2.430209e-02	0	0	2.497625e+02	1.326334e+03	MUC1
+GO_Biological_Process_2021	renal filtration (GO:0097205)	1/10	5.487568e-03	2.430209e-02	0	0	2.220000e+02	1.155570e+03	JCHAIN
+GO_Biological_Process_2021	negative regulation of cell adhesion mediated by integrin (GO:0033629)	1/10	5.487568e-03	2.430209e-02	0	0	2.220000e+02	1.155570e+03	MUC1
+GO_Biological_Process_2021	negative regulation of transcription by competitive promoter binding (GO:0010944)	1/10	5.487568e-03	2.430209e-02	0	0	2.220000e+02	1.155570e+03	MUC1
+GO_Biological_Process_2021	DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator (GO:0006978)	1/10	5.487568e-03	2.430209e-02	0	0	2.220000e+02	1.155570e+03	MUC1
+GO_Biological_Process_2021	DNA damage response, signal transduction resulting in transcription (GO:0042772)	1/11	6.034819e-03	2.494392e-02	0	0	1.997900e+02	1.020969e+03	MUC1
+GO_Biological_Process_2021	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator (GO:1902166)	1/13	7.128500e-03	2.643587e-02	0	0	1.664750e+02	8.229949e+02	MUC1
+GO_Biological_Process_2021	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator (GO:1902165)	1/14	7.674931e-03	2.643587e-02	0	0	1.536615e+02	7.483003e+02	MUC1
+GO_Biological_Process_2021	detection of bacterium (GO:0016045)	1/14	7.674931e-03	2.643587e-02	0	0	1.536615e+02	7.483003e+02	DMBT1
+GO_Biological_Process_2021	negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator (GO:1902254)	1/17	9.312583e-03	3.038843e-02	0	0	1.248312e+02	5.837595e+02	MUC1
+GO_Biological_Process_2021	innate immune response (GO:0045087)	2/302	1.142354e-02	3.541297e-02	0	0	1.458444e+01	6.522279e+01	DMBT1;JCHAIN
+GO_Biological_Process_2021	positive regulation of histone acetylation (GO:0035066)	1/23	1.258052e-02	3.698645e-02	0	0	9.075909e+01	3.971260e+02	MUC1
+GO_Biological_Process_2021	positive regulation of transcription from RNA polymerase II promoter in response to stress (GO:0036003)	1/24	1.312423e-02	3.698645e-02	0	0	8.680870e+01	3.761677e+02	MUC1
+GO_Biological_Process_2021	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage (GO:1902230)	1/26	1.421082e-02	3.830742e-02	0	0	7.985600e+01	3.396876e+02	MUC1
+GO_Biological_Process_2021	positive regulation of fibroblast proliferation (GO:0048146)	1/28	1.529632e-02	3.951549e-02	0	0	7.393333e+01	3.090519e+02	S100A6
+GO_Biological_Process_2021	regulation of cell adhesion mediated by integrin (GO:0033628)	1/34	1.854631e-02	4.599485e-02	0	0	6.047273e+01	2.411341e+02	MUC1
+GO_Biological_Process_2021	retina homeostasis (GO:0001895)	1/36	1.962747e-02	4.680397e-02	0	0	5.701143e+01	2.241020e+02	JCHAIN
+GO_Biological_Process_2021	response to peptide (GO:1901652)	1/39	2.124719e-02	4.878983e-02	0	0	5.250263e+01	2.022155e+02	REG1A
+GO_Biological_Process_2021	regulation of fibroblast proliferation (GO:0048145)	1/46	2.501706e-02	5.539492e-02	0	0	4.432000e+01	1.634609e+02	S100A6
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	2/474	2.675860e-02	5.720804e-02	0	0	9.188795e+00	3.327170e+01	REG1A;S100A6
+GO_Biological_Process_2021	response to peptide hormone (GO:0043434)	1/52	2.823787e-02	5.835827e-02	0	0	3.909412e+01	1.394523e+02	REG1A
+GO_Biological_Process_2021	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest (GO:0006977)	1/56	3.037970e-02	6.075941e-02	0	0	3.624364e+01	1.266346e+02	MUC1
+GO_Biological_Process_2021	O-glycan processing (GO:0016266)	1/61	3.305096e-02	6.403623e-02	0	0	3.321500e+01	1.132533e+02	MUC1
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	1/64	3.465050e-02	6.415749e-02	0	0	3.162857e+01	1.063493e+02	REG1A
+GO_Biological_Process_2021	mitotic G1 DNA damage checkpoint signaling (GO:0031571)	1/65	3.518314e-02	6.415749e-02	0	0	3.113281e+01	1.042074e+02	MUC1
+GO_Biological_Process_2021	defense response to Gram-positive bacterium (GO:0050830)	1/70	3.784236e-02	6.520595e-02	0	0	2.886957e+01	9.452837e+01	DMBT1
+GO_Biological_Process_2021	defense response to Gram-negative bacterium (GO:0050829)	1/73	3.943469e-02	6.520595e-02	0	0	2.766250e+01	8.943589e+01	DMBT1
+GO_Biological_Process_2021	negative regulation of cell adhesion (GO:0007162)	1/73	3.943469e-02	6.520595e-02	0	0	2.766250e+01	8.943589e+01	MUC1
+GO_Biological_Process_2021	DNA damage response, signal transduction by p53 class mediator (GO:0030330)	1/74	3.996494e-02	6.520595e-02	0	0	2.728219e+01	8.784191e+01	MUC1
+GO_Biological_Process_2021	cell morphogenesis involved in neuron differentiation (GO:0048667)	1/76	4.102463e-02	6.521864e-02	0	0	2.655200e+01	8.479601e+01	S100A6
+GO_Biological_Process_2021	axon development (GO:0061564)	1/79	4.261217e-02	6.604887e-02	0	0	2.552692e+01	8.055315e+01	S100A6
+GO_Biological_Process_2021	regulation of transcription from RNA polymerase II promoter in response to stress (GO:0043618)	1/87	4.683395e-02	7.082207e-02	0	0	2.314302e+01	7.084419e+01	MUC1
+GO_Biological_Process_2021	epithelial cell differentiation (GO:0030855)	1/101	5.418136e-02	7.887582e-02	0	0	1.988900e+01	5.798476e+01	DMBT1
+GO_Biological_Process_2021	protein O-linked glycosylation (GO:0006493)	1/102	5.470420e-02	7.887582e-02	0	0	1.969109e+01	5.721866e+01	MUC1
+GO_Biological_Process_2021	protein-containing complex subunit organization (GO:0043933)	1/112	5.991816e-02	8.109764e-02	0	0	1.790811e+01	5.040731e+01	JCHAIN
+GO_Biological_Process_2021	positive regulation of metabolic process (GO:0009893)	1/113	6.043812e-02	8.109764e-02	0	0	1.774732e+01	4.980139e+01	JCHAIN
+GO_Biological_Process_2021	cellular response to lectin (GO:1990858)	1/115	6.147724e-02	8.109764e-02	0	0	1.743421e+01	4.862555e+01	MUC1
+GO_Biological_Process_2021	stimulatory C-type lectin receptor signaling pathway (GO:0002223)	1/115	6.147724e-02	8.109764e-02	0	0	1.743421e+01	4.862555e+01	MUC1
+GO_Biological_Process_2021	innate immune response activating cell surface receptor signaling pathway (GO:0002220)	1/119	6.355236e-02	8.208847e-02	0	0	1.683983e+01	4.640874e+01	MUC1
+GO_Biological_Process_2021	epithelium development (GO:0060429)	1/122	6.510597e-02	8.237898e-02	0	0	1.641983e+01	4.485470e+01	DMBT1
+GO_Biological_Process_2021	neuron projection morphogenesis (GO:0048812)	1/140	7.437848e-02	9.222931e-02	0	0	1.428058e+01	3.710934e+01	S100A6
+GO_Biological_Process_2021	receptor-mediated endocytosis (GO:0006898)	1/143	7.591574e-02	9.228973e-02	0	0	1.397676e+01	3.603392e+01	JCHAIN
+GO_Biological_Process_2021	axonogenesis (GO:0007409)	1/240	1.243873e-01	1.483079e-01	0	0	8.263598e+00	1.722427e+01	S100A6
+GO_Biological_Process_2021	cellular component assembly (GO:0022607)	1/261	1.345718e-01	1.574236e-01	0	0	7.588077e+00	1.521908e+01	JCHAIN
+GO_Biological_Process_2021	protein-containing complex assembly (GO:0065003)	1/267	1.374618e-01	1.578265e-01	0	0	7.414662e+00	1.471372e+01	JCHAIN
+GO_Biological_Process_2021	cellular protein metabolic process (GO:0044267)	1/417	2.069213e-01	2.332567e-01	0	0	4.705048e+00	7.412412e+00	DMBT1
+GO_Biological_Process_2021	cellular response to cytokine stimulus (GO:0071345)	1/482	2.354089e-01	2.606313e-01	0	0	4.055717e+00	5.866317e+00	MUC1
+GO_Biological_Process_2021	cytokine-mediated signaling pathway (GO:0019221)	1/621	2.932317e-01	3.151686e-01	0	0	3.124032e+00	3.832538e+00	MUC1
+GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	1/625	2.948352e-01	3.151686e-01	0	0	3.103365e+00	3.790260e+00	REG1A
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	1/764	3.485435e-01	3.662661e-01	0	0	2.519790e+00	2.655839e+00	REG1A
+GO_Biological_Process_2021	positive regulation of transcription by RNA polymerase II (GO:0045944)	1/908	4.002375e-01	4.135787e-01	0	0	2.103859e+00	1.926498e+00	MUC1
+GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	1/948	4.139194e-01	4.207050e-01	0	0	2.010771e+00	1.773669e+00	MUC1
+GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	1/2206	7.236034e-01	7.236034e-01	0	0	8.065306e-01	2.609222e-01	MUC1

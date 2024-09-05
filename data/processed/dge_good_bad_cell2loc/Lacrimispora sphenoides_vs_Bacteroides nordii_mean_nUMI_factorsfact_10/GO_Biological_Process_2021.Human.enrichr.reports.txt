@@ -1,0 +1,70 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	mucosal immune response (GO:0002385)	2/28	8.446285e-05	5.827937e-03	0	0	1.919615e+02	1.800445e+03	PIGR;DEFA5
+GO_Biological_Process_2021	antibacterial humoral response (GO:0019731)	2/44	2.104819e-04	7.261625e-03	0	0	1.187381e+02	1.005250e+03	DEFA5;HLA-A
+GO_Biological_Process_2021	defense response to Gram-positive bacterium (GO:0050830)	2/70	5.336190e-04	1.227324e-02	0	0	7.324265e+01	5.519440e+02	DEFA5;HLA-A
+GO_Biological_Process_2021	positive regulation of membrane permeability (GO:1905710)	1/5	2.497708e-03	2.066248e-02	0	0	5.551667e+02	3.326771e+03	DEFA5
+GO_Biological_Process_2021	protection from natural killer cell mediated cytotoxicity (GO:0042270)	1/6	2.996578e-03	2.066248e-02	0	0	4.441111e+02	2.580412e+03	HLA-A
+GO_Biological_Process_2021	defense response to bacterium (GO:0042742)	2/176	3.307921e-03	2.066248e-02	0	0	2.847126e+01	1.626118e+02	DEFA5;HLA-A
+GO_Biological_Process_2021	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway (GO:0002484)	1/7	3.495224e-03	2.066248e-02	0	0	3.700741e+02	2.093271e+03	HLA-A
+GO_Biological_Process_2021	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent (GO:0002486)	1/7	3.495224e-03	2.066248e-02	0	0	3.700741e+02	2.093271e+03	HLA-A
+GO_Biological_Process_2021	antigen processing and presentation of endogenous peptide antigen via MHC class I (GO:0019885)	1/8	3.993646e-03	2.066248e-02	0	0	3.171905e+02	1.751859e+03	HLA-A
+GO_Biological_Process_2021	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-independent (GO:0002480)	1/8	3.993646e-03	2.066248e-02	0	0	3.171905e+02	1.751859e+03	HLA-A
+GO_Biological_Process_2021	regulation of CD8-positive, alpha-beta T cell proliferation (GO:2000564)	1/8	3.993646e-03	2.066248e-02	0	0	3.171905e+02	1.751859e+03	HLA-A
+GO_Biological_Process_2021	T cell mediated cytotoxicity (GO:0001913)	1/8	3.993646e-03	2.066248e-02	0	0	3.171905e+02	1.751859e+03	HLA-A
+GO_Biological_Process_2021	alpha-beta T cell activation (GO:0046631)	1/8	3.993646e-03	2.066248e-02	0	0	3.171905e+02	1.751859e+03	HLA-A
+GO_Biological_Process_2021	regulation of CD8-positive, alpha-beta T cell activation (GO:2001185)	1/9	4.491844e-03	2.066248e-02	0	0	2.775278e+02	1.500174e+03	HLA-A
+GO_Biological_Process_2021	positive regulation of CD8-positive, alpha-beta T cell activation (GO:2001187)	1/9	4.491844e-03	2.066248e-02	0	0	2.775278e+02	1.500174e+03	HLA-A
+GO_Biological_Process_2021	antigen processing and presentation of endogenous peptide antigen (GO:0002483)	1/14	6.979474e-03	2.500610e-02	0	0	1.707436e+02	8.477047e+02	HLA-A
+GO_Biological_Process_2021	immune response-regulating cell surface receptor signaling pathway (GO:0002768)	1/14	6.979474e-03	2.500610e-02	0	0	1.707436e+02	8.477047e+02	PIGR
+GO_Biological_Process_2021	detection of bacterium (GO:0016045)	1/14	6.979474e-03	2.500610e-02	0	0	1.707436e+02	8.477047e+02	HLA-A
+GO_Biological_Process_2021	negative regulation of natural killer cell mediated cytotoxicity (GO:0045953)	1/16	7.972959e-03	2.500610e-02	0	0	1.479630e+02	7.149126e+02	HLA-A
+GO_Biological_Process_2021	positive regulation of alpha-beta T cell proliferation (GO:0046641)	1/16	7.972959e-03	2.500610e-02	0	0	1.479630e+02	7.149126e+02	HLA-A
+GO_Biological_Process_2021	killing by host of symbiont cells (GO:0051873)	1/16	7.972959e-03	2.500610e-02	0	0	1.479630e+02	7.149126e+02	DEFA5
+GO_Biological_Process_2021	T cell mediated immunity (GO:0002456)	1/16	7.972959e-03	2.500610e-02	0	0	1.479630e+02	7.149126e+02	HLA-A
+GO_Biological_Process_2021	regulation of T cell cytokine production (GO:0002724)	1/19	9.461511e-03	2.774002e-02	0	0	1.232840e+02	5.745677e+02	HLA-A
+GO_Biological_Process_2021	positive regulation of alpha-beta T cell activation (GO:0046635)	1/20	9.957248e-03	2.774002e-02	0	0	1.167895e+02	5.383358e+02	HLA-A
+GO_Biological_Process_2021	innate immune response in mucosa (GO:0002227)	1/21	1.045276e-02	2.774002e-02	0	0	1.109444e+02	5.060053e+02	DEFA5
+GO_Biological_Process_2021	positive regulation of T cell cytokine production (GO:0002726)	1/21	1.045276e-02	2.774002e-02	0	0	1.109444e+02	5.060053e+02	HLA-A
+GO_Biological_Process_2021	positive regulation of T cell mediated cytotoxicity (GO:0001916)	1/26	1.292699e-02	3.303563e-02	0	0	8.873333e+01	3.858514e+02	HLA-A
+GO_Biological_Process_2021	receptor clustering (GO:0043113)	1/28	1.391512e-02	3.428312e-02	0	0	8.215226e+01	3.511828e+02	PIGR
+GO_Biological_Process_2021	regulation of T cell mediated cytotoxicity (GO:0001914)	1/29	1.440885e-02	3.428312e-02	0	0	7.921429e+01	3.358617e+02	HLA-A
+GO_Biological_Process_2021	antigen processing and presentation of peptide antigen via MHC class I (GO:0002474)	1/33	1.638155e-02	3.646215e-02	0	0	6.929861e+01	2.849281e+02	HLA-A
+GO_Biological_Process_2021	positive regulation of cytokine production involved in immune response (GO:0002720)	1/33	1.638155e-02	3.646215e-02	0	0	6.929861e+01	2.849281e+02	HLA-A
+GO_Biological_Process_2021	retina homeostasis (GO:0001895)	1/36	1.785874e-02	3.734100e-02	0	0	6.334921e+01	2.549972e+02	PIGR
+GO_Biological_Process_2021	positive regulation of T cell mediated immunity (GO:0002711)	1/36	1.785874e-02	3.734100e-02	0	0	6.334921e+01	2.549972e+02	HLA-A
+GO_Biological_Process_2021	detection of chemical stimulus involved in sensory perception of bitter taste (GO:0001580)	1/40	1.982523e-02	4.005212e-02	0	0	5.684046e+01	2.228601e+02	PIGR
+GO_Biological_Process_2021	sensory perception of bitter taste (GO:0050913)	1/41	2.031629e-02	4.005212e-02	0	0	5.541667e+01	2.159217e+02	PIGR
+GO_Biological_Process_2021	positive regulation of leukocyte mediated cytotoxicity (GO:0001912)	1/43	2.129777e-02	4.063199e-02	0	0	5.277249e+01	2.031294e+02	HLA-A
+GO_Biological_Process_2021	detection of chemical stimulus involved in sensory perception of taste (GO:0050912)	1/44	2.178817e-02	4.063199e-02	0	0	5.154264e+01	1.972221e+02	PIGR
+GO_Biological_Process_2021	epidermal growth factor receptor signaling pathway (GO:0007173)	1/47	2.325805e-02	4.223173e-02	0	0	4.817391e+01	1.811871e+02	PIGR
+GO_Biological_Process_2021	positive regulation of interferon-gamma production (GO:0032729)	1/57	2.814332e-02	4.979203e-02	0	0	3.955159e+01	1.412168e+02	HLA-A
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	1/64	3.154992e-02	5.218527e-02	0	0	3.514462e+01	1.214663e+02	DEFA5
+GO_Biological_Process_2021	type I interferon signaling pathway (GO:0060337)	1/65	3.203569e-02	5.218527e-02	0	0	3.459375e+01	1.190338e+02	HLA-A
+GO_Biological_Process_2021	cellular response to type I interferon (GO:0071357)	1/65	3.203569e-02	5.218527e-02	0	0	3.459375e+01	1.190338e+02	HLA-A
+GO_Biological_Process_2021	ERBB signaling pathway (GO:0038127)	1/66	3.252125e-02	5.218527e-02	0	0	3.405983e+01	1.166843e+02	PIGR
+GO_Biological_Process_2021	interferon-gamma-mediated signaling pathway (GO:0060333)	1/68	3.349171e-02	5.252110e-02	0	0	3.303980e+01	1.122183e+02	HLA-A
+GO_Biological_Process_2021	defense response to Gram-negative bacterium (GO:0050829)	1/73	3.591403e-02	5.387105e-02	0	0	3.073765e+01	1.022527e+02	DEFA5
+GO_Biological_Process_2021	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent (GO:0002479)	1/73	3.591403e-02	5.387105e-02	0	0	3.073765e+01	1.022527e+02	HLA-A
+GO_Biological_Process_2021	positive regulation of T cell activation (GO:0050870)	1/75	3.688143e-02	5.414507e-02	0	0	2.990390e+01	9.868429e+01	HLA-A
+GO_Biological_Process_2021	antigen processing and presentation of exogenous peptide antigen via MHC class I (GO:0042590)	1/78	3.833088e-02	5.510065e-02	0	0	2.873449e+01	9.371751e+01	HLA-A
+GO_Biological_Process_2021	regulation of interferon-gamma production (GO:0032649)	1/86	4.218651e-02	5.940549e-02	0	0	2.601961e+01	8.236910e+01	HLA-A
+GO_Biological_Process_2021	antigen processing and presentation of exogenous peptide antigen (GO:0002478)	1/103	5.033356e-02	6.946031e-02	0	0	2.166449e+01	6.475696e+01	HLA-A
+GO_Biological_Process_2021	Fc receptor signaling pathway (GO:0038093)	1/112	5.462140e-02	7.389955e-02	0	0	1.989890e+01	5.785265e+01	PIGR
+GO_Biological_Process_2021	cellular response to molecule of bacterial origin (GO:0071219)	1/115	5.604681e-02	7.436980e-02	0	0	1.937232e+01	5.582266e+01	DEFA5
+GO_Biological_Process_2021	cellular response to lipopolysaccharide (GO:0071222)	1/120	5.841819e-02	7.525066e-02	0	0	1.855369e+01	5.269485e+01	DEFA5
+GO_Biological_Process_2021	cellular response to interferon-gamma (GO:0071346)	1/121	5.889182e-02	7.525066e-02	0	0	1.839815e+01	5.210453e+01	HLA-A
+GO_Biological_Process_2021	T cell receptor signaling pathway (GO:0050852)	1/158	7.626617e-02	9.454444e-02	0	0	1.403609e+01	3.612225e+01	HLA-A
+GO_Biological_Process_2021	response to lipopolysaccharide (GO:0032496)	1/159	7.673172e-02	9.454444e-02	0	0	1.394655e+01	3.580694e+01	DEFA5
+GO_Biological_Process_2021	regulation of immune response (GO:0050776)	1/179	8.599836e-02	1.041033e-01	0	0	1.236704e+01	3.034163e+01	HLA-A
+GO_Biological_Process_2021	antigen receptor-mediated signaling pathway (GO:0050851)	1/185	8.876199e-02	1.055962e-01	0	0	1.196014e+01	2.896504e+01	HLA-A
+GO_Biological_Process_2021	protein localization to membrane (GO:0072657)	1/195	9.335132e-02	1.091736e-01	0	0	1.133792e+01	2.688657e+01	PIGR
+GO_Biological_Process_2021	cellular response to lipid (GO:0071396)	1/219	1.042810e-01	1.199231e-01	0	0	1.007747e+01	2.278180e+01	DEFA5
+GO_Biological_Process_2021	innate immune response (GO:0045087)	1/302	1.411713e-01	1.596855e-01	0	0	7.267996e+00	1.422915e+01	DEFA5
+GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	1/323	1.502855e-01	1.672532e-01	0	0	6.786749e+00	1.286237e+01	DEFA5
+GO_Biological_Process_2021	positive regulation of cytokine production (GO:0001819)	1/335	1.554544e-01	1.702596e-01	0	0	6.538922e+00	1.217157e+01	HLA-A
+GO_Biological_Process_2021	protein modification by small protein conjugation (GO:0032446)	1/409	1.867091e-01	2.012958e-01	0	0	5.332789e+00	8.949504e+00	HLA-A
+GO_Biological_Process_2021	neutrophil degranulation (GO:0043312)	1/481	2.161159e-01	2.254583e-01	0	0	4.516204e+00	6.918554e+00	PIGR
+GO_Biological_Process_2021	neutrophil activation involved in immune response (GO:0002283)	1/485	2.177212e-01	2.254583e-01	0	0	4.477961e+00	6.826831e+00	PIGR
+GO_Biological_Process_2021	neutrophil mediated immunity (GO:0002446)	1/488	2.189232e-01	2.254583e-01	0	0	4.449692e+00	6.759234e+00	PIGR
+GO_Biological_Process_2021	protein ubiquitination (GO:0016567)	1/525	2.336122e-01	2.370476e-01	0	0	4.127651e+00	6.001988e+00	HLA-A
+GO_Biological_Process_2021	cytokine-mediated signaling pathway (GO:0019221)	1/621	2.705717e-01	2.705717e-01	0	0	3.471326e+00	4.537781e+00	HLA-A

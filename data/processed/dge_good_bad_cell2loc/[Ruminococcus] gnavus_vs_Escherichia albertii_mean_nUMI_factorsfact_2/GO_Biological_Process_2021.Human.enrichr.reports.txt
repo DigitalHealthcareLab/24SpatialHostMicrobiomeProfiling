@@ -1,0 +1,54 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	negative regulation of proteasomal ubiquitin-dependent protein catabolic process (GO:0032435)	2/31	1.392291e-05	5.575414e-04	0	0	6.885172e+02	7.698983e+03	GIPC1;SGTA
+GO_Biological_Process_2021	negative regulation of ubiquitin-dependent protein catabolic process (GO:2000059)	2/38	2.103930e-05	5.575414e-04	0	0	5.544444e+02	5.970878e+03	GIPC1;SGTA
+GO_Biological_Process_2021	regulation of chaperone-mediated protein folding (GO:1903644)	1/5	9.996772e-04	1.191762e-02	0	0	1.666000e+03	1.150886e+04	SGTA
+GO_Biological_Process_2021	negative regulation of ERAD pathway (GO:1904293)	1/6	1.199524e-03	1.191762e-02	0	0	1.332733e+03	8.963738e+03	SGTA
+GO_Biological_Process_2021	positive regulation of ER-associated ubiquitin-dependent protein catabolic process (GO:1903071)	1/7	1.399341e-03	1.191762e-02	0	0	1.110556e+03	7.298298e+03	SGTA
+GO_Biological_Process_2021	positive regulation of secondary metabolite biosynthetic process (GO:1900378)	1/8	1.599128e-03	1.191762e-02	0	0	9.518571e+02	6.128339e+03	GIPC1
+GO_Biological_Process_2021	positive regulation of melanin biosynthetic process (GO:0048023)	1/8	1.599128e-03	1.191762e-02	0	0	9.518571e+02	6.128339e+03	GIPC1
+GO_Biological_Process_2021	regulation of ER-associated ubiquitin-dependent protein catabolic process (GO:1903069)	1/9	1.798886e-03	1.191762e-02	0	0	8.328333e+02	5.263996e+03	SGTA
+GO_Biological_Process_2021	regulation of melanin biosynthetic process (GO:0048021)	1/11	2.198311e-03	1.251579e-02	0	0	6.662000e+02	4.077188e+03	GIPC1
+GO_Biological_Process_2021	posttranslational protein targeting to endoplasmic reticulum membrane (GO:0006620)	1/12	2.397979e-03	1.251579e-02	0	0	6.056061e+02	3.653700e+03	SGTA
+GO_Biological_Process_2021	positive regulation of ERAD pathway (GO:1904294)	1/13	2.597617e-03	1.251579e-02	0	0	5.551111e+02	3.304666e+03	SGTA
+GO_Biological_Process_2021	apoptotic DNA fragmentation (GO:0006309)	1/16	3.196351e-03	1.336621e-02	0	0	4.440222e+02	2.551239e+03	KPNA1
+GO_Biological_Process_2021	tail-anchored membrane protein insertion into ER membrane (GO:0071816)	1/17	3.395869e-03	1.336621e-02	0	0	4.162500e+02	2.366463e+03	SGTA
+GO_Biological_Process_2021	acidic amino acid transport (GO:0015800)	1/18	3.595358e-03	1.336621e-02	0	0	3.917451e+02	2.204785e+03	GIPC1
+GO_Biological_Process_2021	NLS-bearing protein import into nucleus (GO:0006607)	1/19	3.794816e-03	1.336621e-02	0	0	3.699630e+02	2.062218e+03	KPNA1
+GO_Biological_Process_2021	DNA catabolic process, endonucleolytic (GO:0000737)	1/23	4.592351e-03	1.336621e-02	0	0	3.026364e+02	1.629201e+03	KPNA1
+GO_Biological_Process_2021	positive regulation of cellular response to transforming growth factor beta stimulus (GO:1903846)	1/24	4.791660e-03	1.336621e-02	0	0	2.894638e+02	1.545991e+03	GIPC1
+GO_Biological_Process_2021	positive regulation of transforming growth factor beta receptor signaling pathway (GO:0030511)	1/24	4.791660e-03	1.336621e-02	0	0	2.894638e+02	1.545991e+03	GIPC1
+GO_Biological_Process_2021	apoptotic nuclear changes (GO:0030262)	1/24	4.791660e-03	1.336621e-02	0	0	2.894638e+02	1.545991e+03	KPNA1
+GO_Biological_Process_2021	negative regulation of proteolysis involved in cellular protein catabolic process (GO:1903051)	1/26	5.190188e-03	1.375400e-02	0	0	2.662800e+02	1.400895e+03	SGTA
+GO_Biological_Process_2021	dicarboxylic acid transport (GO:0006835)	1/29	5.787756e-03	1.460719e-02	0	0	2.377143e+02	1.224707e+03	GIPC1
+GO_Biological_Process_2021	protein insertion into membrane (GO:0051205)	1/34	6.783106e-03	1.530441e-02	0	0	2.016465e+02	1.006885e+03	SGTA
+GO_Biological_Process_2021	positive regulation of cytokinesis (GO:0032467)	1/37	7.379957e-03	1.530441e-02	0	0	1.848148e+02	9.072536e+02	GIPC1
+GO_Biological_Process_2021	protein insertion into ER membrane (GO:0045048)	1/37	7.379957e-03	1.530441e-02	0	0	1.848148e+02	9.072536e+02	SGTA
+GO_Biological_Process_2021	negative regulation of proteasomal protein catabolic process (GO:1901799)	1/38	7.578847e-03	1.530441e-02	0	0	1.798108e+02	8.779073e+02	GIPC1
+GO_Biological_Process_2021	endothelial cell migration (GO:0043542)	1/39	7.777708e-03	1.530441e-02	0	0	1.750702e+02	8.502272e+02	GIPC1
+GO_Biological_Process_2021	epithelial cell migration (GO:0010631)	1/41	8.175340e-03	1.530441e-02	0	0	1.663000e+02	7.993431e+02	GIPC1
+GO_Biological_Process_2021	regulation of DNA recombination (GO:0000018)	1/42	8.374111e-03	1.530441e-02	0	0	1.622358e+02	7.759105e+02	KPNA1
+GO_Biological_Process_2021	regulation of ubiquitin-dependent protein catabolic process (GO:2000058)	1/42	8.374111e-03	1.530441e-02	0	0	1.622358e+02	7.759105e+02	SGTA
+GO_Biological_Process_2021	positive regulation of cell division (GO:0051781)	1/44	8.771563e-03	1.549643e-02	0	0	1.546744e+02	7.325752e+02	GIPC1
+GO_Biological_Process_2021	regulation of DNA metabolic process (GO:0051052)	1/46	9.168896e-03	1.567585e-02	0	0	1.477852e+02	6.933990e+02	KPNA1
+GO_Biological_Process_2021	O-glycan processing (GO:0016266)	1/61	1.214509e-02	2.011531e-02	0	0	1.107556e+02	4.885240e+02	GALNT7
+GO_Biological_Process_2021	ubiquitin-dependent ERAD pathway (GO:0030433)	1/73	1.452122e-02	2.263601e-02	0	0	9.224074e+01	3.903761e+02	SGTA
+GO_Biological_Process_2021	endoplasmic reticulum organization (GO:0007029)	1/73	1.452122e-02	2.263601e-02	0	0	9.224074e+01	3.903761e+02	SGTA
+GO_Biological_Process_2021	protein import into nucleus (GO:0006606)	1/76	1.511458e-02	2.288779e-02	0	0	8.853778e+01	3.711588e+02	KPNA1
+GO_Biological_Process_2021	positive regulation of proteasomal ubiquitin-dependent protein catabolic process (GO:0032436)	1/79	1.570767e-02	2.312518e-02	0	0	8.511966e+01	3.535535e+02	SGTA
+GO_Biological_Process_2021	regulation of cytokinesis (GO:0032465)	1/84	1.669556e-02	2.349387e-02	0	0	7.997189e+01	3.272939e+02	GIPC1
+GO_Biological_Process_2021	ERAD pathway (GO:0036503)	1/87	1.728794e-02	2.349387e-02	0	0	7.717054e+01	3.131385e+02	SGTA
+GO_Biological_Process_2021	protein targeting to membrane (GO:0006612)	1/87	1.728794e-02	2.349387e-02	0	0	7.717054e+01	3.131385e+02	SGTA
+GO_Biological_Process_2021	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090100)	1/92	1.827465e-02	2.407705e-02	0	0	7.291209e+01	2.918117e+02	GIPC1
+GO_Biological_Process_2021	regulation of transforming growth factor beta receptor signaling pathway (GO:0017015)	1/100	1.985183e-02	2.407705e-02	0	0	6.699327e+01	2.625774e+02	GIPC1
+GO_Biological_Process_2021	positive regulation of cell cycle process (GO:0090068)	1/101	2.004884e-02	2.407705e-02	0	0	6.632000e+01	2.592836e+02	GIPC1
+GO_Biological_Process_2021	protein O-linked glycosylation (GO:0006493)	1/102	2.024582e-02	2.407705e-02	0	0	6.566007e+01	2.560616e+02	GALNT7
+GO_Biological_Process_2021	regulation of proteasomal ubiquitin-dependent protein catabolic process (GO:0032434)	1/102	2.024582e-02	2.407705e-02	0	0	6.566007e+01	2.560616e+02	GIPC1
+GO_Biological_Process_2021	protein targeting to ER (GO:0045047)	1/103	2.044278e-02	2.407705e-02	0	0	6.501307e+01	2.529090e+02	SGTA
+GO_Biological_Process_2021	protein targeting (GO:0006605)	1/125	2.476827e-02	2.853736e-02	0	0	5.341935e+01	1.975550e+02	GIPC1
+GO_Biological_Process_2021	protein glycosylation (GO:0006486)	1/130	2.574934e-02	2.903649e-02	0	0	5.133592e+01	1.878559e+02	GALNT7
+GO_Biological_Process_2021	protein localization to organelle (GO:0033365)	1/142	2.810087e-02	3.102805e-02	0	0	4.693853e+01	1.676623e+02	SGTA
+GO_Biological_Process_2021	positive regulation of cellular biosynthetic process (GO:0031328)	1/180	3.551934e-02	3.841887e-02	0	0	3.690317e+01	1.231709e+02	GIPC1
+GO_Biological_Process_2021	anterograde trans-synaptic signaling (GO:0098916)	1/244	4.791750e-02	5.079255e-02	0	0	2.709602e+01	8.232515e+01	GIPC1
+GO_Biological_Process_2021	chemical synaptic transmission (GO:0007268)	1/306	5.981386e-02	6.215950e-02	0	0	2.152022e+01	6.061208e+01	GIPC1
+GO_Biological_Process_2021	proteasome-mediated ubiquitin-dependent protein catabolic process (GO:0043161)	1/321	6.267519e-02	6.388048e-02	0	0	2.049583e+01	5.676915e+01	SGTA
+GO_Biological_Process_2021	intracellular protein transport (GO:0006886)	1/336	6.552997e-02	6.552997e-02	0	0	1.956318e+01	5.331452e+01	GIPC1

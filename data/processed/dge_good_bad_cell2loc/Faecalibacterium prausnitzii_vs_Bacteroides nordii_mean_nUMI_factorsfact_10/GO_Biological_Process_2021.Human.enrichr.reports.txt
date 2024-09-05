@@ -1,0 +1,38 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	mucosal immune response (GO:0002385)	2/28	8.446285e-05	3.125125e-03	0	0	1.919615e+02	1.800445e+03	PIGR;DEFA5
+GO_Biological_Process_2021	positive regulation of membrane permeability (GO:1905710)	1/5	2.497708e-03	4.620760e-02	0	0	5.551667e+02	3.326771e+03	DEFA5
+GO_Biological_Process_2021	immune response-regulating cell surface receptor signaling pathway (GO:0002768)	1/14	6.979474e-03	5.830924e-02	0	0	1.707436e+02	8.477047e+02	PIGR
+GO_Biological_Process_2021	regulation of dephosphorylation (GO:0035303)	1/15	7.476328e-03	5.830924e-02	0	0	1.585397e+02	7.762124e+02	PPP1R16A
+GO_Biological_Process_2021	killing by host of symbiont cells (GO:0051873)	1/16	7.972959e-03	5.830924e-02	0	0	1.479630e+02	7.149126e+02	DEFA5
+GO_Biological_Process_2021	innate immune response in mucosa (GO:0002227)	1/21	1.045276e-02	5.830924e-02	0	0	1.109444e+02	5.060053e+02	DEFA5
+GO_Biological_Process_2021	receptor clustering (GO:0043113)	1/28	1.391512e-02	5.830924e-02	0	0	8.215226e+01	3.511828e+02	PIGR
+GO_Biological_Process_2021	retina homeostasis (GO:0001895)	1/36	1.785874e-02	5.830924e-02	0	0	6.334921e+01	2.549972e+02	PIGR
+GO_Biological_Process_2021	detection of chemical stimulus involved in sensory perception of bitter taste (GO:0001580)	1/40	1.982523e-02	5.830924e-02	0	0	5.684046e+01	2.228601e+02	PIGR
+GO_Biological_Process_2021	regulation of protein dephosphorylation (GO:0035304)	1/41	2.031629e-02	5.830924e-02	0	0	5.541667e+01	2.159217e+02	PPP1R16A
+GO_Biological_Process_2021	sensory perception of bitter taste (GO:0050913)	1/41	2.031629e-02	5.830924e-02	0	0	5.541667e+01	2.159217e+02	PIGR
+GO_Biological_Process_2021	antibacterial humoral response (GO:0019731)	1/44	2.178817e-02	5.830924e-02	0	0	5.154264e+01	1.972221e+02	DEFA5
+GO_Biological_Process_2021	detection of chemical stimulus involved in sensory perception of taste (GO:0050912)	1/44	2.178817e-02	5.830924e-02	0	0	5.154264e+01	1.972221e+02	PIGR
+GO_Biological_Process_2021	epidermal growth factor receptor signaling pathway (GO:0007173)	1/47	2.325805e-02	5.830924e-02	0	0	4.817391e+01	1.811871e+02	PIGR
+GO_Biological_Process_2021	amino acid transport (GO:0006865)	1/50	2.472595e-02	5.830924e-02	0	0	4.521769e+01	1.673010e+02	SLC6A19
+GO_Biological_Process_2021	regulation of protein modification process (GO:0031399)	1/51	2.521481e-02	5.830924e-02	0	0	4.431111e+01	1.630792e+02	PPP1R16A
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	1/64	3.154992e-02	6.644096e-02	0	0	3.514462e+01	1.214663e+02	DEFA5
+GO_Biological_Process_2021	ERBB signaling pathway (GO:0038127)	1/66	3.252125e-02	6.644096e-02	0	0	3.405983e+01	1.166843e+02	PIGR
+GO_Biological_Process_2021	defense response to Gram-positive bacterium (GO:0050830)	1/70	3.446130e-02	6.644096e-02	0	0	3.207890e+01	1.080391e+02	DEFA5
+GO_Biological_Process_2021	defense response to Gram-negative bacterium (GO:0050829)	1/73	3.591403e-02	6.644096e-02	0	0	3.073765e+01	1.022527e+02	DEFA5
+GO_Biological_Process_2021	sodium ion transmembrane transport (GO:0035725)	1/87	4.266748e-02	7.418349e-02	0	0	2.571576e+01	8.111570e+01	SLC6A19
+GO_Biological_Process_2021	sodium ion transport (GO:0006814)	1/90	4.410910e-02	7.418349e-02	0	0	2.484519e+01	7.754406e+01	SLC6A19
+GO_Biological_Process_2021	organic acid transport (GO:0015849)	1/100	4.890039e-02	7.866585e-02	0	0	2.232435e+01	6.737423e+01	SLC6A19
+GO_Biological_Process_2021	Fc receptor signaling pathway (GO:0038093)	1/112	5.462140e-02	8.294928e-02	0	0	1.989890e+01	5.785265e+01	PIGR
+GO_Biological_Process_2021	cellular response to molecule of bacterial origin (GO:0071219)	1/115	5.604681e-02	8.294928e-02	0	0	1.937232e+01	5.582266e+01	DEFA5
+GO_Biological_Process_2021	cellular response to lipopolysaccharide (GO:0071222)	1/120	5.841819e-02	8.313357e-02	0	0	1.855369e+01	5.269485e+01	DEFA5
+GO_Biological_Process_2021	nitrogen compound transport (GO:0071705)	1/143	6.925762e-02	9.490859e-02	0	0	1.553052e+01	4.146527e+01	SLC6A19
+GO_Biological_Process_2021	response to lipopolysaccharide (GO:0032496)	1/159	7.673172e-02	1.013955e-01	0	0	1.394655e+01	3.580694e+01	DEFA5
+GO_Biological_Process_2021	defense response to bacterium (GO:0042742)	1/176	8.461372e-02	1.079554e-01	0	0	1.258095e+01	3.107066e+01	DEFA5
+GO_Biological_Process_2021	protein localization to membrane (GO:0072657)	1/195	9.335132e-02	1.151333e-01	0	0	1.133792e+01	2.688657e+01	PIGR
+GO_Biological_Process_2021	cellular response to lipid (GO:0071396)	1/219	1.042810e-01	1.244644e-01	0	0	1.007747e+01	2.278180e+01	DEFA5
+GO_Biological_Process_2021	inorganic cation transmembrane transport (GO:0098662)	1/274	1.288821e-01	1.490199e-01	0	0	8.024827e+00	1.644172e+01	SLC6A19
+GO_Biological_Process_2021	innate immune response (GO:0045087)	1/302	1.411713e-01	1.582829e-01	0	0	7.267996e+00	1.422915e+01	DEFA5
+GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	1/323	1.502855e-01	1.635460e-01	0	0	6.786749e+00	1.286237e+01	DEFA5
+GO_Biological_Process_2021	neutrophil degranulation (GO:0043312)	1/481	2.161159e-01	2.189232e-01	0	0	4.516204e+00	6.918554e+00	PIGR
+GO_Biological_Process_2021	neutrophil activation involved in immune response (GO:0002283)	1/485	2.177212e-01	2.189232e-01	0	0	4.477961e+00	6.826831e+00	PIGR
+GO_Biological_Process_2021	neutrophil mediated immunity (GO:0002446)	1/488	2.189232e-01	2.189232e-01	0	0	4.449692e+00	6.759234e+00	PIGR

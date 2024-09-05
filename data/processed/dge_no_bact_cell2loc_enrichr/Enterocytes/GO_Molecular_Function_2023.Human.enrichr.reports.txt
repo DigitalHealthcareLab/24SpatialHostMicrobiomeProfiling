@@ -1,0 +1,7 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Molecular_Function_2023	Immunoglobulin Receptor Binding (GO:0034987)	2/7	1.100100e-05	6.600598e-05	0	0	6.147692e+02	7.019143e+03	IGHM;IGHA1
+GO_Molecular_Function_2023	Peptidoglycan Binding (GO:0042834)	2/15	5.481548e-05	1.644464e-04	0	0	2.363550e+02	2.319006e+03	IGHM;REG1A
+GO_Molecular_Function_2023	Growth Factor Activity (GO:0008083)	1/85	6.190869e-02	1.044805e-01	0	0	1.692262e+01	4.708033e+01	REG1A
+GO_Molecular_Function_2023	Single-Stranded DNA Binding (GO:0003697)	1/96	6.965370e-02	1.044805e-01	0	0	1.495489e+01	3.984310e+01	IGHM
+GO_Molecular_Function_2023	Receptor Ligand Activity (GO:0048018)	1/319	2.143651e-01	2.572382e-01	0	0	4.417565e+00	6.803379e+00	REG1A
+GO_Molecular_Function_2023	DNA Binding (GO:0003677)	1/846	4.771922e-01	4.771922e-01	0	0	1.617921e+00	1.196996e+00	IGHM

@@ -1,0 +1,13 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	negative regulation of cell cycle phase transition (GO:1901988)	1/7	1.049661e-03	1.079385e-02	0	0	1.665917e+03	1.142700e+04	SUSD2
+GO_Biological_Process_2021	negative regulation of cell division (GO:0051782)	1/12	1.798976e-03	1.079385e-02	0	0	9.084545e+02	5.741921e+03	SUSD2
+GO_Biological_Process_2021	negative regulation of cell cycle G1/S phase transition (GO:1902807)	1/35	5.241010e-03	1.617145e-02	0	0	2.935735e+02	1.541625e+03	SUSD2
+GO_Biological_Process_2021	regulation of cell cycle G1/S phase transition (GO:1902806)	1/36	5.390484e-03	1.617145e-02	0	0	2.851714e+02	1.489485e+03	SUSD2
+GO_Biological_Process_2021	muscle organ development (GO:0007517)	1/58	8.675133e-03	2.082032e-02	0	0	1.749123e+02	8.303601e+02	COL6A3
+GO_Biological_Process_2021	regulation of cell division (GO:0051302)	1/76	1.135719e-02	2.271438e-02	0	0	1.328133e+02	5.947254e+02	SUSD2
+GO_Biological_Process_2021	collagen fibril organization (GO:0030199)	1/89	1.329122e-02	2.278495e-02	0	0	1.131193e+02	4.887492e+02	COL6A3
+GO_Biological_Process_2021	extracellular structure organization (GO:0043062)	1/216	3.205273e-02	4.293268e-02	0	0	4.600465e+01	1.582731e+02	COL6A3
+GO_Biological_Process_2021	external encapsulating structure organization (GO:0045229)	1/217	3.219951e-02	4.293268e-02	0	0	4.578935e+01	1.573232e+02	COL6A3
+GO_Biological_Process_2021	extracellular matrix organization (GO:0030198)	1/300	4.433034e-02	5.319640e-02	0	0	3.293980e+01	1.026432e+02	COL6A3
+GO_Biological_Process_2021	supramolecular fiber organization (GO:0097435)	1/351	5.173370e-02	5.643677e-02	0	0	2.806714e+01	8.312494e+01	COL6A3
+GO_Biological_Process_2021	negative regulation of cellular process (GO:0048523)	1/566	8.252372e-02	8.252372e-02	0	0	1.719646e+01	4.289949e+01	SUSD2

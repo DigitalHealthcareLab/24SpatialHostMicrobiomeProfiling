@@ -1,0 +1,73 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+BioPlanet_2019	Complement cascade	7/77	7.058068e-13	5.081809e-11	0	0	1.531538e+02	4.285158e+03	IGHG3;IGHG4;IGHG2;IGKC;IGLC3;IGLC1;IGLC2
+BioPlanet_2019	Innate immune system	7/319	1.595146e-08	5.742524e-07	0	0	3.394379e+01	6.094171e+02	IGHG3;IGHG4;IGHG2;IGKC;IGLC3;IGLC1;IGLC2
+BioPlanet_2019	Immunoregulatory interactions between a lymphoid and a non-lymphoid cell	5/119	9.890602e-08	2.373744e-06	0	0	5.808772e+01	9.369024e+02	IGKC;IGLC3;IGLC1;IGLC2;ICAM1
+BioPlanet_2019	Immune system	9/998	1.888114e-07	3.398605e-06	0	0	1.571091e+01	2.432445e+02	IGHG3;IGHM;IGHG4;IGHG2;IGKC;IGLC3;IGLC1;IGLC2;ICAM1
+BioPlanet_2019	Signaling by the B cell receptor (BCR)	5/151	3.247689e-07	4.676672e-06	0	0	4.528311e+01	6.765365e+02	IGHM;IGKC;IGLC3;IGLC1;IGLC2
+BioPlanet_2019	Antigen-activated B-cell receptor generation of second messengers	5/211	1.698502e-06	2.038203e-05	0	0	3.199676e+01	4.251014e+02	IGHM;IGKC;IGLC3;IGLC1;IGLC2
+BioPlanet_2019	Adaptive immune system	6/606	2.035439e-05	2.093595e-04	0	0	1.384286e+01	1.495335e+02	IGHM;IGKC;IGLC3;IGLC1;IGLC2;ICAM1
+BioPlanet_2019	Interleukin-11 pathway	2/23	2.373444e-04	2.136100e-03	0	0	1.056032e+02	8.813639e+02	MUC1;ICAM1
+BioPlanet_2019	Type II interferon signaling (interferon-gamma)	2/50	1.130759e-03	9.046072e-03	0	0	4.613889e+01	3.130462e+02	REG1A;ICAM1
+BioPlanet_2019	RANKL signaling pathway	2/54	1.317751e-03	9.487805e-03	0	0	4.258120e+01	2.823912e+02	ACP5;ICAM1
+BioPlanet_2019	RANKL regulation of apoptosis and immune response	2/74	2.457641e-03	1.608638e-02	0	0	3.072222e+01	1.845961e+02	ACP5;ICAM1
+BioPlanet_2019	Thymic stromal lymphopoietin (TSLP) pathway	2/90	3.609434e-03	2.165660e-02	0	0	2.511616e+01	1.412584e+02	ICAM1;IDO1
+BioPlanet_2019	Interferon-gamma signaling pathway	2/97	4.178606e-03	2.314305e-02	0	0	2.325731e+01	1.273984e+02	REG1A;ICAM1
+BioPlanet_2019	Interleukin-5 regulation of apoptosis	2/144	8.984472e-03	4.620585e-02	0	0	1.552269e+01	7.314692e+01	ICAM1;IDO1
+BioPlanet_2019	Tryptophan catabolism	1/11	1.094778e-02	4.636707e-02	0	0	1.051053e+02	4.745102e+02	IDO1
+BioPlanet_2019	B lymphocyte cell surface molecules	1/11	1.094778e-02	4.636707e-02	0	0	1.051053e+02	4.745102e+02	ICAM1
+BioPlanet_2019	Monocyte and its surface molecules	1/11	1.094778e-02	4.636707e-02	0	0	1.051053e+02	4.745102e+02	ICAM1
+BioPlanet_2019	T helper cell surface molecules	1/13	1.292602e-02	4.770422e-02	0	0	8.757895e+01	3.808382e+02	ICAM1
+BioPlanet_2019	CTL mediated immune response against target cells	1/13	1.292602e-02	4.770422e-02	0	0	8.757895e+01	3.808382e+02	ICAM1
+BioPlanet_2019	Adhesion and diapedesis of lymphocytes	1/14	1.391373e-02	4.770422e-02	0	0	8.083806e+01	3.455729e+02	ICAM1
+BioPlanet_2019	Interleukin-6 regulation of target genes	1/14	1.391373e-02	4.770422e-02	0	0	8.083806e+01	3.455729e+02	ICAM1
+BioPlanet_2019	Adhesion and diapedesis of granulocytes	1/15	1.490050e-02	4.858916e-02	0	0	7.506015e+01	3.157300e+02	ICAM1
+BioPlanet_2019	Riboflavin metabolism	1/16	1.588634e-02	4.858916e-02	0	0	7.005263e+01	2.901787e+02	ACP5
+BioPlanet_2019	Cells and molecules involved in local acute inflammatory response	1/17	1.687123e-02	4.858916e-02	0	0	6.567105e+01	2.680788e+02	ICAM1
+BioPlanet_2019	Osteoclast signaling	1/17	1.687123e-02	4.858916e-02	0	0	6.567105e+01	2.680788e+02	ACP5
+BioPlanet_2019	STAT3 pathway	1/19	1.883822e-02	5.216738e-02	0	0	5.836842e+01	2.318316e+02	REG1A
+BioPlanet_2019	ID regulation of gene expression	1/20	1.982031e-02	5.285416e-02	0	0	5.529363e+01	2.168090e+02	ICAM1
+BioPlanet_2019	Termination of O-glycan biosynthesis	1/26	2.569327e-02	6.379020e-02	0	0	4.201053e+01	1.538226e+02	MUC1
+BioPlanet_2019	Interleukin-9 regulation of target genes	1/26	2.569327e-02	6.379020e-02	0	0	4.201053e+01	1.538226e+02	LCN2
+BioPlanet_2019	TWEAK regulation of gene expression	1/27	2.666885e-02	6.400523e-02	0	0	4.039271e+01	1.463937e+02	ICAM1
+BioPlanet_2019	Integrin beta-2 pathway	1/29	2.861721e-02	6.646577e-02	0	0	3.750376e+01	1.332789e+02	ICAM1
+BioPlanet_2019	Oncostatin M	2/311	3.808686e-02	8.569544e-02	0	0	7.073355e+00	2.311492e+01	LCN2;ICAM1
+BioPlanet_2019	Alpha-M beta-2 integrin signaling	1/41	4.022979e-02	8.777408e-02	0	0	2.623684e+01	8.430285e+01	ICAM1
+BioPlanet_2019	Gastrin pathway	1/44	4.311226e-02	9.129655e-02	0	0	2.440269e+01	7.672079e+01	REG1A
+BioPlanet_2019	Malaria	1/51	4.980608e-02	9.877369e-02	0	0	2.097895e+01	6.292883e+01	ICAM1
+BioPlanet_2019	Metabolism of vitamins and cofactors	1/51	4.980608e-02	9.877369e-02	0	0	2.097895e+01	6.292883e+01	ACP5
+BioPlanet_2019	Vitamin B12 metabolism	1/52	5.075870e-02	9.877369e-02	0	0	2.056656e+01	6.130219e+01	ICAM1
+BioPlanet_2019	Thromboxane A2 receptor signaling	1/56	5.456012e-02	1.024373e-01	0	0	1.906699e+01	5.545541e+01	ICAM1
+BioPlanet_2019	Tryptophan metabolism	1/58	5.645540e-02	1.024373e-01	0	0	1.839612e+01	5.287605e+01	IDO1
+BioPlanet_2019	Selenium pathway	1/60	5.834707e-02	1.024373e-01	0	0	1.777074e+01	5.049282e+01	ICAM1
+BioPlanet_2019	RAGE pathway	1/60	5.834707e-02	1.024373e-01	0	0	1.777074e+01	5.049282e+01	ICAM1
+BioPlanet_2019	O-linked glycosylation of mucins	1/63	6.117783e-02	1.024373e-01	0	0	1.690832e+01	4.724134e+01	MUC1
+BioPlanet_2019	Folate metabolism	1/63	6.117783e-02	1.024373e-01	0	0	1.690832e+01	4.724134e+01	ICAM1
+BioPlanet_2019	Viral myocarditis	1/71	6.868703e-02	1.123970e-01	0	0	1.496992e+01	4.009238e+01	ICAM1
+BioPlanet_2019	Apoptosis modulation and signaling	1/80	7.706668e-02	1.208973e-01	0	0	1.325849e+01	3.398264e+01	TNFRSF6B
+BioPlanet_2019	Regular glucocorticoid receptor pathway	1/82	7.891908e-02	1.208973e-01	0	0	1.292982e+01	3.283312e+01	ICAM1
+BioPlanet_2019	SMAD2/3 nuclear pathway	1/82	7.891908e-02	1.208973e-01	0	0	1.292982e+01	3.283312e+01	IGHA1
+BioPlanet_2019	Integrin cell surface interactions	1/85	8.169104e-02	1.225366e-01	0	0	1.246617e+01	3.122539e+01	ICAM1
+BioPlanet_2019	TSH regulation of gene expression	1/97	9.269987e-02	1.362120e-01	0	0	1.090132e+01	2.592756e+01	ICAM1
+BioPlanet_2019	Interleukin-4 signaling pathway	1/104	9.906366e-02	1.426517e-01	0	0	1.015687e+01	2.348261e+01	IGHG3
+BioPlanet_2019	TGF-beta regulation of extracellular matrix	2/565	1.083877e-01	1.470118e-01	0	0	3.832051e+00	8.514973e+00	LCN2;IDO1
+BioPlanet_2019	Fas signaling pathway	1/115	1.089783e-01	1.470118e-01	0	0	9.171745e+00	2.033015e+01	TNFRSF6B
+BioPlanet_2019	Leukocyte transendothelial migration	1/117	1.107698e-01	1.470118e-01	0	0	9.012704e+00	1.983066e+01	ICAM1
+BioPlanet_2019	Interleukin-1 regulation of extracellular matrix	1/120	1.134506e-01	1.470118e-01	0	0	8.784166e+00	1.911775e+01	ICAM1
+BioPlanet_2019	Lysosome	1/121	1.143425e-01	1.470118e-01	0	0	8.710526e+00	1.888927e+01	ACP5
+BioPlanet_2019	Notch signaling pathway	1/121	1.143425e-01	1.470118e-01	0	0	8.710526e+00	1.888927e+01	IGHM
+BioPlanet_2019	Cell adhesion molecules (CAMs)	1/133	1.249790e-01	1.568105e-01	0	0	7.913876e+00	1.645777e+01	ICAM1
+BioPlanet_2019	TNF-alpha effects on cytokine activity, cell motility, and apoptosis	1/135	1.267399e-01	1.568105e-01	0	0	7.794973e+00	1.610144e+01	ICAM1
+BioPlanet_2019	Natural killer cell-mediated cytotoxicity	1/137	1.284975e-01	1.568105e-01	0	0	7.679567e+00	1.575729e+01	ICAM1
+BioPlanet_2019	EGFR1 pathway	1/152	1.415724e-01	1.698869e-01	0	0	6.911467e+00	1.351153e+01	LCN2
+BioPlanet_2019	Interferon signaling	1/168	1.553134e-01	1.833208e-01	0	0	6.244248e+00	1.162873e+01	ICAM1
+BioPlanet_2019	Amino acid metabolism	1/195	1.780288e-01	2.044102e-01	0	0	5.367878e+00	9.263937e+00	IDO1
+BioPlanet_2019	Post-translational protein modification	1/196	1.788589e-01	2.044102e-01	0	0	5.340081e+00	9.191124e+00	MUC1
+BioPlanet_2019	Interleukin-2 signaling pathway	2/847	2.068734e-01	2.327325e-01	0	0	2.516108e+00	3.964501e+00	ACP5;ICAM1
+BioPlanet_2019	FSH regulation of apoptosis	1/263	2.326948e-01	2.533975e-01	0	0	3.961029e+00	5.775289e+00	ACP5
+BioPlanet_2019	Cytokine-cytokine receptor interaction	1/265	2.342491e-01	2.533975e-01	0	0	3.930622e+00	5.704788e+00	TNFRSF6B
+BioPlanet_2019	Interleukin-4 regulation of apoptosis	1/267	2.358004e-01	2.533975e-01	0	0	3.900673e+00	5.635573e+00	PDZK1IP1
+BioPlanet_2019	Insulin signaling pathway	1/277	2.435123e-01	2.564989e-01	0	0	3.757437e+00	5.307710e+00	REG1A
+BioPlanet_2019	Immune system signaling by interferons, interleukins, prolactin, and growth hormones	1/280	2.458114e-01	2.564989e-01	0	0	3.716469e+00	5.214914e+00	ICAM1
+BioPlanet_2019	Protein metabolism	1/442	3.605656e-01	3.708675e-01	0	0	2.331901e+00	2.378729e+00	MUC1
+BioPlanet_2019	Metabolism	2/1615	4.883030e-01	4.951805e-01	0	0	1.265206e+00	9.069242e-01	ACP5;IDO1
+BioPlanet_2019	Signal transduction	1/1020	6.491646e-01	6.491646e-01	0	0	9.793399e-01	4.231424e-01	ICAM1

@@ -1,0 +1,187 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	interferon-gamma-mediated signaling pathway (GO:0060333)	4/68	2.526548e-08	3.037917e-06	0	0	2.075625e+02	3.631062e+03	HLA-C;HLA-DRA;B2M;HLA-DRB1
+GO_Biological_Process_2021	antigen processing and presentation of endogenous peptide antigen (GO:0002483)	3/14	3.266577e-08	3.037917e-06	0	0	7.784026e+02	1.341728e+04	HLA-DRA;B2M;HLA-DRB1
+GO_Biological_Process_2021	cellular response to interferon-gamma (GO:0071346)	4/121	2.602292e-07	1.613421e-05	0	0	1.132365e+02	1.716858e+03	HLA-C;HLA-DRA;B2M;HLA-DRB1
+GO_Biological_Process_2021	positive regulation of T cell mediated immunity (GO:0002711)	3/36	6.370875e-07	2.962457e-05	0	0	2.591818e+02	3.697581e+03	HLA-DRA;B2M;HLA-DRB1
+GO_Biological_Process_2021	regulation of immune response (GO:0050776)	4/179	1.249262e-06	4.647253e-05	0	0	7.548571e+01	1.026074e+03	HLA-C;HLA-DRA;B2M;HLA-DRB1
+GO_Biological_Process_2021	positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation (GO:0032831)	2/5	2.248131e-06	6.969207e-05	0	0	1.665583e+03	2.166160e+04	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	peptide antigen assembly with MHC protein complex (GO:0002501)	2/6	3.371314e-06	7.838305e-05	0	0	1.249125e+03	1.573923e+04	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	regulation of T-helper cell differentiation (GO:0045622)	2/6	3.371314e-06	7.838305e-05	0	0	1.249125e+03	1.573923e+04	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	regulation of CD4-positive, alpha-beta T cell activation (GO:2000514)	2/8	6.289809e-06	1.063550e-04	0	0	8.326667e+02	9.972499e+03	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	positive regulation of CD4-positive, alpha-beta T cell differentiation (GO:0043372)	2/8	6.289809e-06	1.063550e-04	0	0	8.326667e+02	9.972499e+03	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-independent (GO:0002480)	2/8	6.289809e-06	1.063550e-04	0	0	8.326667e+02	9.972499e+03	HLA-C;B2M
+GO_Biological_Process_2021	positive regulation of memory T cell differentiation (GO:0043382)	2/9	8.084764e-06	1.253138e-04	0	0	7.136786e+02	8.368259e+03	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	regulation of memory T cell differentiation (GO:0043380)	2/10	1.010328e-05	1.445547e-04	0	0	6.244375e+02	7.182686e+03	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	regulation of CD4-positive, alpha-beta T cell differentiation (GO:0043370)	2/12	1.481031e-05	1.967655e-04	0	0	4.995000e+02	5.554533e+03	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	positive regulation of CD4-positive, alpha-beta T cell activation (GO:2000516)	2/13	1.749845e-05	2.169808e-04	0	0	4.540682e+02	4.973590e+03	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	positive regulation of regulatory T cell differentiation (GO:0045591)	2/14	2.040945e-05	2.372599e-04	0	0	4.162083e+02	4.494847e+03	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	positive regulation of alpha-beta T cell activation (GO:0046635)	2/20	4.254530e-05	4.654956e-04	0	0	2.773889e+02	2.791903e+03	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	positive regulation of T cell mediated cytotoxicity (GO:0001916)	2/26	7.265883e-05	7.508079e-04	0	0	2.079792e+02	1.981986e+03	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	regulation of T cell mediated cytotoxicity (GO:0001914)	2/29	9.069522e-05	8.878585e-04	0	0	1.848426e+02	1.720516e+03	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	positive regulation of immune effector process (GO:0002699)	2/32	1.107116e-04	1.029618e-03	0	0	1.663333e+02	1.515061e+03	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	antigen processing and presentation of peptide antigen via MHC class I (GO:0002474)	2/33	1.178229e-04	1.043575e-03	0	0	1.609597e+02	1.456094e+03	HLA-C;B2M
+GO_Biological_Process_2021	retina homeostasis (GO:0001895)	2/36	1.404719e-04	1.187626e-03	0	0	1.467353e+02	1.301616e+03	B2M;ACTB
+GO_Biological_Process_2021	cytokine-mediated signaling pathway (GO:0019221)	4/621	1.664997e-04	1.346476e-03	0	0	2.093247e+01	1.821233e+02	HLA-C;HLA-DRA;B2M;HLA-DRB1
+GO_Biological_Process_2021	positive regulation of leukocyte mediated cytotoxicity (GO:0001912)	2/43	2.009681e-04	1.495202e-03	0	0	1.216402e+02	1.035446e+03	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	positive regulation of T cell differentiation (GO:0045582)	2/43	2.009681e-04	1.495202e-03	0	0	1.216402e+02	1.035446e+03	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	regulation of immune effector process (GO:0002697)	2/53	3.058661e-04	2.188119e-03	0	0	9.774020e+01	7.909492e+02	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	protein tetramerization (GO:0051262)	2/71	5.489399e-04	3.781586e-03	0	0	7.217754e+01	5.418744e+02	B2M;HLA-DRB1
+GO_Biological_Process_2021	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent (GO:0002479)	2/73	5.802193e-04	3.796557e-03	0	0	7.013732e+01	5.226707e+02	HLA-C;B2M
+GO_Biological_Process_2021	negative regulation of protein binding (GO:0032091)	2/74	5.961775e-04	3.796557e-03	0	0	6.915972e+01	5.135090e+02	B2M;ACTB
+GO_Biological_Process_2021	positive regulation of immune response (GO:0050778)	2/75	6.123479e-04	3.796557e-03	0	0	6.820890e+01	5.046238e+02	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	antigen processing and presentation of exogenous peptide antigen via MHC class I (GO:0042590)	2/78	6.621298e-04	3.972779e-03	0	0	6.550658e+01	4.795114e+02	HLA-C;B2M
+GO_Biological_Process_2021	antigen processing and presentation of exogenous peptide antigen via MHC class II (GO:0019886)	2/98	1.042412e-03	6.059020e-03	0	0	5.180729e+01	3.557202e+02	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	antigen processing and presentation of peptide antigen via MHC class II (GO:0002495)	2/100	1.085038e-03	6.115671e-03	0	0	5.074490e+01	3.463918e+02	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	antigen processing and presentation of exogenous peptide antigen (GO:0002478)	2/103	1.150535e-03	6.294103e-03	0	0	4.923020e+01	3.331668e+02	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	regulation of protein binding (GO:0043393)	2/118	1.505888e-03	8.002720e-03	0	0	4.283190e+01	2.783376e+02	B2M;ACTB
+GO_Biological_Process_2021	cellular response to nicotine (GO:0071316)	1/5	2.497708e-03	1.290482e-02	0	0	5.551667e+02	3.326771e+03	B2M
+GO_Biological_Process_2021	T cell receptor signaling pathway (GO:0050852)	2/158	2.676992e-03	1.345731e-02	0	0	3.178526e+01	1.882660e+02	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	cellular response to iron ion (GO:0071281)	1/6	2.996578e-03	1.359423e-02	0	0	4.441111e+02	2.580412e+03	B2M
+GO_Biological_Process_2021	positive regulation of immune response to tumor cell (GO:0002839)	1/6	2.996578e-03	1.359423e-02	0	0	4.441111e+02	2.580412e+03	HLA-DRB1
+GO_Biological_Process_2021	positive regulation of receptor binding (GO:1900122)	1/6	2.996578e-03	1.359423e-02	0	0	4.441111e+02	2.580412e+03	B2M
+GO_Biological_Process_2021	positive regulation of T cell mediated immune response to tumor cell (GO:0002842)	1/6	2.996578e-03	1.359423e-02	0	0	4.441111e+02	2.580412e+03	HLA-DRB1
+GO_Biological_Process_2021	response to host defenses (GO:0052200)	1/7	3.495224e-03	1.413286e-02	0	0	3.700741e+02	2.093271e+03	B2M
+GO_Biological_Process_2021	modulation by symbiont of host defense response (GO:0052031)	1/7	3.495224e-03	1.413286e-02	0	0	3.700741e+02	2.093271e+03	B2M
+GO_Biological_Process_2021	regulation of T cell mediated immune response to tumor cell (GO:0002840)	1/7	3.495224e-03	1.413286e-02	0	0	3.700741e+02	2.093271e+03	HLA-DRB1
+GO_Biological_Process_2021	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway (GO:0002484)	1/7	3.495224e-03	1.413286e-02	0	0	3.700741e+02	2.093271e+03	HLA-C
+GO_Biological_Process_2021	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent (GO:0002486)	1/7	3.495224e-03	1.413286e-02	0	0	3.700741e+02	2.093271e+03	HLA-C
+GO_Biological_Process_2021	antigen receptor-mediated signaling pathway (GO:0050851)	2/185	3.647127e-03	1.443331e-02	0	0	2.705874e+01	1.519028e+02	HLA-DRA;HLA-DRB1
+GO_Biological_Process_2021	antigen processing and presentation of endogenous peptide antigen via MHC class I (GO:0019885)	1/8	3.993646e-03	1.547538e-02	0	0	3.171905e+02	1.751859e+03	B2M
+GO_Biological_Process_2021	T-helper 1 type immune response (GO:0042088)	1/9	4.491844e-03	1.600183e-02	0	0	2.775278e+02	1.500174e+03	HLA-DRB1
+GO_Biological_Process_2021	regulation of transmembrane transporter activity (GO:0022898)	1/9	4.491844e-03	1.600183e-02	0	0	2.775278e+02	1.500174e+03	ACTB
+GO_Biological_Process_2021	regulation of receptor binding (GO:1900120)	1/10	4.989818e-03	1.600183e-02	0	0	2.466790e+02	1.307487e+03	B2M
+GO_Biological_Process_2021	adherens junction assembly (GO:0034333)	1/10	4.989818e-03	1.600183e-02	0	0	2.466790e+02	1.307487e+03	ACTB
+GO_Biological_Process_2021	positive regulation of viral entry into host cell (GO:0046598)	1/10	4.989818e-03	1.600183e-02	0	0	2.466790e+02	1.307487e+03	HLA-DRB1
+GO_Biological_Process_2021	modulation by symbiont of host process (GO:0044003)	1/10	4.989818e-03	1.600183e-02	0	0	2.466790e+02	1.307487e+03	B2M
+GO_Biological_Process_2021	apical protein localization (GO:0045176)	1/10	4.989818e-03	1.600183e-02	0	0	2.466790e+02	1.307487e+03	ACTB
+GO_Biological_Process_2021	positive regulation of monocyte differentiation (GO:0045657)	1/10	4.989818e-03	1.600183e-02	0	0	2.466790e+02	1.307487e+03	HLA-DRB1
+GO_Biological_Process_2021	negative regulation of receptor binding (GO:1900121)	1/10	4.989818e-03	1.600183e-02	0	0	2.466790e+02	1.307487e+03	B2M
+GO_Biological_Process_2021	positive regulation by symbiont of entry into host (GO:0075294)	1/10	4.989818e-03	1.600183e-02	0	0	2.466790e+02	1.307487e+03	HLA-DRB1
+GO_Biological_Process_2021	morphogenesis of a polarized epithelium (GO:0001738)	1/12	5.985094e-03	1.855379e-02	0	0	2.018081e+02	1.032951e+03	ACTB
+GO_Biological_Process_2021	positive regulation of cellular senescence (GO:2000774)	1/12	5.985094e-03	1.855379e-02	0	0	2.018081e+02	1.032951e+03	B2M
+GO_Biological_Process_2021	response to iron ion (GO:0010039)	1/13	6.482395e-03	1.944719e-02	0	0	1.849815e+02	9.320597e+02	B2M
+GO_Biological_Process_2021	positive regulation of cell aging (GO:0090343)	1/13	6.482395e-03	1.944719e-02	0	0	1.849815e+02	9.320597e+02	B2M
+GO_Biological_Process_2021	detection of bacterium (GO:0016045)	1/14	6.979474e-03	2.028410e-02	0	0	1.707436e+02	8.477047e+02	HLA-DRB1
+GO_Biological_Process_2021	positive regulation of insulin secretion involved in cellular response to glucose stimulus (GO:0035774)	1/14	6.979474e-03	2.028410e-02	0	0	1.707436e+02	8.477047e+02	HLA-DRB1
+GO_Biological_Process_2021	macrophage differentiation (GO:0030225)	1/15	7.476328e-03	2.106965e-02	0	0	1.585397e+02	7.762124e+02	HLA-DRB1
+GO_Biological_Process_2021	protein localization to cell-cell junction (GO:0150105)	1/15	7.476328e-03	2.106965e-02	0	0	1.585397e+02	7.762124e+02	ACTB
+GO_Biological_Process_2021	regulation of monocyte differentiation (GO:0045655)	1/16	7.972959e-03	2.213389e-02	0	0	1.479630e+02	7.149126e+02	HLA-DRB1
+GO_Biological_Process_2021	negative regulation of nervous system development (GO:0051961)	1/19	9.461511e-03	2.550494e-02	0	0	1.232840e+02	5.745677e+02	B2M
+GO_Biological_Process_2021	regulation of T cell cytokine production (GO:0002724)	1/19	9.461511e-03	2.550494e-02	0	0	1.232840e+02	5.745677e+02	B2M
+GO_Biological_Process_2021	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains (GO:0002460)	1/20	9.957248e-03	2.608518e-02	0	0	1.167895e+02	5.383358e+02	HLA-DRB1
+GO_Biological_Process_2021	regulation of protein localization to cell periphery (GO:1904375)	1/20	9.957248e-03	2.608518e-02	0	0	1.167895e+02	5.383358e+02	ACTB
+GO_Biological_Process_2021	positive regulation of T cell cytokine production (GO:0002726)	1/21	1.045276e-02	2.700297e-02	0	0	1.109444e+02	5.060053e+02	B2M
+GO_Biological_Process_2021	regulation of interleukin-4 production (GO:0032673)	1/23	1.144312e-02	2.915644e-02	0	0	1.008485e+02	4.508297e+02	HLA-DRB1
+GO_Biological_Process_2021	positive regulation of viral life cycle (GO:1903902)	1/24	1.193796e-02	2.960615e-02	0	0	9.645894e+01	4.271232e+02	HLA-DRB1
+GO_Biological_Process_2021	negative regulation of neuron differentiation (GO:0045665)	1/24	1.193796e-02	2.960615e-02	0	0	9.645894e+01	4.271232e+02	B2M
+GO_Biological_Process_2021	negative regulation of cell development (GO:0010721)	1/26	1.292699e-02	3.163710e-02	0	0	8.873333e+01	3.858514e+02	B2M
+GO_Biological_Process_2021	regulation of insulin secretion involved in cellular response to glucose stimulus (GO:0061178)	1/28	1.391512e-02	3.361314e-02	0	0	8.215226e+01	3.511828e+02	HLA-DRB1
+GO_Biological_Process_2021	negative regulation of interferon-gamma production (GO:0032689)	1/29	1.440885e-02	3.380290e-02	0	0	7.921429e+01	3.358617e+02	HLA-DRB1
+GO_Biological_Process_2021	transition metal ion homeostasis (GO:0055076)	1/29	1.440885e-02	3.380290e-02	0	0	7.921429e+01	3.358617e+02	B2M
+GO_Biological_Process_2021	morphogenesis of an epithelium (GO:0002009)	1/30	1.490236e-02	3.380290e-02	0	0	7.647893e+01	3.216884e+02	ACTB
+GO_Biological_Process_2021	maintenance of blood-brain barrier (GO:0035633)	1/30	1.490236e-02	3.380290e-02	0	0	7.647893e+01	3.216884e+02	ACTB
+GO_Biological_Process_2021	regulation of protein localization to membrane (GO:1905475)	1/30	1.490236e-02	3.380290e-02	0	0	7.647893e+01	3.216884e+02	ACTB
+GO_Biological_Process_2021	regulation of cellular senescence (GO:2000772)	1/31	1.539564e-02	3.450108e-02	0	0	7.392593e+01	3.085425e+02	B2M
+GO_Biological_Process_2021	positive regulation of cytokine production involved in immune response (GO:0002720)	1/33	1.638155e-02	3.627343e-02	0	0	6.929861e+01	2.849281e+02	B2M
+GO_Biological_Process_2021	regulation of transmembrane transport (GO:0034762)	1/34	1.687417e-02	3.692465e-02	0	0	6.719529e+01	2.742892e+02	ACTB
+GO_Biological_Process_2021	negative regulation of T cell proliferation (GO:0042130)	1/35	1.736657e-02	3.712852e-02	0	0	6.521569e+01	2.643328e+02	HLA-DRB1
+GO_Biological_Process_2021	negative regulation of neurogenesis (GO:0050768)	1/35	1.736657e-02	3.712852e-02	0	0	6.521569e+01	2.643328e+02	B2M
+GO_Biological_Process_2021	positive regulation of myeloid leukocyte differentiation (GO:0002763)	1/36	1.785874e-02	3.732276e-02	0	0	6.334921e+01	2.549972e+02	HLA-DRB1
+GO_Biological_Process_2021	platelet aggregation (GO:0070527)	1/36	1.785874e-02	3.732276e-02	0	0	6.334921e+01	2.549972e+02	ACTB
+GO_Biological_Process_2021	regulation of transport (GO:0051049)	1/37	1.835069e-02	3.785381e-02	0	0	6.158642e+01	2.462279e+02	ACTB
+GO_Biological_Process_2021	positive regulation of insulin secretion (GO:0032024)	1/38	1.884243e-02	3.785381e-02	0	0	5.991892e+01	2.379766e+02	HLA-DRB1
+GO_Biological_Process_2021	regulation of receptor-mediated endocytosis (GO:0048259)	1/39	1.933394e-02	3.785381e-02	0	0	5.833918e+01	2.302002e+02	B2M
+GO_Biological_Process_2021	negative regulation of lymphocyte proliferation (GO:0050672)	1/39	1.933394e-02	3.785381e-02	0	0	5.833918e+01	2.302002e+02	HLA-DRB1
+GO_Biological_Process_2021	response to peptide (GO:1901652)	1/39	1.933394e-02	3.785381e-02	0	0	5.833918e+01	2.302002e+02	REG1A
+GO_Biological_Process_2021	regulation of viral entry into host cell (GO:0046596)	1/39	1.933394e-02	3.785381e-02	0	0	5.833918e+01	2.302002e+02	HLA-DRB1
+GO_Biological_Process_2021	ATP-dependent chromatin remodeling (GO:0043044)	1/42	2.080714e-02	4.031383e-02	0	0	5.406233e+01	2.093542e+02	ACTB
+GO_Biological_Process_2021	substantia nigra development (GO:0021762)	1/43	2.129777e-02	4.083901e-02	0	0	5.277249e+01	2.031294e+02	ACTB
+GO_Biological_Process_2021	homotypic cell-cell adhesion (GO:0034109)	1/44	2.178817e-02	4.093535e-02	0	0	5.154264e+01	1.972221e+02	ACTB
+GO_Biological_Process_2021	positive regulation of receptor-mediated endocytosis (GO:0048260)	1/44	2.178817e-02	4.093535e-02	0	0	5.154264e+01	1.972221e+02	B2M
+GO_Biological_Process_2021	negative regulation of T cell activation (GO:0050868)	1/45	2.227835e-02	4.128083e-02	0	0	5.036869e+01	1.916095e+02	HLA-DRB1
+GO_Biological_Process_2021	positive regulation of response to stimulus (GO:0048584)	1/46	2.276831e-02	4.128083e-02	0	0	4.924691e+01	1.862708e+02	B2M
+GO_Biological_Process_2021	neutrophil degranulation (GO:0043312)	2/481	2.285733e-02	4.128083e-02	0	0	1.018319e+01	3.847703e+01	HLA-C;B2M
+GO_Biological_Process_2021	neutrophil activation involved in immune response (GO:0002283)	2/485	2.321466e-02	4.128083e-02	0	0	1.009679e+01	3.799394e+01	HLA-C;B2M
+GO_Biological_Process_2021	neutrophil mediated immunity (GO:0002446)	2/488	2.348421e-02	4.128083e-02	0	0	1.003292e+01	3.763777e+01	HLA-C;B2M
+GO_Biological_Process_2021	regulation of interleukin-10 production (GO:0032653)	1/48	2.374757e-02	4.128083e-02	0	0	4.714657e+01	1.763411e+02	HLA-DRB1
+GO_Biological_Process_2021	cognition (GO:0050890)	1/48	2.374757e-02	4.128083e-02	0	0	4.714657e+01	1.763411e+02	HLA-DRA
+GO_Biological_Process_2021	positive regulation of endocytosis (GO:0045807)	1/48	2.374757e-02	4.128083e-02	0	0	4.714657e+01	1.763411e+02	B2M
+GO_Biological_Process_2021	adherens junction organization (GO:0034332)	1/49	2.423687e-02	4.174128e-02	0	0	4.616204e+01	1.717172e+02	ACTB
+GO_Biological_Process_2021	response to peptide hormone (GO:0043434)	1/52	2.570344e-02	4.346219e-02	0	0	4.344009e+01	1.590398e+02	REG1A
+GO_Biological_Process_2021	protein homotetramerization (GO:0051289)	1/52	2.570344e-02	4.346219e-02	0	0	4.344009e+01	1.590398e+02	B2M
+GO_Biological_Process_2021	regulation of cyclin-dependent protein kinase activity (GO:1904029)	1/54	2.668006e-02	4.470712e-02	0	0	4.179665e+01	1.514643e+02	ACTB
+GO_Biological_Process_2021	positive regulation of gene expression, epigenetic (GO:0045815)	1/57	2.814332e-02	4.673802e-02	0	0	3.955159e+01	1.412168e+02	ACTB
+GO_Biological_Process_2021	positive regulation of protein binding (GO:0032092)	1/58	2.863064e-02	4.712654e-02	0	0	3.885575e+01	1.380653e+02	B2M
+GO_Biological_Process_2021	iron ion homeostasis (GO:0055072)	1/61	3.009127e-02	4.909628e-02	0	0	3.690741e+01	1.293059e+02	B2M
+GO_Biological_Process_2021	regulation of neurogenesis (GO:0050767)	1/62	3.057770e-02	4.945611e-02	0	0	3.630055e+01	1.265976e+02	B2M
+GO_Biological_Process_2021	amyloid fibril formation (GO:1990000)	1/63	3.106392e-02	4.980939e-02	0	0	3.571326e+01	1.239860e+02	B2M
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	1/64	3.154992e-02	5.007260e-02	0	0	3.514462e+01	1.214663e+02	REG1A
+GO_Biological_Process_2021	type I interferon signaling pathway (GO:0060337)	1/65	3.203569e-02	5.007260e-02	0	0	3.459375e+01	1.190338e+02	HLA-C
+GO_Biological_Process_2021	cellular response to type I interferon (GO:0071357)	1/65	3.203569e-02	5.007260e-02	0	0	3.459375e+01	1.190338e+02	HLA-C
+GO_Biological_Process_2021	cell-cell junction assembly (GO:0007043)	1/66	3.252125e-02	5.040794e-02	0	0	3.405983e+01	1.166843e+02	ACTB
+GO_Biological_Process_2021	Fc-gamma receptor signaling pathway involved in phagocytosis (GO:0038096)	1/71	3.494576e-02	5.271985e-02	0	0	3.161905e+01	1.060490e+02	ACTB
+GO_Biological_Process_2021	myeloid leukocyte differentiation (GO:0002573)	1/71	3.494576e-02	5.271985e-02	0	0	3.161905e+01	1.060490e+02	HLA-DRB1
+GO_Biological_Process_2021	Fc-gamma receptor signaling pathway (GO:0038094)	1/72	3.543000e-02	5.271985e-02	0	0	3.117214e+01	1.041211e+02	ACTB
+GO_Biological_Process_2021	cell junction organization (GO:0034330)	1/72	3.543000e-02	5.271985e-02	0	0	3.117214e+01	1.041211e+02	ACTB
+GO_Biological_Process_2021	negative regulation of epithelial cell proliferation (GO:0050680)	1/72	3.543000e-02	5.271985e-02	0	0	3.117214e+01	1.041211e+02	B2M
+GO_Biological_Process_2021	Fc receptor mediated stimulatory signaling pathway (GO:0002431)	1/74	3.639784e-02	5.373014e-02	0	0	3.031507e+01	1.004413e+02	ACTB
+GO_Biological_Process_2021	regulation of T cell proliferation (GO:0042129)	1/76	3.736480e-02	5.429572e-02	0	0	2.950370e+01	9.697945e+01	HLA-DRB1
+GO_Biological_Process_2021	cell morphogenesis involved in neuron differentiation (GO:0048667)	1/76	3.736480e-02	5.429572e-02	0	0	2.950370e+01	9.697945e+01	ACTB
+GO_Biological_Process_2021	regulation of ion transport (GO:0043269)	1/79	3.881360e-02	5.553330e-02	0	0	2.836467e+01	9.215638e+01	B2M
+GO_Biological_Process_2021	axon development (GO:0061564)	1/79	3.881360e-02	5.553330e-02	0	0	2.836467e+01	9.215638e+01	ACTB
+GO_Biological_Process_2021	regulation of protein localization to plasma membrane (GO:1903076)	1/80	3.929610e-02	5.579446e-02	0	0	2.800422e+01	9.063930e+01	ACTB
+GO_Biological_Process_2021	regulation of gene expression, epigenetic (GO:0040029)	1/82	4.026044e-02	5.588389e-02	0	0	2.731001e+01	8.773030e+01	ACTB
+GO_Biological_Process_2021	regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0000079)	1/82	4.026044e-02	5.588389e-02	0	0	2.731001e+01	8.773030e+01	ACTB
+GO_Biological_Process_2021	ephrin receptor signaling pathway (GO:0048013)	1/82	4.026044e-02	5.588389e-02	0	0	2.731001e+01	8.773030e+01	ACTB
+GO_Biological_Process_2021	epidermis development (GO:0008544)	1/83	4.074228e-02	5.613381e-02	0	0	2.697561e+01	8.633514e+01	HLA-DRB1
+GO_Biological_Process_2021	regulation of interferon-gamma production (GO:0032649)	1/86	4.218651e-02	5.769626e-02	0	0	2.601961e+01	8.236910e+01	HLA-DRB1
+GO_Biological_Process_2021	negative regulation of binding (GO:0051100)	1/88	4.314824e-02	5.858082e-02	0	0	2.541890e+01	7.989450e+01	ACTB
+GO_Biological_Process_2021	positive regulation of binding (GO:0051099)	1/90	4.410910e-02	5.902369e-02	0	0	2.484519e+01	7.754406e+01	B2M
+GO_Biological_Process_2021	protein complex oligomerization (GO:0051259)	1/90	4.410910e-02	5.902369e-02	0	0	2.484519e+01	7.754406e+01	HLA-DRB1
+GO_Biological_Process_2021	positive regulation of transport (GO:0051050)	1/91	4.458920e-02	5.923994e-02	0	0	2.456790e+01	7.641265e+01	ACTB
+GO_Biological_Process_2021	regulation of epithelial cell proliferation (GO:0050678)	1/93	4.554876e-02	6.008560e-02	0	0	2.403140e+01	7.423232e+01	B2M
+GO_Biological_Process_2021	regulation of kinase activity (GO:0043549)	1/94	4.602822e-02	6.029048e-02	0	0	2.377180e+01	7.318151e+01	HLA-DRB1
+GO_Biological_Process_2021	cell junction assembly (GO:0034329)	1/102	4.985605e-02	6.456581e-02	0	0	2.188009e+01	6.560997e+01	ACTB
+GO_Biological_Process_2021	cellular response to organonitrogen compound (GO:0071417)	1/103	5.033356e-02	6.456581e-02	0	0	2.166449e+01	6.475696e+01	ACTB
+GO_Biological_Process_2021	chromatin remodeling (GO:0006338)	1/103	5.033356e-02	6.456581e-02	0	0	2.166449e+01	6.475696e+01	ACTB
+GO_Biological_Process_2021	regulation of protein serine/threonine kinase activity (GO:0071900)	1/111	5.414584e-02	6.898031e-02	0	0	2.008081e+01	5.855713e+01	ACTB
+GO_Biological_Process_2021	positive regulation of kinase activity (GO:0033674)	1/114	5.557189e-02	7.031545e-02	0	0	1.954474e+01	5.648582e+01	HLA-DRB1
+GO_Biological_Process_2021	protein homooligomerization (GO:0051260)	1/121	5.889182e-02	7.401269e-02	0	0	1.839815e+01	5.210453e+01	B2M
+GO_Biological_Process_2021	cellular response to metal ion (GO:0071248)	1/131	6.361636e-02	7.941371e-02	0	0	1.697436e+01	4.676240e+01	B2M
+GO_Biological_Process_2021	negative regulation of inflammatory response to antigenic stimulus (GO:0002862)	1/136	6.597061e-02	8.180356e-02	0	0	1.634156e+01	4.442529e+01	HLA-DRB1
+GO_Biological_Process_2021	regulation of inflammatory response to antigenic stimulus (GO:0002861)	1/137	6.644082e-02	8.184101e-02	0	0	1.622059e+01	4.398121e+01	HLA-DRB1
+GO_Biological_Process_2021	neuron projection morphogenesis (GO:0048812)	1/140	6.785018e-02	8.302719e-02	0	0	1.586811e+01	4.269240e+01	ACTB
+GO_Biological_Process_2021	positive regulation of transferase activity (GO:0051347)	1/148	7.159910e-02	8.704105e-02	0	0	1.499849e+01	3.954611e+01	HLA-DRB1
+GO_Biological_Process_2021	cellular response to organic cyclic compound (GO:0071407)	1/150	7.253421e-02	8.704105e-02	0	0	1.479567e+01	3.881937e+01	ACTB
+GO_Biological_Process_2021	regulation of cytokine production (GO:0001817)	1/150	7.253421e-02	8.704105e-02	0	0	1.479567e+01	3.881937e+01	HLA-DRB1
+GO_Biological_Process_2021	regulation of MAPK cascade (GO:0043408)	1/166	7.998462e-02	9.536627e-02	0	0	1.335017e+01	3.372147e+01	HLA-DRB1
+GO_Biological_Process_2021	positive regulation of I-kappaB kinase/NF-kappaB signaling (GO:0043123)	1/171	8.230180e-02	9.743175e-02	0	0	1.295425e+01	3.235145e+01	HLA-DRB1
+GO_Biological_Process_2021	positive regulation of ERK1 and ERK2 cascade (GO:0070374)	1/172	8.276460e-02	9.743175e-02	0	0	1.287784e+01	3.208843e+01	HLA-DRB1
+GO_Biological_Process_2021	negative regulation of immune response (GO:0050777)	1/178	8.553703e-02	1.000622e-01	0	0	1.243754e+01	3.058150e+01	HLA-DRB1
+GO_Biological_Process_2021	negative regulation of cytokine production (GO:0001818)	1/182	8.738112e-02	1.015805e-01	0	0	1.216022e+01	2.964025e+01	HLA-DRB1
+GO_Biological_Process_2021	negative regulation of inflammatory response (GO:0050728)	1/212	1.011055e-01	1.168051e-01	0	0	1.041548e+01	2.386803e+01	HLA-DRB1
+GO_Biological_Process_2021	positive regulation of protein modification process (GO:0031401)	1/214	1.020138e-01	1.171269e-01	0	0	1.031664e+01	2.354925e+01	HLA-DRB1
+GO_Biological_Process_2021	regulation of I-kappaB kinase/NF-kappaB signaling (GO:0043122)	1/224	1.065430e-01	1.215767e-01	0	0	9.849028e+00	2.205401e+01	HLA-DRB1
+GO_Biological_Process_2021	regulation of ERK1 and ERK2 cascade (GO:0070372)	1/238	1.128493e-01	1.279877e-01	0	0	9.260666e+00	2.020401e+01	HLA-DRB1
+GO_Biological_Process_2021	axonogenesis (GO:0007409)	1/240	1.137470e-01	1.282238e-01	0	0	9.182241e+00	1.996016e+01	ACTB
+GO_Biological_Process_2021	membrane organization (GO:0061024)	1/242	1.146438e-01	1.284563e-01	0	0	9.105118e+00	1.972101e+01	ACTB
+GO_Biological_Process_2021	positive regulation of phosphorylation (GO:0042327)	1/253	1.195617e-01	1.331645e-01	0	0	8.702822e+00	1.848412e+01	HLA-DRB1
+GO_Biological_Process_2021	cellular component assembly (GO:0022607)	1/261	1.231228e-01	1.363146e-01	0	0	8.431624e+00	1.766065e+01	ACTB
+GO_Biological_Process_2021	regulation of protein phosphorylation (GO:0001932)	1/266	1.253420e-01	1.376238e-01	0	0	8.270440e+00	1.717530e+01	HLA-DRB1
+GO_Biological_Process_2021	protein deubiquitination (GO:0016579)	1/267	1.257852e-01	1.376238e-01	0	0	8.238931e+00	1.708078e+01	ACTB
+GO_Biological_Process_2021	positive regulation of MAPK cascade (GO:0043410)	1/274	1.288821e-01	1.401876e-01	0	0	8.024827e+00	1.644172e+01	HLA-DRB1
+GO_Biological_Process_2021	protein modification by small protein removal (GO:0070646)	1/276	1.297651e-01	1.403274e-01	0	0	7.965657e+00	1.626610e+01	ACTB
+GO_Biological_Process_2021	innate immune response (GO:0045087)	1/302	1.411713e-01	1.517795e-01	0	0	7.267996e+00	1.422915e+01	B2M
+GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	1/323	1.502855e-01	1.606500e-01	0	0	6.786749e+00	1.286237e+01	ACTB
+GO_Biological_Process_2021	supramolecular fiber organization (GO:0097435)	1/351	1.623023e-01	1.725042e-01	0	0	6.234921e+00	1.133692e+01	B2M
+GO_Biological_Process_2021	positive regulation of protein phosphorylation (GO:0001934)	1/371	1.707919e-01	1.804960e-01	0	0	5.891892e+00	1.041280e+01	HLA-DRB1
+GO_Biological_Process_2021	negative regulation of cell population proliferation (GO:0008285)	1/379	1.741660e-01	1.830219e-01	0	0	5.764844e+00	1.007549e+01	B2M
+GO_Biological_Process_2021	transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)	1/404	1.846306e-01	1.929286e-01	0	0	5.400331e+00	9.123310e+00	ACTB
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	1/474	2.132995e-01	2.216409e-01	0	0	4.584684e+00	7.083602e+00	REG1A
+GO_Biological_Process_2021	positive regulation of gene expression (GO:0010628)	1/482	2.165175e-01	2.237348e-01	0	0	4.506584e+00	6.895450e+00	ACTB
+GO_Biological_Process_2021	positive regulation of nucleic acid-templated transcription (GO:1903508)	1/511	2.280837e-01	2.343843e-01	0	0	4.244009e+00	6.272826e+00	HLA-DRB1
+GO_Biological_Process_2021	positive regulation of intracellular signal transduction (GO:1902533)	1/546	2.418381e-01	2.471532e-01	0	0	3.964322e+00	5.627304e+00	HLA-DRB1
+GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	1/625	2.720762e-01	2.765365e-01	0	0	3.448362e+00	4.488640e+00	REG1A
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	1/764	3.226561e-01	3.261632e-01	0	0	2.799913e+00	3.167172e+00	REG1A
+GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	1/1183	4.565709e-01	4.590388e-01	0	0	1.768002e+00	1.386133e+00	HLA-DRB1
+GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	1/2244	6.958912e-01	6.958912e-01	0	0	8.791301e-01	3.187392e-01	HLA-DRB1

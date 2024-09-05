@@ -1,0 +1,16 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	innate immune response in mucosa (GO:0002227)	2/21	1.049958e-06	1.417453e-05	0	0	3.995800e+04	5.500922e+05	DEFA6;DEFA5
+GO_Biological_Process_2021	mucosal immune response (GO:0002385)	2/28	1.889938e-06	1.417453e-05	0	0	3.994400e+04	5.264206e+05	DEFA6;DEFA5
+GO_Biological_Process_2021	antibacterial humoral response (GO:0019731)	2/44	4.729897e-06	2.364949e-05	0	0	3.991200e+04	4.893853e+05	DEFA6;DEFA5
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	2/64	1.007987e-05	3.284966e-05	0	0	3.987200e+04	4.587262e+05	DEFA6;DEFA5
+GO_Biological_Process_2021	defense response to Gram-positive bacterium (GO:0050830)	2/70	1.207487e-05	3.284966e-05	0	0	3.986000e+04	4.513900e+05	DEFA6;DEFA5
+GO_Biological_Process_2021	defense response to Gram-negative bacterium (GO:0050829)	2/73	1.313987e-05	3.284966e-05	0	0	3.985400e+04	4.479534e+05	DEFA6;DEFA5
+GO_Biological_Process_2021	cellular response to molecule of bacterial origin (GO:0071219)	2/115	3.277497e-05	6.693750e-05	0	0	3.977000e+04	4.106589e+05	DEFA6;DEFA5
+GO_Biological_Process_2021	cellular response to lipopolysaccharide (GO:0071222)	2/120	3.570000e-05	6.693750e-05	0	0	3.976000e+04	4.071567e+05	DEFA6;DEFA5
+GO_Biological_Process_2021	response to lipopolysaccharide (GO:0032496)	2/159	6.280534e-05	1.046756e-04	0	0	3.968200e+04	3.839420e+05	DEFA6;DEFA5
+GO_Biological_Process_2021	defense response to bacterium (GO:0042742)	2/176	7.700056e-05	1.155008e-04	0	0	3.964800e+04	3.755339e+05	DEFA6;DEFA5
+GO_Biological_Process_2021	cellular response to lipid (GO:0071396)	2/219	1.193563e-04	1.627586e-04	0	0	3.956200e+04	3.573793e+05	DEFA6;DEFA5
+GO_Biological_Process_2021	innate immune response (GO:0045087)	2/302	2.272587e-04	2.840734e-04	0	0	3.939600e+04	3.305096e+05	DEFA6;DEFA5
+GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	2/323	2.600196e-04	3.000226e-04	0	0	3.935400e+04	3.248576e+05	DEFA6;DEFA5
+GO_Biological_Process_2021	positive regulation of membrane permeability (GO:1905710)	1/5	4.999362e-04	5.356459e-04	0	0	4.998500e+03	3.799375e+04	DEFA5
+GO_Biological_Process_2021	killing by host of symbiont cells (GO:0051873)	1/16	1.599368e-03	1.599368e-03	0	0	1.332200e+03	8.576899e+03	DEFA5

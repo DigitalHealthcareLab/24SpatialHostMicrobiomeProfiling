@@ -1,0 +1,59 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+BioPlanet_2019	Alpha defensins	2/9	3.405660e-05	1.975283e-03	0	0	3.170317e+02	3.261460e+03	DEFA6;DEFA5
+BioPlanet_2019	Defensins	2/45	9.165787e-04	2.658078e-02	0	0	5.151680e+01	3.603529e+02	DEFA6;DEFA5
+BioPlanet_2019	Cytochrome P450 metabolism of eicosanoids	1/5	4.990441e-03	9.249094e-02	0	0	2.628421e+02	1.393124e+03	CYP4F2
+BioPlanet_2019	Sema4D-mediated inhibition of cell attachment and migration	1/8	7.973357e-03	9.249094e-02	0	0	1.501729e+02	7.255830e+02	RRAS
+BioPlanet_2019	Shuttle for transfer of acetyl groups from mitochondria to the cytosol	1/8	7.973357e-03	9.249094e-02	0	0	1.501729e+02	7.255830e+02	CS
+BioPlanet_2019	Integrated breast cancer pathway	2/152	9.966464e-03	9.634249e-02	0	0	1.468889e+01	6.769418e+01	RRAS;ZMIZ1
+BioPlanet_2019	Sema3A-plexin repulsion signaling by inhibiting integrin adhesion	1/14	1.391373e-02	1.101592e-01	0	0	8.083806e+01	3.455729e+02	RRAS
+BioPlanet_2019	Glyoxylate and dicarboxylate metabolism	1/16	1.588634e-02	1.101592e-01	0	0	7.005263e+01	2.901787e+02	CS
+BioPlanet_2019	Plexin D1 signaling	1/24	2.373934e-02	1.101592e-01	0	0	4.566819e+01	1.708274e+02	RRAS
+BioPlanet_2019	Pentose phosphate pathway	1/27	2.666885e-02	1.101592e-01	0	0	4.039271e+01	1.463937e+02	ALDOC
+BioPlanet_2019	Glycolysis	1/27	2.666885e-02	1.101592e-01	0	0	4.039271e+01	1.463937e+02	ALDOC
+BioPlanet_2019	Sema4D in semaphorin signaling	1/29	2.861721e-02	1.101592e-01	0	0	3.750376e+01	1.332789e+02	RRAS
+BioPlanet_2019	Interleukin-4 regulation of apoptosis	2/267	2.879936e-02	1.101592e-01	0	0	8.266247e+00	2.932370e+01	NINJ1;FKBP5
+BioPlanet_2019	Ras family activation regulation	1/31	3.056186e-02	1.101592e-01	0	0	3.500000e+01	1.220801e+02	RRAS
+BioPlanet_2019	Gluconeogenesis	1/31	3.056186e-02	1.101592e-01	0	0	3.500000e+01	1.220801e+02	ALDOC
+BioPlanet_2019	Fructose and mannose metabolism	1/34	3.347191e-02	1.101592e-01	0	0	3.181340e+01	1.080717e+02	ALDOC
+BioPlanet_2019	Activation of NMDA receptor upon glutamate binding and postsynaptic events	1/37	3.637366e-02	1.101592e-01	0	0	2.915789e+01	9.662665e+01	RRAS
+BioPlanet_2019	Tricarboxylic acid (TCA) cycle	1/39	3.830356e-02	1.101592e-01	0	0	2.762050e+01	9.010393e+01	CS
+BioPlanet_2019	MAPK signaling pathway	2/314	3.875743e-02	1.101592e-01	0	0	7.004274e+00	2.276692e+01	DUSP5;RRAS
+BioPlanet_2019	Pyruvate metabolism and citric acid (TCA) cycle	1/40	3.926713e-02	1.101592e-01	0	0	2.691093e+01	8.712057e+01	CS
+BioPlanet_2019	Innate immune system	2/319	3.988522e-02	1.101592e-01	0	0	6.892043e+00	2.220444e+01	DEFA6;DEFA5
+BioPlanet_2019	Interleukin-2 signaling pathway	3/847	5.044119e-02	1.164546e-01	0	0	4.001115e+00	1.195112e+01	DUSP5;CYP4F2;NINJ1
+BioPlanet_2019	Mitochondrial protein import	1/52	5.075870e-02	1.164546e-01	0	0	2.056656e+01	6.130219e+01	CS
+BioPlanet_2019	Arachidonic acid metabolism	1/58	5.645540e-02	1.164546e-01	0	0	1.839612e+01	5.287605e+01	CYP4F2
+BioPlanet_2019	ATF2 transcription factor network	1/59	5.740169e-02	1.164546e-01	0	0	1.807804e+01	5.166128e+01	DUSP5
+BioPlanet_2019	Ephrin receptor B forward pathway	1/60	5.834707e-02	1.164546e-01	0	0	1.777074e+01	5.049282e+01	RRAS
+BioPlanet_2019	Glucose metabolism	1/61	5.929156e-02	1.164546e-01	0	0	1.747368e+01	4.936820e+01	ALDOC
+BioPlanet_2019	Cytochrome P450 pathway	1/61	5.929156e-02	1.164546e-01	0	0	1.747368e+01	4.936820e+01	CYP4F2
+BioPlanet_2019	Androgen receptor proteolysis and transcription regulation	1/61	5.929156e-02	1.164546e-01	0	0	1.747368e+01	4.936820e+01	ZMIZ1
+BioPlanet_2019	Signaling events mediated by focal adhesion kinase	1/62	6.023514e-02	1.164546e-01	0	0	1.718637e+01	4.828509e+01	RRAS
+BioPlanet_2019	Semaphorin interactions	1/66	6.400049e-02	1.197429e-01	0	0	1.612551e+01	4.432683e+01	RRAS
+BioPlanet_2019	Phase I of biological oxidations: functionalization of compounds	1/69	6.681510e-02	1.211024e-01	0	0	1.541176e+01	4.170156e+01	CYP4F2
+BioPlanet_2019	Glycolysis and gluconeogenesis	1/75	7.242021e-02	1.272840e-01	0	0	1.415789e+01	3.716830e+01	ALDOC
+BioPlanet_2019	p73 transcription factor network	1/79	7.613916e-02	1.298844e-01	0	0	1.342915e+01	3.458265e+01	DEDD
+BioPlanet_2019	Regular glucocorticoid receptor pathway	1/82	7.891908e-02	1.307802e-01	0	0	1.292982e+01	3.283312e+01	FKBP5
+BioPlanet_2019	Androgen receptor signaling, proteolysis, and transcription regulation	1/88	8.445508e-02	1.360665e-01	0	0	1.203448e+01	2.974365e+01	ZMIZ1
+BioPlanet_2019	G-protein signaling pathways	1/95	9.087381e-02	1.424508e-01	0	0	1.113438e+01	2.670340e+01	RRAS
+BioPlanet_2019	TGF-beta regulation of extracellular matrix	2/565	1.083877e-01	1.606162e-01	0	0	3.832051e+00	8.514973e+00	RRAS;NINJ1
+BioPlanet_2019	Fas signaling pathway	1/115	1.089783e-01	1.606162e-01	0	0	9.171745e+00	2.033015e+01	DEDD
+BioPlanet_2019	Tricarboxylic acid (TCA) cycle and respiratory electron transport	1/117	1.107698e-01	1.606162e-01	0	0	9.012704e+00	1.983066e+01	CS
+BioPlanet_2019	T cell receptor regulation of apoptosis	2/603	1.207564e-01	1.708261e-01	0	0	3.582732e+00	7.573826e+00	CS;DUSP5
+BioPlanet_2019	Tight junction	1/133	1.249790e-01	1.716954e-01	0	0	7.913876e+00	1.645777e+01	RRAS
+BioPlanet_2019	Biological oxidations	1/139	1.302517e-01	1.716954e-01	0	0	7.567506e+00	1.542475e+01	CYP4F2
+BioPlanet_2019	p53 signaling pathway	1/139	1.302517e-01	1.716954e-01	0	0	7.567506e+00	1.542475e+01	DUSP5
+BioPlanet_2019	Interleukin-5 regulation of apoptosis	1/144	1.346225e-01	1.735134e-01	0	0	7.301067e+00	1.464069e+01	DUSP5
+BioPlanet_2019	EGFR1 pathway	1/152	1.415724e-01	1.779056e-01	0	0	6.911467e+00	1.351153e+01	NINJ1
+BioPlanet_2019	Integrin signaling pathway	1/155	1.441649e-01	1.779056e-01	0	0	6.775803e+00	1.312336e+01	RRAS
+BioPlanet_2019	Metapathway biotransformation	1/174	1.604123e-01	1.938315e-01	0	0	6.025859e+00	1.102737e+01	CYP4F2
+BioPlanet_2019	Transmission across chemical synapses	1/190	1.738665e-01	2.058012e-01	0	0	5.511278e+00	9.641801e+00	RRAS
+BioPlanet_2019	Actin cytoskeleton regulation	1/226	2.033937e-01	2.359367e-01	0	0	4.621053e+00	7.359543e+00	RRAS
+BioPlanet_2019	Carbohydrate metabolism	1/235	2.106173e-01	2.395255e-01	0	0	4.441296e+00	6.918262e+00	ALDOC
+BioPlanet_2019	Metabolism	3/1615	2.159785e-01	2.408991e-01	0	0	2.010801e+00	3.081706e+00	CS;CYP4F2;ALDOC
+BioPlanet_2019	BDNF signaling pathway	1/261	2.311375e-01	2.529429e-01	0	0	3.991903e+00	5.847110e+00	DUSP5
+BioPlanet_2019	Neuronal system	1/283	2.481039e-01	2.664820e-01	0	0	3.676372e+00	5.124523e+00	RRAS
+BioPlanet_2019	Immune system	2/998	2.633953e-01	2.777624e-01	0	0	2.117805e+00	2.825361e+00	DEFA6;DEFA5
+BioPlanet_2019	Axon guidance	1/325	2.795116e-01	2.894941e-01	0	0	3.192982e+00	4.070132e+00	RRAS
+BioPlanet_2019	Developmental biology	1/420	3.460182e-01	3.520887e-01	0	0	2.457103e+00	2.607635e+00	RRAS
+BioPlanet_2019	Protein metabolism	1/442	3.605656e-01	3.605656e-01	0	0	2.331901e+00	2.378729e+00	CS

@@ -1,0 +1,43 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	innate immune response in mucosa (GO:0002227)	2/21	9.482727e-05	3.574466e-03	0	0	1.751491e+02	1.622486e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	mucosal immune response (GO:0002385)	2/28	1.702127e-04	3.574466e-03	0	0	1.279487e+02	1.110398e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	antibacterial humoral response (GO:0019731)	2/44	4.232677e-04	5.925748e-03	0	0	7.914286e+01	6.147426e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	2/64	8.948364e-04	8.136069e-03	0	0	5.355914e+01	3.759246e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	defense response to Gram-positive bacterium (GO:0050830)	2/70	1.069372e-03	8.136069e-03	0	0	4.881863e+01	3.339528e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	defense response to Gram-negative bacterium (GO:0050829)	2/73	1.162296e-03	8.136069e-03	0	0	4.674883e+01	3.158986e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	cellular response to molecule of bacterial origin (GO:0071219)	2/115	2.850864e-03	1.334607e-02	0	0	2.931121e+01	1.717676e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	cellular response to lipopolysaccharide (GO:0071222)	2/120	3.099094e-03	1.334607e-02	0	0	2.806215e+01	1.621051e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	positive regulation of membrane permeability (GO:1905710)	1/5	3.495399e-03	1.334607e-02	0	0	3.842692e+02	2.173545e+03	DEFA5
+GO_Biological_Process_2021	fructose catabolic process (GO:0006001)	1/5	3.495399e-03	1.334607e-02	0	0	3.842692e+02	2.173545e+03	ALDOB
+GO_Biological_Process_2021	fructose catabolic process to hydroxyacetone phosphate and glyceraldehyde-3-phosphate (GO:0061624)	1/5	3.495399e-03	1.334607e-02	0	0	3.842692e+02	2.173545e+03	ALDOB
+GO_Biological_Process_2021	proton-transporting V-type ATPase complex assembly (GO:0070070)	1/6	4.193120e-03	1.467592e-02	0	0	3.074000e+02	1.682803e+03	ALDOB
+GO_Biological_Process_2021	glyceraldehyde-3-phosphate metabolic process (GO:0019682)	1/7	4.890388e-03	1.564417e-02	0	0	2.561538e+02	1.362862e+03	ALDOB
+GO_Biological_Process_2021	response to lipopolysaccharide (GO:0032496)	2/159	5.367810e-03	1.564417e-02	0	0	2.104989e+01	1.100349e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	fructose metabolic process (GO:0006000)	1/8	5.587202e-03	1.564417e-02	0	0	2.195495e+02	1.138864e+03	ALDOB
+GO_Biological_Process_2021	fructose 1,6-bisphosphate metabolic process (GO:0030388)	1/9	6.283564e-03	1.614905e-02	0	0	1.920962e+02	9.738925e+02	ALDOB
+GO_Biological_Process_2021	defense response to bacterium (GO:0042742)	2/176	6.536519e-03	1.614905e-02	0	0	1.897701e+01	9.546102e+01	DEFA6;DEFA5
+GO_Biological_Process_2021	positive regulation of cellular respiration (GO:1901857)	1/11	7.674931e-03	1.790817e-02	0	0	1.536615e+02	7.483003e+02	IL10RB
+GO_Biological_Process_2021	cellular response to lipid (GO:0071396)	2/219	9.959666e-03	2.201610e-02	0	0	1.518356e+01	6.998426e+01	DEFA6;DEFA5
+GO_Biological_Process_2021	killing by host of symbiont cells (GO:0051873)	1/16	1.114544e-02	2.340542e-02	0	0	1.024154e+02	4.605338e+02	DEFA5
+GO_Biological_Process_2021	regulation of cellular respiration (GO:0043457)	1/17	1.183819e-02	2.367638e-02	0	0	9.600962e+01	4.259394e+02	IL10RB
+GO_Biological_Process_2021	canonical glycolysis (GO:0061621)	1/24	1.667483e-02	3.038696e-02	0	0	6.676589e+01	2.733299e+02	ALDOB
+GO_Biological_Process_2021	glucose catabolic process to pyruvate (GO:0061718)	1/24	1.667483e-02	3.038696e-02	0	0	6.676589e+01	2.733299e+02	ALDOB
+GO_Biological_Process_2021	glycolytic process through glucose-6-phosphate (GO:0061620)	1/25	1.736398e-02	3.038696e-02	0	0	6.398077e+01	2.593369e+02	ALDOB
+GO_Biological_Process_2021	innate immune response (GO:0045087)	2/302	1.834625e-02	3.082170e-02	0	0	1.093667e+01	4.372840e+01	DEFA6;DEFA5
+GO_Biological_Process_2021	glycolytic process (GO:0006096)	1/29	2.011610e-02	3.238059e-02	0	0	5.482967e+01	2.141776e+02	ALDOB
+GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	2/323	2.081609e-02	3.238059e-02	0	0	1.021028e+01	3.953450e+01	DEFA6;DEFA5
+GO_Biological_Process_2021	positive regulation of receptor signaling pathway via STAT (GO:1904894)	1/32	2.217550e-02	3.310913e-02	0	0	4.951613e+01	1.885954e+02	IL10RB
+GO_Biological_Process_2021	positive regulation of receptor signaling pathway via JAK-STAT (GO:0046427)	1/33	2.286107e-02	3.310913e-02	0	0	4.796635e+01	1.812322e+02	IL10RB
+GO_Biological_Process_2021	carbohydrate catabolic process (GO:0016052)	1/41	2.832960e-02	3.692329e-02	0	0	3.835769e+01	1.367010e+02	ALDOB
+GO_Biological_Process_2021	gluconeogenesis (GO:0006094)	1/41	2.832960e-02	3.692329e-02	0	0	3.835769e+01	1.367010e+02	ALDOB
+GO_Biological_Process_2021	hexose metabolic process (GO:0019318)	1/41	2.832960e-02	3.692329e-02	0	0	3.835769e+01	1.367010e+02	ALDOB
+GO_Biological_Process_2021	positive regulation of ATPase activity (GO:0032781)	1/42	2.901116e-02	3.692329e-02	0	0	3.742026e+01	1.324705e+02	ALDOB
+GO_Biological_Process_2021	hexose biosynthetic process (GO:0019319)	1/44	3.037296e-02	3.726383e-02	0	0	3.567621e+01	1.246599e+02	ALDOB
+GO_Biological_Process_2021	regulation of receptor signaling pathway via JAK-STAT (GO:0046425)	1/45	3.105319e-02	3.726383e-02	0	0	3.486364e+01	1.210484e+02	IL10RB
+GO_Biological_Process_2021	pyruvate metabolic process (GO:0006090)	1/55	3.783119e-02	4.413639e-02	0	0	2.839316e+01	9.297685e+01	ALDOB
+GO_Biological_Process_2021	glucose metabolic process (GO:0006006)	1/62	4.254957e-02	4.829952e-02	0	0	2.512610e+01	7.932526e+01	ALDOB
+GO_Biological_Process_2021	positive regulation of cellular metabolic process (GO:0031325)	1/105	7.106577e-02	7.854638e-02	0	0	1.470562e+01	3.888386e+01	IL10RB
+GO_Biological_Process_2021	phosphate-containing compound metabolic process (GO:0006796)	1/212	1.386380e-01	1.493025e-01	0	0	7.209260e+00	1.424470e+01	ALDOB
+GO_Biological_Process_2021	inflammatory response (GO:0006954)	1/230	1.495464e-01	1.570237e-01	0	0	6.636547e+00	1.261043e+01	IL10RB
+GO_Biological_Process_2021	cellular response to cytokine stimulus (GO:0071345)	1/482	2.893988e-01	2.964573e-01	0	0	3.119303e+00	3.867778e+00	IL10RB
+GO_Biological_Process_2021	cytokine-mediated signaling pathway (GO:0019221)	1/621	3.570812e-01	3.570812e-01	0	0	2.402730e+00	2.474312e+00	IL10RB

@@ -1,0 +1,64 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	3/64	2.589199e-06	1.631196e-04	0	0	1.633607e+02	2.101498e+03	REG3A;DEFA6;DEFA5
+GO_Biological_Process_2021	innate immune response in mucosa (GO:0002227)	2/21	3.763275e-05	1.185432e-03	0	0	3.003308e+02	3.059661e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	mucosal immune response (GO:0002385)	2/28	6.762873e-05	1.420203e-03	0	0	2.193956e+02	2.106522e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	antibacterial humoral response (GO:0019731)	2/44	1.686211e-04	2.655782e-03	0	0	1.357075e+02	1.179007e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	defense response to Gram-positive bacterium (GO:0050830)	2/70	4.278628e-04	4.885377e-03	0	0	8.371008e+01	6.493147e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	defense response to Gram-negative bacterium (GO:0050829)	2/73	4.652740e-04	4.885377e-03	0	0	8.016097e+01	6.150658e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	cellular response to molecule of bacterial origin (GO:0071219)	2/115	1.149208e-03	9.846176e-03	0	0	5.026043e+01	3.401969e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	cellular response to lipopolysaccharide (GO:0071222)	2/120	1.250308e-03	9.846176e-03	0	0	4.811864e+01	3.216426e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	response to lipopolysaccharide (GO:0032496)	2/159	2.179652e-03	1.287583e-02	0	0	3.609463e+01	2.212092e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	negative regulation of keratinocyte differentiation (GO:0045617)	1/5	2.248161e-03	1.287583e-02	0	0	6.245938e+02	3.808550e+03	REG3A
+GO_Biological_Process_2021	positive regulation of membrane permeability (GO:1905710)	1/5	2.248161e-03	1.287583e-02	0	0	6.245938e+02	3.808550e+03	DEFA5
+GO_Biological_Process_2021	defense response to bacterium (GO:0042742)	2/176	2.661698e-03	1.307132e-02	0	0	3.254023e+01	1.929242e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	regulation of neutrophil extravasation (GO:2000389)	1/6	2.697256e-03	1.307132e-02	0	0	4.996500e+02	2.955690e+03	OLFM4
+GO_Biological_Process_2021	negative regulation of epidermal cell differentiation (GO:0045605)	1/7	3.146172e-03	1.321392e-02	0	0	4.163542e+02	2.398853e+03	REG3A
+GO_Biological_Process_2021	regulation of necrotic cell death (GO:0010939)	1/7	3.146172e-03	1.321392e-02	0	0	4.163542e+02	2.398853e+03	OLFM4
+GO_Biological_Process_2021	regulation of cellular extravasation (GO:0002691)	1/9	4.043466e-03	1.513687e-02	0	0	3.122344e+02	1.720615e+03	OLFM4
+GO_Biological_Process_2021	cellular response to lipid (GO:0071396)	2/219	4.084553e-03	1.513687e-02	0	0	2.603555e+01	1.432097e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	regulation of neutrophil migration (GO:1902622)	1/10	4.491844e-03	1.572145e-02	0	0	2.775278e+02	1.500174e+03	OLFM4
+GO_Biological_Process_2021	positive regulation of keratinocyte proliferation (GO:0010838)	1/11	4.940043e-03	1.638014e-02	0	0	2.497625e+02	1.326334e+03	REG3A
+GO_Biological_Process_2021	killing by host of symbiont cells (GO:0051873)	1/16	7.178350e-03	2.261180e-02	0	0	1.664667e+02	8.217936e+02	DEFA5
+GO_Biological_Process_2021	innate immune response (GO:0045087)	2/302	7.627618e-03	2.288285e-02	0	0	1.875333e+01	9.144087e+01	DEFA6;DEFA5
+GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	2/323	8.684414e-03	2.486900e-02	0	0	1.750779e+01	8.309591e+01	DEFA6;DEFA5
+GO_Biological_Process_2021	regulation of keratinocyte proliferation (GO:0010837)	1/24	1.075034e-02	2.944658e-02	0	0	1.085217e+02	4.919093e+02	REG3A
+GO_Biological_Process_2021	positive regulation of response to wounding (GO:1903036)	1/28	1.253205e-02	3.289662e-02	0	0	9.242593e+01	4.047762e+02	REG3A
+GO_Biological_Process_2021	regulation of keratinocyte differentiation (GO:0045616)	1/34	1.519926e-02	3.644886e-02	0	0	7.559848e+01	3.164937e+02	REG3A
+GO_Biological_Process_2021	positive regulation of substrate adhesion-dependent cell spreading (GO:1900026)	1/36	1.608691e-02	3.644886e-02	0	0	7.127143e+01	2.943331e+02	OLFM4
+GO_Biological_Process_2021	response to peptide (GO:1901652)	1/39	1.741705e-02	3.644886e-02	0	0	6.563487e+01	2.658413e+02	REG3A
+GO_Biological_Process_2021	positive regulation of wound healing (GO:0090303)	1/40	1.786007e-02	3.644886e-02	0	0	6.394872e+01	2.574056e+02	REG3A
+GO_Biological_Process_2021	neutrophil degranulation (GO:0043312)	2/481	1.857834e-02	3.644886e-02	0	0	1.163853e+01	4.638839e+01	OLFM4;PRSS2
+GO_Biological_Process_2021	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules (GO:0007157)	1/42	1.874559e-02	3.644886e-02	0	0	6.082317e+01	2.418814e+02	REG3A
+GO_Biological_Process_2021	nucleic acid-templated transcription (GO:0097659)	1/42	1.874559e-02	3.644886e-02	0	0	6.082317e+01	2.418814e+02	PTMA
+GO_Biological_Process_2021	neutrophil activation involved in immune response (GO:0002283)	2/485	1.887125e-02	3.644886e-02	0	0	1.153978e+01	4.581426e+01	OLFM4;PRSS2
+GO_Biological_Process_2021	neutrophil mediated immunity (GO:0002446)	2/488	1.909226e-02	3.644886e-02	0	0	1.146678e+01	4.539095e+01	OLFM4;PRSS2
+GO_Biological_Process_2021	regulation of wound healing (GO:0061041)	1/47	2.095627e-02	3.883074e-02	0	0	5.419837e+01	2.094939e+02	REG3A
+GO_Biological_Process_2021	positive regulation of cell morphogenesis involved in differentiation (GO:0010770)	1/50	2.228056e-02	3.943891e-02	0	0	5.087245e+01	1.935209e+02	OLFM4
+GO_Biological_Process_2021	regulation of substrate adhesion-dependent cell spreading (GO:1900024)	1/51	2.272163e-02	3.943891e-02	0	0	4.985250e+01	1.886637e+02	OLFM4
+GO_Biological_Process_2021	response to peptide hormone (GO:0043434)	1/52	2.316253e-02	3.943891e-02	0	0	4.887255e+01	1.840159e+02	REG3A
+GO_Biological_Process_2021	regulation of phagocytosis (GO:0050764)	1/58	2.580421e-02	4.278066e-02	0	0	4.371491e+01	1.598750e+02	OLFM4
+GO_Biological_Process_2021	cellular component disassembly (GO:0022411)	1/66	2.931657e-02	4.617359e-02	0	0	3.831923e+01	1.352517e+02	PRSS2
+GO_Biological_Process_2021	extracellular matrix disassembly (GO:0022617)	1/66	2.931657e-02	4.617359e-02	0	0	3.831923e+01	1.352517e+02	PRSS2
+GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	2/625	3.034114e-02	4.660278e-02	0	0	8.882366e+00	3.104610e+01	REG3A;PRSS2
+GO_Biological_Process_2021	positive regulation of cell-substrate adhesion (GO:0010811)	1/70	3.106852e-02	4.660278e-02	0	0	3.609058e+01	1.252906e+02	OLFM4
+GO_Biological_Process_2021	positive regulation of growth (GO:0045927)	1/76	3.369118e-02	4.936150e-02	0	0	3.319333e+01	1.125426e+02	PRSS2
+GO_Biological_Process_2021	positive regulation of cell adhesion (GO:0045785)	1/80	3.543612e-02	5.073808e-02	0	0	3.150633e+01	1.052319e+02	PRSS2
+GO_Biological_Process_2021	regulation of apoptotic process (GO:0042981)	2/742	4.161733e-02	5.805296e-02	0	0	7.432819e+00	2.363070e+01	OLFM4;PTMA
+GO_Biological_Process_2021	regulation of vesicle-mediated transport (GO:0060627)	1/96	4.238788e-02	5.805296e-02	0	0	2.617895e+01	8.274885e+01	OLFM4
+GO_Biological_Process_2021	regulation of cell death (GO:0010941)	1/102	4.498329e-02	5.904056e-02	0	0	2.461634e+01	7.634669e+01	OLFM4
+GO_Biological_Process_2021	positive regulation of cell growth (GO:0030307)	1/102	4.498329e-02	5.904056e-02	0	0	2.461634e+01	7.634669e+01	PRSS2
+GO_Biological_Process_2021	positive regulation of epithelial cell proliferation (GO:0050679)	1/123	5.401804e-02	6.945177e-02	0	0	2.035758e+01	5.941232e+01	REG3A
+GO_Biological_Process_2021	regulation of cell adhesion (GO:0030155)	1/133	5.829354e-02	7.344987e-02	0	0	1.880587e+01	5.345125e+01	PRSS2
+GO_Biological_Process_2021	cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742)	1/170	7.396395e-02	9.136723e-02	0	0	1.466124e+01	3.818048e+01	REG3A
+GO_Biological_Process_2021	regulation of programmed cell death (GO:0043067)	1/194	8.400418e-02	1.017743e-01	0	0	1.282254e+01	3.176000e+01	OLFM4
+GO_Biological_Process_2021	negative regulation of multicellular organismal process (GO:0051241)	1/214	9.229700e-02	1.090286e-01	0	0	1.160681e+01	2.765605e+01	REG3A
+GO_Biological_Process_2021	regulation of cell growth (GO:0001558)	1/217	9.353515e-02	1.090286e-01	0	0	1.144387e+01	2.711530e+01	PRSS2
+GO_Biological_Process_2021	transcription, DNA-templated (GO:0006351)	1/221	9.518368e-02	1.090286e-01	0	0	1.123352e+01	2.642065e+01	PTMA
+GO_Biological_Process_2021	proteolysis (GO:0006508)	1/287	1.220024e-01	1.372527e-01	0	0	8.612325e+00	1.811787e+01	PRSS2
+GO_Biological_Process_2021	extracellular matrix organization (GO:0030198)	1/300	1.272008e-01	1.405904e-01	0	0	8.232441e+00	1.697520e+01	PRSS2
+GO_Biological_Process_2021	cellular macromolecule biosynthetic process (GO:0034645)	1/314	1.327684e-01	1.442140e-01	0	0	7.858626e+00	1.586773e+01	PTMA
+GO_Biological_Process_2021	gene expression (GO:0010467)	1/356	1.492825e-01	1.594033e-01	0	0	6.914085e+00	1.315000e+01	PTMA
+GO_Biological_Process_2021	negative regulation of programmed cell death (GO:0043069)	1/381	1.589790e-01	1.669279e-01	0	0	6.450987e+00	1.186326e+01	PTMA
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	1/474	1.941934e-01	2.005604e-01	0	0	5.158034e+00	8.453506e+00	REG3A
+GO_Biological_Process_2021	negative regulation of apoptotic process (GO:0043066)	1/485	1.982706e-01	2.014685e-01	0	0	5.037965e+00	8.152045e+00	PTMA
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	1/764	2.957413e-01	2.957413e-01	0	0	3.150066e+00	3.837631e+00	REG3A

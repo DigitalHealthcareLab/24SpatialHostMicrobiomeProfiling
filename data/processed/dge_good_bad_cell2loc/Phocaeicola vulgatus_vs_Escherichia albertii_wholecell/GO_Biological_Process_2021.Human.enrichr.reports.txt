@@ -1,0 +1,92 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	triglyceride catabolic process (GO:0019433)	2/23	1.892180e-05	1.721884e-03	0	0	4.755476e+02	5.171673e+03	FABP6;APOC3
+GO_Biological_Process_2021	acylglycerol catabolic process (GO:0046464)	2/35	4.442907e-05	2.021523e-03	0	0	3.024394e+02	3.030932e+03	FABP6;APOC3
+GO_Biological_Process_2021	cholesterol transport (GO:0030301)	2/51	9.500271e-05	2.515952e-03	0	0	2.035204e+02	1.884926e+03	APOC3;CEL
+GO_Biological_Process_2021	triglyceride metabolic process (GO:0006641)	2/55	1.105913e-04	2.515952e-03	0	0	1.881226e+02	1.713735e+03	FABP6;APOC3
+GO_Biological_Process_2021	negative regulation of lipoprotein lipase activity (GO:0051005)	1/6	1.798841e-03	9.913481e-03	0	0	7.995600e+02	5.053709e+03	APOC3
+GO_Biological_Process_2021	negative regulation of lipoprotein particle clearance (GO:0010985)	1/6	1.798841e-03	9.913481e-03	0	0	7.995600e+02	5.053709e+03	APOC3
+GO_Biological_Process_2021	negative regulation of triglyceride metabolic process (GO:0090209)	1/6	1.798841e-03	9.913481e-03	0	0	7.995600e+02	5.053709e+03	APOC3
+GO_Biological_Process_2021	regulation of very-low-density lipoprotein particle remodeling (GO:0010901)	1/6	1.798841e-03	9.913481e-03	0	0	7.995600e+02	5.053709e+03	APOC3
+GO_Biological_Process_2021	chylomicron remnant clearance (GO:0034382)	1/7	2.098387e-03	9.913481e-03	0	0	6.662667e+02	4.108591e+03	APOC3
+GO_Biological_Process_2021	negative regulation of cell cycle phase transition (GO:1901988)	1/7	2.098387e-03	9.913481e-03	0	0	6.662667e+02	4.108591e+03	SUSD2
+GO_Biological_Process_2021	regulation of Cdc42 protein signal transduction (GO:0032489)	1/8	2.397859e-03	9.913481e-03	0	0	5.710571e+02	3.445290e+03	APOC3
+GO_Biological_Process_2021	cholesterol catabolic process (GO:0006707)	1/9	2.697256e-03	9.913481e-03	0	0	4.996500e+02	2.955690e+03	CEL
+GO_Biological_Process_2021	negative regulation of lipase activity (GO:0060192)	1/9	2.697256e-03	9.913481e-03	0	0	4.996500e+02	2.955690e+03	APOC3
+GO_Biological_Process_2021	chylomicron remodeling (GO:0034371)	1/9	2.697256e-03	9.913481e-03	0	0	4.996500e+02	2.955690e+03	APOC3
+GO_Biological_Process_2021	postsynaptic membrane assembly (GO:0097104)	1/9	2.697256e-03	9.913481e-03	0	0	4.996500e+02	2.955690e+03	CEL
+GO_Biological_Process_2021	sterol catabolic process (GO:0016127)	1/9	2.697256e-03	9.913481e-03	0	0	4.996500e+02	2.955690e+03	CEL
+GO_Biological_Process_2021	intestinal cholesterol absorption (GO:0030299)	1/9	2.697256e-03	9.913481e-03	0	0	4.996500e+02	2.955690e+03	CEL
+GO_Biological_Process_2021	chylomicron assembly (GO:0034378)	1/10	2.996578e-03	9.913481e-03	0	0	4.441111e+02	2.580412e+03	APOC3
+GO_Biological_Process_2021	regulation of low-density lipoprotein particle clearance (GO:0010988)	1/10	2.996578e-03	9.913481e-03	0	0	4.441111e+02	2.580412e+03	APOC3
+GO_Biological_Process_2021	presynaptic membrane assembly (GO:0097105)	1/10	2.996578e-03	9.913481e-03	0	0	4.441111e+02	2.580412e+03	CEL
+GO_Biological_Process_2021	ribonucleoside bisphosphate biosynthetic process (GO:0034030)	1/11	3.295826e-03	9.913481e-03	0	0	3.996800e+02	2.284211e+03	PANK3
+GO_Biological_Process_2021	coenzyme A biosynthetic process (GO:0015937)	1/11	3.295826e-03	9.913481e-03	0	0	3.996800e+02	2.284211e+03	PANK3
+GO_Biological_Process_2021	purine nucleoside bisphosphate biosynthetic process (GO:0034033)	1/11	3.295826e-03	9.913481e-03	0	0	3.996800e+02	2.284211e+03	PANK3
+GO_Biological_Process_2021	alcohol catabolic process (GO:0046164)	1/11	3.295826e-03	9.913481e-03	0	0	3.996800e+02	2.284211e+03	CEL
+GO_Biological_Process_2021	postsynapse assembly (GO:0099068)	1/11	3.295826e-03	9.913481e-03	0	0	3.996800e+02	2.284211e+03	CEL
+GO_Biological_Process_2021	intestinal lipid absorption (GO:0098856)	1/11	3.295826e-03	9.913481e-03	0	0	3.996800e+02	2.284211e+03	CEL
+GO_Biological_Process_2021	negative regulation of cholesterol transport (GO:0032375)	1/11	3.295826e-03	9.913481e-03	0	0	3.996800e+02	2.284211e+03	APOC3
+GO_Biological_Process_2021	presynaptic membrane organization (GO:0097090)	1/11	3.295826e-03	9.913481e-03	0	0	3.996800e+02	2.284211e+03	CEL
+GO_Biological_Process_2021	phospholipid efflux (GO:0033700)	1/12	3.594998e-03	9.913481e-03	0	0	3.633273e+02	2.044883e+03	APOC3
+GO_Biological_Process_2021	negative regulation of fatty acid biosynthetic process (GO:0045717)	1/12	3.594998e-03	9.913481e-03	0	0	3.633273e+02	2.044883e+03	APOC3
+GO_Biological_Process_2021	negative regulation of cell division (GO:0051782)	1/12	3.594998e-03	9.913481e-03	0	0	3.633273e+02	2.044883e+03	SUSD2
+GO_Biological_Process_2021	regulation of triglyceride catabolic process (GO:0010896)	1/12	3.594998e-03	9.913481e-03	0	0	3.633273e+02	2.044883e+03	APOC3
+GO_Biological_Process_2021	very-low-density lipoprotein particle assembly (GO:0034379)	1/12	3.594998e-03	9.913481e-03	0	0	3.633273e+02	2.044883e+03	APOC3
+GO_Biological_Process_2021	triglyceride-rich lipoprotein particle remodeling (GO:0034370)	1/13	3.894096e-03	1.042243e-02	0	0	3.330333e+02	1.847767e+03	APOC3
+GO_Biological_Process_2021	coenzyme A metabolic process (GO:0015936)	1/14	4.193120e-03	1.090211e-02	0	0	3.074000e+02	1.682803e+03	PANK3
+GO_Biological_Process_2021	neuron cell-cell adhesion (GO:0007158)	1/16	4.790942e-03	1.195977e-02	0	0	2.663867e+02	1.422779e+03	CEL
+GO_Biological_Process_2021	reverse cholesterol transport (GO:0043691)	1/17	5.089741e-03	1.195977e-02	0	0	2.497250e+02	1.318680e+03	APOC3
+GO_Biological_Process_2021	negative regulation of fatty acid metabolic process (GO:0045922)	1/17	5.089741e-03	1.195977e-02	0	0	2.497250e+02	1.318680e+03	APOC3
+GO_Biological_Process_2021	negative regulation of lipid catabolic process (GO:0050995)	1/18	5.388466e-03	1.195977e-02	0	0	2.350235e+02	1.227644e+03	APOC3
+GO_Biological_Process_2021	high-density lipoprotein particle remodeling (GO:0034375)	1/18	5.388466e-03	1.195977e-02	0	0	2.350235e+02	1.227644e+03	APOC3
+GO_Biological_Process_2021	presynapse assembly (GO:0099054)	1/18	5.388466e-03	1.195977e-02	0	0	2.350235e+02	1.227644e+03	CEL
+GO_Biological_Process_2021	postsynaptic membrane organization (GO:0001941)	1/19	5.687116e-03	1.232208e-02	0	0	2.219556e+02	1.147411e+03	CEL
+GO_Biological_Process_2021	regulation of lipid catabolic process (GO:0050994)	1/21	6.284191e-03	1.299685e-02	0	0	1.997400e+02	1.012625e+03	APOC3
+GO_Biological_Process_2021	regulation of lipoprotein lipase activity (GO:0051004)	1/21	6.284191e-03	1.299685e-02	0	0	1.997400e+02	1.012625e+03	APOC3
+GO_Biological_Process_2021	negative regulation of lipid biosynthetic process (GO:0051055)	1/22	6.582617e-03	1.331151e-02	0	0	1.902190e+02	9.555317e+02	APOC3
+GO_Biological_Process_2021	cholesterol efflux (GO:0033344)	1/24	7.179245e-03	1.386227e-02	0	0	1.736609e+02	8.572875e+02	APOC3
+GO_Biological_Process_2021	negative regulation of lipid metabolic process (GO:0045833)	1/24	7.179245e-03	1.386227e-02	0	0	1.736609e+02	8.572875e+02	APOC3
+GO_Biological_Process_2021	negative regulation of endocytosis (GO:0045806)	1/25	7.477447e-03	1.386227e-02	0	0	1.664167e+02	8.147533e+02	APOC3
+GO_Biological_Process_2021	acylglycerol homeostasis (GO:0055090)	1/25	7.477447e-03	1.386227e-02	0	0	1.664167e+02	8.147533e+02	APOC3
+GO_Biological_Process_2021	negative regulation of receptor-mediated endocytosis (GO:0048261)	1/26	7.775574e-03	1.386227e-02	0	0	1.597520e+02	7.758784e+02	APOC3
+GO_Biological_Process_2021	monocarboxylic acid catabolic process (GO:0072329)	1/27	8.073627e-03	1.386227e-02	0	0	1.536000e+02	7.402218e+02	CEL
+GO_Biological_Process_2021	cellular lipid catabolic process (GO:0044242)	1/27	8.073627e-03	1.386227e-02	0	0	1.536000e+02	7.402218e+02	CEL
+GO_Biological_Process_2021	presynaptic endocytosis (GO:0140238)	1/27	8.073627e-03	1.386227e-02	0	0	1.536000e+02	7.402218e+02	CEL
+GO_Biological_Process_2021	regulation of fatty acid biosynthetic process (GO:0042304)	1/29	8.669509e-03	1.434410e-02	0	0	1.426143e+02	6.771245e+02	APOC3
+GO_Biological_Process_2021	lipid catabolic process (GO:0016042)	1/29	8.669509e-03	1.434410e-02	0	0	1.426143e+02	6.771245e+02	CEL
+GO_Biological_Process_2021	triglyceride homeostasis (GO:0070328)	1/31	9.265092e-03	1.505577e-02	0	0	1.330933e+02	6.230766e+02	APOC3
+GO_Biological_Process_2021	synaptic vesicle recycling (GO:0036465)	1/34	1.015791e-02	1.604098e-02	0	0	1.209758e+02	5.552186e+02	CEL
+GO_Biological_Process_2021	regulation of trans-synaptic signaling (GO:0099177)	1/35	1.045537e-02	1.604098e-02	0	0	1.174118e+02	5.354728e+02	CEL
+GO_Biological_Process_2021	negative regulation of cell cycle G1/S phase transition (GO:1902807)	1/35	1.045537e-02	1.604098e-02	0	0	1.174118e+02	5.354728e+02	SUSD2
+GO_Biological_Process_2021	regulation of cell cycle G1/S phase transition (GO:1902806)	1/36	1.075275e-02	1.604098e-02	0	0	1.140514e+02	5.169488e+02	SUSD2
+GO_Biological_Process_2021	membrane assembly (GO:0071709)	1/36	1.075275e-02	1.604098e-02	0	0	1.140514e+02	5.169488e+02	CEL
+GO_Biological_Process_2021	negative regulation of cellular process (GO:0048523)	2/566	1.111881e-02	1.631954e-02	0	0	1.722518e+01	7.749809e+01	FABP6;SUSD2
+GO_Biological_Process_2021	synaptic vesicle endocytosis (GO:0048488)	1/38	1.134729e-02	1.639053e-02	0	0	1.078757e+02	4.831510e+02	CEL
+GO_Biological_Process_2021	regulation of receptor-mediated endocytosis (GO:0048259)	1/39	1.164445e-02	1.655695e-02	0	0	1.050316e+02	4.676978e+02	APOC3
+GO_Biological_Process_2021	acylglycerol metabolic process (GO:0006639)	1/41	1.223854e-02	1.713396e-02	0	0	9.977000e+01	4.393038e+02	APOC3
+GO_Biological_Process_2021	purine ribonucleotide biosynthetic process (GO:0009152)	1/48	1.431553e-02	1.973808e-02	0	0	8.488085e+01	3.604389e+02	PANK3
+GO_Biological_Process_2021	negative regulation of catabolic process (GO:0009895)	1/49	1.461194e-02	1.984607e-02	0	0	8.310833e+01	3.512088e+02	APOC3
+GO_Biological_Process_2021	negative regulation of cellular biosynthetic process (GO:0031327)	1/52	1.550074e-02	2.074364e-02	0	0	7.820784e+01	3.258817e+02	APOC3
+GO_Biological_Process_2021	negative regulation of metabolic process (GO:0009892)	1/56	1.668477e-02	2.200455e-02	0	0	7.250545e+01	2.967836e+02	APOC3
+GO_Biological_Process_2021	phospholipid transport (GO:0015914)	1/59	1.757201e-02	2.284362e-02	0	0	6.874483e+01	2.778286e+02	APOC3
+GO_Biological_Process_2021	diterpenoid metabolic process (GO:0016101)	1/64	1.904927e-02	2.441526e-02	0	0	6.327302e+01	2.506071e+02	APOC3
+GO_Biological_Process_2021	negative regulation of cellular catabolic process (GO:0031330)	1/69	2.052467e-02	2.594090e-02	0	0	5.860588e+01	2.277499e+02	APOC3
+GO_Biological_Process_2021	fatty acid catabolic process (GO:0009062)	1/70	2.081953e-02	2.595311e-02	0	0	5.775362e+01	2.236142e+02	CEL
+GO_Biological_Process_2021	cholesterol homeostasis (GO:0042632)	1/71	2.111432e-02	2.596490e-02	0	0	5.692571e+01	2.196082e+02	APOC3
+GO_Biological_Process_2021	sterol homeostasis (GO:0055092)	1/72	2.140903e-02	2.597628e-02	0	0	5.612113e+01	2.157264e+02	APOC3
+GO_Biological_Process_2021	regulation of Rho protein signal transduction (GO:0035023)	1/73	2.170366e-02	2.598728e-02	0	0	5.533889e+01	2.119631e+02	APOC3
+GO_Biological_Process_2021	regulation of cell division (GO:0051302)	1/76	2.258713e-02	2.669388e-02	0	0	5.311733e+01	2.013346e+02	SUSD2
+GO_Biological_Process_2021	cholesterol metabolic process (GO:0008203)	1/77	2.288147e-02	2.669505e-02	0	0	5.241579e+01	1.979969e+02	CEL
+GO_Biological_Process_2021	negative regulation of cellular component organization (GO:0051129)	1/80	2.376405e-02	2.737378e-02	0	0	5.041772e+01	1.885412e+02	APOC3
+GO_Biological_Process_2021	retinoid metabolic process (GO:0001523)	1/92	2.728773e-02	3.065659e-02	0	0	4.374286e+01	1.575319e+02	APOC3
+GO_Biological_Process_2021	regulation of lipid metabolic process (GO:0019216)	1/92	2.728773e-02	3.065659e-02	0	0	4.374286e+01	1.575319e+02	APOC3
+GO_Biological_Process_2021	modulation of chemical synaptic transmission (GO:0050804)	1/109	3.226147e-02	3.580237e-02	0	0	3.682593e+01	1.264559e+02	CEL
+GO_Biological_Process_2021	fatty acid metabolic process (GO:0006631)	1/124	3.663245e-02	4.016329e-02	0	0	3.231057e+01	1.068453e+02	CEL
+GO_Biological_Process_2021	phosphate-containing compound metabolic process (GO:0006796)	1/212	6.194551e-02	6.692707e-02	0	0	1.875166e+01	5.215774e+01	PANK3
+GO_Biological_Process_2021	negative regulation of multicellular organismal process (GO:0051241)	1/214	6.251430e-02	6.692707e-02	0	0	1.857371e+01	5.149301e+01	APOC3
+GO_Biological_Process_2021	anterograde trans-synaptic signaling (GO:0098916)	1/244	7.101172e-02	7.514031e-02	0	0	1.625597e+01	4.299558e+01	CEL
+GO_Biological_Process_2021	chemical synaptic transmission (GO:0007268)	1/306	8.836979e-02	9.243277e-02	0	0	1.291082e+01	3.132455e+01	CEL
+GO_Biological_Process_2021	negative regulation of cell population proliferation (GO:0008285)	1/379	1.084602e-01	1.121577e-01	0	0	1.037884e+01	2.305525e+01	FABP6
+GO_Biological_Process_2021	phosphorylation (GO:0016310)	1/400	1.141708e-01	1.167365e-01	0	0	9.822055e+00	2.131444e+01	PANK3
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	1/764	2.084180e-01	2.107337e-01	0	0	5.040891e+00	7.905175e+00	FABP6
+GO_Biological_Process_2021	cellular protein modification process (GO:0006464)	1/1025	2.707215e-01	2.707215e-01	0	0	3.705078e+00	4.841295e+00	CEL

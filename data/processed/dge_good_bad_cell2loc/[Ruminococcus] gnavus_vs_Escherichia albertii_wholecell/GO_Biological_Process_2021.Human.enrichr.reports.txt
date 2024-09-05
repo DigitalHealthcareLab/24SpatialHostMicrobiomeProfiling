@@ -1,0 +1,35 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	negative regulation of cell cycle phase transition (GO:1901988)	1/7	6.998774e-04	3.707991e-03	0	0	3.332000e+03	2.420567e+04	SUSD2
+GO_Biological_Process_2021	cholesterol catabolic process (GO:0006707)	1/9	8.997989e-04	3.707991e-03	0	0	2.498750e+03	1.752458e+04	CEL
+GO_Biological_Process_2021	postsynaptic membrane assembly (GO:0097104)	1/9	8.997989e-04	3.707991e-03	0	0	2.498750e+03	1.752458e+04	CEL
+GO_Biological_Process_2021	sterol catabolic process (GO:0016127)	1/9	8.997989e-04	3.707991e-03	0	0	2.498750e+03	1.752458e+04	CEL
+GO_Biological_Process_2021	intestinal cholesterol absorption (GO:0030299)	1/9	8.997989e-04	3.707991e-03	0	0	2.498750e+03	1.752458e+04	CEL
+GO_Biological_Process_2021	presynaptic membrane assembly (GO:0097105)	1/10	9.997522e-04	3.707991e-03	0	0	2.221000e+03	1.534267e+04	CEL
+GO_Biological_Process_2021	alcohol catabolic process (GO:0046164)	1/11	1.099701e-03	3.707991e-03	0	0	1.998800e+03	1.361726e+04	CEL
+GO_Biological_Process_2021	postsynapse assembly (GO:0099068)	1/11	1.099701e-03	3.707991e-03	0	0	1.998800e+03	1.361726e+04	CEL
+GO_Biological_Process_2021	intestinal lipid absorption (GO:0098856)	1/11	1.099701e-03	3.707991e-03	0	0	1.998800e+03	1.361726e+04	CEL
+GO_Biological_Process_2021	presynaptic membrane organization (GO:0097090)	1/11	1.099701e-03	3.707991e-03	0	0	1.998800e+03	1.361726e+04	CEL
+GO_Biological_Process_2021	negative regulation of cell division (GO:0051782)	1/12	1.199644e-03	3.707991e-03	0	0	1.817000e+03	1.222065e+04	SUSD2
+GO_Biological_Process_2021	neuron cell-cell adhesion (GO:0007158)	1/16	1.599368e-03	4.531544e-03	0	0	1.332200e+03	8.576899e+03	CEL
+GO_Biological_Process_2021	presynapse assembly (GO:0099054)	1/18	1.799201e-03	4.612123e-03	0	0	1.175353e+03	7.428716e+03	CEL
+GO_Biological_Process_2021	postsynaptic membrane organization (GO:0001941)	1/19	1.899109e-03	4.612123e-03	0	0	1.110000e+03	6.955671e+03	CEL
+GO_Biological_Process_2021	monocarboxylic acid catabolic process (GO:0072329)	1/27	2.698200e-03	5.317002e-03	0	0	7.681538e+02	4.543761e+03	CEL
+GO_Biological_Process_2021	cellular lipid catabolic process (GO:0044242)	1/27	2.698200e-03	5.317002e-03	0	0	7.681538e+02	4.543761e+03	CEL
+GO_Biological_Process_2021	presynaptic endocytosis (GO:0140238)	1/27	2.698200e-03	5.317002e-03	0	0	7.681538e+02	4.543761e+03	CEL
+GO_Biological_Process_2021	lipid catabolic process (GO:0016042)	1/29	2.897923e-03	5.317002e-03	0	0	7.132143e+02	4.167854e+03	CEL
+GO_Biological_Process_2021	synaptic vesicle recycling (GO:0036465)	1/34	3.397142e-03	5.317002e-03	0	0	6.050000e+02	3.439317e+03	CEL
+GO_Biological_Process_2021	negative regulation of cell cycle G1/S phase transition (GO:1902807)	1/35	3.496971e-03	5.317002e-03	0	0	5.871765e+02	3.320987e+03	SUSD2
+GO_Biological_Process_2021	regulation of trans-synaptic signaling (GO:0099177)	1/35	3.496971e-03	5.317002e-03	0	0	5.871765e+02	3.320987e+03	CEL
+GO_Biological_Process_2021	membrane assembly (GO:0071709)	1/36	3.596795e-03	5.317002e-03	0	0	5.703714e+02	3.209886e+03	CEL
+GO_Biological_Process_2021	regulation of cell cycle G1/S phase transition (GO:1902806)	1/36	3.596795e-03	5.317002e-03	0	0	5.703714e+02	3.209886e+03	SUSD2
+GO_Biological_Process_2021	synaptic vesicle endocytosis (GO:0048488)	1/38	3.796428e-03	5.378274e-03	0	0	5.394865e+02	3.006933e+03	CEL
+GO_Biological_Process_2021	cholesterol transport (GO:0030301)	1/51	5.093557e-03	6.927237e-03	0	0	3.989600e+02	2.106421e+03	CEL
+GO_Biological_Process_2021	fatty acid catabolic process (GO:0009062)	1/70	6.987842e-03	9.137947e-03	0	0	2.888261e+02	1.433612e+03	CEL
+GO_Biological_Process_2021	regulation of cell division (GO:0051302)	1/76	7.585662e-03	9.332128e-03	0	0	2.656400e+02	1.296720e+03	SUSD2
+GO_Biological_Process_2021	cholesterol metabolic process (GO:0008203)	1/77	7.685282e-03	9.332128e-03	0	0	2.621316e+02	1.276174e+03	CEL
+GO_Biological_Process_2021	modulation of chemical synaptic transmission (GO:0050804)	1/109	1.087046e-02	1.274468e-02	0	0	1.841667e+02	8.327475e+02	CEL
+GO_Biological_Process_2021	fatty acid metabolic process (GO:0006631)	1/124	1.236175e-02	1.400999e-02	0	0	1.615854e+02	7.098684e+02	CEL
+GO_Biological_Process_2021	anterograde trans-synaptic signaling (GO:0098916)	1/244	2.425160e-02	2.659853e-02	0	0	8.129630e+01	3.023631e+02	CEL
+GO_Biological_Process_2021	chemical synaptic transmission (GO:0007268)	1/306	3.036648e-02	3.226438e-02	0	0	6.456721e+01	2.256247e+02	CEL
+GO_Biological_Process_2021	negative regulation of cellular process (GO:0048523)	1/566	5.580025e-02	5.749116e-02	0	0	3.439469e+01	9.926229e+01	SUSD2
+GO_Biological_Process_2021	cellular protein modification process (GO:0006464)	1/1025	9.987557e-02	9.987557e-02	0	0	1.852930e+01	4.268835e+01	CEL

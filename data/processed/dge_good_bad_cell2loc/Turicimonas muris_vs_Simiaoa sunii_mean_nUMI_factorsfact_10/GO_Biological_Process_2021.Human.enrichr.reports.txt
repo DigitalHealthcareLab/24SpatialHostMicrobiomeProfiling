@@ -1,0 +1,55 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	negative regulation of cellular respiration (GO:1901856)	1/5	9.996772e-04	1.684442e-02	0	0	1.666000e+03	1.150886e+04	MLXIPL
+GO_Biological_Process_2021	polyamine biosynthetic process (GO:0006596)	1/7	1.399341e-03	1.684442e-02	0	0	1.110556e+03	7.298298e+03	SAT1
+GO_Biological_Process_2021	spermidine metabolic process (GO:0008216)	1/8	1.599128e-03	1.684442e-02	0	0	9.518571e+02	6.128339e+03	SAT1
+GO_Biological_Process_2021	fatty acid homeostasis (GO:0055089)	1/11	2.198311e-03	1.684442e-02	0	0	6.662000e+02	4.077188e+03	MLXIPL
+GO_Biological_Process_2021	positive regulation of fatty acid biosynthetic process (GO:0045723)	1/13	2.597617e-03	1.684442e-02	0	0	5.551111e+02	3.304666e+03	MLXIPL
+GO_Biological_Process_2021	polyamine metabolic process (GO:0006595)	1/13	2.597617e-03	1.684442e-02	0	0	5.551111e+02	3.304666e+03	SAT1
+GO_Biological_Process_2021	regulation of oxidative phosphorylation (GO:0002082)	1/16	3.196351e-03	1.684442e-02	0	0	4.440222e+02	2.551239e+03	MLXIPL
+GO_Biological_Process_2021	negative regulation of ATP metabolic process (GO:1903579)	1/17	3.395869e-03	1.684442e-02	0	0	4.162500e+02	2.366463e+03	MLXIPL
+GO_Biological_Process_2021	cellular biogenic amine biosynthetic process (GO:0042401)	1/17	3.395869e-03	1.684442e-02	0	0	4.162500e+02	2.366463e+03	SAT1
+GO_Biological_Process_2021	positive regulation of fatty acid metabolic process (GO:0045923)	1/18	3.595358e-03	1.684442e-02	0	0	3.917451e+02	2.204785e+03	MLXIPL
+GO_Biological_Process_2021	positive regulation of purine nucleotide metabolic process (GO:1900544)	1/21	4.193643e-03	1.684442e-02	0	0	3.329333e+02	1.822539e+03	MLXIPL
+GO_Biological_Process_2021	negative regulation of peptidyl-serine phosphorylation (GO:0033137)	1/21	4.193643e-03	1.684442e-02	0	0	3.329333e+02	1.822539e+03	MLXIPL
+GO_Biological_Process_2021	positive regulation of glycolytic process (GO:0045821)	1/21	4.193643e-03	1.684442e-02	0	0	3.329333e+02	1.822539e+03	MLXIPL
+GO_Biological_Process_2021	positive regulation of carbohydrate metabolic process (GO:0045913)	1/24	4.791660e-03	1.684442e-02	0	0	2.894638e+02	1.545991e+03	MLXIPL
+GO_Biological_Process_2021	positive regulation of lipid metabolic process (GO:0045834)	1/25	4.990939e-03	1.684442e-02	0	0	2.773889e+02	1.470198e+03	MLXIPL
+GO_Biological_Process_2021	acylglycerol homeostasis (GO:0055090)	1/25	4.990939e-03	1.684442e-02	0	0	2.773889e+02	1.470198e+03	MLXIPL
+GO_Biological_Process_2021	regulation of fatty acid biosynthetic process (GO:0042304)	1/29	5.787756e-03	1.713785e-02	0	0	2.377143e+02	1.224707e+03	MLXIPL
+GO_Biological_Process_2021	triglyceride homeostasis (GO:0070328)	1/31	6.185986e-03	1.713785e-02	0	0	2.218444e+02	1.128183e+03	MLXIPL
+GO_Biological_Process_2021	cellular response to glucose stimulus (GO:0071333)	1/32	6.385056e-03	1.713785e-02	0	0	2.146774e+02	1.084936e+03	MLXIPL
+GO_Biological_Process_2021	positive regulation of ATP metabolic process (GO:1903580)	1/33	6.584096e-03	1.713785e-02	0	0	2.079583e+02	1.044595e+03	MLXIPL
+GO_Biological_Process_2021	positive regulation of lipid biosynthetic process (GO:0046889)	1/35	6.982086e-03	1.713785e-02	0	0	1.957059e+02	9.715638e+02	MLXIPL
+GO_Biological_Process_2021	regulation of lipid biosynthetic process (GO:0046890)	1/35	6.982086e-03	1.713785e-02	0	0	1.957059e+02	9.715638e+02	MLXIPL
+GO_Biological_Process_2021	nucleic acid-templated transcription (GO:0097659)	1/42	8.374111e-03	1.966096e-02	0	0	1.622358e+02	7.759105e+02	PTMA
+GO_Biological_Process_2021	positive regulation of biosynthetic process (GO:0009891)	1/44	8.771563e-03	1.973602e-02	0	0	1.546744e+02	7.325752e+02	MLXIPL
+GO_Biological_Process_2021	lipid homeostasis (GO:0055088)	1/64	1.273952e-02	2.751737e-02	0	0	1.054656e+02	4.601513e+02	MLXIPL
+GO_Biological_Process_2021	carbohydrate homeostasis (GO:0033500)	1/70	1.392759e-02	2.825099e-02	0	0	9.626570e+01	4.114284e+02	MLXIPL
+GO_Biological_Process_2021	regulation of glycolytic process (GO:0006110)	1/71	1.412549e-02	2.825099e-02	0	0	9.488571e+01	4.041917e+02	MLXIPL
+GO_Biological_Process_2021	glucose homeostasis (GO:0042593)	1/86	1.709051e-02	3.296027e-02	0	0	7.808235e+01	3.177352e+02	MLXIPL
+GO_Biological_Process_2021	regulation of peptidyl-serine phosphorylation (GO:0033135)	1/98	1.945771e-02	3.623160e-02	0	0	6.838144e+01	2.693895e+02	MLXIPL
+GO_Biological_Process_2021	positive regulation of cellular catabolic process (GO:0031331)	1/141	2.790508e-02	5.022914e-02	0	0	4.727619e+01	1.691990e+02	MLXIPL
+GO_Biological_Process_2021	negative regulation of protein phosphorylation (GO:0001933)	1/152	3.005724e-02	5.235777e-02	0	0	4.380795e+01	1.535316e+02	MLXIPL
+GO_Biological_Process_2021	positive regulation of cellular biosynthetic process (GO:0031328)	1/180	3.551934e-02	5.993888e-02	0	0	3.690317e+01	1.231709e+02	MLXIPL
+GO_Biological_Process_2021	transcription, DNA-templated (GO:0006351)	1/221	4.347575e-02	7.114214e-02	0	0	2.996364e+01	9.395254e+01	PTMA
+GO_Biological_Process_2021	positive regulation of phosphorylation (GO:0042327)	1/253	4.965136e-02	7.885804e-02	0	0	2.611640e+01	7.842049e+01	MLXIPL
+GO_Biological_Process_2021	regulation of cell cycle (GO:0051726)	1/296	5.790268e-02	8.933556e-02	0	0	2.226102e+01	6.342145e+01	MLXIPL
+GO_Biological_Process_2021	cellular macromolecule biosynthetic process (GO:0034645)	1/314	6.134071e-02	9.201107e-02	0	0	2.096166e+01	5.851053e+01	PTMA
+GO_Biological_Process_2021	gene expression (GO:0010467)	1/356	6.932621e-02	1.011788e-01	0	0	1.844225e+01	4.922113e+01	PTMA
+GO_Biological_Process_2021	negative regulation of programmed cell death (GO:0043069)	1/381	7.405522e-02	1.052364e-01	0	0	1.720702e+01	4.478891e+01	PTMA
+GO_Biological_Process_2021	regulation of nucleic acid-templated transcription (GO:1903506)	1/430	8.327179e-02	1.152994e-01	0	0	1.520357e+01	3.779069e+01	MLXIPL
+GO_Biological_Process_2021	negative regulation of nucleic acid-templated transcription (GO:1903507)	1/464	8.962641e-02	1.174623e-01	0	0	1.406263e+01	3.392056e+01	MLXIPL
+GO_Biological_Process_2021	regulation of cellular macromolecule biosynthetic process (GO:2000112)	1/468	9.037183e-02	1.174623e-01	0	0	1.393933e+01	3.350767e+01	MLXIPL
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	1/474	9.148911e-02	1.174623e-01	0	0	1.375828e+01	3.290341e+01	MLXIPL
+GO_Biological_Process_2021	negative regulation of apoptotic process (GO:0043066)	1/485	9.353478e-02	1.174623e-01	0	0	1.343802e+01	3.184033e+01	PTMA
+GO_Biological_Process_2021	positive regulation of nucleic acid-templated transcription (GO:1903508)	1/511	9.835626e-02	1.207100e-01	0	0	1.273595e+01	2.953669e+01	MLXIPL
+GO_Biological_Process_2021	negative regulation of cellular macromolecule biosynthetic process (GO:2000113)	1/547	1.050004e-01	1.260004e-01	0	0	1.187424e+01	2.676205e+01	MLXIPL
+GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	1/625	1.192699e-01	1.400125e-01	0	0	1.034829e+01	2.200425e+01	MLXIPL
+GO_Biological_Process_2021	regulation of apoptotic process (GO:0042981)	1/742	1.403535e-01	1.612572e-01	0	0	8.661718e+00	1.700807e+01	PTMA
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	1/764	1.442752e-01	1.623097e-01	0	0	8.402359e+00	1.626724e+01	MLXIPL
+GO_Biological_Process_2021	positive regulation of transcription by RNA polymerase II (GO:0045944)	1/908	1.696146e-01	1.869222e-01	0	0	7.015436e+00	1.244697e+01	MLXIPL
+GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	1/948	1.765523e-01	1.906765e-01	0	0	6.705033e+00	1.162745e+01	MLXIPL
+GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	1/1079	1.989693e-01	2.106734e-01	0	0	5.849722e+00	9.444987e+00	MLXIPL
+GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	1/1183	2.164376e-01	2.247621e-01	0	0	5.305697e+00	8.120119e+00	MLXIPL
+GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	1/2206	3.734459e-01	3.787814e-01	0	0	2.689494e+00	2.649103e+00	MLXIPL
+GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	1/2244	3.787814e-01	3.787814e-01	0	0	2.638282e+00	2.561234e+00	MLXIPL

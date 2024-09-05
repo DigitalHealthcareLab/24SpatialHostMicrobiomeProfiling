@@ -1,0 +1,12 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Molecular_Function_2023	Immunoglobulin Receptor Binding (GO:0034987)	2/7	1.100100e-05	1.210110e-04	0	0	6.147692e+02	7.019143e+03	IGHA1;JCHAIN
+GO_Molecular_Function_2023	Peptidoglycan Binding (GO:0042834)	2/15	5.481548e-05	3.014851e-04	0	0	2.363550e+02	2.319006e+03	REG1A;JCHAIN
+GO_Molecular_Function_2023	Cuprous Ion Binding (GO:1903136)	1/8	5.985243e-03	2.194589e-02	0	0	2.038571e+02	1.043434e+03	MUC2
+GO_Molecular_Function_2023	Copper Ion Binding (GO:0005507)	1/45	3.323484e-02	9.064138e-02	0	0	3.237175e+01	1.101985e+02	MUC2
+GO_Molecular_Function_2023	Iron Ion Binding (GO:0005506)	1/56	4.120063e-02	9.064138e-02	0	0	2.588312e+01	8.254907e+01	LCN2
+GO_Molecular_Function_2023	Growth Factor Activity (GO:0008083)	1/85	6.190869e-02	1.094558e-01	0	0	1.692262e+01	4.708033e+01	REG1A
+GO_Molecular_Function_2023	Single-Stranded DNA Binding (GO:0003697)	1/96	6.965370e-02	1.094558e-01	0	0	1.495489e+01	3.984310e+01	JCHAIN
+GO_Molecular_Function_2023	Protein Homodimerization Activity (GO:0042803)	2/662	8.644706e-02	1.188647e-01	0	0	4.504662e+00	1.102842e+01	MUC13;JCHAIN
+GO_Molecular_Function_2023	Receptor Ligand Activity (GO:0048018)	1/319	2.143651e-01	2.620018e-01	0	0	4.417565e+00	6.803379e+00	REG1A
+GO_Molecular_Function_2023	Transition Metal Ion Binding (GO:0046914)	1/456	2.925448e-01	3.217993e-01	0	0	3.065934e+00	3.768455e+00	LCN2
+GO_Molecular_Function_2023	DNA Binding (GO:0003677)	1/846	4.771922e-01	4.771922e-01	0	0	1.617921e+00	1.196996e+00	JCHAIN

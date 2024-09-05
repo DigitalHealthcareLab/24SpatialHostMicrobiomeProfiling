@@ -1,0 +1,5 @@
+2024-07-26 16:13:36,852 enrichr139803655305424::[INFO    ] Run: GO_Biological_Process_2021 
+2024-07-26 16:13:36,853 enrichr139803655305424::[DEBUG   ] Enrichr service using library: GO_Biological_Process_2021
+2024-07-26 16:13:47,777 enrichr139803655305424::[INFO    ] Save enrichment results for GO_Biological_Process_2021 
+2024-07-26 16:13:48,133 enrichr139803655305424::[DEBUG   ] Generate figures
+2024-07-26 16:13:48,135 enrichr139803655305424::[INFO    ] Done.

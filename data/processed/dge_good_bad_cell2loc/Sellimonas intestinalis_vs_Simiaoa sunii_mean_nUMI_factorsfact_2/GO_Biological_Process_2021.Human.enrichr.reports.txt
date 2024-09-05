@@ -1,0 +1,62 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	positive regulation of attachment of spindle microtubules to kinetochore (GO:0051987)	1/5	2.499918e-04	2.772664e-03	0	0	1.999500e+04	1.658402e+05	HNRNPU
+GO_Biological_Process_2021	regulation of DNA topoisomerase (ATP-hydrolyzing) activity (GO:2000371)	1/5	2.499918e-04	2.772664e-03	0	0	1.999500e+04	1.658402e+05	HNRNPU
+GO_Biological_Process_2021	positive regulation of DNA topoisomerase (ATP-hydrolyzing) activity (GO:2000373)	1/5	2.499918e-04	2.772664e-03	0	0	1.999500e+04	1.658402e+05	HNRNPU
+GO_Biological_Process_2021	CRD-mediated mRNA stabilization (GO:0070934)	1/5	2.499918e-04	2.772664e-03	0	0	1.999500e+04	1.658402e+05	HNRNPU
+GO_Biological_Process_2021	positive regulation of isomerase activity (GO:0010912)	1/8	3.999883e-04	2.772664e-03	0	0	1.999200e+04	1.564189e+05	HNRNPU
+GO_Biological_Process_2021	protein localization to microtubule (GO:0035372)	1/8	3.999883e-04	2.772664e-03	0	0	1.999200e+04	1.564189e+05	HNRNPU
+GO_Biological_Process_2021	dosage compensation (GO:0007549)	1/10	4.999862e-04	2.772664e-03	0	0	1.999000e+04	1.519426e+05	HNRNPU
+GO_Biological_Process_2021	dosage compensation by inactivation of X chromosome (GO:0009048)	1/12	5.999843e-04	2.772664e-03	0	0	1.998800e+04	1.482831e+05	HNRNPU
+GO_Biological_Process_2021	negative regulation of transcription elongation from RNA polymerase II promoter (GO:0034244)	1/12	5.999843e-04	2.772664e-03	0	0	1.998800e+04	1.482831e+05	HNRNPU
+GO_Biological_Process_2021	negative regulation of stem cell differentiation (GO:2000737)	1/13	6.499833e-04	2.772664e-03	0	0	1.998700e+04	1.466759e+05	HNRNPU
+GO_Biological_Process_2021	negative regulation of DNA-templated transcription, elongation (GO:0032785)	1/14	6.999824e-04	2.772664e-03	0	0	1.998600e+04	1.451874e+05	HNRNPU
+GO_Biological_Process_2021	positive regulation of brown fat cell differentiation (GO:0090336)	1/14	6.999824e-04	2.772664e-03	0	0	1.998600e+04	1.451874e+05	HNRNPU
+GO_Biological_Process_2021	regulation of chromatin organization (GO:1902275)	1/14	6.999824e-04	2.772664e-03	0	0	1.998600e+04	1.451874e+05	HNRNPU
+GO_Biological_Process_2021	cellular response to corticosteroid stimulus (GO:0071384)	1/16	7.999806e-04	2.772664e-03	0	0	1.998400e+04	1.425044e+05	HNRNPU
+GO_Biological_Process_2021	positive regulation of stem cell proliferation (GO:2000648)	1/17	8.499797e-04	2.772664e-03	0	0	1.998300e+04	1.412858e+05	HNRNPU
+GO_Biological_Process_2021	regulation of stem cell proliferation (GO:0072091)	1/17	8.499797e-04	2.772664e-03	0	0	1.998300e+04	1.412858e+05	HNRNPU
+GO_Biological_Process_2021	cellular response to glucocorticoid stimulus (GO:0071385)	1/18	8.999789e-04	2.772664e-03	0	0	1.998200e+04	1.401365e+05	HNRNPU
+GO_Biological_Process_2021	regulation of brown fat cell differentiation (GO:0090335)	1/18	8.999789e-04	2.772664e-03	0	0	1.998200e+04	1.401365e+05	HNRNPU
+GO_Biological_Process_2021	regulation of mitotic spindle assembly (GO:1901673)	1/19	9.499781e-04	2.772664e-03	0	0	1.998100e+04	1.390492e+05	HNRNPU
+GO_Biological_Process_2021	maintenance of protein localization in organelle (GO:0072595)	1/19	9.499781e-04	2.772664e-03	0	0	1.998100e+04	1.390492e+05	HNRNPU
+GO_Biological_Process_2021	maintenance of protein location in nucleus (GO:0051457)	1/20	9.999772e-04	2.772664e-03	0	0	1.998000e+04	1.380174e+05	HNRNPU
+GO_Biological_Process_2021	negative regulation of telomere maintenance via telomerase (GO:0032211)	1/20	9.999772e-04	2.772664e-03	0	0	1.998000e+04	1.380174e+05	HNRNPU
+GO_Biological_Process_2021	regulation of spindle assembly (GO:0090169)	1/25	1.249973e-03	3.158864e-03	0	0	1.997500e+04	1.335255e+05	HNRNPU
+GO_Biological_Process_2021	negative regulation of telomere maintenance via telomere lengthening (GO:1904357)	1/26	1.299973e-03	3.158864e-03	0	0	1.997400e+04	1.327355e+05	HNRNPU
+GO_Biological_Process_2021	regulation of transcription elongation from RNA polymerase II promoter (GO:0034243)	1/27	1.349972e-03	3.158864e-03	0	0	1.997300e+04	1.319750e+05	HNRNPU
+GO_Biological_Process_2021	response to glucocorticoid (GO:0051384)	1/27	1.349972e-03	3.158864e-03	0	0	1.997300e+04	1.319750e+05	HNRNPU
+GO_Biological_Process_2021	negative regulation of transferase activity (GO:0051348)	1/29	1.449970e-03	3.158864e-03	0	0	1.997100e+04	1.305347e+05	HNRNPU
+GO_Biological_Process_2021	negative regulation of mRNA catabolic process (GO:1902373)	1/29	1.449970e-03	3.158864e-03	0	0	1.997100e+04	1.305347e+05	HNRNPU
+GO_Biological_Process_2021	negative regulation of DNA biosynthetic process (GO:2000279)	1/32	1.599968e-03	3.354934e-03	0	0	1.996800e+04	1.285494e+05	HNRNPU
+GO_Biological_Process_2021	RNA stabilization (GO:0043489)	1/33	1.649968e-03	3.354934e-03	0	0	1.996700e+04	1.279286e+05	HNRNPU
+GO_Biological_Process_2021	regulation of mitotic spindle organization (GO:0060236)	1/35	1.749966e-03	3.443482e-03	0	0	1.996500e+04	1.267410e+05	HNRNPU
+GO_Biological_Process_2021	positive regulation of ATPase activity (GO:0032781)	1/42	2.099962e-03	4.003052e-03	0	0	1.995800e+04	1.230578e+05	HNRNPU
+GO_Biological_Process_2021	mRNA stabilization (GO:0048255)	1/44	2.199961e-03	4.066594e-03	0	0	1.995600e+04	1.221171e+05	HNRNPU
+GO_Biological_Process_2021	positive regulation of fat cell differentiation (GO:0045600)	1/51	2.549957e-03	4.531352e-03	0	0	1.994900e+04	1.191290e+05	HNRNPU
+GO_Biological_Process_2021	regulation of telomere maintenance via telomerase (GO:0032210)	1/52	2.599956e-03	4.531352e-03	0	0	1.994800e+04	1.187357e+05	HNRNPU
+GO_Biological_Process_2021	regulation of alternative mRNA splicing, via spliceosome (GO:0000381)	1/54	2.699955e-03	4.574924e-03	0	0	1.994600e+04	1.179710e+05	HNRNPU
+GO_Biological_Process_2021	negative regulation of kinase activity (GO:0033673)	1/62	3.099951e-03	5.110729e-03	0	0	1.993800e+04	1.151692e+05	HNRNPU
+GO_Biological_Process_2021	nucleic acid metabolic process (GO:0090304)	1/71	3.549946e-03	5.698598e-03	0	0	1.992900e+04	1.124160e+05	HNRNPU
+GO_Biological_Process_2021	negative regulation of phosphorylation (GO:0042326)	1/86	4.299939e-03	6.725546e-03	0	0	1.991400e+04	1.085145e+05	HNRNPU
+GO_Biological_Process_2021	regulation of mRNA splicing, via spliceosome (GO:0048024)	1/90	4.499937e-03	6.769418e-03	0	0	1.991000e+04	1.075875e+05	HNRNPU
+GO_Biological_Process_2021	regulation of stem cell differentiation (GO:2000736)	1/91	4.549937e-03	6.769418e-03	0	0	1.990900e+04	1.073621e+05	HNRNPU
+GO_Biological_Process_2021	regulation of kinase activity (GO:0043549)	1/94	4.699936e-03	6.826097e-03	0	0	1.990600e+04	1.067003e+05	HNRNPU
+GO_Biological_Process_2021	protein localization to nucleus (GO:0034504)	1/106	5.299931e-03	7.518506e-03	0	0	1.989400e+04	1.042458e+05	HNRNPU
+GO_Biological_Process_2021	RNA metabolic process (GO:0016070)	1/133	6.649920e-03	9.219208e-03	0	0	1.986700e+04	9.959626e+04	HNRNPU
+GO_Biological_Process_2021	regulation of cellular component organization (GO:0051128)	1/139	6.949918e-03	9.421000e-03	0	0	1.986100e+04	9.868981e+04	HNRNPU
+GO_Biological_Process_2021	regulation of mRNA stability (GO:0043488)	1/146	7.299916e-03	9.680323e-03	0	0	1.985400e+04	9.767955e+04	HNRNPU
+GO_Biological_Process_2021	regulation of mitotic cell cycle (GO:0007346)	1/178	8.899905e-03	1.137384e-02	0	0	1.982200e+04	9.359383e+04	HNRNPU
+GO_Biological_Process_2021	RNA processing (GO:0006396)	1/179	8.949905e-03	1.137384e-02	0	0	1.982100e+04	9.347806e+04	HNRNPU
+GO_Biological_Process_2021	negative regulation of cell differentiation (GO:0045596)	1/191	9.549901e-03	1.188865e-02	0	0	1.980900e+04	9.213610e+04	HNRNPU
+GO_Biological_Process_2021	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO:0000377)	1/251	1.254989e-02	1.531086e-02	0	0	1.974900e+04	8.646199e+04	HNRNPU
+GO_Biological_Process_2021	mRNA splicing, via spliceosome (GO:0000398)	1/274	1.369988e-02	1.638613e-02	0	0	1.972600e+04	8.463180e+04	HNRNPU
+GO_Biological_Process_2021	regulation of cell cycle (GO:0051726)	1/296	1.479987e-02	1.726401e-02	0	0	1.970400e+04	8.301564e+04	HNRNPU
+GO_Biological_Process_2021	mRNA processing (GO:0006397)	1/300	1.499987e-02	1.726401e-02	0	0	1.970000e+04	8.273436e+04	HNRNPU
+GO_Biological_Process_2021	gene expression (GO:0010467)	1/356	1.779986e-02	2.010725e-02	0	0	1.964400e+04	7.913712e+04	HNRNPU
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	1/474	2.369984e-02	2.625161e-02	0	0	1.952600e+04	7.307189e+04	HNRNPU
+GO_Biological_Process_2021	cellular response to cytokine stimulus (GO:0071345)	1/482	2.409984e-02	2.625161e-02	0	0	1.951800e+04	7.271529e+04	HNRNPU
+GO_Biological_Process_2021	negative regulation of transcription by RNA polymerase II (GO:0000122)	1/684	3.419981e-02	3.659980e-02	0	0	1.931600e+04	6.520184e+04	HNRNPU
+GO_Biological_Process_2021	positive regulation of transcription by RNA polymerase II (GO:0045944)	1/908	4.539979e-02	4.774806e-02	0	0	1.909200e+04	5.903719e+04	HNRNPU
+GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	1/948	4.739979e-02	4.900656e-02	0	0	1.905200e+04	5.809217e+04	HNRNPU
+GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	1/1183	5.914977e-02	6.013560e-02	0	0	1.881700e+04	5.320850e+04	HNRNPU
+GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	1/2206	1.102997e-01	1.102997e-01	0	0	1.779400e+04	3.922783e+04	HNRNPU

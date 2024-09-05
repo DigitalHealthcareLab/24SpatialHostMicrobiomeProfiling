@@ -1,0 +1,67 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+BioPlanet_2019	Nef-mediated CD8 downregulation	1/7	6.979996e-03	1.301960e-01	0	0	1.752105e+02	8.698689e+02	AP2A2
+BioPlanet_2019	Organic cation transport	1/8	7.973357e-03	1.301960e-01	0	0	1.501729e+02	7.255830e+02	SLC22A18
+BioPlanet_2019	Nef-mediated CD4 downregulation	1/9	8.965773e-03	1.301960e-01	0	0	1.313947e+02	6.194396e+02	AP2A2
+BioPlanet_2019	Organic cation/anion/zwitterion transport	1/13	1.292602e-02	1.301960e-01	0	0	8.757895e+01	3.808382e+02	SLC22A18
+BioPlanet_2019	Retrograde neurotrophin signaling	1/14	1.391373e-02	1.301960e-01	0	0	8.083806e+01	3.455729e+02	AP2A2
+BioPlanet_2019	Immune system	4/998	1.574051e-02	1.301960e-01	0	0	4.775151e+00	1.982412e+01	ERAP2;IGLC3;GBP2;AP2A2
+BioPlanet_2019	GluR2-containing AMPA receptor trafficking	1/16	1.588634e-02	1.301960e-01	0	0	7.005263e+01	2.901787e+02	AP2A2
+BioPlanet_2019	Adaptive immune system	3/606	2.149611e-02	1.301960e-01	0	0	5.670764e+00	2.177507e+01	ERAP2;IGLC3;AP2A2
+BioPlanet_2019	EGFR downregulation	1/27	2.666885e-02	1.301960e-01	0	0	4.039271e+01	1.463937e+02	AP2A2
+BioPlanet_2019	RNA polymerase III transcription initiation from type 2 promoter	1/27	2.666885e-02	1.301960e-01	0	0	4.039271e+01	1.463937e+02	BDP1
+BioPlanet_2019	Recycling pathway of cell adhesion molecule L1	1/28	2.764349e-02	1.301960e-01	0	0	3.889474e+01	1.395685e+02	AP2A2
+BioPlanet_2019	Nef in HIV-1 replication and disease pathogenesis	1/28	2.764349e-02	1.301960e-01	0	0	3.889474e+01	1.395685e+02	AP2A2
+BioPlanet_2019	RNA polymerase III transcription initiation From type 3 promoter	1/28	2.764349e-02	1.301960e-01	0	0	3.889474e+01	1.395685e+02	BDP1
+BioPlanet_2019	Glutamate binding and activation of AMPA receptors and synaptic plasticity	1/30	2.959000e-02	1.301960e-01	0	0	3.620871e+01	1.274662e+02	AP2A2
+BioPlanet_2019	CDC42 activity regulation	1/30	2.959000e-02	1.301960e-01	0	0	3.620871e+01	1.274662e+02	BCAR3
+BioPlanet_2019	Signal transduction by L1	1/35	3.444008e-02	1.420653e-01	0	0	3.087616e+01	1.040074e+02	AP2A2
+BioPlanet_2019	RNA polymerase III transcription	1/45	4.407125e-02	1.711002e-01	0	0	2.384689e+01	7.444874e+01	BDP1
+BioPlanet_2019	Signaling events mediated by PTP1B	1/52	5.075870e-02	1.861152e-01	0	0	2.056656e+01	6.130219e+01	YBX1
+BioPlanet_2019	Pathogenic Escherichia coli infection	1/57	5.550821e-02	1.928180e-01	0	0	1.872556e+01	5.413981e+01	TUBB
+BioPlanet_2019	Interferon alpha/beta signaling	1/64	6.211961e-02	1.973610e-01	0	0	1.663910e+01	4.623495e+01	GBP2
+BioPlanet_2019	SIDS susceptibility pathways	1/67	6.493959e-02	1.973610e-01	0	0	1.588038e+01	4.342170e+01	YBX1
+BioPlanet_2019	Messenger RNA splicing: major pathway	1/68	6.587779e-02	1.973610e-01	0	0	1.564258e+01	4.254709e+01	YBX1
+BioPlanet_2019	Complement cascade	1/77	7.428146e-02	1.973610e-01	0	0	1.378393e+01	3.583677e+01	IGLC3
+BioPlanet_2019	Mitotic G2-G2/M phases	1/87	8.353462e-02	1.973610e-01	0	0	1.217503e+01	3.022444e+01	TUBB
+BioPlanet_2019	Salivary secretion	1/89	8.537467e-02	1.973610e-01	0	0	1.189713e+01	2.927533e+01	DMBT1
+BioPlanet_2019	Gap junction pathway	1/90	8.629339e-02	1.973610e-01	0	0	1.176286e+01	2.881904e+01	TUBB
+BioPlanet_2019	L1CAM interactions	1/94	8.995947e-02	1.973610e-01	0	0	1.125467e+01	2.710570e+01	AP2A2
+BioPlanet_2019	RNA polymerase I, RNA polymerase III, and mitochondrial transcription	1/95	9.087381e-02	1.973610e-01	0	0	1.113438e+01	2.670340e+01	BDP1
+BioPlanet_2019	Transport of glucose and other sugars, bile salts and organic acids, metal ions and amine compounds	1/96	9.178727e-02	1.973610e-01	0	0	1.101662e+01	2.631079e+01	SLC22A18
+BioPlanet_2019	Interferon-gamma signaling pathway	1/97	9.269987e-02	1.973610e-01	0	0	1.090132e+01	2.592756e+01	GBP2
+BioPlanet_2019	TSH regulation of gene expression	1/97	9.269987e-02	1.973610e-01	0	0	1.090132e+01	2.592756e+01	BCAR3
+BioPlanet_2019	MHC class II antigen presentation	1/103	9.815715e-02	2.024491e-01	0	0	1.025697e+01	2.380832e+01	AP2A2
+BioPlanet_2019	Signaling by EGFR in cancer	1/111	1.053850e-01	2.107701e-01	0	0	9.507177e+00	2.139243e+01	AP2A2
+BioPlanet_2019	Immunoregulatory interactions between a lymphoid and a non-lymphoid cell	1/119	1.125579e-01	2.184947e-01	0	0	8.859054e+00	1.935073e+01	IGLC3
+BioPlanet_2019	HIV factor interactions with host	1/128	1.205620e-01	2.213867e-01	0	0	8.227518e+00	1.740606e+01	AP2A2
+BioPlanet_2019	T cell receptor regulation of apoptosis	2/603	1.207564e-01	2.213867e-01	0	0	3.582732e+00	7.573826e+00	TUBB;YBX1
+BioPlanet_2019	NGF signaling via TRKA from the plasma membrane	1/136	1.276191e-01	2.247040e-01	0	0	7.736842e+00	1.592787e+01	AP2A2
+BioPlanet_2019	Capped intron-containing pre-mRNA processing	1/138	1.293750e-01	2.247040e-01	0	0	7.623127e+00	1.558960e+01	YBX1
+BioPlanet_2019	Signaling by the B cell receptor (BCR)	1/151	1.407066e-01	2.306805e-01	0	0	6.957895e+00	1.364498e+01	IGLC3
+BioPlanet_2019	EGFR1 pathway	1/152	1.415724e-01	2.306805e-01	0	0	6.911467e+00	1.351153e+01	TUBB
+BioPlanet_2019	Phagosome	1/154	1.433016e-01	2.306805e-01	0	0	6.820433e+00	1.325077e+01	TUBB
+BioPlanet_2019	Interferon signaling	1/168	1.553134e-01	2.440640e-01	0	0	6.244248e+00	1.162873e+01	GBP2
+BioPlanet_2019	Transcription	1/181	1.663239e-01	2.532680e-01	0	0	5.789474e+00	1.038526e+01	BDP1
+BioPlanet_2019	Huntington's disease	1/184	1.688454e-01	2.532680e-01	0	0	5.693701e+00	1.012780e+01	AP2A2
+BioPlanet_2019	Transmission across chemical synapses	1/190	1.738665e-01	2.538897e-01	0	0	5.511278e+00	9.641801e+00	AP2A2
+BioPlanet_2019	HIV infection	1/200	1.821712e-01	2.538897e-01	0	0	5.231685e+00	8.908557e+00	AP2A2
+BioPlanet_2019	Endocytosis	1/201	1.829973e-01	2.538897e-01	0	0	5.205263e+00	8.840015e+00	AP2A2
+BioPlanet_2019	Messenger RNA processing	1/203	1.846471e-01	2.538897e-01	0	0	5.153205e+00	8.705355e+00	YBX1
+BioPlanet_2019	Antigen-activated B-cell receptor generation of second messengers	1/211	1.912147e-01	2.575545e-01	0	0	4.954887e+00	8.197160e+00	IGLC3
+BioPlanet_2019	Signaling by NGF	1/221	1.993535e-01	2.631467e-01	0	0	4.727273e+00	7.623557e+00	AP2A2
+BioPlanet_2019	SLC-mediated transmembrane transport	1/251	2.233058e-01	2.829605e-01	0	0	4.153684e+00	6.227258e+00	SLC22A18
+BioPlanet_2019	Antigen presentation: folding, assembly, and peptide loading of class I MHC proteins	1/255	2.264475e-01	2.829605e-01	0	0	4.087443e+00	6.070842e+00	ERAP2
+BioPlanet_2019	BDNF signaling pathway	1/261	2.311375e-01	2.829605e-01	0	0	3.991903e+00	5.847110e+00	TUBB
+BioPlanet_2019	FSH regulation of apoptosis	1/263	2.326948e-01	2.829605e-01	0	0	3.961029e+00	5.775289e+00	TUBB
+BioPlanet_2019	Interleukin-4 regulation of apoptosis	1/267	2.358004e-01	2.829605e-01	0	0	3.900673e+00	5.635573e+00	GBP2
+BioPlanet_2019	Immune system signaling by interferons, interleukins, prolactin, and growth hormones	1/280	2.458114e-01	2.868516e-01	0	0	3.716469e+00	5.214914e+00	GBP2
+BioPlanet_2019	Neuronal system	1/283	2.481039e-01	2.868516e-01	0	0	3.676372e+00	5.124523e+00	AP2A2
+BioPlanet_2019	Gene expression	2/968	2.520817e-01	2.868516e-01	0	0	2.187026e+00	3.013726e+00	YBX1;BDP1
+BioPlanet_2019	Innate immune system	1/319	2.751024e-01	3.074627e-01	0	0	3.254220e+00	4.199936e+00	IGLC3
+BioPlanet_2019	Axon guidance	1/325	2.795116e-01	3.074627e-01	0	0	3.192982e+00	4.070132e+00	AP2A2
+BioPlanet_2019	Developmental biology	1/420	3.460182e-01	3.743804e-01	0	0	2.457103e+00	2.607635e+00	AP2A2
+BioPlanet_2019	Transmembrane transport of small molecules	1/432	3.539917e-01	3.768299e-01	0	0	2.387227e+00	2.479092e+00	SLC22A18
+BioPlanet_2019	Cell cycle	1/453	3.677235e-01	3.852341e-01	0	0	2.273871e+00	2.274835e+00	TUBB
+BioPlanet_2019	TGF-beta regulation of extracellular matrix	1/565	4.363994e-01	4.500369e-01	0	0	1.811870e+00	1.502398e+00	GBP2
+BioPlanet_2019	Disease	1/674	4.963879e-01	5.040246e-01	0	0	1.509893e+00	1.057525e+00	AP2A2
+BioPlanet_2019	Signal transduction	1/1020	6.491646e-01	6.491646e-01	0	0	9.793399e-01	4.231424e-01	AP2A2

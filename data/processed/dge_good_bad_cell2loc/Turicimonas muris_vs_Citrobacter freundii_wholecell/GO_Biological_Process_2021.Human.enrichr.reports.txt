@@ -1,0 +1,14 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	innate immune response in mucosa (GO:0002227)	1/21	3.146801e-03	2.363945e-02	0	0	4.994250e+02	2.877372e+03	DEFA6
+GO_Biological_Process_2021	mucosal immune response (GO:0002385)	1/28	4.194272e-03	2.363945e-02	0	0	3.698148e+02	2.024379e+03	DEFA6
+GO_Biological_Process_2021	antibacterial humoral response (GO:0019731)	1/44	6.585739e-03	2.363945e-02	0	0	2.320233e+02	1.165418e+03	DEFA6
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	1/64	9.569690e-03	2.363945e-02	0	0	1.582063e+02	7.355258e+02	DEFA6
+GO_Biological_Process_2021	defense response to Gram-positive bacterium (GO:0050830)	1/70	1.046371e-02	2.363945e-02	0	0	1.444058e+02	6.584677e+02	DEFA6
+GO_Biological_Process_2021	defense response to Gram-negative bacterium (GO:0050829)	1/73	1.091052e-02	2.363945e-02	0	0	1.383681e+02	6.251508e+02	DEFA6
+GO_Biological_Process_2021	cellular response to molecule of bacterial origin (GO:0071219)	1/115	1.715172e-02	2.907607e-02	0	0	8.720614e+01	3.545503e+02	DEFA6
+GO_Biological_Process_2021	cellular response to lipopolysaccharide (GO:0071222)	1/120	1.789296e-02	2.907607e-02	0	0	8.352101e+01	3.360341e+02	DEFA6
+GO_Biological_Process_2021	response to lipopolysaccharide (GO:0032496)	1/159	2.366190e-02	3.402033e-02	0	0	6.278165e+01	2.350475e+02	DEFA6
+GO_Biological_Process_2021	defense response to bacterium (GO:0042742)	1/176	2.616949e-02	3.402033e-02	0	0	5.663429e+01	2.063278e+02	DEFA6
+GO_Biological_Process_2021	cellular response to lipid (GO:0071396)	1/219	3.249302e-02	3.840084e-02	0	0	4.536468e+01	1.554525e+02	DEFA6
+GO_Biological_Process_2021	innate immune response (GO:0045087)	1/302	4.462139e-02	4.767386e-02	0	0	3.271761e+01	1.017368e+02	DEFA6
+GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	1/323	4.767386e-02	4.767386e-02	0	0	3.055124e+01	9.297880e+01	DEFA6

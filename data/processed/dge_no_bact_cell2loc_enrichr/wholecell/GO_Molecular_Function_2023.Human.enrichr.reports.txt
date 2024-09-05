@@ -1,0 +1,14 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Molecular_Function_2023	Peptidoglycan Binding (GO:0042834)	2/15	5.481548e-05	7.126013e-04	0	0	2.363550e+02	2.319006e+03	IGHM;REG1A
+GO_Molecular_Function_2023	Immunoglobulin Receptor Binding (GO:0034987)	1/7	5.238917e-03	3.405296e-02	0	0	2.378452e+02	1.249078e+03	IGHM
+GO_Molecular_Function_2023	N-methyltransferase Activity (GO:0008170)	1/27	2.006656e-02	8.695509e-02	0	0	5.483242e+01	2.143235e+02	MUC1
+GO_Molecular_Function_2023	S-adenosylmethionine-dependent Methyltransferase Activity (GO:0008757)	1/50	3.686328e-02	1.071216e-01	0	0	2.906122e+01	9.591772e+01	MUC1
+GO_Molecular_Function_2023	Iron Ion Binding (GO:0005506)	1/56	4.120063e-02	1.071216e-01	0	0	2.588312e+01	8.254907e+01	LCN2
+GO_Molecular_Function_2023	Growth Factor Activity (GO:0008083)	1/85	6.190869e-02	1.293569e-01	0	0	1.692262e+01	4.708033e+01	REG1A
+GO_Molecular_Function_2023	Single-Stranded DNA Binding (GO:0003697)	1/96	6.965370e-02	1.293569e-01	0	0	1.495489e+01	3.984310e+01	IGHM
+GO_Molecular_Function_2023	Receptor Ligand Activity (GO:0048018)	1/319	2.143651e-01	3.483433e-01	0	0	4.417565e+00	6.803379e+00	REG1A
+GO_Molecular_Function_2023	Transition Metal Ion Binding (GO:0046914)	1/456	2.925448e-01	4.225647e-01	0	0	3.065934e+00	3.768455e+00	LCN2
+GO_Molecular_Function_2023	DNA Binding (GO:0003677)	1/846	4.771922e-01	6.126520e-01	0	0	1.617921e+00	1.196996e+00	IGHM
+GO_Molecular_Function_2023	Cis-Regulatory Region Sequence-Specific DNA Binding (GO:0000987)	1/1098	5.714173e-01	6.126520e-01	0	0	1.229848e+00	6.882665e-01	MUC1
+GO_Molecular_Function_2023	RNA Polymerase II Cis-Regulatory Region Sequence-Specific DNA Binding (GO:0000978)	1/1122	5.795107e-01	6.126520e-01	0	0	1.201988e+00	6.557700e-01	MUC1
+GO_Molecular_Function_2023	RNA Polymerase II Transcription Regulatory Region Sequence-Specific DNA Binding (GO:0000977)	1/1225	6.126520e-01	6.126520e-01	0	0	1.094830e+00	5.364207e-01	MUC1

@@ -1,0 +1,25 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	negative regulation of keratinocyte differentiation (GO:0045617)	1/5	4.999362e-04	4.398802e-03	0	0	4.998500e+03	3.799375e+04	REG3A
+GO_Biological_Process_2021	negative regulation of amyloid precursor protein biosynthetic process (GO:0042985)	1/6	5.999092e-04	4.398802e-03	0	0	3.998600e+03	2.966454e+04	ITM2B
+GO_Biological_Process_2021	negative regulation of epidermal cell differentiation (GO:0045605)	1/7	6.998774e-04	4.398802e-03	0	0	3.332000e+03	2.420567e+04	REG3A
+GO_Biological_Process_2021	negative regulation of glycoprotein biosynthetic process (GO:0010561)	1/9	8.997989e-04	4.398802e-03	0	0	2.498750e+03	1.752458e+04	ITM2B
+GO_Biological_Process_2021	positive regulation of keratinocyte proliferation (GO:0010838)	1/11	1.099701e-03	4.398802e-03	0	0	1.998800e+03	1.361726e+04	REG3A
+GO_Biological_Process_2021	regulation of amyloid precursor protein biosynthetic process (GO:0042984)	1/11	1.099701e-03	4.398802e-03	0	0	1.998800e+03	1.361726e+04	ITM2B
+GO_Biological_Process_2021	regulation of keratinocyte proliferation (GO:0010837)	1/24	2.398578e-03	8.223697e-03	0	0	8.684783e+02	5.239424e+03	REG3A
+GO_Biological_Process_2021	positive regulation of response to wounding (GO:1903036)	1/28	2.798064e-03	8.391269e-03	0	0	7.396667e+02	4.348373e+03	REG3A
+GO_Biological_Process_2021	regulation of keratinocyte differentiation (GO:0045616)	1/34	3.397142e-03	8.391269e-03	0	0	6.050000e+02	3.439317e+03	REG3A
+GO_Biological_Process_2021	response to peptide (GO:1901652)	1/39	3.896237e-03	8.391269e-03	0	0	5.252632e+02	2.914026e+03	REG3A
+GO_Biological_Process_2021	positive regulation of wound healing (GO:0090303)	1/40	3.996041e-03	8.391269e-03	0	0	5.117692e+02	2.826221e+03	REG3A
+GO_Biological_Process_2021	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules (GO:0007157)	1/42	4.195635e-03	8.391269e-03	0	0	4.867561e+02	2.664362e+03	REG3A
+GO_Biological_Process_2021	regulation of wound healing (GO:0061041)	1/47	4.694530e-03	8.666825e-03	0	0	4.337391e+02	2.325430e+03	REG3A
+GO_Biological_Process_2021	response to peptide hormone (GO:0043434)	1/52	5.193301e-03	8.902801e-03	0	0	3.911176e+02	2.057430e+03	REG3A
+GO_Biological_Process_2021	amyloid fibril formation (GO:1990000)	1/63	6.290157e-03	9.584762e-03	0	0	3.215484e+02	1.629855e+03	ITM2B
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	1/64	6.389841e-03	9.584762e-03	0	0	3.164286e+02	1.598928e+03	REG3A
+GO_Biological_Process_2021	positive regulation of epithelial cell proliferation (GO:0050679)	1/123	1.226237e-02	1.731158e-02	0	0	1.629180e+02	7.170381e+02	REG3A
+GO_Biological_Process_2021	cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742)	1/170	1.692803e-02	2.257071e-02	0	0	1.173314e+02	4.785693e+02	REG3A
+GO_Biological_Process_2021	negative regulation of multicellular organismal process (GO:0051241)	1/214	2.128588e-02	2.688743e-02	0	0	9.288732e+01	3.575894e+02	REG3A
+GO_Biological_Process_2021	supramolecular fiber organization (GO:0097435)	1/351	3.479266e-02	4.175120e-02	0	0	5.613714e+01	1.885281e+02	ITM2B
+GO_Biological_Process_2021	nervous system development (GO:0007399)	1/447	4.420135e-02	5.051583e-02	0	0	4.383857e+01	1.367325e+02	ITM2B
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	1/474	4.683924e-02	5.109736e-02	0	0	4.127907e+01	1.263566e+02	REG3A
+GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	1/625	6.152470e-02	6.419969e-02	0	0	3.104808e+01	8.657187e+01	REG3A
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	1/764	7.494233e-02	7.494233e-02	0	0	2.520970e+01	6.531925e+01	REG3A

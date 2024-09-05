@@ -1,0 +1,33 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	3/64	3.110652e-07	9.954087e-06	0	0	4.901803e+02	7.344501e+03	REG3A;DEFA6;DEFA5
+GO_Biological_Process_2021	innate immune response in mucosa (GO:0002227)	2/21	1.047993e-05	1.676788e-04	0	0	7.009123e+02	8.036694e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	mucosal immune response (GO:0002385)	2/28	1.885078e-05	2.010750e-04	0	0	5.120256e+02	5.570305e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	antibacterial humoral response (GO:0019731)	2/44	4.710174e-05	3.768139e-04	0	0	3.167143e+02	3.155488e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	defense response to Gram-positive bacterium (GO:0050830)	2/70	1.199322e-04	6.958449e-04	0	0	1.953627e+02	1.763849e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	defense response to Gram-negative bacterium (GO:0050829)	2/73	1.304709e-04	6.958449e-04	0	0	1.870798e+02	1.673309e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	cellular response to molecule of bacterial origin (GO:0071219)	2/115	3.240677e-04	1.411249e-03	0	0	1.172979e+02	9.424371e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	cellular response to lipopolysaccharide (GO:0071222)	2/120	3.528123e-04	1.411249e-03	0	0	1.122994e+02	8.927327e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	response to lipopolysaccharide (GO:0032496)	2/159	6.182608e-04	2.198261e-03	0	0	8.423779e+01	6.223994e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	defense response to bacterium (GO:0042742)	2/176	7.567063e-04	2.421460e-03	0	0	7.594253e+01	5.457637e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	cellular response to lipid (GO:0071396)	2/219	1.167889e-03	3.075627e-03	0	0	6.076190e+01	4.102982e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	positive regulation of membrane permeability (GO:1905710)	1/5	1.249473e-03	3.075627e-03	0	0	1.249438e+03	8.352531e+03	DEFA5
+GO_Biological_Process_2021	negative regulation of keratinocyte differentiation (GO:0045617)	1/5	1.249473e-03	3.075627e-03	0	0	1.249438e+03	8.352531e+03	REG3A
+GO_Biological_Process_2021	negative regulation of epidermal cell differentiation (GO:0045605)	1/7	1.748917e-03	3.997523e-03	0	0	8.328750e+02	5.287722e+03	REG3A
+GO_Biological_Process_2021	innate immune response (GO:0045087)	2/302	2.205198e-03	4.704422e-03	0	0	4.376667e+01	2.677180e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	2/323	2.517756e-03	5.035512e-03	0	0	4.085981e+01	2.445209e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	positive regulation of keratinocyte proliferation (GO:0010838)	1/11	2.747205e-03	5.171210e-03	0	0	4.996250e+02	2.946374e+03	REG3A
+GO_Biological_Process_2021	killing by host of symbiont cells (GO:0051873)	1/16	3.993945e-03	7.100347e-03	0	0	3.330000e+02	1.839151e+03	DEFA5
+GO_Biological_Process_2021	regulation of keratinocyte proliferation (GO:0010837)	1/24	5.986139e-03	1.008192e-02	0	0	2.170870e+02	1.111118e+03	REG3A
+GO_Biological_Process_2021	positive regulation of response to wounding (GO:1903036)	1/28	6.981041e-03	1.116967e-02	0	0	1.848889e+02	9.178915e+02	REG3A
+GO_Biological_Process_2021	regulation of keratinocyte differentiation (GO:0045616)	1/34	8.471900e-03	1.290956e-02	0	0	1.512273e+02	7.215054e+02	REG3A
+GO_Biological_Process_2021	response to peptide (GO:1901652)	1/39	9.712916e-03	1.385874e-02	0	0	1.312961e+02	6.084651e+02	REG3A
+GO_Biological_Process_2021	positive regulation of wound healing (GO:0090303)	1/40	9.960969e-03	1.385874e-02	0	0	1.279231e+02	5.896078e+02	REG3A
+GO_Biological_Process_2021	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules (GO:0007157)	1/42	1.045693e-02	1.394257e-02	0	0	1.216707e+02	5.548782e+02	REG3A
+GO_Biological_Process_2021	regulation of wound healing (GO:0061041)	1/47	1.169596e-02	1.497082e-02	0	0	1.084185e+02	4.823009e+02	REG3A
+GO_Biological_Process_2021	response to peptide hormone (GO:0043434)	1/52	1.293374e-02	1.591845e-02	0	0	9.776471e+01	4.250727e+02	REG3A
+GO_Biological_Process_2021	positive regulation of epithelial cell proliferation (GO:0050679)	1/123	3.037691e-02	3.600226e-02	0	0	4.072336e+01	1.422904e+02	REG3A
+GO_Biological_Process_2021	cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742)	1/170	4.178751e-02	4.775715e-02	0	0	2.932840e+01	9.312231e+01	REG3A
+GO_Biological_Process_2021	negative regulation of multicellular organismal process (GO:0051241)	1/214	5.237217e-02	5.778998e-02	0	0	2.321831e+01	6.847962e+01	REG3A
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	1/474	1.130251e-01	1.205601e-01	0	0	1.031818e+01	2.249514e+01	REG3A
+GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	1/625	1.467982e-01	1.515336e-01	0	0	7.760817e+00	1.489065e+01	REG3A
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	1/764	1.769704e-01	1.769704e-01	0	0	6.301442e+00	1.091266e+01	REG3A

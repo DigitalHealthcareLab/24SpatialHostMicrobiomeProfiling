@@ -1,0 +1,4 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	sodium ion transport (GO:0006814)	1/90	1.343989e-02	2.587470e-02	0	0	1.118427e+02	4.819893e+02	SLC5A12
+GO_Biological_Process_2021	ion transport (GO:0006811)	1/116	1.730000e-02	2.587470e-02	0	0	8.644348e+01	3.507054e+02	SLC5A12
+GO_Biological_Process_2021	cation transport (GO:0006812)	1/174	2.587470e-02	2.587470e-02	0	0	5.729480e+01	2.093832e+02	SLC5A12

@@ -1,0 +1,87 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	regulation of histone H3-K9 trimethylation (GO:1900112)	1/5	9.996772e-04	1.227262e-02	0	0	1.666000e+03	1.150886e+04	ATRX
+GO_Biological_Process_2021	pronephros development (GO:0048793)	1/6	1.199524e-03	1.227262e-02	0	0	1.332733e+03	8.963738e+03	CEP290
+GO_Biological_Process_2021	nucleotide transport (GO:0006862)	1/6	1.199524e-03	1.227262e-02	0	0	1.332733e+03	8.963738e+03	SLC25A36
+GO_Biological_Process_2021	epithelial tube formation (GO:0072175)	1/6	1.199524e-03	1.227262e-02	0	0	1.332733e+03	8.963738e+03	CEP290
+GO_Biological_Process_2021	positive regulation of nuclear cell cycle DNA replication (GO:0010571)	1/6	1.199524e-03	1.227262e-02	0	0	1.332733e+03	8.963738e+03	ATRX
+GO_Biological_Process_2021	regulation of nuclear cell cycle DNA replication (GO:0033262)	1/9	1.798886e-03	1.227262e-02	0	0	8.328333e+02	5.263996e+03	ATRX
+GO_Biological_Process_2021	cellular response to hydroxyurea (GO:0072711)	1/10	1.998613e-03	1.227262e-02	0	0	7.402593e+02	4.600935e+03	ATRX
+GO_Biological_Process_2021	positive regulation of histone exchange (GO:1900051)	1/11	2.198311e-03	1.227262e-02	0	0	6.662000e+02	4.077188e+03	ATRX
+GO_Biological_Process_2021	response to hydroxyurea (GO:0072710)	1/11	2.198311e-03	1.227262e-02	0	0	6.662000e+02	4.077188e+03	ATRX
+GO_Biological_Process_2021	positive regulation of DNA-dependent DNA replication (GO:2000105)	1/11	2.198311e-03	1.227262e-02	0	0	6.662000e+02	4.077188e+03	ATRX
+GO_Biological_Process_2021	regulation of histone exchange (GO:1900049)	1/11	2.198311e-03	1.227262e-02	0	0	6.662000e+02	4.077188e+03	ATRX
+GO_Biological_Process_2021	mitochondrial genome maintenance (GO:0000002)	1/12	2.397979e-03	1.227262e-02	0	0	6.056061e+02	3.653700e+03	SLC25A36
+GO_Biological_Process_2021	regulation of histone H3-K9 methylation (GO:0051570)	1/12	2.397979e-03	1.227262e-02	0	0	6.056061e+02	3.653700e+03	ATRX
+GO_Biological_Process_2021	eye photoreceptor cell differentiation (GO:0001754)	1/12	2.397979e-03	1.227262e-02	0	0	6.056061e+02	3.653700e+03	CEP290
+GO_Biological_Process_2021	DNA replication-independent nucleosome organization (GO:0034724)	1/13	2.597617e-03	1.227262e-02	0	0	5.551111e+02	3.304666e+03	ATRX
+GO_Biological_Process_2021	positive regulation of chromatin organization (GO:1905269)	1/15	2.996803e-03	1.227262e-02	0	0	4.757619e+02	2.764276e+03	ATRX
+GO_Biological_Process_2021	positive regulation of chromosome organization (GO:2001252)	1/15	2.996803e-03	1.227262e-02	0	0	4.757619e+02	2.764276e+03	ATRX
+GO_Biological_Process_2021	photoreceptor cell development (GO:0042461)	1/15	2.996803e-03	1.227262e-02	0	0	4.757619e+02	2.764276e+03	CEP290
+GO_Biological_Process_2021	eye photoreceptor cell development (GO:0042462)	1/15	2.996803e-03	1.227262e-02	0	0	4.757619e+02	2.764276e+03	CEP290
+GO_Biological_Process_2021	protein localization to chromosome, telomeric region (GO:0070198)	1/15	2.996803e-03	1.227262e-02	0	0	4.757619e+02	2.764276e+03	ATRX
+GO_Biological_Process_2021	regulation of establishment of protein localization (GO:0070201)	1/15	2.996803e-03	1.227262e-02	0	0	4.757619e+02	2.764276e+03	CEP290
+GO_Biological_Process_2021	DNA alkylation (GO:0006305)	1/19	3.794816e-03	1.399256e-02	0	0	3.699630e+02	2.062218e+03	ATRX
+GO_Biological_Process_2021	DNA methylation or demethylation (GO:0044728)	1/19	3.794816e-03	1.399256e-02	0	0	3.699630e+02	2.062218e+03	ATRX
+GO_Biological_Process_2021	cellular response to nitrogen compound (GO:1901699)	1/20	3.994245e-03	1.399256e-02	0	0	3.504737e+02	1.935631e+03	ATRX
+GO_Biological_Process_2021	cellular response to inorganic substance (GO:0071241)	1/21	4.193643e-03	1.399256e-02	0	0	3.329333e+02	1.822539e+03	ATRX
+GO_Biological_Process_2021	negative regulation of DNA recombination at telomere (GO:0048239)	1/22	4.393012e-03	1.399256e-02	0	0	3.170635e+02	1.720938e+03	ATRX
+GO_Biological_Process_2021	regulation of DNA recombination at telomere (GO:0072695)	1/22	4.393012e-03	1.399256e-02	0	0	3.170635e+02	1.720938e+03	ATRX
+GO_Biological_Process_2021	DNA methylation (GO:0006306)	1/23	4.592351e-03	1.410508e-02	0	0	3.026364e+02	1.629201e+03	ATRX
+GO_Biological_Process_2021	regulation of telomere maintenance (GO:0032204)	1/26	5.190188e-03	1.539159e-02	0	0	2.662800e+02	1.400895e+03	ATRX
+GO_Biological_Process_2021	camera-type eye development (GO:0043010)	1/27	5.389408e-03	1.544963e-02	0	0	2.560256e+02	1.337304e+03	CEP290
+GO_Biological_Process_2021	non-motile cilium assembly (GO:1905515)	1/30	5.986886e-03	1.660878e-02	0	0	2.295057e+02	1.174653e+03	CEP290
+GO_Biological_Process_2021	positive regulation of telomere maintenance (GO:0032206)	1/32	6.385056e-03	1.663984e-02	0	0	2.146774e+02	1.084936e+03	ATRX
+GO_Biological_Process_2021	regulation of intracellular protein transport (GO:0033157)	1/32	6.385056e-03	1.663984e-02	0	0	2.146774e+02	1.084936e+03	CEP290
+GO_Biological_Process_2021	signal transduction by p53 class mediator (GO:0072331)	1/33	6.584096e-03	1.665389e-02	0	0	2.079583e+02	1.044595e+03	ATRX
+GO_Biological_Process_2021	protein localization to chromosome (GO:0034502)	1/34	6.783106e-03	1.666706e-02	0	0	2.016465e+02	1.006885e+03	ATRX
+GO_Biological_Process_2021	DNA replication-independent nucleosome assembly (GO:0006336)	1/39	7.777708e-03	1.760218e-02	0	0	1.750702e+02	8.502272e+02	ATRX
+GO_Biological_Process_2021	replication fork processing (GO:0031297)	1/39	7.777708e-03	1.760218e-02	0	0	1.750702e+02	8.502272e+02	ATRX
+GO_Biological_Process_2021	positive regulation of intracellular transport (GO:0032388)	1/39	7.777708e-03	1.760218e-02	0	0	1.750702e+02	8.502272e+02	CEP290
+GO_Biological_Process_2021	regulation of mitochondrial membrane potential (GO:0051881)	1/41	8.175340e-03	1.802767e-02	0	0	1.663000e+02	7.993431e+02	SLC25A36
+GO_Biological_Process_2021	DNA-dependent DNA replication maintenance of fidelity (GO:0045005)	1/43	8.572852e-03	1.843163e-02	0	0	1.583651e+02	7.536839e+02	ATRX
+GO_Biological_Process_2021	signal transduction in response to DNA damage (GO:0042770)	1/52	1.036018e-02	2.173111e-02	0	0	1.303595e+02	5.957149e+02	ATRX
+GO_Biological_Process_2021	renal system development (GO:0072001)	1/57	1.135209e-02	2.207408e-02	0	0	1.186905e+02	5.315378e+02	CEP290
+GO_Biological_Process_2021	negative regulation of DNA recombination (GO:0045910)	1/57	1.135209e-02	2.207408e-02	0	0	1.186905e+02	5.315378e+02	ATRX
+GO_Biological_Process_2021	nucleosome assembly (GO:0006334)	1/58	1.155039e-02	2.207408e-02	0	0	1.166023e+02	5.201673e+02	ATRX
+GO_Biological_Process_2021	eye development (GO:0001654)	1/58	1.155039e-02	2.207408e-02	0	0	1.166023e+02	5.201673e+02	CEP290
+GO_Biological_Process_2021	positive regulation of DNA metabolic process (GO:0051054)	1/63	1.254141e-02	2.344698e-02	0	0	1.071720e+02	4.692763e+02	ATRX
+GO_Biological_Process_2021	regulation of protein localization (GO:0032880)	1/66	1.313566e-02	2.403547e-02	0	0	1.022103e+02	4.428182e+02	CEP290
+GO_Biological_Process_2021	positive regulation of protein transport (GO:0051222)	1/69	1.372965e-02	2.444434e-02	0	0	9.768627e+01	4.188980e+02	CEP290
+GO_Biological_Process_2021	kidney development (GO:0001822)	1/70	1.392759e-02	2.444434e-02	0	0	9.626570e+01	4.114284e+02	CEP290
+GO_Biological_Process_2021	chromatin assembly (GO:0031497)	1/73	1.452122e-02	2.482033e-02	0	0	9.224074e+01	3.903761e+02	ATRX
+GO_Biological_Process_2021	DNA damage response, signal transduction by p53 class mediator (GO:0030330)	1/74	1.471903e-02	2.482033e-02	0	0	9.097260e+01	3.837783e+02	ATRX
+GO_Biological_Process_2021	regulation of cell cycle G2/M phase transition (GO:1902749)	1/85	1.689305e-02	2.793851e-02	0	0	7.901587e+01	3.224521e+02	CEP290
+GO_Biological_Process_2021	nucleosome organization (GO:0034728)	1/94	1.866912e-02	3.004635e-02	0	0	7.133692e+01	2.839840e+02	ATRX
+GO_Biological_Process_2021	ciliary basal body-plasma membrane docking (GO:0097711)	1/95	1.886631e-02	3.004635e-02	0	0	7.057447e+01	2.802073e+02	CEP290
+GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	2/1183	1.936038e-02	3.027259e-02	0	0	1.593141e+01	6.284189e+01	ATRX;CEP290
+GO_Biological_Process_2021	positive regulation of cell cycle process (GO:0090068)	1/101	2.004884e-02	3.078929e-02	0	0	6.632000e+01	2.592836e+02	ATRX
+GO_Biological_Process_2021	chromatin remodeling (GO:0006338)	1/103	2.044278e-02	3.084349e-02	0	0	6.501307e+01	2.529090e+02	ATRX
+GO_Biological_Process_2021	G2/M transition of mitotic cell cycle (GO:0000086)	1/130	2.574934e-02	3.781881e-02	0	0	5.133592e+01	1.878559e+02	CEP290
+GO_Biological_Process_2021	cell cycle G2/M phase transition (GO:0044839)	1/131	2.594546e-02	3.781881e-02	0	0	5.093846e+01	1.860150e+02	CEP290
+GO_Biological_Process_2021	organic substance transport (GO:0071702)	1/136	2.692564e-02	3.859342e-02	0	0	4.903951e+01	1.772619e+02	CEP290
+GO_Biological_Process_2021	chromatin organization (GO:0006325)	1/142	2.810087e-02	3.862716e-02	0	0	4.693853e+01	1.676623e+02	ATRX
+GO_Biological_Process_2021	protein-DNA complex assembly (GO:0065004)	1/143	2.829664e-02	3.862716e-02	0	0	4.660563e+01	1.661496e+02	ATRX
+GO_Biological_Process_2021	nitrogen compound transport (GO:0071705)	1/143	2.829664e-02	3.862716e-02	0	0	4.660563e+01	1.661496e+02	CEP290
+GO_Biological_Process_2021	positive regulation of intracellular protein transport (GO:0090316)	1/148	2.927505e-02	3.899192e-02	0	0	4.500907e+01	1.589279e+02	CEP290
+GO_Biological_Process_2021	regulation of G2/M transition of mitotic cell cycle (GO:0010389)	1/149	2.947064e-02	3.899192e-02	0	0	4.470270e+01	1.575485e+02	CEP290
+GO_Biological_Process_2021	mitochondrion organization (GO:0007005)	1/175	3.454566e-02	4.501404e-02	0	0	3.797318e+01	1.277977e+02	SLC25A36
+GO_Biological_Process_2021	regulation of mitotic cell cycle phase transition (GO:1901990)	1/188	3.707569e-02	4.758969e-02	0	0	3.531016e+01	1.163397e+02	CEP290
+GO_Biological_Process_2021	mitotic cell cycle phase transition (GO:0044772)	1/209	4.115216e-02	5.204538e-02	0	0	3.171154e+01	1.011750e+02	CEP290
+GO_Biological_Process_2021	cilium organization (GO:0044782)	1/228	4.482923e-02	5.587411e-02	0	0	2.902937e+01	9.013314e+01	CEP290
+GO_Biological_Process_2021	cellular component assembly (GO:0022607)	1/261	5.119057e-02	6.289127e-02	0	0	2.530256e+01	7.520428e+01	CEP290
+GO_Biological_Process_2021	plasma membrane bounded cell projection assembly (GO:0120031)	1/278	5.445520e-02	6.595982e-02	0	0	2.372924e+01	6.906104e+01	CEP290
+GO_Biological_Process_2021	cilium assembly (GO:0060271)	1/314	6.134071e-02	7.326808e-02	0	0	2.096166e+01	5.851053e+01	CEP290
+GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	2/2244	6.469083e-02	7.621112e-02	0	0	7.918822e+00	2.168281e+01	ATRX;CEP290
+GO_Biological_Process_2021	protein transport (GO:0015031)	1/369	7.178755e-02	8.342878e-02	0	0	1.777899e+01	4.683063e+01	CEP290
+GO_Biological_Process_2021	organelle organization (GO:0006996)	1/420	8.139647e-02	9.300486e-02	0	0	1.557438e+01	3.906715e+01	SLC25A36
+GO_Biological_Process_2021	organelle assembly (GO:0070925)	1/425	8.233449e-02	9.300486e-02	0	0	1.538679e+01	3.842028e+01	CEP290
+GO_Biological_Process_2021	regulation of nucleic acid-templated transcription (GO:1903506)	1/430	8.327179e-02	9.300486e-02	0	0	1.520357e+01	3.779069e+01	ATRX
+GO_Biological_Process_2021	regulation of cellular macromolecule biosynthetic process (GO:2000112)	1/468	9.037183e-02	9.964074e-02	0	0	1.393933e+01	3.350767e+01	ATRX
+GO_Biological_Process_2021	neutrophil degranulation (GO:0043312)	1/481	9.279130e-02	9.990024e-02	0	0	1.355278e+01	3.222041e+01	CEP290
+GO_Biological_Process_2021	neutrophil activation involved in immune response (GO:0002283)	1/485	9.353478e-02	9.990024e-02	0	0	1.343802e+01	3.184033e+01	CEP290
+GO_Biological_Process_2021	neutrophil mediated immunity (GO:0002446)	1/488	9.409209e-02	9.990024e-02	0	0	1.335318e+01	3.156000e+01	CEP290
+GO_Biological_Process_2021	positive regulation of nucleic acid-templated transcription (GO:1903508)	1/511	9.835626e-02	1.031541e-01	0	0	1.273595e+01	2.953669e+01	CEP290
+GO_Biological_Process_2021	negative regulation of transcription by RNA polymerase II (GO:0000122)	1/684	1.299497e-01	1.346467e-01	0	0	9.425573e+00	1.923390e+01	ATRX
+GO_Biological_Process_2021	positive regulation of transcription by RNA polymerase II (GO:0045944)	1/908	1.696146e-01	1.736530e-01	0	0	7.015436e+00	1.244697e+01	ATRX
+GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	1/1079	1.989693e-01	2.013101e-01	0	0	5.849722e+00	9.444987e+00	ATRX
+GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	1/2206	3.734459e-01	3.734459e-01	0	0	2.689494e+00	2.649103e+00	ATRX

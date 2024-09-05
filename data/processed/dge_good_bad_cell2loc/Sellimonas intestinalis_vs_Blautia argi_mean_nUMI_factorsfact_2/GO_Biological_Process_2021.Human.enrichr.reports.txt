@@ -1,0 +1,9 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	ribosomal large subunit biogenesis (GO:0042273)	1/57	5.691947e-03	1.889998e-02	0	0	3.561071e+02	1.840612e+03	WDR74
+GO_Biological_Process_2021	ribonucleoprotein complex biogenesis (GO:0022613)	1/60	5.991074e-03	1.889998e-02	0	0	3.379492e+02	1.729450e+03	WDR74
+GO_Biological_Process_2021	nucleic acid metabolic process (GO:0090304)	1/71	7.087491e-03	1.889998e-02	0	0	2.846857e+02	1.409030e+03	WDR74
+GO_Biological_Process_2021	RNA metabolic process (GO:0016070)	1/133	1.325599e-02	1.999935e-02	0	0	1.505000e+02	6.506575e+02	WDR74
+GO_Biological_Process_2021	rRNA metabolic process (GO:0016072)	1/162	1.613466e-02	1.999935e-02	0	0	1.232112e+02	5.084661e+02	WDR74
+GO_Biological_Process_2021	rRNA processing (GO:0006364)	1/173	1.722547e-02	1.999935e-02	0	0	1.152674e+02	4.681433e+02	WDR74
+GO_Biological_Process_2021	ribosome biogenesis (GO:0042254)	1/192	1.910817e-02	1.999935e-02	0	0	1.037016e+02	4.104134e+02	WDR74
+GO_Biological_Process_2021	ncRNA processing (GO:0034470)	1/201	1.999935e-02	1.999935e-02	0	0	9.899000e+01	3.872544e+02	WDR74

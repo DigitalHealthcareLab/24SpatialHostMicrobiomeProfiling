@@ -1,0 +1,192 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	chylomicron remodeling (GO:0034371)	2/9	5.032841e-06	5.202774e-04	0	0	9.516667e+02	1.160988e+04	APOA1;APOB
+GO_Biological_Process_2021	chylomicron assembly (GO:0034378)	2/10	6.289809e-06	5.202774e-04	0	0	8.326667e+02	9.972499e+03	APOA1;APOB
+GO_Biological_Process_2021	triglyceride-rich lipoprotein particle remodeling (GO:0034370)	2/13	1.089586e-05	5.202774e-04	0	0	6.054848e+02	6.918953e+03	APOA1;APOB
+GO_Biological_Process_2021	positive regulation of fatty acid biosynthetic process (GO:0045723)	2/13	1.089586e-05	5.202774e-04	0	0	6.054848e+02	6.918953e+03	MLXIPL;APOA1
+GO_Biological_Process_2021	positive regulation of fatty acid metabolic process (GO:0045923)	2/18	2.135143e-05	8.156247e-04	0	0	4.161667e+02	4.475619e+03	MLXIPL;APOA1
+GO_Biological_Process_2021	sterol transport (GO:0015918)	2/21	2.928839e-05	9.323472e-04	0	0	3.504035e+02	3.657624e+03	APOA1;APOB
+GO_Biological_Process_2021	acylglycerol homeostasis (GO:0055090)	2/25	4.180723e-05	9.981477e-04	0	0	2.894058e+02	2.917917e+03	MLXIPL;APOA1
+GO_Biological_Process_2021	positive regulation of lipid metabolic process (GO:0045834)	2/25	4.180723e-05	9.981477e-04	0	0	2.894058e+02	2.917917e+03	MLXIPL;APOA1
+GO_Biological_Process_2021	regulation of fatty acid biosynthetic process (GO:0042304)	2/29	5.653402e-05	1.199777e-03	0	0	2.464815e+02	2.410754e+03	MLXIPL;APOA1
+GO_Biological_Process_2021	triglyceride homeostasis (GO:0070328)	2/31	6.472372e-05	1.236223e-03	0	0	2.294598e+02	2.213227e+03	MLXIPL;APOA1
+GO_Biological_Process_2021	positive regulation of lipid biosynthetic process (GO:0046889)	2/35	8.275244e-05	1.317143e-03	0	0	2.016061e+02	1.895028e+03	MLXIPL;APOA1
+GO_Biological_Process_2021	regulation of lipid biosynthetic process (GO:0046890)	2/35	8.275244e-05	1.317143e-03	0	0	2.016061e+02	1.895028e+03	MLXIPL;APOA1
+GO_Biological_Process_2021	positive regulation of biosynthetic process (GO:0009891)	2/44	1.313332e-04	1.929588e-03	0	0	1.583333e+02	1.415147e+03	MLXIPL;APOA1
+GO_Biological_Process_2021	secondary alcohol metabolic process (GO:1902652)	2/49	1.631011e-04	2.225165e-03	0	0	1.414539e+02	1.233639e+03	APOA1;APOB
+GO_Biological_Process_2021	cholesterol transport (GO:0030301)	2/51	1.767609e-04	2.250755e-03	0	0	1.356667e+02	1.172257e+03	APOA1;APOB
+GO_Biological_Process_2021	lipid homeostasis (GO:0055088)	2/64	2.787648e-04	3.132004e-03	0	0	1.071505e+02	8.770424e+02	MLXIPL;APOA1
+GO_Biological_Process_2021	diterpenoid metabolic process (GO:0016101)	2/64	2.787648e-04	3.132004e-03	0	0	1.071505e+02	8.770424e+02	APOA1;APOB
+GO_Biological_Process_2021	sterol metabolic process (GO:0016125)	2/70	3.335365e-04	3.369898e-03	0	0	9.766667e+01	7.818957e+02	APOA1;APOB
+GO_Biological_Process_2021	cholesterol homeostasis (GO:0042632)	2/71	3.431356e-04	3.369898e-03	0	0	9.624638e+01	7.677944e+02	APOA1;APOB
+GO_Biological_Process_2021	sterol homeostasis (GO:0055092)	2/72	3.528689e-04	3.369898e-03	0	0	9.486667e+01	7.541344e+02	APOA1;APOB
+GO_Biological_Process_2021	cholesterol metabolic process (GO:0008203)	2/77	4.035455e-04	3.670343e-03	0	0	8.852000e+01	6.918034e+02	APOA1;APOB
+GO_Biological_Process_2021	retinoid metabolic process (GO:0001523)	2/92	5.755911e-04	4.997177e-03	0	0	7.371111e+01	5.498932e+02	APOA1;APOB
+GO_Biological_Process_2021	positive regulation of cellular catabolic process (GO:0031331)	2/141	1.343914e-03	1.099757e-02	0	0	4.760911e+01	3.147995e+02	MLXIPL;APOA1
+GO_Biological_Process_2021	receptor-mediated endocytosis (GO:0006898)	2/143	1.381894e-03	1.099757e-02	0	0	4.692908e+01	3.089951e+02	APOA1;APOB
+GO_Biological_Process_2021	negative regulation of cellular respiration (GO:1901856)	1/5	1.998563e-03	1.468175e-02	0	0	7.138571e+02	4.436855e+03	MLXIPL
+GO_Biological_Process_2021	regulation of intestinal lipid absorption (GO:1904729)	1/5	1.998563e-03	1.468175e-02	0	0	7.138571e+02	4.436855e+03	APOA1
+GO_Biological_Process_2021	positive regulation of cellular biosynthetic process (GO:0031328)	2/180	2.176488e-03	1.477391e-02	0	0	3.710487e+01	2.274544e+02	MLXIPL;APOA1
+GO_Biological_Process_2021	sterol import (GO:0035376)	1/6	2.397859e-03	1.477391e-02	0	0	5.710571e+02	3.445290e+03	APOA1
+GO_Biological_Process_2021	positive regulation of cholesterol storage (GO:0010886)	1/6	2.397859e-03	1.477391e-02	0	0	5.710571e+02	3.445290e+03	APOB
+GO_Biological_Process_2021	cholesterol import (GO:0070508)	1/6	2.397859e-03	1.477391e-02	0	0	5.710571e+02	3.445290e+03	APOA1
+GO_Biological_Process_2021	regulation of very-low-density lipoprotein particle remodeling (GO:0010901)	1/6	2.397859e-03	1.477391e-02	0	0	5.710571e+02	3.445290e+03	APOA1
+GO_Biological_Process_2021	chylomicron remnant clearance (GO:0034382)	1/7	2.797015e-03	1.577628e-02	0	0	4.758571e+02	2.797661e+03	APOB
+GO_Biological_Process_2021	regulation of Cdc42 protein signal transduction (GO:0032489)	1/8	3.196032e-03	1.577628e-02	0	0	4.078571e+02	2.343484e+03	APOA1
+GO_Biological_Process_2021	positive regulation of triglyceride catabolic process (GO:0010898)	1/8	3.196032e-03	1.577628e-02	0	0	4.078571e+02	2.343484e+03	APOA1
+GO_Biological_Process_2021	regulation of intestinal cholesterol absorption (GO:0030300)	1/8	3.196032e-03	1.577628e-02	0	0	4.078571e+02	2.343484e+03	APOA1
+GO_Biological_Process_2021	positive regulation of lipoprotein lipase activity (GO:0051006)	1/8	3.196032e-03	1.577628e-02	0	0	4.078571e+02	2.343484e+03	APOA1
+GO_Biological_Process_2021	regulation of cell adhesion molecule production (GO:0060353)	1/9	3.594909e-03	1.577628e-02	0	0	3.568571e+02	2.008476e+03	APOA1
+GO_Biological_Process_2021	positive regulation of triglyceride lipase activity (GO:0061365)	1/9	3.594909e-03	1.577628e-02	0	0	3.568571e+02	2.008476e+03	APOA1
+GO_Biological_Process_2021	lipoprotein metabolic process (GO:0042157)	1/9	3.594909e-03	1.577628e-02	0	0	3.568571e+02	2.008476e+03	APOA1
+GO_Biological_Process_2021	very-low-density lipoprotein particle remodeling (GO:0034372)	1/9	3.594909e-03	1.577628e-02	0	0	3.568571e+02	2.008476e+03	APOA1
+GO_Biological_Process_2021	positive regulation of cholesterol esterification (GO:0010873)	1/9	3.594909e-03	1.577628e-02	0	0	3.568571e+02	2.008476e+03	APOA1
+GO_Biological_Process_2021	negative regulation of production of molecular mediator of immune response (GO:0002701)	1/9	3.594909e-03	1.577628e-02	0	0	3.568571e+02	2.008476e+03	APOA1
+GO_Biological_Process_2021	regulation of cell-cell adhesion involved in gastrulation (GO:0070587)	1/10	3.993646e-03	1.577628e-02	0	0	3.171905e+02	1.751859e+03	APOA1
+GO_Biological_Process_2021	peptidyl-amino acid modification (GO:0018193)	1/10	3.993646e-03	1.577628e-02	0	0	3.171905e+02	1.751859e+03	APOA1
+GO_Biological_Process_2021	lipoprotein transport (GO:0042953)	1/10	3.993646e-03	1.577628e-02	0	0	3.171905e+02	1.751859e+03	APOB
+GO_Biological_Process_2021	negative regulation of heterotypic cell-cell adhesion (GO:0034115)	1/10	3.993646e-03	1.577628e-02	0	0	3.171905e+02	1.751859e+03	APOA1
+GO_Biological_Process_2021	protein oxidation (GO:0018158)	1/11	4.392244e-03	1.577628e-02	0	0	2.854571e+02	1.549437e+03	APOA1
+GO_Biological_Process_2021	positive regulation of phospholipid transport (GO:2001140)	1/11	4.392244e-03	1.577628e-02	0	0	2.854571e+02	1.549437e+03	APOA1
+GO_Biological_Process_2021	lipoprotein localization (GO:0044872)	1/11	4.392244e-03	1.577628e-02	0	0	2.854571e+02	1.549437e+03	APOB
+GO_Biological_Process_2021	fatty acid homeostasis (GO:0055089)	1/11	4.392244e-03	1.577628e-02	0	0	2.854571e+02	1.549437e+03	MLXIPL
+GO_Biological_Process_2021	positive regulation of lipid localization (GO:1905954)	1/11	4.392244e-03	1.577628e-02	0	0	2.854571e+02	1.549437e+03	APOB
+GO_Biological_Process_2021	negative regulation of response to cytokine stimulus (GO:0060761)	1/11	4.392244e-03	1.577628e-02	0	0	2.854571e+02	1.549437e+03	APOA1
+GO_Biological_Process_2021	very-low-density lipoprotein particle assembly (GO:0034379)	1/12	4.790703e-03	1.577628e-02	0	0	2.594935e+02	1.385975e+03	APOB
+GO_Biological_Process_2021	regulation of cholesterol esterification (GO:0010872)	1/12	4.790703e-03	1.577628e-02	0	0	2.594935e+02	1.385975e+03	APOA1
+GO_Biological_Process_2021	peptidyl-methionine modification (GO:0018206)	1/12	4.790703e-03	1.577628e-02	0	0	2.594935e+02	1.385975e+03	APOA1
+GO_Biological_Process_2021	phospholipid efflux (GO:0033700)	1/12	4.790703e-03	1.577628e-02	0	0	2.594935e+02	1.385975e+03	APOA1
+GO_Biological_Process_2021	phospholipid homeostasis (GO:0055091)	1/12	4.790703e-03	1.577628e-02	0	0	2.594935e+02	1.385975e+03	APOA1
+GO_Biological_Process_2021	regulation of triglyceride catabolic process (GO:0010896)	1/12	4.790703e-03	1.577628e-02	0	0	2.594935e+02	1.385975e+03	APOA1
+GO_Biological_Process_2021	high-density lipoprotein particle assembly (GO:0034380)	1/13	5.189022e-03	1.651839e-02	0	0	2.378571e+02	1.251416e+03	APOA1
+GO_Biological_Process_2021	positive regulation of steroid metabolic process (GO:0045940)	1/13	5.189022e-03	1.651839e-02	0	0	2.378571e+02	1.251416e+03	APOA1
+GO_Biological_Process_2021	low-density lipoprotein particle remodeling (GO:0034374)	1/14	5.587202e-03	1.749435e-02	0	0	2.195495e+02	1.138864e+03	APOB
+GO_Biological_Process_2021	regulation of cholesterol storage (GO:0010885)	1/16	6.383144e-03	1.935207e-02	0	0	1.902571e+02	9.615776e+02	APOB
+GO_Biological_Process_2021	regulation of oxidative phosphorylation (GO:0002082)	1/16	6.383144e-03	1.935207e-02	0	0	1.902571e+02	9.615776e+02	MLXIPL
+GO_Biological_Process_2021	negative regulation of ATP metabolic process (GO:1903579)	1/17	6.780906e-03	1.962353e-02	0	0	1.783571e+02	8.906522e+02	MLXIPL
+GO_Biological_Process_2021	negative regulation of cytokine production involved in immune response (GO:0002719)	1/17	6.780906e-03	1.962353e-02	0	0	1.783571e+02	8.906522e+02	APOA1
+GO_Biological_Process_2021	reverse cholesterol transport (GO:0043691)	1/17	6.780906e-03	1.962353e-02	0	0	1.783571e+02	8.906522e+02	APOA1
+GO_Biological_Process_2021	high-density lipoprotein particle remodeling (GO:0034375)	1/18	7.178529e-03	1.987100e-02	0	0	1.678571e+02	8.286538e+02	APOA1
+GO_Biological_Process_2021	negative regulation of tumor necrosis factor-mediated signaling pathway (GO:0010804)	1/18	7.178529e-03	1.987100e-02	0	0	1.678571e+02	8.286538e+02	APOA1
+GO_Biological_Process_2021	positive regulation of macrophage derived foam cell differentiation (GO:0010744)	1/18	7.178529e-03	1.987100e-02	0	0	1.678571e+02	8.286538e+02	APOB
+GO_Biological_Process_2021	positive regulation of triglyceride metabolic process (GO:0090208)	1/19	7.576012e-03	2.067169e-02	0	0	1.585238e+02	7.740350e+02	APOA1
+GO_Biological_Process_2021	post-translational protein modification (GO:0043687)	2/345	7.755883e-03	2.076334e-02	0	0	1.909524e+01	9.278956e+01	APOA1;APOB
+GO_Biological_Process_2021	positive regulation of glycolytic process (GO:0045821)	1/21	8.370562e-03	2.076334e-02	0	0	1.426571e+02	6.823340e+02	MLXIPL
+GO_Biological_Process_2021	positive regulation of lipid storage (GO:0010884)	1/21	8.370562e-03	2.076334e-02	0	0	1.426571e+02	6.823340e+02	APOB
+GO_Biological_Process_2021	positive regulation of purine nucleotide metabolic process (GO:1900544)	1/21	8.370562e-03	2.076334e-02	0	0	1.426571e+02	6.823340e+02	MLXIPL
+GO_Biological_Process_2021	negative regulation of peptidyl-serine phosphorylation (GO:0033137)	1/21	8.370562e-03	2.076334e-02	0	0	1.426571e+02	6.823340e+02	MLXIPL
+GO_Biological_Process_2021	innate immune response in mucosa (GO:0002227)	1/21	8.370562e-03	2.076334e-02	0	0	1.426571e+02	6.823340e+02	DEFA6
+GO_Biological_Process_2021	regulation of lipoprotein lipase activity (GO:0051004)	1/21	8.370562e-03	2.076334e-02	0	0	1.426571e+02	6.823340e+02	APOA1
+GO_Biological_Process_2021	regulation of response to cytokine stimulus (GO:0060759)	1/22	8.767628e-03	2.093271e-02	0	0	1.358571e+02	6.435130e+02	APOA1
+GO_Biological_Process_2021	positive regulation of lipid catabolic process (GO:0050996)	1/22	8.767628e-03	2.093271e-02	0	0	1.358571e+02	6.435130e+02	APOA1
+GO_Biological_Process_2021	regulation of lipid storage (GO:0010883)	1/22	8.767628e-03	2.093271e-02	0	0	1.358571e+02	6.435130e+02	APOB
+GO_Biological_Process_2021	ERK1 and ERK2 cascade (GO:0070371)	1/23	9.164555e-03	2.134671e-02	0	0	1.296753e+02	6.084900e+02	APOA1
+GO_Biological_Process_2021	positive regulation of cholesterol efflux (GO:0010875)	1/23	9.164555e-03	2.134671e-02	0	0	1.296753e+02	6.084900e+02	APOA1
+GO_Biological_Process_2021	positive regulation of carbohydrate metabolic process (GO:0045913)	1/24	9.561343e-03	2.148490e-02	0	0	1.240311e+02	5.767478e+02	MLXIPL
+GO_Biological_Process_2021	regulation of cytokine production involved in immune response (GO:0002718)	1/24	9.561343e-03	2.148490e-02	0	0	1.240311e+02	5.767478e+02	APOA1
+GO_Biological_Process_2021	cholesterol efflux (GO:0033344)	1/24	9.561343e-03	2.148490e-02	0	0	1.240311e+02	5.767478e+02	APOA1
+GO_Biological_Process_2021	regulation of heterotypic cell-cell adhesion (GO:0034114)	1/25	9.957992e-03	2.186180e-02	0	0	1.188571e+02	5.478577e+02	APOA1
+GO_Biological_Process_2021	regulation of cholesterol transport (GO:0032374)	1/25	9.957992e-03	2.186180e-02	0	0	1.188571e+02	5.478577e+02	APOA1
+GO_Biological_Process_2021	negative regulation of interleukin-1 beta production (GO:0032691)	1/26	1.035450e-02	2.247398e-02	0	0	1.140971e+02	5.214620e+02	APOA1
+GO_Biological_Process_2021	mucosal immune response (GO:0002385)	1/28	1.114711e-02	2.371325e-02	0	0	1.056349e+02	4.749954e+02	DEFA6
+GO_Biological_Process_2021	cellular protein metabolic process (GO:0044267)	2/417	1.117378e-02	2.371325e-02	0	0	1.572450e+01	7.066880e+01	APOA1;APOB
+GO_Biological_Process_2021	negative regulation of interleukin-1 production (GO:0032692)	1/30	1.193915e-02	2.505910e-02	0	0	9.833990e+01	4.354424e+02	APOA1
+GO_Biological_Process_2021	vitamin transport (GO:0051180)	1/31	1.233497e-02	2.506361e-02	0	0	9.505714e+01	4.178063e+02	APOA1
+GO_Biological_Process_2021	positive regulation of Rho protein signal transduction (GO:0035025)	1/31	1.233497e-02	2.506361e-02	0	0	9.505714e+01	4.178063e+02	APOA1
+GO_Biological_Process_2021	regulation of macrophage derived foam cell differentiation (GO:0010743)	1/31	1.233497e-02	2.506361e-02	0	0	9.505714e+01	4.178063e+02	APOB
+GO_Biological_Process_2021	cellular response to glucose stimulus (GO:0071333)	1/32	1.273065e-02	2.507101e-02	0	0	9.198618e+01	4.014040e+02	MLXIPL
+GO_Biological_Process_2021	positive regulation of ATP metabolic process (GO:1903580)	1/33	1.312618e-02	2.507101e-02	0	0	8.910714e+01	3.861143e+02	MLXIPL
+GO_Biological_Process_2021	regulation of cholesterol efflux (GO:0010874)	1/33	1.312618e-02	2.507101e-02	0	0	8.910714e+01	3.861143e+02	APOA1
+GO_Biological_Process_2021	positive regulation of cholesterol transport (GO:0032376)	1/33	1.312618e-02	2.507101e-02	0	0	8.910714e+01	3.861143e+02	APOA1
+GO_Biological_Process_2021	phosphatidylcholine biosynthetic process (GO:0006656)	1/33	1.312618e-02	2.507101e-02	0	0	8.910714e+01	3.861143e+02	APOA1
+GO_Biological_Process_2021	negative chemotaxis (GO:0050919)	1/33	1.312618e-02	2.507101e-02	0	0	8.910714e+01	3.861143e+02	APOA1
+GO_Biological_Process_2021	secondary alcohol biosynthetic process (GO:1902653)	1/34	1.352158e-02	2.557052e-02	0	0	8.640260e+01	3.718308e+02	APOA1
+GO_Biological_Process_2021	cholesterol biosynthetic process (GO:0006695)	1/35	1.391685e-02	2.605998e-02	0	0	8.385714e+01	3.584604e+02	APOA1
+GO_Biological_Process_2021	positive regulation of substrate adhesion-dependent cell spreading (GO:1900026)	1/36	1.431197e-02	2.653967e-02	0	0	8.145714e+01	3.459207e+02	APOA1
+GO_Biological_Process_2021	sterol biosynthetic process (GO:0016126)	1/38	1.510180e-02	2.773503e-02	0	0	7.704633e+01	3.230508e+02	APOA1
+GO_Biological_Process_2021	positive regulation of catalytic activity (GO:0043085)	1/40	1.589107e-02	2.890662e-02	0	0	7.308791e+01	3.027300e+02	APOA1
+GO_Biological_Process_2021	negative regulation of cell-cell adhesion (GO:0022408)	1/41	1.628551e-02	2.934464e-02	0	0	7.125714e+01	2.933998e+02	APOA1
+GO_Biological_Process_2021	antibacterial humoral response (GO:0019731)	1/44	1.746797e-02	3.089242e-02	0	0	6.627575e+01	2.682436e+02	DEFA6
+GO_Biological_Process_2021	positive regulation of stress fiber assembly (GO:0051496)	1/44	1.746797e-02	3.089242e-02	0	0	6.627575e+01	2.682436e+02	APOA1
+GO_Biological_Process_2021	positive regulation of cell morphogenesis involved in differentiation (GO:0010770)	1/50	1.982916e-02	3.474651e-02	0	0	5.814286e+01	2.279550e+02	APOA1
+GO_Biological_Process_2021	regulation of substrate adhesion-dependent cell spreading (GO:1900024)	1/51	2.022221e-02	3.479678e-02	0	0	5.697714e+01	2.222663e+02	APOA1
+GO_Biological_Process_2021	positive regulation of actin filament bundle assembly (GO:0032233)	1/51	2.022221e-02	3.479678e-02	0	0	5.697714e+01	2.222663e+02	APOA1
+GO_Biological_Process_2021	positive regulation of phagocytosis (GO:0050766)	1/53	2.100790e-02	3.582597e-02	0	0	5.478022e+01	2.116082e+02	APOA1
+GO_Biological_Process_2021	triglyceride metabolic process (GO:0006641)	1/55	2.179303e-02	3.651288e-02	0	0	5.274603e+01	2.018150e+02	APOB
+GO_Biological_Process_2021	negative regulation of cytokine-mediated signaling pathway (GO:0001960)	1/55	2.179303e-02	3.651288e-02	0	0	5.274603e+01	2.018150e+02	APOA1
+GO_Biological_Process_2021	regulation of phagocytosis (GO:0050764)	1/58	2.296970e-02	3.782079e-02	0	0	4.996241e+01	1.885371e+02	APOA1
+GO_Biological_Process_2021	regulation of tumor necrosis factor-mediated signaling pathway (GO:0010803)	1/58	2.296970e-02	3.782079e-02	0	0	4.996241e+01	1.885371e+02	APOA1
+GO_Biological_Process_2021	phospholipid transport (GO:0015914)	1/59	2.336164e-02	3.813739e-02	0	0	4.909852e+01	1.844464e+02	APOA1
+GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	2/625	2.409106e-02	3.843099e-02	0	0	1.036330e+01	3.861276e+01	MLXIPL;APOA1
+GO_Biological_Process_2021	negative regulation of response to stimulus (GO:0048585)	1/61	2.414513e-02	3.843099e-02	0	0	4.745714e+01	1.767149e+02	APOA1
+GO_Biological_Process_2021	pattern recognition receptor signaling pathway (GO:0002221)	1/61	2.414513e-02	3.843099e-02	0	0	4.745714e+01	1.767149e+02	APOB
+GO_Biological_Process_2021	amyloid fibril formation (GO:1990000)	1/63	2.492806e-02	3.902671e-02	0	0	4.592166e+01	1.695318e+02	APOA1
+GO_Biological_Process_2021	positive regulation of Ras protein signal transduction (GO:0046579)	1/63	2.492806e-02	3.902671e-02	0	0	4.592166e+01	1.695318e+02	APOA1
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	1/64	2.531932e-02	3.931699e-02	0	0	4.519048e+01	1.661287e+02	DEFA6
+GO_Biological_Process_2021	defense response to Gram-positive bacterium (GO:0050830)	1/70	2.766399e-02	4.193510e-02	0	0	4.124845e+01	1.479839e+02	DEFA6
+GO_Biological_Process_2021	carbohydrate homeostasis (GO:0033500)	1/70	2.766399e-02	4.193510e-02	0	0	4.124845e+01	1.479839e+02	MLXIPL
+GO_Biological_Process_2021	positive regulation of cell-substrate adhesion (GO:0010811)	1/70	2.766399e-02	4.193510e-02	0	0	4.124845e+01	1.479839e+02	APOA1
+GO_Biological_Process_2021	regulation of glycolytic process (GO:0006110)	1/71	2.805429e-02	4.219189e-02	0	0	4.065714e+01	1.452929e+02	MLXIPL
+GO_Biological_Process_2021	defense response to Gram-negative bacterium (GO:0050829)	1/73	2.883448e-02	4.236451e-02	0	0	3.952381e+01	1.401587e+02	DEFA6
+GO_Biological_Process_2021	regulation of Rho protein signal transduction (GO:0035023)	1/73	2.883448e-02	4.236451e-02	0	0	3.952381e+01	1.401587e+02	APOA1
+GO_Biological_Process_2021	regulation of hydrolase activity (GO:0051336)	1/73	2.883448e-02	4.236451e-02	0	0	3.952381e+01	1.401587e+02	APOA1
+GO_Biological_Process_2021	regulation of stress fiber assembly (GO:0051492)	1/74	2.922437e-02	4.260957e-02	0	0	3.898043e+01	1.377082e+02	APOA1
+GO_Biological_Process_2021	integrin-mediated signaling pathway (GO:0007229)	1/75	2.961412e-02	4.285073e-02	0	0	3.845174e+01	1.353310e+02	APOA1
+GO_Biological_Process_2021	phosphatidylcholine metabolic process (GO:0046470)	1/77	3.039321e-02	4.364739e-02	0	0	3.743609e+01	1.307843e+02	APOA1
+GO_Biological_Process_2021	glycerophospholipid metabolic process (GO:0006650)	1/80	3.156082e-02	4.465272e-02	0	0	3.600904e+01	1.244414e+02	APOA1
+GO_Biological_Process_2021	negative regulation of cellular component organization (GO:0051129)	1/80	3.156082e-02	4.465272e-02	0	0	3.600904e+01	1.244414e+02	APOA1
+GO_Biological_Process_2021	regulation of interleukin-1 beta production (GO:0032651)	1/83	3.272720e-02	4.596247e-02	0	0	3.468641e+01	1.186119e+02	APOA1
+GO_Biological_Process_2021	negative regulation of defense response (GO:0031348)	1/85	3.350411e-02	4.671010e-02	0	0	3.385714e+01	1.149818e+02	APOA1
+GO_Biological_Process_2021	glucose homeostasis (GO:0042593)	1/86	3.389235e-02	4.690898e-02	0	0	3.345714e+01	1.132379e+02	MLXIPL
+GO_Biological_Process_2021	transforming growth factor beta receptor signaling pathway (GO:0007179)	1/89	3.505628e-02	4.817085e-02	0	0	3.231169e+01	1.082700e+02	APOA1
+GO_Biological_Process_2021	sodium ion transport (GO:0006814)	1/90	3.544398e-02	4.819595e-02	0	0	3.194703e+01	1.066968e+02	SLC5A12
+GO_Biological_Process_2021	positive regulation of transport (GO:0051050)	1/91	3.583154e-02	4.819595e-02	0	0	3.159048e+01	1.051624e+02	APOA1
+GO_Biological_Process_2021	toll-like receptor signaling pathway (GO:0002224)	1/91	3.583154e-02	4.819595e-02	0	0	3.159048e+01	1.051624e+02	APOB
+GO_Biological_Process_2021	regulation of peptidyl-serine phosphorylation (GO:0033135)	1/98	3.854069e-02	5.147742e-02	0	0	2.930044e+01	9.540343e+01	MLXIPL
+GO_Biological_Process_2021	positive regulation of cellular metabolic process (GO:0031325)	1/105	4.124317e-02	5.470448e-02	0	0	2.731868e+01	8.709933e+01	APOA1
+GO_Biological_Process_2021	lipid transport (GO:0006869)	1/109	4.278446e-02	5.635746e-02	0	0	2.630159e+01	8.289157e+01	APOA1
+GO_Biological_Process_2021	cellular response to transforming growth factor beta stimulus (GO:0071560)	1/114	4.470802e-02	5.848789e-02	0	0	2.513148e+01	7.809864e+01	APOA1
+GO_Biological_Process_2021	cellular response to molecule of bacterial origin (GO:0071219)	1/115	4.509233e-02	5.858935e-02	0	0	2.490977e+01	7.719647e+01	DEFA6
+GO_Biological_Process_2021	ion transport (GO:0006811)	1/116	4.547650e-02	5.868926e-02	0	0	2.469193e+01	7.631187e+01	SLC5A12
+GO_Biological_Process_2021	negative regulation of response to external stimulus (GO:0032102)	1/118	4.624443e-02	5.927978e-02	0	0	2.426740e+01	7.459348e+01	APOA1
+GO_Biological_Process_2021	cellular response to lipopolysaccharide (GO:0071222)	1/120	4.701183e-02	5.986173e-02	0	0	2.385714e+01	7.293978e+01	DEFA6
+GO_Biological_Process_2021	platelet degranulation (GO:0002576)	1/125	4.892796e-02	6.188900e-02	0	0	2.288940e+01	6.906662e+01	APOA1
+GO_Biological_Process_2021	transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0007178)	1/133	5.198675e-02	6.532545e-02	0	0	2.149351e+01	6.355128e+01	APOA1
+GO_Biological_Process_2021	organic substance transport (GO:0071702)	1/136	5.313157e-02	6.632765e-02	0	0	2.101270e+01	6.167193e+01	APOA1
+GO_Biological_Process_2021	positive regulation of hydrolase activity (GO:0051345)	1/149	5.807852e-02	7.203245e-02	0	0	1.915444e+01	5.451276e+01	APOA1
+GO_Biological_Process_2021	negative regulation of protein phosphorylation (GO:0001933)	1/152	5.921690e-02	7.297051e-02	0	0	1.877105e+01	5.305728e+01	MLXIPL
+GO_Biological_Process_2021	cellular protein modification process (GO:0006464)	2/1025	5.980545e-02	7.322335e-02	0	0	6.180841e+00	1.740932e+01	APOA1;APOB
+GO_Biological_Process_2021	organonitrogen compound biosynthetic process (GO:1901566)	1/158	6.149006e-02	7.479035e-02	0	0	1.804823e+01	5.033433e+01	APOA1
+GO_Biological_Process_2021	response to lipopolysaccharide (GO:0032496)	1/159	6.186846e-02	7.479035e-02	0	0	1.793309e+01	4.990322e+01	DEFA6
+GO_Biological_Process_2021	cation transport (GO:0006812)	1/174	6.752835e-02	8.111896e-02	0	0	1.636581e+01	4.410927e+01	SLC5A12
+GO_Biological_Process_2021	defense response to bacterium (GO:0042742)	1/176	6.828074e-02	8.144991e-02	0	0	1.617714e+01	4.342152e+01	DEFA6
+GO_Biological_Process_2021	glycerophospholipid biosynthetic process (GO:0046474)	1/177	6.865673e-02	8.144991e-02	0	0	1.608442e+01	4.308430e+01	APOA1
+GO_Biological_Process_2021	protein stabilization (GO:0050821)	1/179	6.940833e-02	8.177135e-02	0	0	1.590209e+01	4.242277e+01	APOA1
+GO_Biological_Process_2021	regulated exocytosis (GO:0045055)	1/180	6.978392e-02	8.177135e-02	0	0	1.581245e+01	4.209830e+01	APOA1
+GO_Biological_Process_2021	negative regulation of cytokine production (GO:0001818)	1/182	7.053472e-02	8.214714e-02	0	0	1.563615e+01	4.146160e+01	APOA1
+GO_Biological_Process_2021	regulation of inflammatory response (GO:0050727)	1/206	7.950302e-02	9.203076e-02	0	0	1.378885e+01	3.491282e+01	APOA1
+GO_Biological_Process_2021	negative regulation of inflammatory response (GO:0050728)	1/212	8.173322e-02	9.404244e-02	0	0	1.339269e+01	3.353924e+01	APOA1
+GO_Biological_Process_2021	negative regulation of multicellular organismal process (GO:0051241)	1/214	8.247558e-02	9.432835e-02	0	0	1.326559e+01	3.310101e+01	APOA1
+GO_Biological_Process_2021	cellular response to lipid (GO:0071396)	1/219	8.432916e-02	9.587422e-02	0	0	1.295806e+01	3.204564e+01	DEFA6
+GO_Biological_Process_2021	membrane organization (GO:0061024)	1/242	9.281349e-02	1.048957e-01	0	0	1.170777e+01	2.783127e+01	APOB
+GO_Biological_Process_2021	positive regulation of phosphorylation (GO:0042327)	1/253	9.684685e-02	1.088103e-01	0	0	1.119048e+01	2.612556e+01	MLXIPL
+GO_Biological_Process_2021	positive regulation of cell differentiation (GO:0045597)	1/258	9.867499e-02	1.102159e-01	0	0	1.096998e+01	2.540564e+01	APOB
+GO_Biological_Process_2021	regulation of cell cycle (GO:0051726)	1/296	1.124634e-01	1.248867e-01	0	0	9.538499e+00	2.084283e+01	MLXIPL
+GO_Biological_Process_2021	innate immune response (GO:0045087)	1/302	1.146236e-01	1.262172e-01	0	0	9.345515e+00	2.024333e+01	DEFA6
+GO_Biological_Process_2021	MAPK cascade (GO:0000165)	1/303	1.149832e-01	1.262172e-01	0	0	9.314096e+00	2.014611e+01	APOA1
+GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	1/323	1.221480e-01	1.333158e-01	0	0	8.726708e+00	1.834809e+01	DEFA6
+GO_Biological_Process_2021	supramolecular fiber organization (GO:0097435)	1/351	1.320934e-01	1.433514e-01	0	0	8.017143e+00	1.622867e+01	APOA1
+GO_Biological_Process_2021	protein transport (GO:0015031)	1/369	1.384348e-01	1.493844e-01	0	0	7.618012e+00	1.506352e+01	APOB
+GO_Biological_Process_2021	regulation of nucleic acid-templated transcription (GO:1903506)	1/430	1.596243e-01	1.712823e-01	0	0	6.514486e+00	1.195364e+01	MLXIPL
+GO_Biological_Process_2021	negative regulation of nucleic acid-templated transcription (GO:1903507)	1/464	1.712358e-01	1.827153e-01	0	0	6.025609e+00	1.063347e+01	MLXIPL
+GO_Biological_Process_2021	regulation of cellular macromolecule biosynthetic process (GO:2000112)	1/468	1.725926e-01	1.831399e-01	0	0	5.972775e+00	1.049310e+01	MLXIPL
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	1/474	1.746241e-01	1.842719e-01	0	0	5.895198e+00	1.028782e+01	MLXIPL
+GO_Biological_Process_2021	positive regulation of nucleic acid-templated transcription (GO:1903508)	1/511	1.870558e-01	1.963058e-01	0	0	5.457143e+00	9.148073e+00	MLXIPL
+GO_Biological_Process_2021	negative regulation of cellular macromolecule biosynthetic process (GO:2000113)	1/547	1.989938e-01	2.076930e-01	0	0	5.087912e+00	8.214339e+00	MLXIPL
+GO_Biological_Process_2021	negative regulation of cellular process (GO:0048523)	1/566	2.052324e-01	2.130402e-01	0	0	4.912010e+00	7.778719e+00	APOA1
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	1/764	2.677586e-01	2.764426e-01	0	0	3.600262e+00	4.743956e+00	MLXIPL
+GO_Biological_Process_2021	positive regulation of transcription by RNA polymerase II (GO:0045944)	1/908	3.104864e-01	3.188328e-01	0	0	3.005985e+00	3.515846e+00	MLXIPL
+GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	1/948	3.219610e-01	3.288479e-01	0	0	2.872982e+00	3.256022e+00	MLXIPL
+GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	1/1079	3.583793e-01	3.640981e-01	0	0	2.506494e+00	2.572072e+00	MLXIPL
+GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	1/1183	3.860609e-01	3.901462e-01	0	0	2.273387e+00	2.163718e+00	MLXIPL
+GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	1/2206	6.074689e-01	6.106661e-01	0	0	1.152381e+00	5.744093e-01	MLXIPL
+GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	1/2244	6.141264e-01	6.141264e-01	0	0	1.130438e+00	5.511499e-01	MLXIPL

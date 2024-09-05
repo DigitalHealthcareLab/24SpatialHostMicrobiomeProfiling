@@ -1,0 +1,18 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	cytolysis by host of symbiont cells (GO:0051838)	1/9	2.697256e-03	2.292668e-02	0	0	4.996500e+02	2.955690e+03	APOL1
+GO_Biological_Process_2021	cytolysis in other organism involved in symbiotic interaction (GO:0051801)	1/9	2.697256e-03	2.292668e-02	0	0	4.996500e+02	2.955690e+03	APOL1
+GO_Biological_Process_2021	killing by host of symbiont cells (GO:0051873)	1/16	4.790942e-03	2.714867e-02	0	0	2.663867e+02	1.422779e+03	APOL1
+GO_Biological_Process_2021	response to peptide (GO:1901652)	1/39	1.164445e-02	4.110706e-02	0	0	1.050316e+02	4.676978e+02	REG1A
+GO_Biological_Process_2021	chloride transmembrane transport (GO:1902476)	1/50	1.490828e-02	4.110706e-02	0	0	8.140816e+01	3.423896e+02	APOL1
+GO_Biological_Process_2021	response to peptide hormone (GO:0043434)	1/52	1.550074e-02	4.110706e-02	0	0	7.820784e+01	3.258817e+02	REG1A
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	1/64	1.904927e-02	4.110706e-02	0	0	6.327302e+01	2.506071e+02	REG1A
+GO_Biological_Process_2021	inorganic anion transmembrane transport (GO:0098661)	1/65	1.934450e-02	4.110706e-02	0	0	6.228125e+01	2.457212e+02	APOL1
+GO_Biological_Process_2021	chloride transport (GO:0006821)	1/76	2.258713e-02	4.266458e-02	0	0	5.311733e+01	2.013346e+02	APOL1
+GO_Biological_Process_2021	receptor-mediated endocytosis (GO:0006898)	1/143	4.214539e-02	7.164716e-02	0	0	2.796056e+01	8.854076e+01	APOL1
+GO_Biological_Process_2021	innate immune response (GO:0045087)	1/302	8.725813e-02	1.348535e-01	0	0	1.308505e+01	3.191293e+01	APOL1
+GO_Biological_Process_2021	post-translational protein modification (GO:0043687)	1/345	9.914945e-02	1.404617e-01	0	0	1.142442e+01	2.640328e+01	APOL1
+GO_Biological_Process_2021	cellular protein metabolic process (GO:0044267)	1/417	1.187714e-01	1.553164e-01	0	0	9.412500e+00	2.005385e+01	APOL1
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	1/474	1.340516e-01	1.627770e-01	0	0	8.254123e+00	1.658691e+01	REG1A
+GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	1/625	1.734674e-01	1.965964e-01	0	0	6.208333e+00	1.087554e+01	REG1A
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	1/764	2.084180e-01	2.214441e-01	0	0	5.040891e+00	7.905175e+00	REG1A
+GO_Biological_Process_2021	cellular protein modification process (GO:0006464)	1/1025	2.707215e-01	2.707215e-01	0	0	3.705078e+00	4.841295e+00	APOL1

@@ -1,0 +1,75 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	defense response to bacterium (GO:0042742)	4/176	2.714920e-06	2.009041e-04	0	0	5.760465e+01	7.383043e+02	DMBT1;PLA2G2A;LCN2;JCHAIN
+GO_Biological_Process_2021	antibacterial humoral response (GO:0019731)	2/44	3.078448e-04	1.139026e-02	0	0	9.498095e+01	7.680079e+02	DMBT1;JCHAIN
+GO_Biological_Process_2021	innate immune response (GO:0045087)	3/302	6.778426e-04	1.441347e-02	0	0	2.194983e+01	1.601590e+02	DMBT1;LCN2;JCHAIN
+GO_Biological_Process_2021	defense response to Gram-positive bacterium (GO:0050830)	2/70	7.791064e-04	1.441347e-02	0	0	5.858824e+01	4.193373e+02	DMBT1;PLA2G2A
+GO_Biological_Process_2021	positive regulation of metabolic process (GO:0009893)	2/113	2.012448e-03	2.978423e-02	0	0	3.581441e+01	2.223503e+02	LCN2;JCHAIN
+GO_Biological_Process_2021	regulation of neutrophil activation (GO:1902563)	1/5	2.996653e-03	3.102831e-02	0	0	4.541818e+02	2.638914e+03	PLA2G2A
+GO_Biological_Process_2021	induction of bacterial agglutination (GO:0043152)	1/6	3.594998e-03	3.102831e-02	0	0	3.633273e+02	2.044883e+03	DMBT1
+GO_Biological_Process_2021	iron coordination entity transport (GO:1901678)	1/7	4.193015e-03	3.102831e-02	0	0	3.027576e+02	1.657396e+03	LCN2
+GO_Biological_Process_2021	positive regulation of respiratory burst (GO:0060267)	1/7	4.193015e-03	3.102831e-02	0	0	3.027576e+02	1.657396e+03	JCHAIN
+GO_Biological_Process_2021	detection of molecule of bacterial origin (GO:0032490)	1/7	4.193015e-03	3.102831e-02	0	0	3.027576e+02	1.657396e+03	DMBT1
+GO_Biological_Process_2021	regulation of respiratory burst (GO:0060263)	1/9	5.388063e-03	3.322639e-02	0	0	2.270455e+02	1.185988e+03	JCHAIN
+GO_Biological_Process_2021	glomerular filtration (GO:0003094)	1/9	5.388063e-03	3.322639e-02	0	0	2.270455e+02	1.185988e+03	JCHAIN
+GO_Biological_Process_2021	renal filtration (GO:0097205)	1/10	5.985094e-03	3.406899e-02	0	0	2.018081e+02	1.032951e+03	JCHAIN
+GO_Biological_Process_2021	homeostasis of number of cells (GO:0048872)	1/13	7.774217e-03	3.871095e-02	0	0	1.513333e+02	7.350173e+02	PLA2G2A
+GO_Biological_Process_2021	detection of bacterium (GO:0016045)	1/14	8.369936e-03	3.871095e-02	0	0	1.396853e+02	6.681301e+02	DMBT1
+GO_Biological_Process_2021	low-density lipoprotein particle remodeling (GO:0034374)	1/14	8.369936e-03	3.871095e-02	0	0	1.396853e+02	6.681301e+02	PLA2G2A
+GO_Biological_Process_2021	regulation of leukocyte activation (GO:0002694)	1/16	9.560390e-03	3.977328e-02	0	0	1.210485e+02	5.628908e+02	PLA2G2A
+GO_Biological_Process_2021	phosphatidylglycerol acyl-chain remodeling (GO:0036148)	1/18	1.074953e-02	3.977328e-02	0	0	1.067968e+02	4.840984e+02	PLA2G2A
+GO_Biological_Process_2021	phosphatidylinositol acyl-chain remodeling (GO:0036149)	1/18	1.074953e-02	3.977328e-02	0	0	1.067968e+02	4.840984e+02	PLA2G2A
+GO_Biological_Process_2021	positive regulation of macrophage derived foam cell differentiation (GO:0010744)	1/18	1.074953e-02	3.977328e-02	0	0	1.067968e+02	4.840984e+02	PLA2G2A
+GO_Biological_Process_2021	phosphatidylserine acyl-chain remodeling (GO:0036150)	1/22	1.312390e-02	4.624612e-02	0	0	8.643723e+01	3.745602e+02	PLA2G2A
+GO_Biological_Process_2021	phosphatidylglycerol metabolic process (GO:0046471)	1/25	1.490124e-02	4.984717e-02	0	0	7.562121e+01	3.180863e+02	PLA2G2A
+GO_Biological_Process_2021	phosphatidylethanolamine acyl-chain remodeling (GO:0036152)	1/26	1.549304e-02	4.984717e-02	0	0	7.259273e+01	3.025203e+02	PLA2G2A
+GO_Biological_Process_2021	positive regulation of fibroblast proliferation (GO:0048146)	1/28	1.667566e-02	5.055882e-02	0	0	6.720875e+01	2.751396e+02	S100A6
+GO_Biological_Process_2021	phosphatidylcholine acyl-chain remodeling (GO:0036151)	1/30	1.785697e-02	5.055882e-02	0	0	6.256740e+01	2.518564e+02	PLA2G2A
+GO_Biological_Process_2021	phosphatidylethanolamine metabolic process (GO:0046337)	1/31	1.844714e-02	5.055882e-02	0	0	6.047879e+01	2.414825e+02	PLA2G2A
+GO_Biological_Process_2021	regulation of macrophage derived foam cell differentiation (GO:0010743)	1/31	1.844714e-02	5.055882e-02	0	0	6.047879e+01	2.414825e+02	PLA2G2A
+GO_Biological_Process_2021	phosphatidylserine metabolic process (GO:0006658)	1/34	2.021569e-02	5.342719e-02	0	0	5.497245e+01	2.144638e+02	PLA2G2A
+GO_Biological_Process_2021	retina homeostasis (GO:0001895)	1/36	2.139311e-02	5.458931e-02	0	0	5.182597e+01	1.992546e+02	JCHAIN
+GO_Biological_Process_2021	response to peptide (GO:1901652)	1/39	2.315680e-02	5.712010e-02	0	0	4.772727e+01	1.797155e+02	REG1A
+GO_Biological_Process_2021	regulation of fibroblast proliferation (GO:0048145)	1/46	2.726075e-02	6.507404e-02	0	0	4.028889e+01	1.451330e+02	S100A6
+GO_Biological_Process_2021	phosphatidic acid biosynthetic process (GO:0006654)	1/48	2.843040e-02	6.574530e-02	0	0	3.857060e+01	1.373228e+02	PLA2G2A
+GO_Biological_Process_2021	phosphatidic acid metabolic process (GO:0046473)	1/50	2.959876e-02	6.637298e-02	0	0	3.699258e+01	1.302147e+02	PLA2G2A
+GO_Biological_Process_2021	response to peptide hormone (GO:0043434)	1/52	3.076584e-02	6.684127e-02	0	0	3.553832e+01	1.237214e+02	REG1A
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	2/474	3.161412e-02	6.684127e-02	0	0	8.269492e+00	2.856408e+01	REG1A;S100A6
+GO_Biological_Process_2021	cellular iron ion homeostasis (GO:0006879)	1/58	3.425934e-02	7.042198e-02	0	0	3.178788e+01	1.072458e+02	LCN2
+GO_Biological_Process_2021	iron ion homeostasis (GO:0055072)	1/61	3.600177e-02	7.200353e-02	0	0	3.019394e+01	1.003703e+02	LCN2
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	1/64	3.774131e-02	7.349623e-02	0	0	2.875180e+01	9.421966e+01	REG1A
+GO_Biological_Process_2021	defense response to Gram-negative bacterium (GO:0050829)	1/73	4.294268e-02	7.899560e-02	0	0	2.514646e+01	7.915828e+01	DMBT1
+GO_Biological_Process_2021	cell morphogenesis involved in neuron differentiation (GO:0048667)	1/76	4.467073e-02	7.899560e-02	0	0	2.413697e+01	7.502824e+01	S100A6
+GO_Biological_Process_2021	phospholipid metabolic process (GO:0006644)	1/76	4.467073e-02	7.899560e-02	0	0	2.413697e+01	7.502824e+01	PLA2G2A
+GO_Biological_Process_2021	phosphatidylcholine metabolic process (GO:0046470)	1/77	4.524612e-02	7.899560e-02	0	0	2.381818e+01	7.373248e+01	PLA2G2A
+GO_Biological_Process_2021	axon development (GO:0061564)	1/79	4.639593e-02	7.899560e-02	0	0	2.320513e+01	7.125236e+01	S100A6
+GO_Biological_Process_2021	glycerophospholipid metabolic process (GO:0006650)	1/80	4.697036e-02	7.899560e-02	0	0	2.291024e+01	7.006498e+01	PLA2G2A
+GO_Biological_Process_2021	positive regulation of inflammatory response (GO:0050729)	1/89	5.212597e-02	8.571827e-02	0	0	2.055785e+01	6.072978e+01	PLA2G2A
+GO_Biological_Process_2021	cellular transition metal ion homeostasis (GO:0046916)	1/96	5.611821e-02	8.826968e-02	0	0	1.903636e+01	5.483034e+01	LCN2
+GO_Biological_Process_2021	positive regulation of cold-induced thermogenesis (GO:0120162)	1/97	5.668727e-02	8.826968e-02	0	0	1.883712e+01	5.406641e+01	LCN2
+GO_Biological_Process_2021	positive regulation of defense response (GO:0031349)	1/98	5.725601e-02	8.826968e-02	0	0	1.864199e+01	5.332023e+01	PLA2G2A
+GO_Biological_Process_2021	epithelial cell differentiation (GO:0030855)	1/101	5.896036e-02	8.904218e-02	0	0	1.808000e+01	5.118249e+01	DMBT1
+GO_Biological_Process_2021	phosphatidylinositol metabolic process (GO:0046488)	1/112	6.518550e-02	9.458289e-02	0	0	1.627928e+01	4.445087e+01	PLA2G2A
+GO_Biological_Process_2021	protein-containing complex subunit organization (GO:0043933)	1/112	6.518550e-02	9.458289e-02	0	0	1.627928e+01	4.445087e+01	JCHAIN
+GO_Biological_Process_2021	epithelium development (GO:0060429)	1/122	7.081195e-02	1.007708e-01	0	0	1.492637e+01	3.952096e+01	DMBT1
+GO_Biological_Process_2021	positive regulation of response to external stimulus (GO:0032103)	1/139	8.030570e-02	1.108100e-01	0	0	1.307642e+01	3.297761e+01	PLA2G2A
+GO_Biological_Process_2021	neuron projection morphogenesis (GO:0048812)	1/140	8.086138e-02	1.108100e-01	0	0	1.298169e+01	3.264919e+01	S100A6
+GO_Biological_Process_2021	receptor-mediated endocytosis (GO:0006898)	1/143	8.252657e-02	1.110357e-01	0	0	1.270551e+01	3.169560e+01	JCHAIN
+GO_Biological_Process_2021	positive regulation of ERK1 and ERK2 cascade (GO:0070374)	1/172	9.848140e-02	1.301361e-01	0	0	1.053535e+01	2.441977e+01	PLA2G2A
+GO_Biological_Process_2021	glycerophospholipid biosynthetic process (GO:0046474)	1/177	1.012064e-01	1.313907e-01	0	0	1.023347e+01	2.344072e+01	PLA2G2A
+GO_Biological_Process_2021	regulation of inflammatory response (GO:0050727)	1/206	1.168630e-01	1.491010e-01	0	0	8.772949e+00	1.883336e+01	PLA2G2A
+GO_Biological_Process_2021	phosphate-containing compound metabolic process (GO:0006796)	1/212	1.200709e-01	1.505974e-01	0	0	8.520896e+00	1.806151e+01	PLA2G2A
+GO_Biological_Process_2021	regulation of ERK1 and ERK2 cascade (GO:0070372)	1/238	1.338488e-01	1.636497e-01	0	0	7.576141e+00	1.523596e+01	PLA2G2A
+GO_Biological_Process_2021	axonogenesis (GO:0007409)	1/240	1.349004e-01	1.636497e-01	0	0	7.511982e+00	1.504814e+01	S100A6
+GO_Biological_Process_2021	positive regulation of cell differentiation (GO:0045597)	1/258	1.443123e-01	1.713415e-01	0	0	6.979484e+00	1.351071e+01	PLA2G2A
+GO_Biological_Process_2021	cellular component assembly (GO:0022607)	1/261	1.458718e-01	1.713415e-01	0	0	6.897902e+00	1.327865e+01	JCHAIN
+GO_Biological_Process_2021	protein-containing complex assembly (GO:0065003)	1/267	1.489830e-01	1.722616e-01	0	0	6.740260e+00	1.283294e+01	JCHAIN
+GO_Biological_Process_2021	positive regulation of MAPK cascade (GO:0043410)	1/274	1.525996e-01	1.737287e-01	0	0	6.565102e+00	1.234198e+01	PLA2G2A
+GO_Biological_Process_2021	positive regulation of multicellular organismal process (GO:0051240)	1/345	1.884941e-01	2.113419e-01	0	0	5.191332e+00	8.662716e+00	LCN2
+GO_Biological_Process_2021	cellular protein metabolic process (GO:0044267)	1/417	2.234660e-01	2.468132e-01	0	0	4.277098e+00	6.409213e+00	DMBT1
+GO_Biological_Process_2021	neutrophil degranulation (GO:0043312)	1/481	2.533866e-01	2.674363e-01	0	0	3.694697e+00	5.072223e+00	LCN2
+GO_Biological_Process_2021	cellular response to cytokine stimulus (GO:0071345)	1/482	2.538456e-01	2.674363e-01	0	0	3.686827e+00	5.054746e+00	LCN2
+GO_Biological_Process_2021	neutrophil activation involved in immune response (GO:0002283)	1/485	2.552211e-01	2.674363e-01	0	0	3.663411e+00	5.002846e+00	LCN2
+GO_Biological_Process_2021	neutrophil mediated immunity (GO:0002446)	1/488	2.565943e-01	2.674363e-01	0	0	3.640284e+00	4.951730e+00	LCN2
+GO_Biological_Process_2021	cytokine-mediated signaling pathway (GO:0019221)	1/621	3.151889e-01	3.212246e-01	0	0	2.839883e+00	3.278881e+00	LCN2
+GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	1/625	3.168837e-01	3.212246e-01	0	0	2.821096e+00	3.242061e+00	REG1A
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	1/764	3.734428e-01	3.734428e-01	0	0	2.290599e+00	2.256218e+00	REG1A

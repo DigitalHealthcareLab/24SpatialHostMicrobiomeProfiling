@@ -1,0 +1,112 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+BioPlanet_2019	PPAR signaling pathway	5/69	5.620114e-08	6.238326e-06	0	0	6.220625e+01	1.038492e+03	FABP2;FABP6;APOA1;APOC3;CD36
+BioPlanet_2019	Chylomicron-mediated lipid transport	3/17	2.041581e-06	1.133077e-04	0	0	1.583810e+02	2.075073e+03	APOA1;APOC3;APOA4
+BioPlanet_2019	Lipoprotein metabolism	3/29	1.083820e-05	3.007601e-04	0	0	8.523077e+01	9.743951e+02	APOA1;APOC3;APOA4
+BioPlanet_2019	Statin pathway	3/29	1.083820e-05	3.007601e-04	0	0	8.523077e+01	9.743951e+02	APOA1;APOC3;APOA4
+BioPlanet_2019	Lipid digestion, mobilization, and transport	3/48	5.032562e-05	1.117229e-03	0	0	4.919753e+01	4.869078e+02	APOA1;APOC3;APOA4
+BioPlanet_2019	Metabolism	10/1615	7.655493e-05	1.233535e-03	0	0	5.721184e+00	5.422253e+01	FABP6;CYP2D6;ALDH1A1;MTHFD2L;GSTA1;MGAT3;APOA1;APOC3;APOA4;CD36
+BioPlanet_2019	Alpha defensins	2/9	7.779049e-05	1.233535e-03	0	0	2.037041e+02	1.927344e+03	DEFA6;DEFA5
+BioPlanet_2019	HDL-mediated lipid transport	2/15	2.256242e-04	2.782698e-03	0	0	1.096538e+02	9.207239e+02	APOA1;APOC3
+BioPlanet_2019	Fatty acid omega oxidation	2/15	2.256242e-04	2.782698e-03	0	0	1.096538e+02	9.207239e+02	CYP2D6;ALDH1A1
+BioPlanet_2019	Lipid and lipoprotein metabolism	5/489	7.358505e-04	8.167941e-03	0	0	8.052066e+00	5.809150e+01	FABP6;APOA1;APOC3;APOA4;CD36
+BioPlanet_2019	Biological oxidations	3/139	1.162465e-03	1.173033e-02	0	0	1.620425e+01	1.094955e+02	CYP2D6;ALDH1A1;GSTA1
+BioPlanet_2019	Vitamin A and carotenoid metabolism	2/39	1.557061e-03	1.440281e-02	0	0	3.848069e+01	2.487760e+02	ALDH1A1;CD36
+BioPlanet_2019	Defensins	2/45	2.068701e-03	1.766352e-02	0	0	3.310133e+01	2.045938e+02	DEFA6;DEFA5
+BioPlanet_2019	Amyloids	2/51	2.649407e-03	2.100601e-02	0	0	2.903936e+01	1.723027e+02	APOA1;APOA4
+BioPlanet_2019	Phase I of biological oxidations: functionalization of compounds	2/69	4.794036e-03	3.547587e-02	0	0	2.121855e+01	1.133152e+02	CYP2D6;ALDH1A1
+BioPlanet_2019	Drug metabolism: cytochrome P450	2/83	6.864228e-03	4.481937e-02	0	0	1.753880e+01	8.736834e+01	CYP2D6;GSTA1
+BioPlanet_2019	Response to elevated platelet cytosolic calcium	2/83	6.864228e-03	4.481937e-02	0	0	1.753880e+01	8.736834e+01	APOA1;CD36
+BioPlanet_2019	Folate-alcohol and cancer pathway	1/5	7.478193e-03	4.611552e-02	0	0	1.721207e+02	8.426623e+02	ALDH1A1
+BioPlanet_2019	FXR and LXR regulation of cholesterol metabolism	1/7	1.045432e-02	5.645244e-02	0	0	1.147356e+02	5.232793e+02	FABP6
+BioPlanet_2019	Innate immune system	3/319	1.186844e-02	5.645244e-02	0	0	6.910689e+00	3.064112e+01	DEFA6;DEFA5;TAB1
+BioPlanet_2019	Codeine and morphine metabolism	1/8	1.193915e-02	5.645244e-02	0	0	9.833990e+01	4.354424e+02	CYP2D6
+BioPlanet_2019	Cross-presentation of particulate exogenous antigens (phagosomes)	1/8	1.193915e-02	5.645244e-02	0	0	9.833990e+01	4.354424e+02	CD36
+BioPlanet_2019	TSP1-induced apoptosis in microvascular endothelial cell	1/8	1.193915e-02	5.645244e-02	0	0	9.833990e+01	4.354424e+02	CD36
+BioPlanet_2019	Lipid metabolism regulation by peroxisome proliferator-activated receptor alpha (PPAR-alpha)	2/112	1.220593e-02	5.645244e-02	0	0	1.289610e+01	5.681808e+01	APOA1;CD36
+BioPlanet_2019	IRAK2-mediated activation of TAK1 complex	1/10	1.490236e-02	6.362159e-02	0	0	7.647893e+01	3.216884e+02	TAB1
+BioPlanet_2019	Ethanol oxidation	1/10	1.490236e-02	6.362159e-02	0	0	7.647893e+01	3.216884e+02	ALDH1A1
+BioPlanet_2019	Recycling of bile acids and salts	1/11	1.638073e-02	6.734302e-02	0	0	6.882759e+01	2.829949e+02	FABP6
+BioPlanet_2019	Cytochrome P450 metabolism of xenobiotics	1/15	2.227283e-02	8.478407e-02	0	0	4.915271e+01	1.869960e+02	CYP2D6
+BioPlanet_2019	TRAF6-mediated induction of TAK1 complex	1/15	2.227283e-02	8.478407e-02	0	0	4.915271e+01	1.869960e+02	TAB1
+BioPlanet_2019	JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1	1/16	2.374052e-02	8.478407e-02	0	0	4.587356e+01	1.715934e+02	TAB1
+BioPlanet_2019	Glyoxylate and dicarboxylate metabolism	1/16	2.374052e-02	8.478407e-02	0	0	4.587356e+01	1.715934e+02	MTHFD2L
+BioPlanet_2019	ABCA transporters in lipid homeostasis	1/17	2.520608e-02	8.478407e-02	0	0	4.300431e+01	1.582847e+02	APOA1
+BioPlanet_2019	TAK1-mediated activation of p38 MAPK	1/17	2.520608e-02	8.478407e-02	0	0	4.300431e+01	1.582847e+02	TAB1
+BioPlanet_2019	Fatty acid, triacylglycerol, and ketone body metabolism	2/173	2.761535e-02	8.921486e-02	0	0	8.270259e+00	2.968513e+01	APOA1;CD36
+BioPlanet_2019	Tamoxifen metabolism	1/19	2.813081e-02	8.921486e-02	0	0	3.822222e+01	1.364873e+02	CYP2D6
+BioPlanet_2019	N-glycan antennae elongation in the medial/trans-Golgi	1/20	2.959000e-02	9.123582e-02	0	0	3.620871e+01	1.274662e+02	MGAT3
+BioPlanet_2019	Hemostasis pathway	3/468	3.238496e-02	9.715489e-02	0	0	4.660693e+00	1.598646e+01	APOA1;ESAM;CD36
+BioPlanet_2019	TAK1 activates NF-kappaB by phosphorylation and activation of IKK complex	1/24	3.540559e-02	1.007697e-01	0	0	2.990555e+01	9.991101e+01	TAB1
+BioPlanet_2019	NF-kappaB signaling pathway	1/24	3.540559e-02	1.007697e-01	0	0	2.990555e+01	9.991101e+01	TAB1
+BioPlanet_2019	Glutathione conjugation	1/25	3.685421e-02	1.020287e-01	0	0	2.865805e+01	9.459406e+01	GSTA1
+BioPlanet_2019	Platelet activation, signaling and aggregation	2/205	3.768627e-02	1.020287e-01	0	0	6.955313e+00	2.280271e+01	APOA1;CD36
+BioPlanet_2019	Bile acid and bile salt metabolism	1/27	3.974516e-02	1.050408e-01	0	0	2.645093e+01	8.531131e+01	FABP6
+BioPlanet_2019	p38-alpha and p38-beta regulation	1/30	4.406586e-02	1.137514e-01	0	0	2.371106e+01	7.402759e+01	TAB1
+BioPlanet_2019	One-carbon metabolism	1/31	4.550191e-02	1.147889e-01	0	0	2.291954e+01	7.082140e+01	MTHFD2L
+BioPlanet_2019	Transport to the Golgi and subsequent modification	1/36	5.265094e-02	1.298723e-01	0	0	1.964039e+01	5.782272e+01	MGAT3
+BioPlanet_2019	Signal transduction through IL-1R	1/38	5.549604e-02	1.339144e-01	0	0	1.857689e+01	5.371402e+01	TAB1
+BioPlanet_2019	Immune system	4/998	6.027083e-02	1.414359e-01	0	0	2.937007e+00	8.249779e+00	DEFA6;DEFA5;TAB1;CD36
+BioPlanet_2019	BMP receptor signaling	1/42	6.116148e-02	1.414359e-01	0	0	1.676114e+01	4.683462e+01	TAB1
+BioPlanet_2019	Gastrin pathway	1/44	6.398186e-02	1.414436e-01	0	0	1.597995e+01	4.393137e+01	CHGA
+BioPlanet_2019	HNF3B pathway	1/45	6.538898e-02	1.414436e-01	0	0	1.561599e+01	4.259107e+01	APOA1
+BioPlanet_2019	ABC transporters	1/47	6.819709e-02	1.414436e-01	0	0	1.493553e+01	4.010718e+01	APOA1
+BioPlanet_2019	Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways	1/47	6.819709e-02	1.414436e-01	0	0	1.493553e+01	4.010718e+01	TAB1
+BioPlanet_2019	Presenilin action in Notch and Wnt signaling	1/48	6.959808e-02	1.414436e-01	0	0	1.461702e+01	3.895463e+01	TAB1
+BioPlanet_2019	N-glycan biosynthesis	1/48	6.959808e-02	1.414436e-01	0	0	1.461702e+01	3.895463e+01	MGAT3
+BioPlanet_2019	Interleukin-5 signaling pathway	1/49	7.099704e-02	1.414436e-01	0	0	1.431178e+01	3.785634e+01	SPRED1
+BioPlanet_2019	Malaria	1/51	7.378886e-02	1.414436e-01	0	0	1.373793e+01	3.580857e+01	CD36
+BioPlanet_2019	Glutathione metabolism	1/51	7.378886e-02	1.414436e-01	0	0	1.373793e+01	3.580857e+01	GSTA1
+BioPlanet_2019	Signaling events mediated by stem cell factor receptor (c-Kit)	1/52	7.518173e-02	1.414436e-01	0	0	1.346788e+01	3.485282e+01	SPRED1
+BioPlanet_2019	Vitamin B12 metabolism	1/52	7.518173e-02	1.414436e-01	0	0	1.346788e+01	3.485282e+01	APOA1
+BioPlanet_2019	JNK/MAPK pathway	1/53	7.657257e-02	1.416592e-01	0	0	1.320822e+01	3.393875e+01	TAB1
+BioPlanet_2019	RANKL signaling pathway	1/54	7.796138e-02	1.418642e-01	0	0	1.295836e+01	3.306380e+01	TAB1
+BioPlanet_2019	Mechanism of gene regulation by peroxisome proliferators via PPAR-alpha	1/57	8.211574e-02	1.470137e-01	0	0	1.226232e+01	3.065120e+01	APOA1
+BioPlanet_2019	Tryptophan metabolism	1/58	8.349650e-02	1.471129e-01	0	0	1.204658e+01	2.991107e+01	ALDH1A1
+BioPlanet_2019	Selenium pathway	1/60	8.625199e-02	1.495933e-01	0	0	1.163705e+01	2.851639e+01	APOA1
+BioPlanet_2019	Cytochrome P450 pathway	1/61	8.762674e-02	1.496395e-01	0	0	1.144253e+01	2.785877e+01	CYP2D6
+BioPlanet_2019	Folate metabolism	1/63	9.037023e-02	1.519863e-01	0	0	1.107230e+01	2.661605e+01	APOA1
+BioPlanet_2019	Retinol metabolism	1/65	9.310575e-02	1.542498e-01	0	0	1.072522e+01	2.546187e+01	ALDH1A1
+BioPlanet_2019	Adipocytokine signaling pathway	1/67	9.583331e-02	1.564338e-01	0	0	1.039916e+01	2.438755e+01	CD36
+BioPlanet_2019	Phase II of biological oxidations: conjugation	1/71	1.012647e-01	1.627221e-01	0	0	9.802956e+00	2.244894e+01	GSTA1
+BioPlanet_2019	Leishmaniasis	1/72	1.026176e-01	1.627221e-01	0	0	9.664400e+00	2.200339e+01	TAB1
+BioPlanet_2019	Mitochondrial pathway of apoptosis: caspases	1/77	1.093526e-01	1.685853e-01	0	0	9.026316e+00	1.997684e+01	TAB1
+BioPlanet_2019	Transcriptional regulation of white adipocyte differentiation	1/77	1.093526e-01	1.685853e-01	0	0	9.026316e+00	1.997684e+01	CD36
+BioPlanet_2019	Antigen processing: cross presentation	1/79	1.120329e-01	1.703514e-01	0	0	8.793988e+00	1.924971e+01	CD36
+BioPlanet_2019	ECM-receptor interaction	1/84	1.186996e-01	1.708079e-01	0	0	8.262152e+00	1.760796e+01	CD36
+BioPlanet_2019	MicroRNAs in cardiomyocyte hypertrophy	1/85	1.200272e-01	1.708079e-01	0	0	8.163383e+00	1.730667e+01	TAB1
+BioPlanet_2019	NOD signaling pathway	1/85	1.200272e-01	1.708079e-01	0	0	8.163383e+00	1.730667e+01	TAB1
+BioPlanet_2019	Asparagine N-linked glycosylation	1/85	1.200272e-01	1.708079e-01	0	0	8.163383e+00	1.730667e+01	MGAT3
+BioPlanet_2019	C-Myb transcription factor network	1/85	1.200272e-01	1.708079e-01	0	0	8.163383e+00	1.730667e+01	TAB1
+BioPlanet_2019	Hematopoietic cell lineage	1/88	1.239981e-01	1.742252e-01	0	0	7.880698e+00	1.645087e+01	CD36
+BioPlanet_2019	Cell surface interactions at the vascular wall	1/94	1.318882e-01	1.829949e-01	0	0	7.370041e+00	1.493023e+01	ESAM
+BioPlanet_2019	TNF-alpha signaling pathway	1/101	1.410065e-01	1.932311e-01	0	0	6.851724e+00	1.342218e+01	TAB1
+BioPlanet_2019	Signaling by interleukins	1/109	1.513140e-01	2.040715e-01	0	0	6.341635e+00	1.197553e+01	TAB1
+BioPlanet_2019	Leptin influence on immune response	1/110	1.525940e-01	2.040715e-01	0	0	6.283138e+00	1.181214e+01	CD36
+BioPlanet_2019	Leukocyte transendothelial migration	1/117	1.615019e-01	2.125546e-01	0	0	5.901902e+00	1.076057e+01	ESAM
+BioPlanet_2019	Prolactin regulation of apoptosis	1/118	1.627671e-01	2.125546e-01	0	0	5.851164e+00	1.062241e+01	SPRED1
+BioPlanet_2019	Interleukin-1 regulation of extracellular matrix	1/120	1.652918e-01	2.133418e-01	0	0	5.752246e+00	1.035429e+01	ALDH1A1
+BioPlanet_2019	p75 neurotrophin receptor-mediated signaling	1/124	1.703193e-01	2.164141e-01	0	0	5.564059e+00	9.848833e+00	NDN
+BioPlanet_2019	Interleukin-1 signaling pathway	1/125	1.715716e-01	2.164141e-01	0	0	5.518910e+00	9.728485e+00	TAB1
+BioPlanet_2019	Cell adhesion molecules (CAMs)	1/133	1.815243e-01	2.238799e-01	0	0	5.182341e+00	8.842969e+00	ESAM
+BioPlanet_2019	Adipogenesis	1/133	1.815243e-01	2.238799e-01	0	0	5.182341e+00	8.842969e+00	NDN
+BioPlanet_2019	TNF-alpha effects on cytokine activity, cell motility, and apoptosis	1/135	1.839943e-01	2.244326e-01	0	0	5.104478e+00	8.641117e+00	APOA1
+BioPlanet_2019	Toll-like receptor signaling pathway regulation	1/142	1.925829e-01	2.323555e-01	0	0	4.849352e+00	7.987991e+00	TAB1
+BioPlanet_2019	Interleukin-5 regulation of apoptosis	1/144	1.950207e-01	2.327666e-01	0	0	4.781047e+00	7.815336e+00	TAB1
+BioPlanet_2019	Integrated breast cancer pathway	1/152	2.047009e-01	2.399161e-01	0	0	4.525919e+00	7.179037e+00	TAB1
+BioPlanet_2019	Phagosome	1/154	2.071033e-01	2.399161e-01	0	0	4.466306e+00	7.032367e+00	CD36
+BioPlanet_2019	TGF-beta regulation of extracellular matrix	2/565	2.074950e-01	2.399161e-01	0	0	2.462192e+00	3.872161e+00	APOA1;CD36
+BioPlanet_2019	Toll receptor cascades	1/159	2.130787e-01	2.438323e-01	0	0	4.323876e+00	6.685118e+00	TAB1
+BioPlanet_2019	Metapathway biotransformation	1/174	2.307448e-01	2.613538e-01	0	0	3.945984e+00	5.786560e+00	CYP2D6
+BioPlanet_2019	TGF-beta signaling pathway	1/185	2.434556e-01	2.729654e-01	0	0	3.708021e+00	5.238769e+00	TAB1
+BioPlanet_2019	Post-translational protein modification	1/196	2.559633e-01	2.841193e-01	0	0	3.496905e+00	4.765307e+00	MGAT3
+BioPlanet_2019	Jak-STAT signaling pathway	1/199	2.593396e-01	2.850168e-01	0	0	3.443400e+00	4.647269e+00	SPRED1
+BioPlanet_2019	Disease	2/674	2.683149e-01	2.919898e-01	0	0	2.051233e+00	2.698590e+00	APOA1;APOA4
+BioPlanet_2019	Wnt signaling pathway	1/231	2.944448e-01	3.173143e-01	0	0	2.959520e+00	3.618498e+00	TAB1
+BioPlanet_2019	Antigen presentation: folding, assembly, and peptide loading of class I MHC proteins	1/255	3.197125e-01	3.412316e-01	0	0	2.676622e+00	3.052241e+00	CD36
+BioPlanet_2019	FSH regulation of apoptosis	1/263	3.279390e-01	3.466783e-01	0	0	2.593840e+00	2.891945e+00	CD36
+BioPlanet_2019	Immune system signaling by interferons, interleukins, prolactin, and growth hormones	1/280	3.451022e-01	3.613806e-01	0	0	2.433692e+00	2.589241e+00	TAB1
+BioPlanet_2019	MAPK signaling pathway	1/314	3.781665e-01	3.923035e-01	0	0	2.165583e+00	2.105858e+00	TAB1
+BioPlanet_2019	Developmental biology	1/420	4.712158e-01	4.843051e-01	0	0	1.609003e+00	1.210677e+00	CD36
+BioPlanet_2019	Transmembrane transport of small molecules	1/432	4.808592e-01	4.896823e-01	0	0	1.563245e+00	1.144578e+00	APOA1
+BioPlanet_2019	Protein metabolism	1/442	4.887654e-01	4.932087e-01	0	0	1.527015e+00	1.093149e+00	MGAT3
+BioPlanet_2019	Adaptive immune system	1/606	6.029664e-01	6.029664e-01	0	0	1.103733e+00	5.583718e-01	CD36

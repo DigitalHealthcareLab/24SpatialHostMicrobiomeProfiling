@@ -1,0 +1,16 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	regulation of lamellipodium organization (GO:1902743)	1/14	1.399516e-03	8.492856e-03	0	0	1.537308e+03	1.010262e+04	CAPZB
+GO_Biological_Process_2021	actin filament capping (GO:0051693)	1/19	1.899109e-03	8.492856e-03	0	0	1.110000e+03	6.955671e+03	CAPZB
+GO_Biological_Process_2021	barbed-end actin filament capping (GO:0051016)	1/19	1.899109e-03	8.492856e-03	0	0	1.110000e+03	6.955671e+03	CAPZB
+GO_Biological_Process_2021	negative regulation of plasma membrane bounded cell projection assembly (GO:0120033)	1/27	2.698200e-03	8.492856e-03	0	0	7.681538e+02	4.543761e+03	CAPZB
+GO_Biological_Process_2021	regulation of cell morphogenesis (GO:0022604)	1/32	3.197469e-03	8.492856e-03	0	0	6.440968e+02	3.700591e+03	CAPZB
+GO_Biological_Process_2021	regulation of lamellipodium assembly (GO:0010591)	1/34	3.397142e-03	8.492856e-03	0	0	6.050000e+02	3.439317e+03	CAPZB
+GO_Biological_Process_2021	regulation of filopodium assembly (GO:0051489)	1/41	4.095840e-03	8.776801e-03	0	0	4.989500e+02	2.743119e+03	CAPZB
+GO_Biological_Process_2021	regulation of plasma membrane bounded cell projection assembly (GO:0120032)	1/70	6.987842e-03	1.310220e-02	0	0	2.888261e+02	1.433612e+03	CAPZB
+GO_Biological_Process_2021	antigen processing and presentation of exogenous peptide antigen via MHC class II (GO:0019886)	1/98	9.776133e-03	1.400950e-02	0	0	2.051649e+02	9.494647e+02	CAPZB
+GO_Biological_Process_2021	antigen processing and presentation of peptide antigen via MHC class II (GO:0002495)	1/100	9.975147e-03	1.400950e-02	0	0	2.010000e+02	9.261394e+02	CAPZB
+GO_Biological_Process_2021	antigen processing and presentation of exogenous peptide antigen (GO:0002478)	1/103	1.027363e-02	1.400950e-02	0	0	1.950588e+02	8.930134e+02	CAPZB
+GO_Biological_Process_2021	cytoskeleton organization (GO:0007010)	1/120	1.196418e-02	1.414889e-02	0	0	1.670504e+02	7.393380e+02	CAPZB
+GO_Biological_Process_2021	regulation of anatomical structure morphogenesis (GO:0022603)	1/123	1.226237e-02	1.414889e-02	0	0	1.629180e+02	7.170381e+02	CAPZB
+GO_Biological_Process_2021	endoplasmic reticulum to Golgi vesicle-mediated transport (GO:0006888)	1/185	1.841475e-02	1.973009e-02	0	0	1.076848e+02	4.301580e+02	CAPZB
+GO_Biological_Process_2021	organelle organization (GO:0006996)	1/420	4.155982e-02	4.155982e-02	0	0	4.672792e+01	1.486238e+02	CAPZB

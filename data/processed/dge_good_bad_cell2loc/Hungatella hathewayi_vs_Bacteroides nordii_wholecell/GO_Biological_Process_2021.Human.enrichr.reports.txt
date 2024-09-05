@@ -1,0 +1,84 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	3/64	3.690415e-06	3.063045e-04	0	0	1.400164e+02	1.751573e+03	REG3A;DEFA6;DEFA5
+GO_Biological_Process_2021	innate immune response in mucosa (GO:0002227)	2/21	4.701126e-05	1.950967e-03	0	0	2.627763e+02	2.618598e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	mucosal immune response (GO:0002385)	2/28	8.446285e-05	2.336806e-03	0	0	1.919615e+02	1.800445e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	antibacterial humoral response (GO:0019731)	2/44	2.104819e-04	4.367499e-03	0	0	1.187381e+02	1.005250e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	defense response to Gram-positive bacterium (GO:0050830)	2/70	5.336190e-04	6.019775e-03	0	0	7.324265e+01	5.519440e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	cholesterol homeostasis (GO:0042632)	2/71	5.489399e-04	6.019775e-03	0	0	7.217754e+01	5.418744e+02	EPHX2;APOB
+GO_Biological_Process_2021	sterol homeostasis (GO:0055092)	2/72	5.644733e-04	6.019775e-03	0	0	7.114286e+01	5.321214e+02	EPHX2;APOB
+GO_Biological_Process_2021	defense response to Gram-negative bacterium (GO:0050829)	2/73	5.802193e-04	6.019775e-03	0	0	7.013732e+01	5.226707e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	cellular response to molecule of bacterial origin (GO:0071219)	2/115	1.431117e-03	1.292110e-02	0	0	4.397566e+01	2.880098e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	cellular response to lipopolysaccharide (GO:0071222)	2/120	1.556759e-03	1.292110e-02	0	0	4.210169e+01	2.721937e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	negative regulation of keratinocyte differentiation (GO:0045617)	1/5	2.497708e-03	1.706492e-02	0	0	5.551667e+02	3.326771e+03	REG3A
+GO_Biological_Process_2021	positive regulation of membrane permeability (GO:1905710)	1/5	2.497708e-03	1.706492e-02	0	0	5.551667e+02	3.326771e+03	DEFA5
+GO_Biological_Process_2021	response to lipopolysaccharide (GO:0032496)	2/159	2.710370e-03	1.706492e-02	0	0	3.158121e+01	1.866661e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	positive regulation of cholesterol storage (GO:0010886)	1/6	2.996578e-03	1.706492e-02	0	0	4.441111e+02	2.580412e+03	APOB
+GO_Biological_Process_2021	defense response to bacterium (GO:0042742)	2/176	3.307921e-03	1.706492e-02	0	0	2.847126e+01	1.626118e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	negative regulation of epidermal cell differentiation (GO:0045605)	1/7	3.495224e-03	1.706492e-02	0	0	3.700741e+02	2.093271e+03	REG3A
+GO_Biological_Process_2021	chylomicron remnant clearance (GO:0034382)	1/7	3.495224e-03	1.706492e-02	0	0	3.700741e+02	2.093271e+03	APOB
+GO_Biological_Process_2021	aromatic compound catabolic process (GO:0019439)	1/8	3.993646e-03	1.751800e-02	0	0	3.171905e+02	1.751859e+03	EPHX2
+GO_Biological_Process_2021	organic cyclic compound catabolic process (GO:1901361)	1/9	4.491844e-03	1.751800e-02	0	0	2.775278e+02	1.500174e+03	EPHX2
+GO_Biological_Process_2021	chylomicron remodeling (GO:0034371)	1/9	4.491844e-03	1.751800e-02	0	0	2.775278e+02	1.500174e+03	APOB
+GO_Biological_Process_2021	chylomicron assembly (GO:0034378)	1/10	4.989818e-03	1.751800e-02	0	0	2.466790e+02	1.307487e+03	APOB
+GO_Biological_Process_2021	lipoprotein transport (GO:0042953)	1/10	4.989818e-03	1.751800e-02	0	0	2.466790e+02	1.307487e+03	APOB
+GO_Biological_Process_2021	cellular response to lipid (GO:0071396)	2/219	5.068989e-03	1.751800e-02	0	0	2.277995e+01	1.203833e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	positive regulation of keratinocyte proliferation (GO:0010838)	1/11	5.487568e-03	1.751800e-02	0	0	2.220000e+02	1.155570e+03	REG3A
+GO_Biological_Process_2021	positive regulation of lipid localization (GO:1905954)	1/11	5.487568e-03	1.751800e-02	0	0	2.220000e+02	1.155570e+03	APOB
+GO_Biological_Process_2021	lipoprotein localization (GO:0044872)	1/11	5.487568e-03	1.751800e-02	0	0	2.220000e+02	1.155570e+03	APOB
+GO_Biological_Process_2021	very-low-density lipoprotein particle assembly (GO:0034379)	1/12	5.985094e-03	1.839862e-02	0	0	2.018081e+02	1.032951e+03	APOB
+GO_Biological_Process_2021	triglyceride-rich lipoprotein particle remodeling (GO:0034370)	1/13	6.482395e-03	1.921567e-02	0	0	1.849815e+02	9.320597e+02	APOB
+GO_Biological_Process_2021	low-density lipoprotein particle remodeling (GO:0034374)	1/14	6.979474e-03	1.997574e-02	0	0	1.707436e+02	8.477047e+02	APOB
+GO_Biological_Process_2021	killing by host of symbiont cells (GO:0051873)	1/16	7.972959e-03	2.134695e-02	0	0	1.479630e+02	7.149126e+02	DEFA5
+GO_Biological_Process_2021	regulation of cholesterol storage (GO:0010885)	1/16	7.972959e-03	2.134695e-02	0	0	1.479630e+02	7.149126e+02	APOB
+GO_Biological_Process_2021	positive regulation of macrophage derived foam cell differentiation (GO:0010744)	1/18	8.965550e-03	2.309722e-02	0	0	1.305425e+02	6.154250e+02	APOB
+GO_Biological_Process_2021	innate immune response (GO:0045087)	2/302	9.440000e-03	2.309722e-02	0	0	1.640833e+01	7.650877e+01	DEFA6;DEFA5
+GO_Biological_Process_2021	epoxygenase P450 pathway (GO:0019373)	1/19	9.461511e-03	2.309722e-02	0	0	1.232840e+02	5.745677e+02	EPHX2
+GO_Biological_Process_2021	positive regulation of lipid storage (GO:0010884)	1/21	1.045276e-02	2.329970e-02	0	0	1.109444e+02	5.060053e+02	APOB
+GO_Biological_Process_2021	sterol transport (GO:0015918)	1/21	1.045276e-02	2.329970e-02	0	0	1.109444e+02	5.060053e+02	APOB
+GO_Biological_Process_2021	regulation of cholesterol metabolic process (GO:0090181)	1/21	1.045276e-02	2.329970e-02	0	0	1.109444e+02	5.060053e+02	EPHX2
+GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	2/323	1.074044e-02	2.329970e-02	0	0	1.531854e+01	6.945025e+01	DEFA6;DEFA5
+GO_Biological_Process_2021	regulation of lipid storage (GO:0010883)	1/22	1.094805e-02	2.329970e-02	0	0	1.056561e+02	4.769943e+02	APOB
+GO_Biological_Process_2021	regulation of steroid metabolic process (GO:0019218)	1/23	1.144312e-02	2.374447e-02	0	0	1.008485e+02	4.508297e+02	EPHX2
+GO_Biological_Process_2021	regulation of keratinocyte proliferation (GO:0010837)	1/24	1.193796e-02	2.416710e-02	0	0	9.645894e+01	4.271232e+02	REG3A
+GO_Biological_Process_2021	positive regulation of response to wounding (GO:1903036)	1/28	1.391512e-02	2.685941e-02	0	0	8.215226e+01	3.511828e+02	REG3A
+GO_Biological_Process_2021	regulation of small molecule metabolic process (GO:0062012)	1/28	1.391512e-02	2.685941e-02	0	0	8.215226e+01	3.511828e+02	EPHX2
+GO_Biological_Process_2021	long-chain fatty acid biosynthetic process (GO:0042759)	1/30	1.490236e-02	2.811126e-02	0	0	7.647893e+01	3.216884e+02	EPHX2
+GO_Biological_Process_2021	regulation of macrophage derived foam cell differentiation (GO:0010743)	1/31	1.539564e-02	2.839641e-02	0	0	7.392593e+01	3.085425e+02	APOB
+GO_Biological_Process_2021	regulation of keratinocyte differentiation (GO:0045616)	1/34	1.687417e-02	3.044687e-02	0	0	6.719529e+01	2.742892e+02	REG3A
+GO_Biological_Process_2021	phospholipid dephosphorylation (GO:0046839)	1/39	1.933394e-02	3.343160e-02	0	0	5.833918e+01	2.302002e+02	EPHX2
+GO_Biological_Process_2021	response to peptide (GO:1901652)	1/39	1.933394e-02	3.343160e-02	0	0	5.833918e+01	2.302002e+02	REG3A
+GO_Biological_Process_2021	positive regulation of wound healing (GO:0090303)	1/40	1.982523e-02	3.358151e-02	0	0	5.684046e+01	2.228601e+02	REG3A
+GO_Biological_Process_2021	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules (GO:0007157)	1/42	2.080714e-02	3.453985e-02	0	0	5.406233e+01	2.093542e+02	REG3A
+GO_Biological_Process_2021	lipid modification (GO:0030258)	1/43	2.129777e-02	3.466107e-02	0	0	5.277249e+01	2.031294e+02	EPHX2
+GO_Biological_Process_2021	regulation of wound healing (GO:0061041)	1/47	2.325805e-02	3.712343e-02	0	0	4.817391e+01	1.811871e+02	REG3A
+GO_Biological_Process_2021	secondary alcohol metabolic process (GO:1902652)	1/49	2.423687e-02	3.795585e-02	0	0	4.616204e+01	1.717172e+02	APOB
+GO_Biological_Process_2021	cholesterol transport (GO:0030301)	1/51	2.521481e-02	3.875609e-02	0	0	4.431111e+01	1.630792e+02	APOB
+GO_Biological_Process_2021	response to peptide hormone (GO:0043434)	1/52	2.570344e-02	3.878883e-02	0	0	4.344009e+01	1.590398e+02	REG3A
+GO_Biological_Process_2021	triglyceride metabolic process (GO:0006641)	1/55	2.716803e-02	4.026690e-02	0	0	4.102058e+01	1.479085e+02	APOB
+GO_Biological_Process_2021	arachidonic acid metabolic process (GO:0019369)	1/57	2.814332e-02	4.098063e-02	0	0	3.955159e+01	1.412168e+02	EPHX2
+GO_Biological_Process_2021	pattern recognition receptor signaling pathway (GO:0002221)	1/61	3.009127e-02	4.306164e-02	0	0	3.690741e+01	1.293059e+02	APOB
+GO_Biological_Process_2021	diterpenoid metabolic process (GO:0016101)	1/64	3.154992e-02	4.438378e-02	0	0	3.514462e+01	1.214663e+02	APOB
+GO_Biological_Process_2021	sterol metabolic process (GO:0016125)	1/70	3.446130e-02	4.754915e-02	0	0	3.207890e+01	1.080391e+02	APOB
+GO_Biological_Process_2021	fatty acid biosynthetic process (GO:0006633)	1/71	3.494576e-02	4.754915e-02	0	0	3.161905e+01	1.060490e+02	EPHX2
+GO_Biological_Process_2021	cholesterol metabolic process (GO:0008203)	1/77	3.784795e-02	5.066742e-02	0	0	2.911404e+01	9.532455e+01	APOB
+GO_Biological_Process_2021	long-chain fatty acid metabolic process (GO:0001676)	1/83	4.074228e-02	5.367634e-02	0	0	2.697561e+01	8.633514e+01	EPHX2
+GO_Biological_Process_2021	toll-like receptor signaling pathway (GO:0002224)	1/91	4.458920e-02	5.754976e-02	0	0	2.456790e+01	7.641265e+01	APOB
+GO_Biological_Process_2021	retinoid metabolic process (GO:0001523)	1/92	4.506909e-02	5.754976e-02	0	0	2.429670e+01	7.530906e+01	APOB
+GO_Biological_Process_2021	positive regulation of epithelial cell proliferation (GO:0050679)	1/123	5.983844e-02	7.525137e-02	0	0	1.809472e+01	5.095666e+01	REG3A
+GO_Biological_Process_2021	receptor-mediated endocytosis (GO:0006898)	1/143	6.925762e-02	8.579675e-02	0	0	1.553052e+01	4.146527e+01	APOB
+GO_Biological_Process_2021	dephosphorylation (GO:0016311)	1/153	7.393528e-02	9.024454e-02	0	0	1.450146e+01	3.777000e+01	EPHX2
+GO_Biological_Process_2021	cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742)	1/170	8.183878e-02	9.844375e-02	0	0	1.303156e+01	3.261804e+01	REG3A
+GO_Biological_Process_2021	phosphate-containing compound metabolic process (GO:0006796)	1/212	1.011055e-01	1.192555e-01	0	0	1.041548e+01	2.386803e+01	EPHX2
+GO_Biological_Process_2021	negative regulation of multicellular organismal process (GO:0051241)	1/214	1.020138e-01	1.192555e-01	0	0	1.031664e+01	2.354925e+01	REG3A
+GO_Biological_Process_2021	membrane organization (GO:0061024)	1/242	1.146438e-01	1.321588e-01	0	0	9.105118e+00	1.972101e+01	APOB
+GO_Biological_Process_2021	positive regulation of cell differentiation (GO:0045597)	1/258	1.217889e-01	1.384723e-01	0	0	8.531345e+00	1.796246e+01	APOB
+GO_Biological_Process_2021	post-translational protein modification (GO:0043687)	1/345	1.597402e-01	1.791681e-01	0	0	6.345607e+00	1.163915e+01	APOB
+GO_Biological_Process_2021	protein transport (GO:0015031)	1/369	1.699465e-01	1.880741e-01	0	0	5.924517e+00	1.049985e+01	APOB
+GO_Biological_Process_2021	positive regulation of macromolecule metabolic process (GO:0010604)	1/384	1.762686e-01	1.925038e-01	0	0	5.688135e+00	9.873160e+00	EPHX2
+GO_Biological_Process_2021	cellular protein metabolic process (GO:0044267)	1/417	1.900249e-01	2.048320e-01	0	0	5.228098e+00	8.681782e+00	APOB
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	1/474	2.132995e-01	2.269726e-01	0	0	4.584684e+00	7.083602e+00	REG3A
+GO_Biological_Process_2021	positive regulation of gene expression (GO:0010628)	1/482	2.165175e-01	2.274804e-01	0	0	4.506584e+00	6.895450e+00	EPHX2
+GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	1/625	2.720762e-01	2.822791e-01	0	0	3.448362e+00	4.488640e+00	REG3A
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	1/764	3.226561e-01	3.306229e-01	0	0	2.799913e+00	3.167172e+00	REG3A
+GO_Biological_Process_2021	cellular protein modification process (GO:0006464)	1/1025	4.091660e-01	4.141558e-01	0	0	2.057943e+00	1.839048e+00	APOB
+GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	1/1079	4.257704e-01	4.257704e-01	0	0	1.949289e+00	1.664410e+00	EPHX2

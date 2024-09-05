@@ -1,0 +1,141 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	3/64	1.109240e-05	1.552936e-03	0	0	8.908346e+01	1.016375e+03	REG3A;DEFA6;DEFA5
+GO_Biological_Process_2021	innate immune response in mucosa (GO:0002227)	2/21	9.482727e-05	6.637909e-03	0	0	1.751491e+02	1.622486e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	mucosal immune response (GO:0002385)	2/28	1.702127e-04	7.943258e-03	0	0	1.279487e+02	1.110398e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	antibacterial humoral response (GO:0019731)	2/44	4.232677e-04	1.207319e-02	0	0	7.914286e+01	6.147426e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	cellular response to lipid (GO:0071396)	3/219	4.311853e-04	1.207319e-02	0	0	2.496212e+01	1.934308e+02	DEFA6;DEFA5;MGST1
+GO_Biological_Process_2021	defense response to Gram-positive bacterium (GO:0050830)	2/70	1.069372e-03	2.324591e-02	0	0	4.881863e+01	3.339528e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	defense response to Gram-negative bacterium (GO:0050829)	2/73	1.162296e-03	2.324591e-02	0	0	4.674883e+01	3.158986e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	cellular response to molecule of bacterial origin (GO:0071219)	2/115	2.850864e-03	3.705139e-02	0	0	2.931121e+01	1.717676e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	cellular response to lipopolysaccharide (GO:0071222)	2/120	3.099094e-03	3.705139e-02	0	0	2.806215e+01	1.621051e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	negative regulation of keratinocyte differentiation (GO:0045617)	1/5	3.495399e-03	3.705139e-02	0	0	3.842692e+02	2.173545e+03	REG3A
+GO_Biological_Process_2021	positive regulation of membrane permeability (GO:1905710)	1/5	3.495399e-03	3.705139e-02	0	0	3.842692e+02	2.173545e+03	DEFA5
+GO_Biological_Process_2021	glutathione transport (GO:0034635)	1/5	3.495399e-03	3.705139e-02	0	0	3.842692e+02	2.173545e+03	MGST1
+GO_Biological_Process_2021	regulation of neutrophil extravasation (GO:2000389)	1/6	4.193120e-03	3.705139e-02	0	0	3.074000e+02	1.682803e+03	OLFM4
+GO_Biological_Process_2021	regulation of necrotic cell death (GO:0010939)	1/7	4.890388e-03	3.705139e-02	0	0	2.561538e+02	1.362862e+03	OLFM4
+GO_Biological_Process_2021	mRNA transcription by RNA polymerase II (GO:0042789)	1/7	4.890388e-03	3.705139e-02	0	0	2.561538e+02	1.362862e+03	ATF4
+GO_Biological_Process_2021	negative regulation of epidermal cell differentiation (GO:0045605)	1/7	4.890388e-03	3.705139e-02	0	0	2.561538e+02	1.362862e+03	REG3A
+GO_Biological_Process_2021	response to lipopolysaccharide (GO:0032496)	2/159	5.367810e-03	3.705139e-02	0	0	2.104989e+01	1.100349e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	lens fiber cell development (GO:0070307)	1/8	5.587202e-03	3.705139e-02	0	0	2.195495e+02	1.138864e+03	ATF4
+GO_Biological_Process_2021	regulation of oxidative stress-induced neuron death (GO:1903203)	1/8	5.587202e-03	3.705139e-02	0	0	2.195495e+02	1.138864e+03	ATF4
+GO_Biological_Process_2021	regulation of transcription from RNA polymerase II promoter in response to oxidative stress (GO:0043619)	1/8	5.587202e-03	3.705139e-02	0	0	2.195495e+02	1.138864e+03	ATF4
+GO_Biological_Process_2021	regulation of cellular extravasation (GO:0002691)	1/9	6.283564e-03	3.705139e-02	0	0	1.920962e+02	9.738925e+02	OLFM4
+GO_Biological_Process_2021	defense response to bacterium (GO:0042742)	2/176	6.536519e-03	3.705139e-02	0	0	1.897701e+01	9.546102e+01	DEFA6;DEFA5
+GO_Biological_Process_2021	response to dopamine (GO:1903350)	1/10	6.979474e-03	3.705139e-02	0	0	1.707436e+02	8.477047e+02	ATF4
+GO_Biological_Process_2021	regulation of neutrophil migration (GO:1902622)	1/10	6.979474e-03	3.705139e-02	0	0	1.707436e+02	8.477047e+02	OLFM4
+GO_Biological_Process_2021	cellular response to dopamine (GO:1903351)	1/10	6.979474e-03	3.705139e-02	0	0	1.707436e+02	8.477047e+02	ATF4
+GO_Biological_Process_2021	positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress (GO:1990440)	1/11	7.674931e-03	3.705139e-02	0	0	1.536615e+02	7.483003e+02	ATF4
+GO_Biological_Process_2021	positive regulation of keratinocyte proliferation (GO:0010838)	1/11	7.674931e-03	3.705139e-02	0	0	1.536615e+02	7.483003e+02	REG3A
+GO_Biological_Process_2021	PERK-mediated unfolded protein response (GO:0036499)	1/11	7.674931e-03	3.705139e-02	0	0	1.536615e+02	7.483003e+02	ATF4
+GO_Biological_Process_2021	negative regulation of oxidative stress-induced neuron death (GO:1903204)	1/11	7.674931e-03	3.705139e-02	0	0	1.536615e+02	7.483003e+02	ATF4
+GO_Biological_Process_2021	mRNA transcription (GO:0009299)	1/12	8.369936e-03	3.905970e-02	0	0	1.396853e+02	6.681301e+02	ATF4
+GO_Biological_Process_2021	embryonic hemopoiesis (GO:0035162)	1/13	9.064489e-03	4.064760e-02	0	0	1.280385e+02	6.022149e+02	ATF4
+GO_Biological_Process_2021	negative regulation of multicellular organismal process (GO:0051241)	2/214	9.528045e-03	4.064760e-02	0	0	1.554560e+01	7.234168e+01	REG3A;ATF4
+GO_Biological_Process_2021	organic heteropentacyclic compound metabolic process (GO:1901376)	1/15	1.045224e-02	4.064760e-02	0	0	1.097363e+02	5.005004e+02	MGST1
+GO_Biological_Process_2021	aflatoxin metabolic process (GO:0046222)	1/15	1.045224e-02	4.064760e-02	0	0	1.097363e+02	5.005004e+02	MGST1
+GO_Biological_Process_2021	mycotoxin metabolic process (GO:0043385)	1/15	1.045224e-02	4.064760e-02	0	0	1.097363e+02	5.005004e+02	MGST1
+GO_Biological_Process_2021	integrated stress response signaling (GO:0140467)	1/15	1.045224e-02	4.064760e-02	0	0	1.097363e+02	5.005004e+02	ATF4
+GO_Biological_Process_2021	killing by host of symbiont cells (GO:0051873)	1/16	1.114544e-02	4.217194e-02	0	0	1.024154e+02	4.605338e+02	DEFA5
+GO_Biological_Process_2021	modified amino acid transport (GO:0072337)	1/17	1.183819e-02	4.361438e-02	0	0	9.600962e+01	4.259394e+02	MGST1
+GO_Biological_Process_2021	regulation of transcription by RNA polymerase I (GO:0006356)	1/18	1.253049e-02	4.498123e-02	0	0	9.035747e+01	3.957287e+02	ATF4
+GO_Biological_Process_2021	positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus (GO:1901522)	1/21	1.460468e-02	4.863491e-02	0	0	7.679231e+01	3.245560e+02	ATF4
+GO_Biological_Process_2021	glutathione derivative biosynthetic process (GO:1901687)	1/22	1.529518e-02	4.863491e-02	0	0	7.313187e+01	3.057071e+02	MGST1
+GO_Biological_Process_2021	glutathione derivative metabolic process (GO:1901685)	1/22	1.529518e-02	4.863491e-02	0	0	7.313187e+01	3.057071e+02	MGST1
+GO_Biological_Process_2021	positive regulation of transcription by RNA polymerase I (GO:0045943)	1/23	1.598523e-02	4.863491e-02	0	0	6.980420e+01	2.887165e+02	ATF4
+GO_Biological_Process_2021	response to nutrient levels (GO:0031667)	1/23	1.598523e-02	4.863491e-02	0	0	6.980420e+01	2.887165e+02	ATF4
+GO_Biological_Process_2021	positive regulation of neuron apoptotic process (GO:0043525)	1/24	1.667483e-02	4.863491e-02	0	0	6.676589e+01	2.733299e+02	ATF4
+GO_Biological_Process_2021	positive regulation of transcription from RNA polymerase II promoter in response to stress (GO:0036003)	1/24	1.667483e-02	4.863491e-02	0	0	6.676589e+01	2.733299e+02	ATF4
+GO_Biological_Process_2021	regulation of keratinocyte proliferation (GO:0010837)	1/24	1.667483e-02	4.863491e-02	0	0	6.676589e+01	2.733299e+02	REG3A
+GO_Biological_Process_2021	cellular response to catecholamine stimulus (GO:0071870)	1/24	1.667483e-02	4.863491e-02	0	0	6.676589e+01	2.733299e+02	ATF4
+GO_Biological_Process_2021	positive regulation of vascular endothelial growth factor production (GO:0010575)	1/25	1.736398e-02	4.961137e-02	0	0	6.398077e+01	2.593369e+02	ATF4
+GO_Biological_Process_2021	innate immune response (GO:0045087)	2/302	1.834625e-02	5.037082e-02	0	0	1.093667e+01	4.372840e+01	DEFA6;DEFA5
+GO_Biological_Process_2021	regulation of vascular endothelial growth factor production (GO:0010574)	1/27	1.874094e-02	5.037082e-02	0	0	5.905325e+01	2.348575e+02	ATF4
+GO_Biological_Process_2021	sulfur compound transport (GO:0072348)	1/28	1.942874e-02	5.037082e-02	0	0	5.686325e+01	2.240982e+02	MGST1
+GO_Biological_Process_2021	negative regulation of oxidative stress-induced cell death (GO:1903202)	1/28	1.942874e-02	5.037082e-02	0	0	5.686325e+01	2.240982e+02	ATF4
+GO_Biological_Process_2021	positive regulation of response to wounding (GO:1903036)	1/28	1.942874e-02	5.037082e-02	0	0	5.686325e+01	2.240982e+02	REG3A
+GO_Biological_Process_2021	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress (GO:0070059)	1/29	2.011610e-02	5.120462e-02	0	0	5.482967e+01	2.141776e+02	ATF4
+GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	2/323	2.081609e-02	5.204023e-02	0	0	1.021028e+01	3.953450e+01	DEFA6;DEFA5
+GO_Biological_Process_2021	regulation of keratinocyte differentiation (GO:0045616)	1/34	2.354619e-02	5.783276e-02	0	0	4.651049e+01	1.743581e+02	REG3A
+GO_Biological_Process_2021	positive regulation of substrate adhesion-dependent cell spreading (GO:1900026)	1/36	2.491511e-02	6.013991e-02	0	0	4.384835e+01	1.619004e+02	OLFM4
+GO_Biological_Process_2021	response to peptide (GO:1901652)	1/39	2.696513e-02	6.398506e-02	0	0	4.038057e+01	1.459035e+02	REG3A
+GO_Biological_Process_2021	positive regulation of wound healing (GO:0090303)	1/40	2.764759e-02	6.451104e-02	0	0	3.934320e+01	1.411719e+02	REG3A
+GO_Biological_Process_2021	gluconeogenesis (GO:0006094)	1/41	2.832960e-02	6.501874e-02	0	0	3.835769e+01	1.367010e+02	ATF4
+GO_Biological_Process_2021	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules (GO:0007157)	1/42	2.901116e-02	6.550907e-02	0	0	3.742026e+01	1.324705e+02	REG3A
+GO_Biological_Process_2021	cellular response to glucose starvation (GO:0042149)	1/43	2.969228e-02	6.598284e-02	0	0	3.652747e+01	1.284623e+02	ATF4
+GO_Biological_Process_2021	hexose biosynthetic process (GO:0019319)	1/44	3.037296e-02	6.644084e-02	0	0	3.567621e+01	1.246599e+02	ATF4
+GO_Biological_Process_2021	regulation of wound healing (GO:0061041)	1/47	3.241233e-02	6.772725e-02	0	0	3.334448e+01	1.143454e+02	REG3A
+GO_Biological_Process_2021	positive regulation of neuron death (GO:1901216)	1/47	3.241233e-02	6.772725e-02	0	0	3.334448e+01	1.143454e+02	ATF4
+GO_Biological_Process_2021	negative regulation of cold-induced thermogenesis (GO:0120163)	1/47	3.241233e-02	6.772725e-02	0	0	3.334448e+01	1.143454e+02	ATF4
+GO_Biological_Process_2021	positive regulation of cell morphogenesis involved in differentiation (GO:0010770)	1/50	3.444771e-02	7.092176e-02	0	0	3.129827e+01	1.054224e+02	OLFM4
+GO_Biological_Process_2021	regulation of substrate adhesion-dependent cell spreading (GO:1900024)	1/51	3.512529e-02	7.126871e-02	0	0	3.067077e+01	1.027113e+02	OLFM4
+GO_Biological_Process_2021	response to peptide hormone (GO:0043434)	1/52	3.580243e-02	7.160486e-02	0	0	3.006787e+01	1.001182e+02	REG3A
+GO_Biological_Process_2021	negative regulation of metabolic process (GO:0009892)	1/56	3.850657e-02	7.592844e-02	0	0	2.787552e+01	9.078853e+01	ATF4
+GO_Biological_Process_2021	regulation of phagocytosis (GO:0050764)	1/58	3.985599e-02	7.749777e-02	0	0	2.689474e+01	8.666782e+01	OLFM4
+GO_Biological_Process_2021	glucose metabolic process (GO:0006006)	1/62	4.254957e-02	8.102755e-02	0	0	2.512610e+01	7.932526e+01	ATF4
+GO_Biological_Process_2021	neutrophil degranulation (GO:0043312)	2/481	4.339429e-02	8.102755e-02	0	0	6.787404e+00	2.129499e+01	MGST1;OLFM4
+GO_Biological_Process_2021	neutrophil activation involved in immune response (GO:0002283)	2/485	4.404973e-02	8.102755e-02	0	0	6.729814e+00	2.101341e+01	MGST1;OLFM4
+GO_Biological_Process_2021	neutrophil mediated immunity (GO:0002446)	2/488	4.454382e-02	8.102755e-02	0	0	6.687243e+00	2.080590e+01	MGST1;OLFM4
+GO_Biological_Process_2021	regulation of RNA metabolic process (GO:0051252)	1/65	4.456515e-02	8.102755e-02	0	0	2.394471e+01	7.448728e+01	HNRNPH1
+GO_Biological_Process_2021	embryonic organ development (GO:0048568)	1/66	4.523614e-02	8.119306e-02	0	0	2.357515e+01	7.298534e+01	ATF4
+GO_Biological_Process_2021	regulation of translational initiation (GO:0006446)	1/68	4.657679e-02	8.254115e-02	0	0	2.286912e+01	7.013164e+01	ATF4
+GO_Biological_Process_2021	cellular response to light stimulus (GO:0071482)	1/70	4.791570e-02	8.281725e-02	0	0	2.220401e+01	6.746272e+01	ATF4
+GO_Biological_Process_2021	positive regulation of cell-substrate adhesion (GO:0010811)	1/70	4.791570e-02	8.281725e-02	0	0	2.220401e+01	6.746272e+01	OLFM4
+GO_Biological_Process_2021	nucleic acid metabolic process (GO:0090304)	1/71	4.858449e-02	8.294914e-02	0	0	2.188571e+01	6.619227e+01	HNRNPH1
+GO_Biological_Process_2021	cell morphogenesis involved in differentiation (GO:0000904)	1/72	4.925286e-02	8.307711e-02	0	0	2.157638e+01	6.496191e+01	ATF4
+GO_Biological_Process_2021	cellular response to amino acid starvation (GO:0034198)	1/74	5.058827e-02	8.343890e-02	0	0	2.098314e+01	6.261444e+01	ATF4
+GO_Biological_Process_2021	response to amino acid starvation (GO:1990928)	1/75	5.125533e-02	8.343890e-02	0	0	2.069854e+01	6.149405e+01	ATF4
+GO_Biological_Process_2021	fibroblast growth factor receptor signaling pathway (GO:0008543)	1/75	5.125533e-02	8.343890e-02	0	0	2.069854e+01	6.149405e+01	HNRNPH1
+GO_Biological_Process_2021	regulation of RNA splicing (GO:0043484)	1/76	5.192195e-02	8.355256e-02	0	0	2.042154e+01	6.040719e+01	HNRNPH1
+GO_Biological_Process_2021	cellular response to UV (GO:0034644)	1/77	5.258813e-02	8.366294e-02	0	0	2.015182e+01	5.935245e+01	ATF4
+GO_Biological_Process_2021	regulation of osteoblast differentiation (GO:0045667)	1/83	5.657612e-02	8.899614e-02	0	0	1.867167e+01	5.362818e+01	ATF4
+GO_Biological_Process_2021	regulation of transcription from RNA polymerase II promoter in response to stress (GO:0043618)	1/87	5.922611e-02	9.212951e-02	0	0	1.779964e+01	5.030878e+01	ATF4
+GO_Biological_Process_2021	cellular response to fibroblast growth factor stimulus (GO:0044344)	1/92	6.252888e-02	9.619828e-02	0	0	1.681741e+01	4.662000e+01	HNRNPH1
+GO_Biological_Process_2021	hemopoiesis (GO:0030097)	1/94	6.384698e-02	9.674301e-02	0	0	1.645409e+01	4.526959e+01	ATF4
+GO_Biological_Process_2021	regulation of vesicle-mediated transport (GO:0060627)	1/96	6.516335e-02	9.674301e-02	0	0	1.610607e+01	4.398340e+01	OLFM4
+GO_Biological_Process_2021	regulation of neuron apoptotic process (GO:0043523)	1/98	6.647800e-02	9.674301e-02	0	0	1.577240e+01	4.275716e+01	ATF4
+GO_Biological_Process_2021	negative regulation of neuron death (GO:1901215)	1/98	6.647800e-02	9.674301e-02	0	0	1.577240e+01	4.275716e+01	ATF4
+GO_Biological_Process_2021	organic anion transport (GO:0015711)	1/99	6.713468e-02	9.674301e-02	0	0	1.561068e+01	4.216528e+01	MGST1
+GO_Biological_Process_2021	response to UV (GO:0009411)	1/99	6.713468e-02	9.674301e-02	0	0	1.561068e+01	4.216528e+01	ATF4
+GO_Biological_Process_2021	cellular response to chemical stress (GO:0062197)	1/101	6.844676e-02	9.674301e-02	0	0	1.529692e+01	4.102175e+01	ATF4
+GO_Biological_Process_2021	intrinsic apoptotic signaling pathway (GO:0097193)	1/102	6.910215e-02	9.674301e-02	0	0	1.514471e+01	4.046922e+01	ATF4
+GO_Biological_Process_2021	regulation of cell death (GO:0010941)	1/102	6.910215e-02	9.674301e-02	0	0	1.514471e+01	4.046922e+01	OLFM4
+GO_Biological_Process_2021	response to endoplasmic reticulum stress (GO:0034976)	1/110	7.432992e-02	1.030316e-01	0	0	1.402752e+01	3.646092e+01	ATF4
+GO_Biological_Process_2021	sulfur compound biosynthetic process (GO:0044272)	1/113	7.628330e-02	1.047026e-01	0	0	1.364973e+01	3.512485e+01	MGST1
+GO_Biological_Process_2021	cellular amide metabolic process (GO:0043603)	1/115	7.758343e-02	1.054532e-01	0	0	1.340891e+01	3.427855e+01	ATF4
+GO_Biological_Process_2021	regulation of cellular response to stress (GO:0080135)	1/118	7.953043e-02	1.070602e-01	0	0	1.306312e+01	3.307079e+01	ATF4
+GO_Biological_Process_2021	positive regulation of epithelial cell proliferation (GO:0050679)	1/123	8.276695e-02	1.103559e-01	0	0	1.252459e+01	3.120785e+01	REG3A
+GO_Biological_Process_2021	cellular response to oxidative stress (GO:0034599)	1/125	8.405860e-02	1.110208e-01	0	0	1.232134e+01	3.051061e+01	ATF4
+GO_Biological_Process_2021	RNA metabolic process (GO:0016070)	1/133	8.920832e-02	1.167212e-01	0	0	1.156993e+01	2.796199e+01	HNRNPH1
+GO_Biological_Process_2021	regulation of apoptotic process (GO:0042981)	2/742	9.318575e-02	1.207963e-01	0	0	4.334685e+00	1.028690e+01	OLFM4;ATF4
+GO_Biological_Process_2021	regulation of cell differentiation (GO:0045595)	1/156	1.038644e-01	1.325944e-01	0	0	9.841687e+00	2.228817e+01	ATF4
+GO_Biological_Process_2021	organonitrogen compound biosynthetic process (GO:1901566)	1/158	1.051284e-01	1.325944e-01	0	0	9.715336e+00	2.188450e+01	MGST1
+GO_Biological_Process_2021	cellular response to starvation (GO:0009267)	1/158	1.051284e-01	1.325944e-01	0	0	9.715336e+00	2.188450e+01	ATF4
+GO_Biological_Process_2021	cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742)	1/170	1.126779e-01	1.408474e-01	0	0	9.020027e+00	1.969272e+01	REG3A
+GO_Biological_Process_2021	RNA processing (GO:0006396)	1/179	1.183012e-01	1.465679e-01	0	0	8.560069e+00	1.827165e+01	HNRNPH1
+GO_Biological_Process_2021	regulation of programmed cell death (GO:0043067)	1/194	1.275999e-01	1.567016e-01	0	0	7.888800e+00	1.624190e+01	OLFM4
+GO_Biological_Process_2021	transcription, DNA-templated (GO:0006351)	1/221	1.441084e-01	1.754363e-01	0	0	6.911189e+00	1.338828e+01	ATF4
+GO_Biological_Process_2021	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO:0000377)	1/251	1.621106e-01	1.956508e-01	0	0	6.072615e+00	1.104898e+01	HNRNPH1
+GO_Biological_Process_2021	regulation of protein phosphorylation (GO:0001932)	1/266	1.709793e-01	2.045907e-01	0	0	5.724528e+00	1.011073e+01	ATF4
+GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	2/1079	1.726355e-01	2.048217e-01	0	0	2.926184e+00	5.140056e+00	HNRNPH1;ATF4
+GO_Biological_Process_2021	mRNA splicing, via spliceosome (GO:0000398)	1/274	1.756736e-01	2.066748e-01	0	0	5.554522e+00	9.660023e+00	HNRNPH1
+GO_Biological_Process_2021	positive regulation of programmed cell death (GO:0043068)	1/286	1.826687e-01	2.131135e-01	0	0	5.317409e+00	9.040026e+00	ATF4
+GO_Biological_Process_2021	mRNA processing (GO:0006397)	1/300	1.907600e-01	2.207140e-01	0	0	5.064831e+00	8.391105e+00	HNRNPH1
+GO_Biological_Process_2021	positive regulation of apoptotic process (GO:0043065)	1/310	1.964939e-01	2.254848e-01	0	0	4.898432e+00	7.970356e+00	ATF4
+GO_Biological_Process_2021	transcription by RNA polymerase II (GO:0006366)	1/320	2.021900e-01	2.301350e-01	0	0	4.742464e+00	7.581054e+00	ATF4
+GO_Biological_Process_2021	positive regulation of cytokine production (GO:0001819)	1/335	2.106640e-01	2.378464e-01	0	0	4.526025e+00	7.049243e+00	ATF4
+GO_Biological_Process_2021	gene expression (GO:0010467)	1/356	2.223871e-01	2.490736e-01	0	0	4.253738e+00	6.394795e+00	HNRNPH1
+GO_Biological_Process_2021	positive regulation of macromolecule metabolic process (GO:0010604)	1/384	2.377666e-01	2.641851e-01	0	0	3.937136e+00	5.655561e+00	ATF4
+GO_Biological_Process_2021	transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)	1/404	2.485785e-01	2.740236e-01	0	0	3.737927e+00	5.203181e+00	HNRNPH1
+GO_Biological_Process_2021	regulation of nucleic acid-templated transcription (GO:1903506)	1/430	2.624211e-01	2.870231e-01	0	0	3.506724e+00	4.691312e+00	ATF4
+GO_Biological_Process_2021	regulation of cellular macromolecule biosynthetic process (GO:2000112)	1/468	2.822272e-01	3.062931e-01	0	0	3.215121e+00	4.067266e+00	ATF4
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	1/474	2.853089e-01	3.072558e-01	0	0	3.173362e+00	3.979975e+00	REG3A
+GO_Biological_Process_2021	positive regulation of gene expression (GO:0010628)	1/482	2.893988e-01	3.092812e-01	0	0	3.119303e+00	3.867778e+00	ATF4
+GO_Biological_Process_2021	positive regulation of nucleic acid-templated transcription (GO:1903508)	1/511	3.040431e-01	3.224700e-01	0	0	2.937557e+00	3.497413e+00	ATF4
+GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	1/625	3.589371e-01	3.778286e-01	0	0	2.386834e+00	2.445570e+00	REG3A
+GO_Biological_Process_2021	negative regulation of transcription by RNA polymerase II (GO:0000122)	1/684	3.857415e-01	4.030135e-01	0	0	2.174006e+00	2.070932e+00	ATF4
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	1/764	4.204262e-01	4.359975e-01	0	0	1.937998e+00	1.679249e+00	REG3A
+GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	2/2206	4.673690e-01	4.811152e-01	0	0	1.344676e+00	1.022809e+00	CCNL1;ATF4
+GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	2/2244	4.767144e-01	4.852493e-01	0	0	1.319060e+00	9.772098e-01	CCNL1;ATF4
+GO_Biological_Process_2021	positive regulation of transcription by RNA polymerase II (GO:0045944)	1/908	4.783172e-01	4.852493e-01	0	0	1.618099e+00	1.193317e+00	ATF4
+GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	1/948	4.934174e-01	4.969672e-01	0	0	1.546503e+00	1.092450e+00	ATF4
+GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	1/1183	5.742429e-01	5.742429e-01	0	0	1.223741e+00	6.788124e-01	ATF4

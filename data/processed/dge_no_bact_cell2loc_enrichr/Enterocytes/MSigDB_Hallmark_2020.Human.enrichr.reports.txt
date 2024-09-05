@@ -1,0 +1,9 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+MSigDB_Hallmark_2020	IL-6/JAK/STAT3 Signaling	1/87	1.264985e-01	2.678683e-01	0	0	7.706589e+00	1.593356e+01	REG1A
+MSigDB_Hallmark_2020	IL-2/STAT5 Signaling	1/199	2.667203e-01	2.678683e-01	0	0	3.328451e+00	4.398731e+00	MUC1
+MSigDB_Hallmark_2020	Xenobiotic Metabolism	1/200	2.678683e-01	2.678683e-01	0	0	3.311558e+00	4.362182e+00	REG1A
+MSigDB_Hallmark_2020	KRAS Signaling Dn	1/200	2.678683e-01	2.678683e-01	0	0	3.311558e+00	4.362182e+00	TCL1A
+MSigDB_Hallmark_2020	Interferon Gamma Response	1/200	2.678683e-01	2.678683e-01	0	0	3.311558e+00	4.362182e+00	SAMHD1
+MSigDB_Hallmark_2020	Complement	1/200	2.678683e-01	2.678683e-01	0	0	3.311558e+00	4.362182e+00	CR2
+MSigDB_Hallmark_2020	heme Metabolism	1/200	2.678683e-01	2.678683e-01	0	0	3.311558e+00	4.362182e+00	PDZK1IP1
+MSigDB_Hallmark_2020	Estrogen Response Early	1/200	2.678683e-01	2.678683e-01	0	0	3.311558e+00	4.362182e+00	MUC1

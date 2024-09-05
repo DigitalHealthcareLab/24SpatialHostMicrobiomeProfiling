@@ -1,0 +1,30 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2022	Cation-coupled Chloride Cotransporters R-HSA-426117	1/7	2.098387e-03	6.085323e-02	0	0	6.662667e+02	4.108591e+03	SLC12A2
+Reactome_2022	Neutrophil Degranulation R-HSA-6798695	2/468	7.700014e-03	7.743345e-02	0	0	2.095279e+01	1.019674e+02	PIGR;MLEC
+Reactome_2022	N-glycan Trimming In ER And Calnexin/Calreticulin Cycle R-HSA-532668	1/35	1.045537e-02	7.743345e-02	0	0	1.174118e+02	5.354728e+02	MLEC
+Reactome_2022	Cytoprotection By HMOX1 R-HSA-9707564	1/57	1.698059e-02	7.743345e-02	0	0	7.120714e+01	2.902178e+02	COX5A
+Reactome_2022	TP53 Regulates Metabolic Genes R-HSA-5628897	1/81	2.405810e-02	7.743345e-02	0	0	4.978500e+01	1.855628e+02	COX5A
+Reactome_2022	Mitochondrial Translation Elongation R-HSA-5389840	1/82	2.435207e-02	7.743345e-02	0	0	4.916790e+01	1.826656e+02	MRPS7
+Reactome_2022	Mitochondrial Translation Initiation R-HSA-5368286	1/82	2.435207e-02	7.743345e-02	0	0	4.916790e+01	1.826656e+02	MRPS7
+Reactome_2022	Mitochondrial Translation Termination R-HSA-5419276	1/82	2.435207e-02	7.743345e-02	0	0	4.916790e+01	1.826656e+02	MRPS7
+Reactome_2022	Mitochondrial Translation R-HSA-5368287	1/88	2.611435e-02	7.743345e-02	0	0	4.576322e+01	1.668193e+02	MRPS7
+Reactome_2022	Respiratory Electron Transport R-HSA-611105	1/90	2.670119e-02	7.743345e-02	0	0	4.473034e+01	1.620601e+02	COX5A
+Reactome_2022	Transport Of Inorganic Cations/Anions And Amino Acids/Oligopeptides R-HSA-425393	1/104	3.080081e-02	7.789351e-02	0	0	3.862330e+01	1.344174e+02	SLC12A2
+Reactome_2022	Respiratory Electron Transport, ATP Synthesis By Chemiosmotic Coupling, Heat Production By Uncoupling Proteins R-HSA-163200	1/112	3.313699e-02	7.789351e-02	0	0	3.582523e+01	1.220603e+02	COX5A
+Reactome_2022	Innate Immune System R-HSA-168249	2/1035	3.491778e-02	7.789351e-02	0	0	9.177638e+00	3.078876e+01	PIGR;MLEC
+Reactome_2022	Citric Acid (TCA) Cycle And Respiratory Electron Transport R-HSA-1428517	1/163	4.792006e-02	9.926298e-02	0	0	2.448395e+01	7.438765e+01	COX5A
+Reactome_2022	Cellular Response To Chemical Stress R-HSA-9711123	1/182	5.337910e-02	1.031996e-01	0	0	2.189282e+01	6.415331e+01	COX5A
+Reactome_2022	SLC-mediated Transmembrane Transport R-HSA-425407	1/247	7.185792e-02	1.302425e-01	0	0	1.605528e+01	4.227460e+01	SLC12A2
+Reactome_2022	Translation R-HSA-72766	1/281	8.140338e-02	1.316002e-01	0	0	1.408143e+01	3.532099e+01	MRPS7
+Reactome_2022	Asparagine N-linked Glycosylation R-HSA-446203	1/282	8.168289e-02	1.316002e-01	0	0	1.403060e+01	3.514541e+01	MLEC
+Reactome_2022	Transcriptional Regulation By TP53 R-HSA-3700989	1/354	1.016219e-01	1.500750e-01	0	0	1.112805e+01	2.544423e+01	COX5A
+Reactome_2022	Metabolism Of Proteins R-HSA-392499	2/1890	1.035833e-01	1.500750e-01	0	0	4.795021e+00	1.087213e+01	MLEC;MRPS7
+Reactome_2022	Immune System R-HSA-168256	2/1943	1.086750e-01	1.500750e-01	0	0	4.650438e+00	1.032115e+01	PIGR;MLEC
+Reactome_2022	Transport Of Small Molecules R-HSA-382551	1/706	1.939871e-01	2.434532e-01	0	0	5.472057e+00	8.973973e+00	SLC12A2
+Reactome_2022	Cellular Responses To Stress R-HSA-2262752	1/722	1.979898e-01	2.434532e-01	0	0	5.346186e+00	8.658361e+00	COX5A
+Reactome_2022	Cellular Responses To Stimuli R-HSA-8953897	1/736	2.014785e-01	2.434532e-01	0	0	5.240544e+00	8.395733e+00	COX5A
+Reactome_2022	Generic Transcription Pathway R-HSA-212436	1/1190	3.079579e-01	3.572312e-01	0	0	3.163162e+00	3.725548e+00	COX5A
+Reactome_2022	RNA Polymerase II Transcription R-HSA-73857	1/1312	3.344596e-01	3.730511e-01	0	0	2.850191e+00	3.121641e+00	COX5A
+Reactome_2022	Post-translational Protein Modification R-HSA-597592	1/1383	3.494894e-01	3.753775e-01	0	0	2.693488e+00	2.831615e+00	MLEC
+Reactome_2022	Gene Expression (Transcription) R-HSA-74160	1/1449	3.632061e-01	3.761778e-01	0	0	2.561602e+00	2.594352e+00	COX5A
+Reactome_2022	Metabolism R-HSA-1430728	1/2049	4.772245e-01	4.772245e-01	0	0	1.752539e+00	1.296473e+00	COX5A

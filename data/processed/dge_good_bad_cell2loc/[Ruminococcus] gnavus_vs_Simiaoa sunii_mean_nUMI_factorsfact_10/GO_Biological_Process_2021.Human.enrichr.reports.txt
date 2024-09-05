@@ -1,0 +1,16 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	proline biosynthetic process (GO:0006561)	1/5	4.999362e-04	2.699397e-03	0	0	4.998500e+03	3.799375e+04	ALDH18A1
+GO_Biological_Process_2021	citrulline metabolic process (GO:0000052)	1/7	6.998774e-04	2.699397e-03	0	0	3.332000e+03	2.420567e+04	ALDH18A1
+GO_Biological_Process_2021	proline metabolic process (GO:0006560)	1/7	6.998774e-04	2.699397e-03	0	0	3.332000e+03	2.420567e+04	ALDH18A1
+GO_Biological_Process_2021	ornithine metabolic process (GO:0006591)	1/9	8.997989e-04	2.699397e-03	0	0	2.498750e+03	1.752458e+04	ALDH18A1
+GO_Biological_Process_2021	alpha-amino acid biosynthetic process (GO:1901607)	1/9	8.997989e-04	2.699397e-03	0	0	2.498750e+03	1.752458e+04	ALDH18A1
+GO_Biological_Process_2021	glutamine family amino acid biosynthetic process (GO:0009084)	1/11	1.099701e-03	2.749252e-03	0	0	1.998800e+03	1.361726e+04	ALDH18A1
+GO_Biological_Process_2021	glutamate metabolic process (GO:0006536)	1/22	2.198806e-03	4.711726e-03	0	0	9.512857e+02	5.821717e+03	ALDH18A1
+GO_Biological_Process_2021	glutamine family amino acid metabolic process (GO:0009064)	1/37	3.696614e-03	6.931152e-03	0	0	5.545000e+02	3.105387e+03	ALDH18A1
+GO_Biological_Process_2021	alpha-amino acid metabolic process (GO:1901605)	1/46	4.594761e-03	7.657935e-03	0	0	4.434000e+02	2.386751e+03	ALDH18A1
+GO_Biological_Process_2021	dicarboxylic acid metabolic process (GO:0043648)	1/57	5.691947e-03	8.537920e-03	0	0	3.561071e+02	1.840612e+03	ALDH18A1
+GO_Biological_Process_2021	peptide metabolic process (GO:0006518)	1/83	8.282893e-03	1.129485e-02	0	0	2.428780e+02	1.164251e+03	THOP1
+GO_Biological_Process_2021	cellular amide metabolic process (GO:0043603)	1/115	1.146711e-02	1.433389e-02	0	0	1.744211e+02	7.793607e+02	THOP1
+GO_Biological_Process_2021	proteolysis (GO:0006508)	1/287	2.849461e-02	3.287839e-02	0	0	6.892308e+01	2.452311e+02	THOP1
+GO_Biological_Process_2021	protein polyubiquitination (GO:0000209)	1/314	3.115410e-02	3.337939e-02	0	0	6.289137e+01	2.181582e+02	THOP1
+GO_Biological_Process_2021	protein ubiquitination (GO:0016567)	1/525	5.181198e-02	5.181198e-02	0	0	3.716412e+01	1.100108e+02	THOP1

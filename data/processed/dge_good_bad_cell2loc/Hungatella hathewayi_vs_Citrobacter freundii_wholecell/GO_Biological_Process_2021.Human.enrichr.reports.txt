@@ -1,0 +1,97 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	innate immune response in mucosa (GO:0002227)	2/21	1.571000e-05	1.356085e-03	0	0	5.256579e+02	5.814414e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	mucosal immune response (GO:0002385)	2/28	2.825178e-05	1.356085e-03	0	0	3.840000e+02	4.022152e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	antibacterial humoral response (GO:0019731)	2/44	7.055399e-05	2.257728e-03	0	0	2.375238e+02	2.270522e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	2/64	1.499561e-04	3.123907e-03	0	0	1.607419e+02	1.415360e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	defense response to Gram-positive bacterium (GO:0050830)	2/70	1.794914e-04	3.123907e-03	0	0	1.465147e+02	1.263746e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	defense response to Gram-negative bacterium (GO:0050829)	2/73	1.952442e-04	3.123907e-03	0	0	1.403028e+02	1.198363e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	cellular response to molecule of bacterial origin (GO:0071219)	2/115	4.842742e-04	6.325693e-03	0	0	8.796903e+01	6.714552e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	cellular response to lipopolysaccharide (GO:0071222)	2/120	5.271411e-04	6.325693e-03	0	0	8.422034e+01	6.356987e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	response to lipopolysaccharide (GO:0032496)	2/159	9.225488e-04	9.840521e-03	0	0	6.317516e+01	4.414914e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	defense response to bacterium (GO:0042742)	2/176	1.128492e-03	1.015816e-02	0	0	5.695402e+01	3.865397e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	oxaloacetate metabolic process (GO:0006107)	1/5	1.499220e-03	1.015816e-02	0	0	9.995000e+02	6.499559e+03	PCK1
+GO_Biological_Process_2021	positive regulation of membrane permeability (GO:1905710)	1/5	1.499220e-03	1.015816e-02	0	0	9.995000e+02	6.499559e+03	DEFA5
+GO_Biological_Process_2021	glycerol biosynthetic process (GO:0006114)	1/5	1.499220e-03	1.015816e-02	0	0	9.995000e+02	6.499559e+03	PCK1
+GO_Biological_Process_2021	cellular response to lipid (GO:0071396)	2/219	1.739198e-03	1.015816e-02	0	0	4.556912e+01	2.895613e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	regulation of peptidyl-cysteine S-nitrosylation (GO:2000169)	1/6	1.798841e-03	1.015816e-02	0	0	7.995600e+02	5.053709e+03	ACE
+GO_Biological_Process_2021	hepatocyte differentiation (GO:0070365)	1/6	1.798841e-03	1.015816e-02	0	0	7.995600e+02	5.053709e+03	PCK1
+GO_Biological_Process_2021	regulation of hematopoietic stem cell proliferation (GO:1902033)	1/6	1.798841e-03	1.015816e-02	0	0	7.995600e+02	5.053709e+03	ACE
+GO_Biological_Process_2021	regulation of systemic arterial blood pressure by renin-angiotensin (GO:0003081)	1/7	2.098387e-03	1.065450e-02	0	0	6.662667e+02	4.108591e+03	ACE
+GO_Biological_Process_2021	short-chain fatty acid catabolic process (GO:0019626)	1/8	2.397859e-03	1.065450e-02	0	0	5.710571e+02	3.445290e+03	PCK1
+GO_Biological_Process_2021	myeloid leukocyte mediated immunity (GO:0002444)	1/8	2.397859e-03	1.065450e-02	0	0	5.710571e+02	3.445290e+03	ACE
+GO_Biological_Process_2021	regulation of gap junction assembly (GO:1903596)	1/9	2.697256e-03	1.065450e-02	0	0	4.996500e+02	2.955690e+03	ACE
+GO_Biological_Process_2021	positive regulation of blood pressure (GO:0045777)	1/9	2.697256e-03	1.065450e-02	0	0	4.996500e+02	2.955690e+03	ACE
+GO_Biological_Process_2021	positive regulation of memory T cell differentiation (GO:0043382)	1/9	2.697256e-03	1.065450e-02	0	0	4.996500e+02	2.955690e+03	PCK1
+GO_Biological_Process_2021	arachidonate transport (GO:1903963)	1/10	2.996578e-03	1.065450e-02	0	0	4.441111e+02	2.580412e+03	ACE
+GO_Biological_Process_2021	arachidonic acid secretion (GO:0050482)	1/10	2.996578e-03	1.065450e-02	0	0	4.441111e+02	2.580412e+03	ACE
+GO_Biological_Process_2021	hematopoietic stem cell differentiation (GO:0060218)	1/10	2.996578e-03	1.065450e-02	0	0	4.441111e+02	2.580412e+03	ACE
+GO_Biological_Process_2021	regulation of memory T cell differentiation (GO:0043380)	1/10	2.996578e-03	1.065450e-02	0	0	4.441111e+02	2.580412e+03	PCK1
+GO_Biological_Process_2021	innate immune response (GO:0045087)	2/302	3.274844e-03	1.068095e-02	0	0	3.282333e+01	1.877982e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	regulation of biosynthetic process (GO:0009889)	1/11	3.295826e-03	1.068095e-02	0	0	3.996800e+02	2.284211e+03	PCK1
+GO_Biological_Process_2021	angiotensin maturation (GO:0002003)	1/12	3.594998e-03	1.068095e-02	0	0	3.633273e+02	2.044883e+03	ACE
+GO_Biological_Process_2021	regulation of angiotensin levels in blood (GO:0002002)	1/12	3.594998e-03	1.068095e-02	0	0	3.633273e+02	2.044883e+03	ACE
+GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	2/323	3.736387e-03	1.068095e-02	0	0	3.064330e+01	1.712849e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	icosanoid secretion (GO:0032309)	1/13	3.894096e-03	1.068095e-02	0	0	3.330333e+02	1.847767e+03	ACE
+GO_Biological_Process_2021	regulation of tube diameter (GO:0035296)	1/13	3.894096e-03	1.068095e-02	0	0	3.330333e+02	1.847767e+03	ACE
+GO_Biological_Process_2021	vascular process in circulatory system (GO:0003018)	1/13	3.894096e-03	1.068095e-02	0	0	3.330333e+02	1.847767e+03	ACE
+GO_Biological_Process_2021	heart process (GO:0003015)	1/14	4.193120e-03	1.118165e-02	0	0	3.074000e+02	1.682803e+03	ACE
+GO_Biological_Process_2021	regulation of systemic arterial blood pressure (GO:0003073)	1/16	4.790942e-03	1.179309e-02	0	0	2.663867e+02	1.422779e+03	ACE
+GO_Biological_Process_2021	regulation of systemic arterial blood pressure by hormone (GO:0001990)	1/16	4.790942e-03	1.179309e-02	0	0	2.663867e+02	1.422779e+03	ACE
+GO_Biological_Process_2021	killing by host of symbiont cells (GO:0051873)	1/16	4.790942e-03	1.179309e-02	0	0	2.663867e+02	1.422779e+03	DEFA5
+GO_Biological_Process_2021	amyloid-beta metabolic process (GO:0050435)	1/17	5.089741e-03	1.191744e-02	0	0	2.497250e+02	1.318680e+03	ACE
+GO_Biological_Process_2021	regulation of stem cell proliferation (GO:0072091)	1/17	5.089741e-03	1.191744e-02	0	0	2.497250e+02	1.318680e+03	ACE
+GO_Biological_Process_2021	cellular response to glucocorticoid stimulus (GO:0071385)	1/18	5.388466e-03	1.203006e-02	0	0	2.350235e+02	1.227644e+03	PCK1
+GO_Biological_Process_2021	triglyceride biosynthetic process (GO:0019432)	1/18	5.388466e-03	1.203006e-02	0	0	2.350235e+02	1.227644e+03	PCK1
+GO_Biological_Process_2021	regulation of smooth muscle cell migration (GO:0014910)	1/20	5.985691e-03	1.305969e-02	0	0	2.102632e+02	1.076207e+03	ACE
+GO_Biological_Process_2021	positive regulation of protein autophosphorylation (GO:0031954)	1/23	6.880968e-03	1.467940e-02	0	0	1.815636e+02	9.040046e+02	ACE
+GO_Biological_Process_2021	cellular response to hexose stimulus (GO:0071331)	1/25	7.477447e-03	1.495489e-02	0	0	1.664167e+02	8.147533e+02	PCK1
+GO_Biological_Process_2021	negative regulation of cell junction assembly (GO:1901889)	1/25	7.477447e-03	1.495489e-02	0	0	1.664167e+02	8.147533e+02	ACE
+GO_Biological_Process_2021	peptide catabolic process (GO:0043171)	1/25	7.477447e-03	1.495489e-02	0	0	1.664167e+02	8.147533e+02	ACE
+GO_Biological_Process_2021	regulation of vasoconstriction (GO:0019229)	1/30	8.967338e-03	1.732125e-02	0	0	1.376897e+02	6.490920e+02	ACE
+GO_Biological_Process_2021	cellular response to glucose stimulus (GO:0071333)	1/32	9.562772e-03	1.732125e-02	0	0	1.287935e+02	5.988742e+02	PCK1
+GO_Biological_Process_2021	hematopoietic progenitor cell differentiation (GO:0002244)	1/32	9.562772e-03	1.732125e-02	0	0	1.287935e+02	5.988742e+02	ACE
+GO_Biological_Process_2021	positive regulation of immune effector process (GO:0002699)	1/32	9.562772e-03	1.732125e-02	0	0	1.287935e+02	5.988742e+02	PCK1
+GO_Biological_Process_2021	liver development (GO:0001889)	1/32	9.562772e-03	1.732125e-02	0	0	1.287935e+02	5.988742e+02	PCK1
+GO_Biological_Process_2021	antigen processing and presentation of peptide antigen via MHC class I (GO:0002474)	1/33	9.860378e-03	1.752956e-02	0	0	1.247625e+02	5.763068e+02	ACE
+GO_Biological_Process_2021	blood vessel diameter maintenance (GO:0097746)	1/35	1.045537e-02	1.760904e-02	0	0	1.174118e+02	5.354728e+02	ACE
+GO_Biological_Process_2021	regulation of lipid biosynthetic process (GO:0046890)	1/35	1.045537e-02	1.760904e-02	0	0	1.174118e+02	5.354728e+02	PCK1
+GO_Biological_Process_2021	regulation of blood circulation (GO:1903522)	1/35	1.045537e-02	1.760904e-02	0	0	1.174118e+02	5.354728e+02	ACE
+GO_Biological_Process_2021	regulation of protein tyrosine kinase activity (GO:0061097)	1/39	1.164445e-02	1.864921e-02	0	0	1.050316e+02	4.676978e+02	ACE
+GO_Biological_Process_2021	cellular response to ketone (GO:1901655)	1/39	1.164445e-02	1.864921e-02	0	0	1.050316e+02	4.676978e+02	PCK1
+GO_Biological_Process_2021	stem cell differentiation (GO:0048863)	1/40	1.194153e-02	1.864921e-02	0	0	1.023333e+02	4.531047e+02	ACE
+GO_Biological_Process_2021	heart contraction (GO:0060047)	1/41	1.223854e-02	1.864921e-02	0	0	9.977000e+01	4.393038e+02	ACE
+GO_Biological_Process_2021	gluconeogenesis (GO:0006094)	1/41	1.223854e-02	1.864921e-02	0	0	9.977000e+01	4.393038e+02	PCK1
+GO_Biological_Process_2021	hexose metabolic process (GO:0019318)	1/41	1.223854e-02	1.864921e-02	0	0	9.977000e+01	4.393038e+02	PCK1
+GO_Biological_Process_2021	positive regulation of protein tyrosine kinase activity (GO:0061098)	1/42	1.253548e-02	1.866522e-02	0	0	9.733171e+01	4.262343e+02	ACE
+GO_Biological_Process_2021	cellular glucose homeostasis (GO:0001678)	1/43	1.283234e-02	1.866522e-02	0	0	9.500952e+01	4.138412e+02	PCK1
+GO_Biological_Process_2021	positive regulation of T cell differentiation (GO:0045582)	1/43	1.283234e-02	1.866522e-02	0	0	9.500952e+01	4.138412e+02	PCK1
+GO_Biological_Process_2021	hexose biosynthetic process (GO:0019319)	1/44	1.312912e-02	1.881188e-02	0	0	9.279535e+01	4.020750e+02	PCK1
+GO_Biological_Process_2021	regulation of protein metabolic process (GO:0051246)	1/48	1.431553e-02	2.021016e-02	0	0	8.488085e+01	3.604389e+02	ACE
+GO_Biological_Process_2021	response to glucose (GO:0009749)	1/49	1.461194e-02	2.032966e-02	0	0	8.310833e+01	3.512088e+02	PCK1
+GO_Biological_Process_2021	blood circulation (GO:0008015)	1/51	1.520455e-02	2.085196e-02	0	0	7.977600e+01	3.339551e+02	ACE
+GO_Biological_Process_2021	response to peptide hormone (GO:0043434)	1/52	1.550074e-02	2.095875e-02	0	0	7.820784e+01	3.258817e+02	PCK1
+GO_Biological_Process_2021	pyruvate metabolic process (GO:0006090)	1/55	1.638888e-02	2.185183e-02	0	0	7.385185e+01	3.036162e+02	PCK1
+GO_Biological_Process_2021	renal system development (GO:0072001)	1/57	1.698059e-02	2.202888e-02	0	0	7.120714e+01	2.902178e+02	ACE
+GO_Biological_Process_2021	dicarboxylic acid metabolic process (GO:0043648)	1/57	1.698059e-02	2.202888e-02	0	0	7.120714e+01	2.902178e+02	PCK1
+GO_Biological_Process_2021	glucose metabolic process (GO:0006006)	1/62	1.845859e-02	2.362699e-02	0	0	6.535410e+01	2.609083e+02	PCK1
+GO_Biological_Process_2021	organonitrogen compound catabolic process (GO:1901565)	1/63	1.875397e-02	2.368922e-02	0	0	6.429677e+01	2.556665e+02	ACE
+GO_Biological_Process_2021	kidney development (GO:0001822)	1/70	2.081953e-02	2.562404e-02	0	0	5.775362e+01	2.236142e+02	ACE
+GO_Biological_Process_2021	carbohydrate homeostasis (GO:0033500)	1/70	2.081953e-02	2.562404e-02	0	0	5.775362e+01	2.236142e+02	PCK1
+GO_Biological_Process_2021	positive regulation of immune response (GO:0050778)	1/75	2.229271e-02	2.708988e-02	0	0	5.383784e+01	2.047720e+02	PCK1
+GO_Biological_Process_2021	peptide metabolic process (GO:0006518)	1/83	2.464597e-02	2.955827e-02	0	0	4.856585e+01	1.798463e+02	ACE
+GO_Biological_Process_2021	response to insulin (GO:0032868)	1/84	2.493979e-02	2.955827e-02	0	0	4.797831e+01	1.771019e+02	PCK1
+GO_Biological_Process_2021	glucose homeostasis (GO:0042593)	1/86	2.552722e-02	2.988553e-02	0	0	4.684471e+01	1.718268e+02	PCK1
+GO_Biological_Process_2021	regulation of lipid metabolic process (GO:0019216)	1/92	2.728773e-02	3.156172e-02	0	0	4.374286e+01	1.575319e+02	PCK1
+GO_Biological_Process_2021	epithelial cell differentiation (GO:0030855)	1/101	2.992354e-02	3.419833e-02	0	0	3.978800e+01	1.396205e+02	PCK1
+GO_Biological_Process_2021	cellular response to peptide hormone stimulus (GO:0071375)	1/106	3.138530e-02	3.544692e-02	0	0	3.788381e+01	1.311316e+02	PCK1
+GO_Biological_Process_2021	response to lipid (GO:0033993)	1/114	3.372030e-02	3.764126e-02	0	0	3.518761e+01	1.192739e+02	PCK1
+GO_Biological_Process_2021	cellular response to insulin stimulus (GO:0032869)	1/129	3.808578e-02	4.202569e-02	0	0	3.104062e+01	1.014381e+02	PCK1
+GO_Biological_Process_2021	positive regulation of peptidyl-tyrosine phosphorylation (GO:0050731)	1/134	3.953728e-02	4.313158e-02	0	0	2.986617e+01	9.648298e+01	ACE
+GO_Biological_Process_2021	positive regulation of protein kinase activity (GO:0045860)	1/154	4.532506e-02	4.888995e-02	0	0	2.593595e+01	8.024310e+01	ACE
+GO_Biological_Process_2021	peptidyl-serine phosphorylation (GO:0018105)	1/156	4.590223e-02	4.896238e-02	0	0	2.559871e+01	7.887581e+01	PCK1
+GO_Biological_Process_2021	peptidyl-serine modification (GO:0018209)	1/169	4.964679e-02	5.237464e-02	0	0	2.360238e+01	7.087374e+01	PCK1
+GO_Biological_Process_2021	positive regulation of protein modification process (GO:0031401)	1/214	6.251430e-02	6.523231e-02	0	0	1.857371e+01	5.149301e+01	ACE
+GO_Biological_Process_2021	proteolysis (GO:0006508)	1/287	8.307935e-02	8.575933e-02	0	0	1.378182e+01	3.428860e+01	ACE
+GO_Biological_Process_2021	regulation of cell migration (GO:0030334)	1/408	1.163383e-01	1.188136e-01	0	0	9.625061e+00	2.070594e+01	ACE
+GO_Biological_Process_2021	neutrophil mediated immunity (GO:0002446)	1/488	1.377707e-01	1.392209e-01	0	0	8.011088e+00	1.587930e+01	ACE
+GO_Biological_Process_2021	protein phosphorylation (GO:0006468)	1/496	1.398899e-01	1.398899e-01	0	0	7.878384e+00	1.549599e+01	PCK1

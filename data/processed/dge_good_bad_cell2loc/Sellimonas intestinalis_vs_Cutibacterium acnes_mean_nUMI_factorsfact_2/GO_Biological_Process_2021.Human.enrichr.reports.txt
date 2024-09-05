@@ -1,0 +1,20 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	positive regulation of membrane permeability (GO:1905710)	1/5	4.999362e-04	8.860535e-03	0	0	4.998500e+03	3.799375e+04	DEFA5
+GO_Biological_Process_2021	sequestering of actin monomers (GO:0042989)	1/10	9.997522e-04	8.860535e-03	0	0	2.221000e+03	1.534267e+04	TMSB10
+GO_Biological_Process_2021	killing by host of symbiont cells (GO:0051873)	1/16	1.599368e-03	8.860535e-03	0	0	1.332200e+03	8.576899e+03	DEFA5
+GO_Biological_Process_2021	innate immune response in mucosa (GO:0002227)	1/21	2.098912e-03	8.860535e-03	0	0	9.989000e+02	6.159553e+03	DEFA5
+GO_Biological_Process_2021	negative regulation of actin filament polymerization (GO:0030837)	1/25	2.498457e-03	8.860535e-03	0	0	8.322500e+02	4.986910e+03	TMSB10
+GO_Biological_Process_2021	mucosal immune response (GO:0002385)	1/28	2.798064e-03	8.860535e-03	0	0	7.396667e+02	4.348373e+03	DEFA5
+GO_Biological_Process_2021	antibacterial humoral response (GO:0019731)	1/44	4.395208e-03	1.192985e-02	0	0	4.640698e+02	2.518618e+03	DEFA5
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	1/64	6.389841e-03	1.384487e-02	0	0	3.164286e+02	1.598928e+03	DEFA5
+GO_Biological_Process_2021	defense response to Gram-positive bacterium (GO:0050830)	1/70	6.987842e-03	1.384487e-02	0	0	2.888261e+02	1.433612e+03	DEFA5
+GO_Biological_Process_2021	defense response to Gram-negative bacterium (GO:0050829)	1/73	7.286774e-03	1.384487e-02	0	0	2.767500e+02	1.362079e+03	DEFA5
+GO_Biological_Process_2021	cellular response to molecule of bacterial origin (GO:0071219)	1/115	1.146711e-02	1.894329e-02	0	0	1.744211e+02	7.793607e+02	DEFA5
+GO_Biological_Process_2021	cellular response to lipopolysaccharide (GO:0071222)	1/120	1.196418e-02	1.894329e-02	0	0	1.670504e+02	7.393380e+02	DEFA5
+GO_Biological_Process_2021	regulation of cell motility (GO:2000145)	1/133	1.325599e-02	1.937414e-02	0	0	1.505000e+02	6.506575e+02	TMSB10
+GO_Biological_Process_2021	response to lipopolysaccharide (GO:0032496)	1/159	1.583706e-02	2.149315e-02	0	0	1.255696e+02	5.205366e+02	DEFA5
+GO_Biological_Process_2021	defense response to bacterium (GO:0042742)	1/176	1.752286e-02	2.219562e-02	0	0	1.132743e+02	4.581094e+02	DEFA5
+GO_Biological_Process_2021	cellular response to lipid (GO:0071396)	1/219	2.178048e-02	2.586432e-02	0	0	9.073394e+01	3.472153e+02	DEFA5
+GO_Biological_Process_2021	innate immune response (GO:0045087)	1/302	2.997255e-02	3.349873e-02	0	0	6.543854e+01	2.295239e+02	DEFA5
+GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	1/323	3.203978e-02	3.381977e-02	0	0	6.110559e+01	2.102507e+02	DEFA5
+GO_Biological_Process_2021	regulation of cell migration (GO:0030334)	1/408	4.038463e-02	4.038463e-02	0	0	4.813514e+01	1.544804e+02	TMSB10

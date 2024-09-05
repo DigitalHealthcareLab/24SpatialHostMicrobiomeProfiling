@@ -1,0 +1,10 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	positive regulation of ruffle assembly (GO:1900029)	1/13	6.499833e-04	5.118679e-03	0	0	1.998700e+04	1.466759e+05	EPS8L2
+GO_Biological_Process_2021	regulation of ruffle assembly (GO:1900027)	1/24	1.199974e-03	5.118679e-03	0	0	1.997600e+04	1.343477e+05	EPS8L2
+GO_Biological_Process_2021	Rho protein signal transduction (GO:0007266)	1/56	2.799954e-03	5.118679e-03	0	0	1.994400e+04	1.172339e+05	EPS8L2
+GO_Biological_Process_2021	regulation of Rho protein signal transduction (GO:0035023)	1/73	3.649945e-03	5.118679e-03	0	0	1.992700e+04	1.118511e+05	EPS8L2
+GO_Biological_Process_2021	positive regulation of plasma membrane bounded cell projection assembly (GO:0120034)	1/83	4.149940e-03	5.118679e-03	0	0	1.991700e+04	1.092380e+05	EPS8L2
+GO_Biological_Process_2021	regulation of Ras protein signal transduction (GO:0046578)	1/86	4.299939e-03	5.118679e-03	0	0	1.991400e+04	1.085145e+05	EPS8L2
+GO_Biological_Process_2021	sensory perception of mechanical stimulus (GO:0050954)	1/88	4.399938e-03	5.118679e-03	0	0	1.991200e+04	1.080458e+05	EPS8L2
+GO_Biological_Process_2021	sensory perception of sound (GO:0007605)	1/91	4.549937e-03	5.118679e-03	0	0	1.990900e+04	1.073621e+05	EPS8L2
+GO_Biological_Process_2021	Ras protein signal transduction (GO:0007265)	1/142	7.099917e-03	7.099917e-03	0	0	1.985800e+04	9.825087e+04	EPS8L2

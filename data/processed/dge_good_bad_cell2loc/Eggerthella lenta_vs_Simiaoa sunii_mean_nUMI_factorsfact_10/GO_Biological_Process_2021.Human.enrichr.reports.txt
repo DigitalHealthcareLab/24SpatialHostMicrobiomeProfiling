@@ -1,0 +1,15 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	positive regulation of cellular respiration (GO:1901857)	1/11	1.099701e-03	1.154058e-02	0	0	1.998800e+03	1.361726e+04	IL10RB
+GO_Biological_Process_2021	regulation of cellular respiration (GO:0043457)	1/17	1.699287e-03	1.154058e-02	0	0	1.248875e+03	7.964758e+03	IL10RB
+GO_Biological_Process_2021	positive regulation of receptor signaling pathway via STAT (GO:1904894)	1/32	3.197469e-03	1.154058e-02	0	0	6.440968e+02	3.700591e+03	IL10RB
+GO_Biological_Process_2021	positive regulation of receptor signaling pathway via JAK-STAT (GO:0046427)	1/33	3.297308e-03	1.154058e-02	0	0	6.239375e+02	3.565584e+03	IL10RB
+GO_Biological_Process_2021	regulation of receptor signaling pathway via JAK-STAT (GO:0046425)	1/45	4.494987e-03	1.258596e-02	0	0	4.535000e+02	2.451073e+03	IL10RB
+GO_Biological_Process_2021	O-glycan processing (GO:0016266)	1/61	6.090773e-03	1.421180e-02	0	0	3.323000e+02	1.695056e+03	MUC3A
+GO_Biological_Process_2021	protein O-linked glycosylation (GO:0006493)	1/102	1.017414e-02	1.510063e-02	0	0	1.970000e+02	9.038175e+02	MUC3A
+GO_Biological_Process_2021	positive regulation of cellular metabolic process (GO:0031325)	1/105	1.047259e-02	1.510063e-02	0	0	1.912885e+02	8.720829e+02	IL10RB
+GO_Biological_Process_2021	stimulatory C-type lectin receptor signaling pathway (GO:0002223)	1/115	1.146711e-02	1.510063e-02	0	0	1.744211e+02	7.793607e+02	MUC3A
+GO_Biological_Process_2021	cellular response to lectin (GO:1990858)	1/115	1.146711e-02	1.510063e-02	0	0	1.744211e+02	7.793607e+02	MUC3A
+GO_Biological_Process_2021	innate immune response activating cell surface receptor signaling pathway (GO:0002220)	1/119	1.186478e-02	1.510063e-02	0	0	1.684746e+02	7.470467e+02	MUC3A
+GO_Biological_Process_2021	inflammatory response (GO:0006954)	1/230	2.286816e-02	2.667952e-02	0	0	8.632751e+01	3.261462e+02	IL10RB
+GO_Biological_Process_2021	cellular response to cytokine stimulus (GO:0071345)	1/482	4.762014e-02	5.128323e-02	0	0	4.057588e+01	1.235333e+02	IL10RB
+GO_Biological_Process_2021	cytokine-mediated signaling pathway (GO:0019221)	1/621	6.113715e-02	6.113715e-02	0	0	3.125484e+01	8.734588e+01	IL10RB

@@ -1,0 +1,16 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	positive regulation of membrane permeability (GO:1905710)	1/5	1.499220e-03	2.248830e-02	0	0	9.995000e+02	6.499559e+03	DEFA5
+GO_Biological_Process_2021	killing by host of symbiont cells (GO:0051873)	1/16	4.790942e-03	3.139352e-02	0	0	2.663867e+02	1.422779e+03	DEFA5
+GO_Biological_Process_2021	innate immune response in mucosa (GO:0002227)	1/21	6.284191e-03	3.139352e-02	0	0	1.997400e+02	1.012625e+03	DEFA5
+GO_Biological_Process_2021	mucosal immune response (GO:0002385)	1/28	8.371605e-03	3.139352e-02	0	0	1.479037e+02	7.074101e+02	DEFA5
+GO_Biological_Process_2021	antibacterial humoral response (GO:0019731)	1/44	1.312912e-02	3.938737e-02	0	0	9.279535e+01	4.020750e+02	DEFA5
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	1/64	1.904927e-02	4.069437e-02	0	0	6.327302e+01	2.506071e+02	DEFA5
+GO_Biological_Process_2021	defense response to Gram-positive bacterium (GO:0050830)	1/70	2.081953e-02	4.069437e-02	0	0	5.775362e+01	2.236142e+02	DEFA5
+GO_Biological_Process_2021	defense response to Gram-negative bacterium (GO:0050829)	1/73	2.170366e-02	4.069437e-02	0	0	5.533889e+01	2.119631e+02	DEFA5
+GO_Biological_Process_2021	cellular response to molecule of bacterial origin (GO:0071219)	1/115	3.401184e-02	5.320270e-02	0	0	3.487719e+01	1.179214e+02	DEFA5
+GO_Biological_Process_2021	cellular response to lipopolysaccharide (GO:0071222)	1/120	3.546847e-02	5.320270e-02	0	0	3.340336e+01	1.115375e+02	DEFA5
+GO_Biological_Process_2021	response to lipopolysaccharide (GO:0032496)	1/159	4.676745e-02	6.377380e-02	0	0	2.510886e+01	7.689759e+01	DEFA5
+GO_Biological_Process_2021	defense response to bacterium (GO:0042742)	1/176	5.165802e-02	6.457252e-02	0	0	2.265029e+01	6.711529e+01	DEFA5
+GO_Biological_Process_2021	cellular response to lipid (GO:0071396)	1/219	6.393502e-02	7.377117e-02	0	0	1.814312e+01	4.989155e+01	DEFA5
+GO_Biological_Process_2021	innate immune response (GO:0045087)	1/302	8.725813e-02	9.308175e-02	0	0	1.308505e+01	3.191293e+01	DEFA5
+GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	1/323	9.308175e-02	9.308175e-02	0	0	1.221863e+01	2.901042e+01	DEFA5

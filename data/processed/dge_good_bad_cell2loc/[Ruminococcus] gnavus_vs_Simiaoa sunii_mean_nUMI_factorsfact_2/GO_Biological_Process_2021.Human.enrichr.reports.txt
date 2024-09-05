@@ -1,0 +1,46 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	DNA metabolic process (GO:0006259)	3/277	5.096319e-05	2.293344e-03	0	0	7.197080e+01	7.113887e+02	MPG;UBE2V2;DCTPP1
+GO_Biological_Process_2021	nucleoside triphosphate catabolic process (GO:0009143)	1/5	1.499220e-03	1.886904e-02	0	0	9.995000e+02	6.499559e+03	DCTPP1
+GO_Biological_Process_2021	DNA protection (GO:0042262)	1/5	1.499220e-03	1.886904e-02	0	0	9.995000e+02	6.499559e+03	DCTPP1
+GO_Biological_Process_2021	DNA dealkylation (GO:0035510)	1/10	2.996578e-03	1.886904e-02	0	0	4.441111e+02	2.580412e+03	MPG
+GO_Biological_Process_2021	DNA dealkylation involved in DNA repair (GO:0006307)	1/10	2.996578e-03	1.886904e-02	0	0	4.441111e+02	2.580412e+03	MPG
+GO_Biological_Process_2021	DNA repair (GO:0006281)	2/298	3.190237e-03	1.886904e-02	0	0	3.327365e+01	1.912456e+02	MPG;UBE2V2
+GO_Biological_Process_2021	depurination (GO:0045007)	1/12	3.594998e-03	1.886904e-02	0	0	3.633273e+02	2.044883e+03	MPG
+GO_Biological_Process_2021	pyrimidine deoxyribonucleotide catabolic process (GO:0009223)	1/13	3.894096e-03	1.886904e-02	0	0	3.330333e+02	1.847767e+03	DCTPP1
+GO_Biological_Process_2021	nucleoside phosphate catabolic process (GO:1901292)	1/14	4.193120e-03	1.886904e-02	0	0	3.074000e+02	1.682803e+03	DCTPP1
+GO_Biological_Process_2021	nucleoside triphosphate metabolic process (GO:0009141)	1/14	4.193120e-03	1.886904e-02	0	0	3.074000e+02	1.682803e+03	DCTPP1
+GO_Biological_Process_2021	DNA double-strand break processing (GO:0000729)	1/19	5.687116e-03	2.244634e-02	0	0	2.219556e+02	1.147411e+03	UBE2V2
+GO_Biological_Process_2021	base-excision repair, AP site formation (GO:0006285)	1/20	5.985691e-03	2.244634e-02	0	0	2.102632e+02	1.076207e+03	MPG
+GO_Biological_Process_2021	DNA modification (GO:0006304)	1/26	7.775574e-03	2.511482e-02	0	0	1.597520e+02	7.758784e+02	MPG
+GO_Biological_Process_2021	protein peptidyl-prolyl isomerization (GO:0000413)	1/27	8.073627e-03	2.511482e-02	0	0	1.536000e+02	7.402218e+02	FKBP5
+GO_Biological_Process_2021	protein localization to Golgi apparatus (GO:0034067)	1/28	8.371605e-03	2.511482e-02	0	0	1.479037e+02	7.074101e+02	COG7
+GO_Biological_Process_2021	peptidyl-proline modification (GO:0018208)	1/32	9.562772e-03	2.689530e-02	0	0	1.287935e+02	5.988742e+02	FKBP5
+GO_Biological_Process_2021	base-excision repair, gap-filling (GO:0006287)	1/35	1.045537e-02	2.767597e-02	0	0	1.174118e+02	5.354728e+02	MPG
+GO_Biological_Process_2021	regulation of response to DNA damage stimulus (GO:2001020)	1/41	1.223854e-02	2.800864e-02	0	0	9.977000e+01	4.393038e+02	UBE2V2
+GO_Biological_Process_2021	protein K63-linked ubiquitination (GO:0070534)	1/44	1.312912e-02	2.800864e-02	0	0	9.279535e+01	4.020750e+02	UBE2V2
+GO_Biological_Process_2021	regulation of DNA repair (GO:0006282)	1/45	1.342584e-02	2.800864e-02	0	0	9.068182e+01	3.908907e+02	UBE2V2
+GO_Biological_Process_2021	postreplication repair (GO:0006301)	1/46	1.372248e-02	2.800864e-02	0	0	8.866222e+01	3.802475e+02	UBE2V2
+GO_Biological_Process_2021	regulation of DNA metabolic process (GO:0051052)	1/46	1.372248e-02	2.800864e-02	0	0	8.866222e+01	3.802475e+02	UBE2V2
+GO_Biological_Process_2021	base-excision repair (GO:0006284)	1/48	1.431553e-02	2.800864e-02	0	0	8.488085e+01	3.604389e+02	MPG
+GO_Biological_Process_2021	double-strand break repair via nonhomologous end joining (GO:0006303)	1/62	1.845859e-02	3.460985e-02	0	0	6.535410e+01	2.609083e+02	UBE2V2
+GO_Biological_Process_2021	glycoprotein biosynthetic process (GO:0009101)	1/83	2.464597e-02	4.367344e-02	0	0	4.856585e+01	1.798463e+02	COG7
+GO_Biological_Process_2021	retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum (GO:0006890)	1/85	2.523354e-02	4.367344e-02	0	0	4.740476e+01	1.744297e+02	COG7
+GO_Biological_Process_2021	Golgi organization (GO:0007030)	1/130	3.837623e-02	6.167608e-02	0	0	3.079845e+01	1.004127e+02	COG7
+GO_Biological_Process_2021	protein glycosylation (GO:0006486)	1/130	3.837623e-02	6.167608e-02	0	0	3.079845e+01	1.004127e+02	COG7
+GO_Biological_Process_2021	protein localization to organelle (GO:0033365)	1/142	4.185589e-02	6.494880e-02	0	0	2.816028e+01	8.936730e+01	COG7
+GO_Biological_Process_2021	double-strand break repair (GO:0006302)	1/164	4.820803e-02	7.231204e-02	0	0	2.433252e+01	7.378178e+01	UBE2V2
+GO_Biological_Process_2021	protein stabilization (GO:0050821)	1/179	5.251888e-02	7.623709e-02	0	0	2.226517e+01	6.560616e+01	COG7
+GO_Biological_Process_2021	endoplasmic reticulum to Golgi vesicle-mediated transport (GO:0006888)	1/185	5.423866e-02	7.627312e-02	0	0	2.153261e+01	6.275380e+01	COG7
+GO_Biological_Process_2021	endomembrane system organization (GO:0010256)	1/199	5.824136e-02	7.942004e-02	0	0	1.999596e+01	5.685170e+01	COG7
+GO_Biological_Process_2021	protein polyubiquitination (GO:0000209)	1/314	9.058972e-02	1.198982e-01	0	0	1.257572e+01	3.019951e+01	UBE2V2
+GO_Biological_Process_2021	cellular protein localization (GO:0034613)	1/329	9.473995e-02	1.208391e-01	0	0	1.199146e+01	2.825932e+01	COG7
+GO_Biological_Process_2021	intracellular protein transport (GO:0006886)	1/336	9.667131e-02	1.208391e-01	0	0	1.173672e+01	2.742212e+01	COG7
+GO_Biological_Process_2021	protein transport (GO:0015031)	1/369	1.057301e-01	1.285907e-01	0	0	1.066630e+01	2.396575e+01	COG7
+GO_Biological_Process_2021	protein modification by small protein conjugation (GO:0032446)	1/409	1.166089e-01	1.379783e-01	0	0	9.600980e+00	2.063183e+01	UBE2V2
+GO_Biological_Process_2021	organelle organization (GO:0006996)	1/420	1.195812e-01	1.379783e-01	0	0	9.343675e+00	1.984372e+01	COG7
+GO_Biological_Process_2021	positive regulation of nucleic acid-templated transcription (GO:1903508)	1/511	1.438517e-01	1.618332e-01	0	0	7.640784e+00	1.481527e+01	RAI1
+GO_Biological_Process_2021	protein ubiquitination (GO:0016567)	1/525	1.475356e-01	1.619294e-01	0	0	7.431298e+00	1.422117e+01	UBE2V2
+GO_Biological_Process_2021	cellular protein modification process (GO:0006464)	1/1025	2.707215e-01	2.900588e-01	0	0	3.705078e+00	4.841295e+00	COG7
+GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	1/1183	3.064111e-01	3.206627e-01	0	0	3.183080e+00	3.765035e+00	RAI1
+GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	1/2206	5.040685e-01	5.103901e-01	0	0	1.613515e+00	1.105327e+00	RAI1
+GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	1/2244	5.103901e-01	5.103901e-01	0	0	1.582791e+00	1.064554e+00	RAI1

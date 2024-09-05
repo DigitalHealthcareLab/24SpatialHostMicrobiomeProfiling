@@ -1,0 +1,7 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	response to peptide (GO:1901652)	1/39	3.896237e-03	1.277968e-02	0	0	5.252632e+02	2.914026e+03	REG1A
+GO_Biological_Process_2021	response to peptide hormone (GO:0043434)	1/52	5.193301e-03	1.277968e-02	0	0	3.911176e+02	2.057430e+03	REG1A
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	1/64	6.389841e-03	1.277968e-02	0	0	3.164286e+02	1.598928e+03	REG1A
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	1/474	4.683924e-02	7.025887e-02	0	0	4.127907e+01	1.263566e+02	REG1A
+GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	1/625	6.152470e-02	7.382964e-02	0	0	3.104808e+01	8.657187e+01	REG1A
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	1/764	7.494233e-02	7.494233e-02	0	0	2.520970e+01	6.531925e+01	REG1A

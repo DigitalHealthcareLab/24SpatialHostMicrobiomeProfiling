@@ -1,0 +1,114 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	response to host defenses (GO:0052200)	1/7	3.146172e-03	6.404666e-02	0	0	4.163542e+02	2.398853e+03	UBA52
+GO_Biological_Process_2021	modulation by symbiont of host defense response (GO:0052031)	1/7	3.146172e-03	6.404666e-02	0	0	4.163542e+02	2.398853e+03	UBA52
+GO_Biological_Process_2021	regulation of chaperone-mediated autophagy (GO:1904714)	1/8	3.594909e-03	6.404666e-02	0	0	3.568571e+02	2.008476e+03	EEF1A1
+GO_Biological_Process_2021	translation (GO:0006412)	2/214	3.904315e-03	6.404666e-02	0	0	2.665633e+01	1.478273e+02	EEF1A1;UBA52
+GO_Biological_Process_2021	modification-dependent macromolecule catabolic process (GO:0043632)	1/10	4.491844e-03	6.404666e-02	0	0	2.775278e+02	1.500174e+03	UBA52
+GO_Biological_Process_2021	modulation by symbiont of host process (GO:0044003)	1/10	4.491844e-03	6.404666e-02	0	0	2.775278e+02	1.500174e+03	UBA52
+GO_Biological_Process_2021	endoplasmic reticulum mannose trimming (GO:1904380)	1/19	8.519186e-03	6.404666e-02	0	0	1.387014e+02	6.609724e+02	UBA52
+GO_Biological_Process_2021	error-prone translesion synthesis (GO:0042276)	1/21	9.412182e-03	6.404666e-02	0	0	1.248187e+02	5.823731e+02	UBA52
+GO_Biological_Process_2021	nucleotide-excision repair, DNA duplex unwinding (GO:0000717)	1/22	9.858413e-03	6.404666e-02	0	0	1.188690e+02	5.491073e+02	UBA52
+GO_Biological_Process_2021	error-free translesion synthesis (GO:0070987)	1/22	9.858413e-03	6.404666e-02	0	0	1.188690e+02	5.491073e+02	UBA52
+GO_Biological_Process_2021	nucleotide-excision repair, DNA damage recognition (GO:0000715)	1/23	1.030446e-02	6.404666e-02	0	0	1.134602e+02	5.191007e+02	UBA52
+GO_Biological_Process_2021	nucleotide-binding domain, leucine rich repeat containing receptor signaling pathway (GO:0035872)	1/24	1.075034e-02	6.404666e-02	0	0	1.085217e+02	4.919093e+02	UBA52
+GO_Biological_Process_2021	nucleotide-excision repair, DNA gap filling (GO:0006297)	1/24	1.075034e-02	6.404666e-02	0	0	1.085217e+02	4.919093e+02	UBA52
+GO_Biological_Process_2021	protein alpha-1,2-demannosylation (GO:0036508)	1/24	1.075034e-02	6.404666e-02	0	0	1.085217e+02	4.919093e+02	UBA52
+GO_Biological_Process_2021	global genome nucleotide-excision repair (GO:0070911)	1/26	1.164155e-02	6.404666e-02	0	0	9.983000e+01	4.445604e+02	UBA52
+GO_Biological_Process_2021	stress-activated protein kinase signaling cascade (GO:0031098)	1/27	1.208689e-02	6.404666e-02	0	0	9.598558e+01	4.238372e+02	UBA52
+GO_Biological_Process_2021	cytoplasmic pattern recognition receptor signaling pathway (GO:0002753)	1/27	1.208689e-02	6.404666e-02	0	0	9.598558e+01	4.238372e+02	UBA52
+GO_Biological_Process_2021	nucleotide-binding oligomerization domain containing signaling pathway (GO:0070423)	1/28	1.253205e-02	6.404666e-02	0	0	9.242593e+01	4.047762e+02	UBA52
+GO_Biological_Process_2021	cellular response to epidermal growth factor stimulus (GO:0071364)	1/28	1.253205e-02	6.404666e-02	0	0	9.242593e+01	4.047762e+02	EEF1A1
+GO_Biological_Process_2021	nucleotide-excision repair, preincision complex assembly (GO:0006294)	1/29	1.297703e-02	6.404666e-02	0	0	8.912054e+01	3.871908e+02	UBA52
+GO_Biological_Process_2021	aggrephagy (GO:0035973)	1/29	1.297703e-02	6.404666e-02	0	0	8.912054e+01	3.871908e+02	UBA52
+GO_Biological_Process_2021	MyD88-dependent toll-like receptor signaling pathway (GO:0002755)	1/29	1.297703e-02	6.404666e-02	0	0	8.912054e+01	3.871908e+02	UBA52
+GO_Biological_Process_2021	TRIF-dependent toll-like receptor signaling pathway (GO:0035666)	1/30	1.342183e-02	6.404666e-02	0	0	8.604310e+01	3.709209e+02	UBA52
+GO_Biological_Process_2021	MyD88-independent toll-like receptor signaling pathway (GO:0002756)	1/31	1.386645e-02	6.404666e-02	0	0	8.317083e+01	3.558283e+02	UBA52
+GO_Biological_Process_2021	cellular protein metabolic process (GO:0044267)	2/417	1.416961e-02	6.404666e-02	0	0	1.347745e+01	5.736887e+01	EEF1A1;UBA52
+GO_Biological_Process_2021	nucleotide-excision repair, DNA incision, 5'-to lesion (GO:0006296)	1/37	1.653047e-02	6.994364e-02	0	0	6.928819e+01	2.842583e+02	UBA52
+GO_Biological_Process_2021	nucleotide-excision repair, DNA incision (GO:0033683)	1/39	1.741705e-02	6.994364e-02	0	0	6.563487e+01	2.658413e+02	UBA52
+GO_Biological_Process_2021	regulation of exit from mitosis (GO:0007096)	1/39	1.741705e-02	6.994364e-02	0	0	6.563487e+01	2.658413e+02	UBA52
+GO_Biological_Process_2021	JNK cascade (GO:0007254)	1/41	1.830292e-02	6.994364e-02	0	0	6.234687e+01	2.494308e+02	UBA52
+GO_Biological_Process_2021	translesion synthesis (GO:0019985)	1/42	1.874559e-02	6.994364e-02	0	0	6.082317e+01	2.418814e+02	UBA52
+GO_Biological_Process_2021	DNA synthesis involved in DNA repair (GO:0000731)	1/43	1.918808e-02	6.994364e-02	0	0	5.937202e+01	2.347253e+02	UBA52
+GO_Biological_Process_2021	postreplication repair (GO:0006301)	1/46	2.051449e-02	7.244179e-02	0	0	5.540556e+01	2.153406e+02	UBA52
+GO_Biological_Process_2021	DNA duplex unwinding (GO:0032508)	1/51	2.272163e-02	7.780438e-02	0	0	4.985250e+01	1.886637e+02	UBA52
+GO_Biological_Process_2021	interstrand cross-link repair (GO:0036297)	1/55	2.448416e-02	8.034168e-02	0	0	4.615046e+01	1.712057e+02	UBA52
+GO_Biological_Process_2021	selective autophagy (GO:0061912)	1/59	2.624387e-02	8.034168e-02	0	0	4.295905e+01	1.563848e+02	UBA52
+GO_Biological_Process_2021	pattern recognition receptor signaling pathway (GO:0002221)	1/61	2.712266e-02	8.034168e-02	0	0	4.152292e+01	1.497892e+02	UBA52
+GO_Biological_Process_2021	stress-activated MAPK cascade (GO:0051403)	1/62	2.756180e-02	8.034168e-02	0	0	4.084016e+01	1.466703e+02	UBA52
+GO_Biological_Process_2021	I-kappaB kinase/NF-kappaB signaling (GO:0007249)	1/62	2.756180e-02	8.034168e-02	0	0	4.084016e+01	1.466703e+02	UBA52
+GO_Biological_Process_2021	amyloid fibril formation (GO:1990000)	1/63	2.800075e-02	8.034168e-02	0	0	4.017944e+01	1.436625e+02	UBA52
+GO_Biological_Process_2021	pre-replicative complex assembly (GO:0036388)	1/64	2.843953e-02	8.034168e-02	0	0	3.953968e+01	1.407603e+02	UBA52
+GO_Biological_Process_2021	negative regulation of transforming growth factor beta receptor signaling pathway (GO:0030512)	1/68	3.019289e-02	8.321456e-02	0	0	3.717164e+01	1.301063e+02	UBA52
+GO_Biological_Process_2021	transcription-coupled nucleotide-excision repair (GO:0006283)	1/73	3.238064e-02	8.350577e-02	0	0	3.458160e+01	1.186216e+02	UBA52
+GO_Biological_Process_2021	proteolysis involved in cellular protein catabolic process (GO:0051603)	1/74	3.281766e-02	8.350577e-02	0	0	3.410616e+01	1.165335e+02	UBA52
+GO_Biological_Process_2021	regulation of transcription from RNA polymerase II promoter in response to hypoxia (GO:0061418)	1/75	3.325451e-02	8.350577e-02	0	0	3.364358e+01	1.145081e+02	UBA52
+GO_Biological_Process_2021	nucleic acid phosphodiester bond hydrolysis (GO:0090305)	1/75	3.325451e-02	8.350577e-02	0	0	3.364358e+01	1.145081e+02	UBA52
+GO_Biological_Process_2021	protein modification process (GO:0036211)	1/78	3.456400e-02	8.378415e-02	0	0	3.232792e+01	1.087816e+02	UBA52
+GO_Biological_Process_2021	anaphase-promoting complex-dependent catabolic process (GO:0031145)	1/84	3.717825e-02	8.378415e-02	0	0	2.998193e+01	9.870145e+01	UBA52
+GO_Biological_Process_2021	regulation of transcription from RNA polymerase II promoter in response to stress (GO:0043618)	1/87	3.848301e-02	8.378415e-02	0	0	2.893169e+01	9.424608e+01	UBA52
+GO_Biological_Process_2021	transforming growth factor beta receptor signaling pathway (GO:0007179)	1/89	3.935198e-02	8.378415e-02	0	0	2.827131e+01	9.146358e+01	UBA52
+GO_Biological_Process_2021	SRP-dependent cotranslational protein targeting to membrane (GO:0006614)	1/90	3.978620e-02	8.378415e-02	0	0	2.795225e+01	9.012462e+01	UBA52
+GO_Biological_Process_2021	toll-like receptor signaling pathway (GO:0002224)	1/91	4.022025e-02	8.378415e-02	0	0	2.764028e+01	8.881884e+01	UBA52
+GO_Biological_Process_2021	Wnt signaling pathway (GO:0016055)	1/92	4.065413e-02	8.378415e-02	0	0	2.733516e+01	8.754510e+01	UBA52
+GO_Biological_Process_2021	cytoplasmic translation (GO:0002181)	1/93	4.108783e-02	8.378415e-02	0	0	2.703668e+01	8.630227e+01	UBA52
+GO_Biological_Process_2021	regulation of kinase activity (GO:0043549)	1/94	4.152135e-02	8.378415e-02	0	0	2.674462e+01	8.508929e+01	EEF1A1
+GO_Biological_Process_2021	interleukin-1-mediated signaling pathway (GO:0070498)	1/94	4.152135e-02	8.378415e-02	0	0	2.674462e+01	8.508929e+01	UBA52
+GO_Biological_Process_2021	cotranslational protein targeting to membrane (GO:0006613)	1/94	4.152135e-02	8.378415e-02	0	0	2.674462e+01	8.508929e+01	UBA52
+GO_Biological_Process_2021	regulation of transforming growth factor beta receptor signaling pathway (GO:0017015)	1/100	4.411885e-02	8.513289e-02	0	0	2.511616e+01	7.838423e+01	UBA52
+GO_Biological_Process_2021	regulation of protein catabolic process (GO:0042176)	1/102	4.498329e-02	8.513289e-02	0	0	2.461634e+01	7.634669e+01	EEF1A1
+GO_Biological_Process_2021	protein targeting to ER (GO:0045047)	1/103	4.541525e-02	8.513289e-02	0	0	2.437377e+01	7.536145e+01	UBA52
+GO_Biological_Process_2021	translational elongation (GO:0006414)	1/104	4.584703e-02	8.513289e-02	0	0	2.413592e+01	7.439765e+01	EEF1A1
+GO_Biological_Process_2021	nucleotide-excision repair (GO:0006289)	1/105	4.627864e-02	8.513289e-02	0	0	2.390264e+01	7.345461e+01	UBA52
+GO_Biological_Process_2021	chromosome organization (GO:0051276)	1/106	4.671008e-02	8.513289e-02	0	0	2.367381e+01	7.253171e+01	UBA52
+GO_Biological_Process_2021	negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090101)	1/108	4.757244e-02	8.532834e-02	0	0	2.322897e+01	7.074387e+01	UBA52
+GO_Biological_Process_2021	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay (GO:0000184)	1/113	4.972530e-02	8.719315e-02	0	0	2.218638e+01	6.658670e+01	UBA52
+GO_Biological_Process_2021	cellular response to transforming growth factor beta stimulus (GO:0071560)	1/114	5.015535e-02	8.719315e-02	0	0	2.198894e+01	6.580476e+01	UBA52
+GO_Biological_Process_2021	regulation of mRNA catabolic process (GO:0061013)	1/122	5.358955e-02	9.175180e-02	0	0	2.052686e+01	6.006983e+01	UBA52
+GO_Biological_Process_2021	DNA-dependent DNA replication (GO:0006261)	1/129	5.658541e-02	9.543509e-02	0	0	1.939746e+01	5.570959e+01	UBA52
+GO_Biological_Process_2021	cellular response to hypoxia (GO:0071456)	1/131	5.743982e-02	9.545147e-02	0	0	1.909712e+01	5.456079e+01	UBA52
+GO_Biological_Process_2021	transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0007178)	1/133	5.829354e-02	9.546624e-02	0	0	1.880587e+01	5.345125e+01	UBA52
+GO_Biological_Process_2021	protein-DNA complex assembly (GO:0065004)	1/143	6.255186e-02	1.009766e-01	0	0	1.747271e+01	4.843015e+01	UBA52
+GO_Biological_Process_2021	regulation of mRNA stability (GO:0043488)	1/146	6.382601e-02	1.015822e-01	0	0	1.710862e+01	4.707599e+01	UBA52
+GO_Biological_Process_2021	cellular response to interleukin-1 (GO:0071347)	1/155	6.763924e-02	1.047018e-01	0	0	1.610146e+01	4.337036e+01	UBA52
+GO_Biological_Process_2021	positive regulation of NF-kappaB transcription factor activity (GO:0051092)	1/155	6.763924e-02	1.047018e-01	0	0	1.610146e+01	4.337036e+01	UBA52
+GO_Biological_Process_2021	cellular response to growth factor stimulus (GO:0071363)	1/158	6.890724e-02	1.049644e-01	0	0	1.579140e+01	4.224190e+01	EEF1A1
+GO_Biological_Process_2021	peptide biosynthetic process (GO:0043043)	1/162	7.059553e-02	1.049644e-01	0	0	1.539596e+01	4.081144e+01	EEF1A1
+GO_Biological_Process_2021	rRNA metabolic process (GO:0016072)	1/162	7.059553e-02	1.049644e-01	0	0	1.539596e+01	4.081144e+01	UBA52
+GO_Biological_Process_2021	nuclear-transcribed mRNA catabolic process (GO:0000956)	1/171	7.438423e-02	1.089788e-01	0	0	1.457426e+01	3.787139e+01	UBA52
+GO_Biological_Process_2021	rRNA processing (GO:0006364)	1/173	7.522430e-02	1.089788e-01	0	0	1.440334e+01	3.726549e+01	UBA52
+GO_Biological_Process_2021	regulation of mitotic cell cycle phase transition (GO:1901990)	1/188	8.150323e-02	1.165806e-01	0	0	1.323797e+01	3.318908e+01	UBA52
+GO_Biological_Process_2021	ribosome biogenesis (GO:0042254)	1/192	8.317120e-02	1.174793e-01	0	0	1.295812e+01	3.222494e+01	UBA52
+GO_Biological_Process_2021	modification-dependent protein catabolic process (GO:0019941)	1/201	8.691429e-02	1.197721e-01	0	0	1.236937e+01	3.021631e+01	UBA52
+GO_Biological_Process_2021	ncRNA processing (GO:0034470)	1/201	8.691429e-02	1.197721e-01	0	0	1.236937e+01	3.021631e+01	UBA52
+GO_Biological_Process_2021	regulation of autophagy (GO:0010506)	1/231	9.929335e-02	1.351825e-01	0	0	1.073967e+01	2.480517e+01	EEF1A1
+GO_Biological_Process_2021	membrane organization (GO:0061024)	1/242	1.037948e-01	1.396288e-01	0	0	1.024378e+01	2.320563e+01	UBA52
+GO_Biological_Process_2021	positive regulation of DNA-binding transcription factor activity (GO:0051091)	1/246	1.054268e-01	1.401556e-01	0	0	1.007449e+01	2.266497e+01	UBA52
+GO_Biological_Process_2021	protein deubiquitination (GO:0016579)	1/267	1.139512e-01	1.497265e-01	0	0	9.269267e+00	2.013271e+01	UBA52
+GO_Biological_Process_2021	protein modification by small protein removal (GO:0070646)	1/276	1.175823e-01	1.515034e-01	0	0	8.961818e+00	1.918382e+01	UBA52
+GO_Biological_Process_2021	DNA metabolic process (GO:0006259)	1/277	1.179849e-01	1.515034e-01	0	0	8.928895e+00	1.908282e+01	UBA52
+GO_Biological_Process_2021	positive regulation of programmed cell death (GO:0043068)	1/286	1.216014e-01	1.543928e-01	0	0	8.642982e+00	1.821082e+01	UBA52
+GO_Biological_Process_2021	DNA repair (GO:0006281)	1/298	1.264028e-01	1.587058e-01	0	0	8.288721e+00	1.714341e+01	UBA52
+GO_Biological_Process_2021	MAPK cascade (GO:0000165)	1/303	1.283965e-01	1.594375e-01	0	0	8.149421e+00	1.672776e+01	UBA52
+GO_Biological_Process_2021	positive regulation of apoptotic process (GO:0043065)	1/310	1.311809e-01	1.596046e-01	0	0	7.961974e+00	1.617219e+01	UBA52
+GO_Biological_Process_2021	protein polyubiquitination (GO:0000209)	1/314	1.327684e-01	1.596046e-01	0	0	7.858626e+00	1.586773e+01	UBA52
+GO_Biological_Process_2021	cellular macromolecule biosynthetic process (GO:0034645)	1/314	1.327684e-01	1.596046e-01	0	0	7.858626e+00	1.586773e+01	EEF1A1
+GO_Biological_Process_2021	proteasome-mediated ubiquitin-dependent protein catabolic process (GO:0043161)	1/321	1.355404e-01	1.612218e-01	0	0	7.683984e+00	1.535633e+01	UBA52
+GO_Biological_Process_2021	supramolecular fiber organization (GO:0097435)	1/351	1.473313e-01	1.734212e-01	0	0	7.014643e+00	1.343354e+01	UBA52
+GO_Biological_Process_2021	gene expression (GO:0010467)	1/356	1.492825e-01	1.739064e-01	0	0	6.914085e+00	1.315000e+01	EEF1A1
+GO_Biological_Process_2021	negative regulation of programmed cell death (GO:0043069)	1/381	1.589790e-01	1.833125e-01	0	0	6.450987e+00	1.186326e+01	UBA52
+GO_Biological_Process_2021	protein modification by small protein conjugation (GO:0032446)	1/409	1.697223e-01	1.937235e-01	0	0	5.999694e+00	1.064101e+01	UBA52
+GO_Biological_Process_2021	neutrophil degranulation (GO:0043312)	1/481	1.967901e-01	2.166333e-01	0	0	5.080990e+00	8.259747e+00	EEF1A1
+GO_Biological_Process_2021	cellular response to cytokine stimulus (GO:0071345)	1/482	1.971604e-01	2.166333e-01	0	0	5.070166e+00	8.232620e+00	UBA52
+GO_Biological_Process_2021	negative regulation of apoptotic process (GO:0043066)	1/485	1.982706e-01	2.166333e-01	0	0	5.037965e+00	8.152045e+00	UBA52
+GO_Biological_Process_2021	neutrophil activation involved in immune response (GO:0002283)	1/485	1.982706e-01	2.166333e-01	0	0	5.037965e+00	8.152045e+00	EEF1A1
+GO_Biological_Process_2021	neutrophil mediated immunity (GO:0002446)	1/488	1.993793e-01	2.166333e-01	0	0	5.006160e+00	8.072664e+00	EEF1A1
+GO_Biological_Process_2021	protein ubiquitination (GO:0016567)	1/525	2.129426e-01	2.291668e-01	0	0	4.643845e+00	7.182787e+00	UBA52
+GO_Biological_Process_2021	cytokine-mediated signaling pathway (GO:0019221)	1/621	2.471863e-01	2.635099e-01	0	0	3.905444e+00	5.458298e+00	UBA52
+GO_Biological_Process_2021	negative regulation of transcription by RNA polymerase II (GO:0000122)	1/684	2.689326e-01	2.840130e-01	0	0	3.533675e+00	4.640755e+00	UBA52
+GO_Biological_Process_2021	regulation of apoptotic process (GO:0042981)	1/742	2.884575e-01	3.018120e-01	0	0	3.247301e+00	4.037069e+00	UBA52
+GO_Biological_Process_2021	positive regulation of transcription by RNA polymerase II (GO:0045944)	1/908	3.418028e-01	3.543460e-01	0	0	2.630099e+00	2.823468e+00	UBA52
+GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	1/948	3.541129e-01	3.637705e-01	0	0	2.513728e+00	2.609600e+00	UBA52
+GO_Biological_Process_2021	cellular protein modification process (GO:0006464)	1/1025	3.772349e-01	3.840320e-01	0	0	2.315308e+00	2.257164e+00	UBA52
+GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	1/1183	4.223899e-01	4.261612e-01	0	0	1.989107e+00	1.714265e+00	UBA52
+GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	1/2206	6.507822e-01	6.507822e-01	0	0	1.008277e+00	4.331357e-01	UBA52

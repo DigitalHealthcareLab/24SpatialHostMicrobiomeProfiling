@@ -1,0 +1,80 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	cobalamin transport (GO:0015889)	1/6	2.697256e-03	3.869609e-02	0	0	4.996500e+02	2.955690e+03	CUBN
+GO_Biological_Process_2021	negative regulation of actin filament depolymerization (GO:0030835)	1/6	2.697256e-03	3.869609e-02	0	0	4.996500e+02	2.955690e+03	VIL1
+GO_Biological_Process_2021	positive regulation of lamellipodium morphogenesis (GO:2000394)	1/7	3.146172e-03	3.869609e-02	0	0	4.163542e+02	2.398853e+03	VIL1
+GO_Biological_Process_2021	regulation of microvillus organization (GO:0032530)	1/8	3.594909e-03	3.869609e-02	0	0	3.568571e+02	2.008476e+03	CDHR5
+GO_Biological_Process_2021	regulation of response to wounding (GO:1903034)	1/8	3.594909e-03	3.869609e-02	0	0	3.568571e+02	2.008476e+03	VIL1
+GO_Biological_Process_2021	actin filament depolymerization (GO:0030042)	1/11	4.940043e-03	3.869609e-02	0	0	2.497625e+02	1.326334e+03	VIL1
+GO_Biological_Process_2021	regulation of lamellipodium morphogenesis (GO:2000392)	1/11	4.940043e-03	3.869609e-02	0	0	2.497625e+02	1.326334e+03	VIL1
+GO_Biological_Process_2021	regulation of actin filament depolymerization (GO:0030834)	1/12	5.388063e-03	3.869609e-02	0	0	2.270455e+02	1.185988e+03	VIL1
+GO_Biological_Process_2021	regulation of actin nucleation (GO:0051125)	1/12	5.388063e-03	3.869609e-02	0	0	2.270455e+02	1.185988e+03	VIL1
+GO_Biological_Process_2021	positive regulation of protein depolymerization (GO:1901881)	1/12	5.388063e-03	3.869609e-02	0	0	2.270455e+02	1.185988e+03	VIL1
+GO_Biological_Process_2021	positive regulation of actin filament depolymerization (GO:0030836)	1/12	5.388063e-03	3.869609e-02	0	0	2.270455e+02	1.185988e+03	VIL1
+GO_Biological_Process_2021	regulation of lamellipodium organization (GO:1902743)	1/14	6.283564e-03	4.037719e-02	0	0	1.920962e+02	9.738925e+02	VIL1
+GO_Biological_Process_2021	vitamin D metabolic process (GO:0042359)	1/15	6.731046e-03	4.037719e-02	0	0	1.783661e+02	8.920131e+02	CUBN
+GO_Biological_Process_2021	actin filament capping (GO:0051693)	1/19	8.519186e-03	4.037719e-02	0	0	1.387014e+02	6.609724e+02	VIL1
+GO_Biological_Process_2021	barbed-end actin filament capping (GO:0051016)	1/19	8.519186e-03	4.037719e-02	0	0	1.387014e+02	6.609724e+02	VIL1
+GO_Biological_Process_2021	innate immune response in mucosa (GO:0002227)	1/21	9.412182e-03	4.037719e-02	0	0	1.248187e+02	5.823731e+02	DEFA6
+GO_Biological_Process_2021	cobalamin metabolic process (GO:0009235)	1/21	9.412182e-03	4.037719e-02	0	0	1.248187e+02	5.823731e+02	CUBN
+GO_Biological_Process_2021	tetrapyrrole metabolic process (GO:0033013)	1/22	9.858413e-03	4.037719e-02	0	0	1.188690e+02	5.491073e+02	CUBN
+GO_Biological_Process_2021	fat-soluble vitamin metabolic process (GO:0006775)	1/25	1.119603e-02	4.037719e-02	0	0	1.039948e+02	4.671650e+02	CUBN
+GO_Biological_Process_2021	negative regulation of actin filament polymerization (GO:0030837)	1/25	1.119603e-02	4.037719e-02	0	0	1.039948e+02	4.671650e+02	VIL1
+GO_Biological_Process_2021	regulation of actin filament bundle assembly (GO:0032231)	1/26	1.164155e-02	4.037719e-02	0	0	9.983000e+01	4.445604e+02	VIL1
+GO_Biological_Process_2021	mucosal immune response (GO:0002385)	1/28	1.253205e-02	4.037719e-02	0	0	9.242593e+01	4.047762e+02	DEFA6
+GO_Biological_Process_2021	protein depolymerization (GO:0051261)	1/28	1.253205e-02	4.037719e-02	0	0	9.242593e+01	4.047762e+02	VIL1
+GO_Biological_Process_2021	cellular response to epidermal growth factor stimulus (GO:0071364)	1/28	1.253205e-02	4.037719e-02	0	0	9.242593e+01	4.047762e+02	VIL1
+GO_Biological_Process_2021	actin filament polymerization (GO:0030041)	1/29	1.297703e-02	4.037719e-02	0	0	8.912054e+01	3.871908e+02	VIL1
+GO_Biological_Process_2021	vitamin transport (GO:0051180)	1/31	1.386645e-02	4.037719e-02	0	0	8.317083e+01	3.558283e+02	CUBN
+GO_Biological_Process_2021	positive regulation of lamellipodium organization (GO:1902745)	1/32	1.431090e-02	4.037719e-02	0	0	8.048387e+01	3.417936e+02	VIL1
+GO_Biological_Process_2021	regulation of cell morphogenesis (GO:0022604)	1/32	1.431090e-02	4.037719e-02	0	0	8.048387e+01	3.417936e+02	VIL1
+GO_Biological_Process_2021	antibacterial humoral response (GO:0019731)	1/44	1.963039e-02	5.279438e-02	0	0	5.798837e+01	2.279335e+02	DEFA6
+GO_Biological_Process_2021	epidermal growth factor receptor signaling pathway (GO:0007173)	1/47	2.095627e-02	5.279438e-02	0	0	5.419837e+01	2.094939e+02	VIL1
+GO_Biological_Process_2021	regulation of wound healing (GO:0061041)	1/47	2.095627e-02	5.279438e-02	0	0	5.419837e+01	2.094939e+02	VIL1
+GO_Biological_Process_2021	actin polymerization or depolymerization (GO:0008154)	1/50	2.228056e-02	5.279438e-02	0	0	5.087245e+01	1.935209e+02	VIL1
+GO_Biological_Process_2021	regulation of epithelial cell migration (GO:0010632)	1/51	2.272163e-02	5.279438e-02	0	0	4.985250e+01	1.886637e+02	VIL1
+GO_Biological_Process_2021	positive regulation of actin filament bundle assembly (GO:0032233)	1/51	2.272163e-02	5.279438e-02	0	0	4.985250e+01	1.886637e+02	VIL1
+GO_Biological_Process_2021	protein polymerization (GO:0051258)	1/59	2.624387e-02	5.923616e-02	0	0	4.295905e+01	1.563848e+02	VIL1
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	1/64	2.843953e-02	6.240898e-02	0	0	3.953968e+01	1.407603e+02	DEFA6
+GO_Biological_Process_2021	ERBB signaling pathway (GO:0038127)	1/66	2.931657e-02	6.259483e-02	0	0	3.831923e+01	1.352517e+02	VIL1
+GO_Biological_Process_2021	defense response to Gram-positive bacterium (GO:0050830)	1/70	3.106852e-02	6.395177e-02	0	0	3.609058e+01	1.252906e+02	DEFA6
+GO_Biological_Process_2021	defense response to Gram-negative bacterium (GO:0050829)	1/73	3.238064e-02	6.395177e-02	0	0	3.458160e+01	1.186216e+02	DEFA6
+GO_Biological_Process_2021	regulation of actin filament polymerization (GO:0030833)	1/73	3.238064e-02	6.395177e-02	0	0	3.458160e+01	1.186216e+02	VIL1
+GO_Biological_Process_2021	water-soluble vitamin metabolic process (GO:0006767)	1/76	3.369118e-02	6.491716e-02	0	0	3.319333e+01	1.125426e+02	CUBN
+GO_Biological_Process_2021	positive regulation of cytoskeleton organization (GO:0051495)	1/82	3.630753e-02	6.829274e-02	0	0	3.072531e+01	1.018768e+02	VIL1
+GO_Biological_Process_2021	positive regulation of supramolecular fiber organization (GO:1902905)	1/91	4.022025e-02	7.130841e-02	0	0	2.764028e+01	8.881884e+01	VIL1
+GO_Biological_Process_2021	positive regulation of cellular component biogenesis (GO:0044089)	1/92	4.065413e-02	7.130841e-02	0	0	2.733516e+01	8.754510e+01	VIL1
+GO_Biological_Process_2021	negative regulation of MAPK cascade (GO:0043409)	1/94	4.152135e-02	7.130841e-02	0	0	2.674462e+01	8.508929e+01	PEBP1
+GO_Biological_Process_2021	positive regulation of epithelial cell migration (GO:0010634)	1/94	4.152135e-02	7.130841e-02	0	0	2.674462e+01	8.508929e+01	VIL1
+GO_Biological_Process_2021	RNA splicing (GO:0008380)	1/98	4.325371e-02	7.270304e-02	0	0	2.563660e+01	8.051615e+01	PRPF4B
+GO_Biological_Process_2021	epithelial cell differentiation (GO:0030855)	1/101	4.455115e-02	7.332377e-02	0	0	2.486375e+01	7.735404e+01	VIL1
+GO_Biological_Process_2021	steroid metabolic process (GO:0008202)	1/104	4.584703e-02	7.391664e-02	0	0	2.413592e+01	7.439765e+01	CUBN
+GO_Biological_Process_2021	protein-containing complex subunit organization (GO:0043933)	1/112	4.929507e-02	7.788621e-02	0	0	2.238739e+01	6.738449e+01	VIL1
+GO_Biological_Process_2021	cellular response to molecule of bacterial origin (GO:0071219)	1/115	5.058523e-02	7.835751e-02	0	0	2.179496e+01	6.503823e+01	DEFA6
+GO_Biological_Process_2021	cellular response to lipopolysaccharide (GO:0071222)	1/120	5.273203e-02	7.987876e-02	0	0	2.087395e+01	6.142227e+01	DEFA6
+GO_Biological_Process_2021	epithelium development (GO:0060429)	1/122	5.358955e-02	7.987876e-02	0	0	2.052686e+01	6.006983e+01	VIL1
+GO_Biological_Process_2021	organic substance transport (GO:0071702)	1/136	5.957284e-02	8.715286e-02	0	0	1.838519e+01	5.185644e+01	CUBN
+GO_Biological_Process_2021	receptor-mediated endocytosis (GO:0006898)	1/143	6.255186e-02	8.824280e-02	0	0	1.747271e+01	4.843015e+01	CUBN
+GO_Biological_Process_2021	nitrogen compound transport (GO:0071705)	1/143	6.255186e-02	8.824280e-02	0	0	1.747271e+01	4.843015e+01	CUBN
+GO_Biological_Process_2021	actin filament organization (GO:0007015)	1/152	6.636970e-02	9.198608e-02	0	0	1.642384e+01	4.454991e+01	VIL1
+GO_Biological_Process_2021	cellular response to growth factor stimulus (GO:0071363)	1/158	6.890724e-02	9.283112e-02	0	0	1.579140e+01	4.224190e+01	VIL1
+GO_Biological_Process_2021	response to lipopolysaccharide (GO:0032496)	1/159	6.932957e-02	9.283112e-02	0	0	1.569066e+01	4.187656e+01	DEFA6
+GO_Biological_Process_2021	regulation of MAPK cascade (GO:0043408)	1/166	7.228110e-02	9.517011e-02	0	0	1.501970e+01	3.945964e+01	PEBP1
+GO_Biological_Process_2021	defense response to bacterium (GO:0042742)	1/176	7.648313e-02	9.748404e-02	0	0	1.415429e+01	3.638621e+01	DEFA6
+GO_Biological_Process_2021	positive regulation of developmental process (GO:0051094)	1/177	7.690240e-02	9.748404e-02	0	0	1.407315e+01	3.610071e+01	VIL1
+GO_Biological_Process_2021	RNA processing (GO:0006396)	1/179	7.774044e-02	9.748404e-02	0	0	1.391362e+01	3.554068e+01	PRPF4B
+GO_Biological_Process_2021	negative regulation of intracellular signal transduction (GO:1902532)	1/198	8.566811e-02	1.057466e-01	0	0	1.255964e+01	3.086250e+01	PEBP1
+GO_Biological_Process_2021	cellular response to lipid (GO:0071396)	1/219	9.435975e-02	1.139320e-01	0	0	1.133773e+01	2.676431e+01	DEFA6
+GO_Biological_Process_2021	positive regulation of cell motility (GO:2000147)	1/221	9.518368e-02	1.139320e-01	0	0	1.123352e+01	2.642065e+01	VIL1
+GO_Biological_Process_2021	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO:0000377)	1/251	1.074630e-01	1.267101e-01	0	0	9.870500e+00	2.201723e+01	PRPF4B
+GO_Biological_Process_2021	cellular component assembly (GO:0022607)	1/261	1.115230e-01	1.295140e-01	0	0	9.486058e+00	2.080790e+01	VIL1
+GO_Biological_Process_2021	protein-containing complex assembly (GO:0065003)	1/267	1.139512e-01	1.295140e-01	0	0	9.269267e+00	2.013271e+01	VIL1
+GO_Biological_Process_2021	positive regulation of cell migration (GO:0030335)	1/269	1.147592e-01	1.295140e-01	0	0	9.199160e+00	1.991544e+01	VIL1
+GO_Biological_Process_2021	mRNA splicing, via spliceosome (GO:0000398)	1/274	1.167765e-01	1.299344e-01	0	0	9.028388e+00	1.938840e+01	PRPF4B
+GO_Biological_Process_2021	mRNA processing (GO:0006397)	1/300	1.272008e-01	1.370720e-01	0	0	8.232441e+00	1.697520e+01	PRPF4B
+GO_Biological_Process_2021	innate immune response (GO:0045087)	1/302	1.279981e-01	1.370720e-01	0	0	8.176910e+00	1.680960e+01	DEFA6
+GO_Biological_Process_2021	MAPK cascade (GO:0000165)	1/303	1.283965e-01	1.370720e-01	0	0	8.149421e+00	1.672776e+01	PEBP1
+GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	1/323	1.363310e-01	1.436019e-01	0	0	7.635481e+00	1.521499e+01	DEFA6
+GO_Biological_Process_2021	phosphorylation (GO:0016310)	1/400	1.662825e-01	1.728463e-01	0	0	6.137845e+00	1.101171e+01	PRPF4B
+GO_Biological_Process_2021	regulation of cell migration (GO:0030334)	1/408	1.693407e-01	1.737392e-01	0	0	6.014742e+00	1.068123e+01	VIL1
+GO_Biological_Process_2021	protein phosphorylation (GO:0006468)	1/496	2.023294e-01	2.049234e-01	0	0	4.923232e+00	7.866627e+00	PRPF4B
+GO_Biological_Process_2021	cellular protein modification process (GO:0006464)	1/1025	3.772349e-01	3.772349e-01	0	0	2.315308e+00	2.257164e+00	PRPF4B

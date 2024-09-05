@@ -1,0 +1,17 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2022	Deadenylation Of mRNA R-HSA-429947	1/25	4.990939e-03	3.680078e-02	0	0	2.773889e+02	1.470198e+03	EIF4A2
+Reactome_2022	Deadenylation-dependent mRNA Decay R-HSA-429914	1/56	1.115377e-02	3.680078e-02	0	0	1.208545e+02	5.433593e+02	EIF4A2
+Reactome_2022	Translation Initiation Complex Formation R-HSA-72649	1/57	1.135209e-02	3.680078e-02	0	0	1.186905e+02	5.315378e+02	EIF4A2
+Reactome_2022	Ribosomal Scanning And Start Codon Recognition R-HSA-72702	1/57	1.135209e-02	3.680078e-02	0	0	1.186905e+02	5.315378e+02	EIF4A2
+Reactome_2022	mRNA Activation Upon Binding Of Cap-Binding Complex And eIFs, Subsequent Binding To 43S R-HSA-72662	1/58	1.155039e-02	3.680078e-02	0	0	1.166023e+02	5.201673e+02	EIF4A2
+Reactome_2022	ISG15 Antiviral Mechanism R-HSA-1169408	1/75	1.491682e-02	3.680078e-02	0	0	8.973874e+01	3.773753e+02	EIF4A2
+Reactome_2022	Antiviral Mechanism By IFN-stimulated Genes R-HSA-1169410	1/83	1.649804e-02	3.680078e-02	0	0	8.095122e+01	3.322654e+02	EIF4A2
+Reactome_2022	L13a-mediated Translational Silencing Of Ceruloplasmin Expression R-HSA-156827	1/108	2.142711e-02	3.680078e-02	0	0	6.195950e+01	2.381165e+02	EIF4A2
+Reactome_2022	GTP Hydrolysis And Joining Of 60S Ribosomal Subunit R-HSA-72706	1/109	2.162388e-02	3.680078e-02	0	0	6.138272e+01	2.353387e+02	EIF4A2
+Reactome_2022	Cap-dependent Translation Initiation R-HSA-72737	1/116	2.300049e-02	3.680078e-02	0	0	5.762609e+01	2.173794e+02	EIF4A2
+Reactome_2022	Interferon Signaling R-HSA-913531	1/200	3.940669e-02	5.731882e-02	0	0	3.316080e+01	1.072361e+02	EIF4A2
+Reactome_2022	Translation R-HSA-72766	1/281	5.503044e-02	7.337391e-02	0	0	2.347143e+01	6.806407e+01	EIF4A2
+Reactome_2022	Metabolism Of RNA R-HSA-8953854	1/666	1.267018e-01	1.522154e-01	0	0	9.689724e+00	2.001818e+01	EIF4A2
+Reactome_2022	Cytokine Signaling In Immune System R-HSA-1280215	1/702	1.331885e-01	1.522154e-01	0	0	9.174988e+00	1.849668e+01	EIF4A2
+Reactome_2022	Metabolism Of Proteins R-HSA-392499	1/1890	3.277350e-01	3.355708e-01	0	0	3.195165e+00	3.564366e+00	EIF4A2
+Reactome_2022	Immune System R-HSA-168256	1/1943	3.355708e-01	3.355708e-01	0	0	3.098867e+00	3.383722e+00	EIF4A2

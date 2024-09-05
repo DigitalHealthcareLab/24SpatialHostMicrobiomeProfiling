@@ -1,0 +1,50 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	nucleotide transport (GO:0006862)	1/6	2.697256e-03	3.612178e-02	0	0	4.996500e+02	2.955690e+03	SLC25A36
+GO_Biological_Process_2021	cobalamin transport (GO:0015889)	1/6	2.697256e-03	3.612178e-02	0	0	4.996500e+02	2.955690e+03	CUBN
+GO_Biological_Process_2021	macromolecule modification (GO:0043412)	1/8	3.594909e-03	3.612178e-02	0	0	3.568571e+02	2.008476e+03	CHD1
+GO_Biological_Process_2021	detection of light stimulus involved in sensory perception (GO:0050962)	1/11	4.940043e-03	3.612178e-02	0	0	2.497625e+02	1.326334e+03	CACNA1F
+GO_Biological_Process_2021	detection of light stimulus involved in visual perception (GO:0050908)	1/11	4.940043e-03	3.612178e-02	0	0	2.497625e+02	1.326334e+03	CACNA1F
+GO_Biological_Process_2021	mitochondrial genome maintenance (GO:0000002)	1/12	5.388063e-03	3.612178e-02	0	0	2.270455e+02	1.185988e+03	SLC25A36
+GO_Biological_Process_2021	covalent chromatin modification (GO:0016569)	1/14	6.283564e-03	3.612178e-02	0	0	1.920962e+02	9.738925e+02	CHD1
+GO_Biological_Process_2021	vitamin D metabolic process (GO:0042359)	1/15	6.731046e-03	3.612178e-02	0	0	1.783661e+02	8.920131e+02	CUBN
+GO_Biological_Process_2021	positive regulation by host of viral transcription (GO:0043923)	1/16	7.178350e-03	3.612178e-02	0	0	1.664667e+02	8.217936e+02	CHD1
+GO_Biological_Process_2021	detection of visible light (GO:0009584)	1/17	7.625474e-03	3.612178e-02	0	0	1.560547e+02	7.609634e+02	CACNA1F
+GO_Biological_Process_2021	cobalamin metabolic process (GO:0009235)	1/21	9.412182e-03	3.612178e-02	0	0	1.248187e+02	5.823731e+02	CUBN
+GO_Biological_Process_2021	tetrapyrrole metabolic process (GO:0033013)	1/22	9.858413e-03	3.612178e-02	0	0	1.188690e+02	5.491073e+02	CUBN
+GO_Biological_Process_2021	positive regulation of DNA-templated transcription, elongation (GO:0032786)	1/25	1.119603e-02	3.612178e-02	0	0	1.039948e+02	4.671650e+02	CCNT2
+GO_Biological_Process_2021	fat-soluble vitamin metabolic process (GO:0006775)	1/25	1.119603e-02	3.612178e-02	0	0	1.039948e+02	4.671650e+02	CUBN
+GO_Biological_Process_2021	negative regulation of transposition (GO:0010529)	1/26	1.164155e-02	3.612178e-02	0	0	9.983000e+01	4.445604e+02	ZNF91
+GO_Biological_Process_2021	calcium ion import (GO:0070509)	1/28	1.253205e-02	3.612178e-02	0	0	9.242593e+01	4.047762e+02	CACNA1F
+GO_Biological_Process_2021	regulation of DNA-templated transcription, elongation (GO:0032784)	1/28	1.253205e-02	3.612178e-02	0	0	9.242593e+01	4.047762e+02	CCNT2
+GO_Biological_Process_2021	vitamin transport (GO:0051180)	1/31	1.386645e-02	3.690706e-02	0	0	8.317083e+01	3.558283e+02	CUBN
+GO_Biological_Process_2021	modulation by host of symbiont process (GO:0051851)	1/32	1.431090e-02	3.690706e-02	0	0	8.048387e+01	3.417936e+02	CHD1
+GO_Biological_Process_2021	negative regulation of DNA metabolic process (GO:0051053)	1/36	1.608691e-02	3.941293e-02	0	0	7.127143e+01	2.943331e+02	ZNF91
+GO_Biological_Process_2021	regulation of mitochondrial membrane potential (GO:0051881)	1/41	1.830292e-02	4.270681e-02	0	0	6.234687e+01	2.494308e+02	SLC25A36
+GO_Biological_Process_2021	regulation of cyclin-dependent protein kinase activity (GO:1904029)	1/54	2.404380e-02	5.355209e-02	0	0	4.702358e+01	1.752982e+02	CCNT2
+GO_Biological_Process_2021	transcription elongation from RNA polymerase II promoter (GO:0006368)	1/67	2.975482e-02	5.937682e-02	0	0	3.773674e+01	1.326358e+02	CCNT2
+GO_Biological_Process_2021	DNA-templated transcription, elongation (GO:0006354)	1/69	3.063080e-02	5.937682e-02	0	0	3.662316e+01	1.276592e+02	CCNT2
+GO_Biological_Process_2021	snRNA transcription by RNA polymerase II (GO:0042795)	1/70	3.106852e-02	5.937682e-02	0	0	3.609058e+01	1.252906e+02	CCNT2
+GO_Biological_Process_2021	snRNA transcription (GO:0009301)	1/71	3.150607e-02	5.937682e-02	0	0	3.557321e+01	1.229971e+02	CCNT2
+GO_Biological_Process_2021	water-soluble vitamin metabolic process (GO:0006767)	1/76	3.369118e-02	6.114326e-02	0	0	3.319333e+01	1.125426e+02	CUBN
+GO_Biological_Process_2021	regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0000079)	1/82	3.630753e-02	6.353818e-02	0	0	3.072531e+01	1.018768e+02	CCNT2
+GO_Biological_Process_2021	metal ion transport (GO:0030001)	1/88	3.891758e-02	6.575730e-02	0	0	2.859770e+01	9.283698e+01	CACNA1F
+GO_Biological_Process_2021	visual perception (GO:0007601)	1/93	4.108783e-02	6.631550e-02	0	0	2.703668e+01	8.630227e+01	CACNA1F
+GO_Biological_Process_2021	sensory perception of light stimulus (GO:0050953)	1/95	4.195470e-02	6.631550e-02	0	0	2.645878e+01	8.390514e+01	CACNA1F
+GO_Biological_Process_2021	steroid metabolic process (GO:0008202)	1/104	4.584703e-02	7.020327e-02	0	0	2.413592e+01	7.439765e+01	CUBN
+GO_Biological_Process_2021	regulation of protein serine/threonine kinase activity (GO:0071900)	1/111	4.886467e-02	7.255664e-02	0	0	2.259205e+01	6.819862e+01	CCNT2
+GO_Biological_Process_2021	calcium ion transport (GO:0006816)	1/115	5.058523e-02	7.290224e-02	0	0	2.179496e+01	6.503823e+01	CACNA1F
+GO_Biological_Process_2021	organic substance transport (GO:0071702)	1/136	5.957284e-02	8.065898e-02	0	0	1.838519e+01	5.185644e+01	CUBN
+GO_Biological_Process_2021	chromatin organization (GO:0006325)	1/142	6.212680e-02	8.065898e-02	0	0	1.759752e+01	4.889607e+01	CHD1
+GO_Biological_Process_2021	receptor-mediated endocytosis (GO:0006898)	1/143	6.255186e-02	8.065898e-02	0	0	1.747271e+01	4.843015e+01	CUBN
+GO_Biological_Process_2021	nitrogen compound transport (GO:0071705)	1/143	6.255186e-02	8.065898e-02	0	0	1.747271e+01	4.843015e+01	CUBN
+GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	3/2206	6.766215e-02	8.501142e-02	0	0	4.037222e+00	1.087316e+01	ZNF91;CCNT2;CHD1
+GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	3/2244	7.058213e-02	8.646311e-02	0	0	3.960286e+00	1.049863e+01	ZNF91;CCNT2;CHD1
+GO_Biological_Process_2021	mitochondrion organization (GO:0007005)	1/175	7.606369e-02	9.090539e-02	0	0	1.423635e+01	3.667546e+01	SLC25A36
+GO_Biological_Process_2021	transcription, DNA-templated (GO:0006351)	1/221	9.518368e-02	1.110476e-01	0	0	1.123352e+01	2.642065e+01	CCNT2
+GO_Biological_Process_2021	transcription by RNA polymerase II (GO:0006366)	1/320	1.351449e-01	1.540023e-01	0	0	7.708464e+00	1.542778e+01	CCNT2
+GO_Biological_Process_2021	organelle organization (GO:0006996)	1/420	1.739094e-01	1.936719e-01	0	0	5.838902e+00	1.021353e+01	SLC25A36
+GO_Biological_Process_2021	negative regulation of nucleic acid-templated transcription (GO:1903507)	1/464	1.904708e-01	2.074016e-01	0	0	5.272138e+00	8.742556e+00	ZNF91
+GO_Biological_Process_2021	negative regulation of cellular macromolecule biosynthetic process (GO:2000113)	1/547	2.209101e-01	2.353173e-01	0	0	4.451694e+00	6.722056e+00	ZNF91
+GO_Biological_Process_2021	positive regulation of transcription by RNA polymerase II (GO:0045944)	1/908	3.418028e-01	3.563476e-01	0	0	2.630099e+00	2.823468e+00	CCNT2
+GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	1/948	3.541129e-01	3.614902e-01	0	0	2.513728e+00	2.609600e+00	ZNF91
+GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	1/1183	4.223899e-01	4.223899e-01	0	0	1.989107e+00	1.714265e+00	CCNT2

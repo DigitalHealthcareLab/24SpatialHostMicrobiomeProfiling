@@ -1,0 +1,77 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+BioPlanet_2019	E-cadherin nascent AJ-like junctions pathway	2/39	6.885154e-04	5.232717e-02	0	0	5.988889e+01	4.360494e+02	NCKAP1;RAPGEF1
+BioPlanet_2019	PDGFB signaling pathway	2/129	7.269142e-03	1.150855e-01	0	0	1.736920e+01	8.552799e+01	NCKAP1;RAPGEF1
+BioPlanet_2019	RNA polymerase II C-terminal domain phosphorylation and interaction with capping enzyme	1/8	7.973357e-03	1.150855e-01	0	0	1.501729e+02	7.255830e+02	GTF2H1
+BioPlanet_2019	Alpha defensins	1/9	8.965773e-03	1.150855e-01	0	0	1.313947e+02	6.194396e+02	DEFA5
+BioPlanet_2019	Tat-mediated elongation of the HIV-1 transcript	1/9	8.965773e-03	1.150855e-01	0	0	1.313947e+02	6.194396e+02	GTF2H1
+BioPlanet_2019	HIV-1 early elongation complex formation	1/14	1.391373e-02	1.150855e-01	0	0	8.083806e+01	3.455729e+02	GTF2H1
+BioPlanet_2019	Protein kinase A (PKA) at the centrosome	1/16	1.588634e-02	1.150855e-01	0	0	7.005263e+01	2.901787e+02	PCNT
+BioPlanet_2019	HIV-1 elongation complex formation in the absence of HIV-1 Tat	1/17	1.687123e-02	1.150855e-01	0	0	6.567105e+01	2.680788e+02	GTF2H1
+BioPlanet_2019	CBL signaling regulation	1/18	1.785520e-02	1.150855e-01	0	0	6.180495e+01	2.487934e+02	RAPGEF1
+BioPlanet_2019	FRS2-mediated activation	1/19	1.883822e-02	1.150855e-01	0	0	5.836842e+01	2.318316e+02	RAPGEF1
+BioPlanet_2019	Dual incision reaction in GG-NER	1/20	1.982031e-02	1.150855e-01	0	0	5.529363e+01	2.168090e+02	GTF2H1
+BioPlanet_2019	Y branching of actin filaments	1/21	2.080147e-02	1.150855e-01	0	0	5.252632e+01	2.034203e+02	NCKAP1
+BioPlanet_2019	RNA polymerase II promoter escape	1/22	2.178169e-02	1.150855e-01	0	0	5.002256e+01	1.914206e+02	GTF2H1
+BioPlanet_2019	RNA polymerase I transcription initiation	1/25	2.471677e-02	1.150855e-01	0	0	4.376316e+01	1.619356e+02	GTF2H1
+BioPlanet_2019	Dual incision reaction in TC-NER	1/28	2.764349e-02	1.150855e-01	0	0	3.889474e+01	1.395685e+02	GTF2H1
+BioPlanet_2019	Messenger RNA capping	1/28	2.764349e-02	1.150855e-01	0	0	3.889474e+01	1.395685e+02	GTF2H1
+BioPlanet_2019	Reelin signaling pathway	1/29	2.861721e-02	1.150855e-01	0	0	3.750376e+01	1.332789e+02	RAPGEF1
+BioPlanet_2019	Nectin adhesion pathway	1/30	2.959000e-02	1.150855e-01	0	0	3.620871e+01	1.274662e+02	RAPGEF1
+BioPlanet_2019	CDC42 activity regulation	1/30	2.959000e-02	1.150855e-01	0	0	3.620871e+01	1.274662e+02	ITSN2
+BioPlanet_2019	Global genomic nucleotide excision repair (GG-NER)	1/33	3.250282e-02	1.150855e-01	0	0	3.280921e+01	1.124184e+02	GTF2H1
+BioPlanet_2019	Basal transcription factors	1/35	3.444008e-02	1.150855e-01	0	0	3.087616e+01	1.040074e+02	GTF2H1
+BioPlanet_2019	Signaling to ERKs	1/36	3.540733e-02	1.150855e-01	0	0	2.999248e+01	1.002000e+02	RAPGEF1
+BioPlanet_2019	Signaling of hepatocyte growth factor receptor	1/38	3.733907e-02	1.150855e-01	0	0	2.836842e+01	9.326729e+01	RAPGEF1
+BioPlanet_2019	HIV-1 transcription initiation	1/39	3.830356e-02	1.150855e-01	0	0	2.762050e+01	9.010393e+01	GTF2H1
+BioPlanet_2019	Eukaryotic transcription initiation	1/42	4.119153e-02	1.150855e-01	0	0	2.559564e+01	8.163786e+01	GTF2H1
+BioPlanet_2019	Cell differentiation by G alpha (i/o) pathway inferred from mouse Neuro2A model	1/43	4.215235e-02	1.150855e-01	0	0	2.498496e+01	7.911400e+01	RAPGEF1
+BioPlanet_2019	Defensins	1/45	4.407125e-02	1.150855e-01	0	0	2.384689e+01	7.444874e+01	DEFA5
+BioPlanet_2019	Interleukin-3 signaling pathway	1/45	4.407125e-02	1.150855e-01	0	0	2.384689e+01	7.444874e+01	RAPGEF1
+BioPlanet_2019	Interleukin-3, interleukin-5, and GM-CSF signaling	1/45	4.407125e-02	1.150855e-01	0	0	2.384689e+01	7.444874e+01	RAPGEF1
+BioPlanet_2019	Agrin in postsynaptic differentiation	1/47	4.598651e-02	1.150855e-01	0	0	2.280778e+01	7.023444e+01	UTRN
+BioPlanet_2019	Diurnally regulated genes with circadian orthologs	1/48	4.694276e-02	1.150855e-01	0	0	2.232139e+01	6.827725e+01	NCKAP1
+BioPlanet_2019	RNA polymerase I transcription	1/55	5.361112e-02	1.271631e-01	0	0	1.942105e+01	5.682598e+01	GTF2H1
+BioPlanet_2019	Nucleotide excision repair	1/58	5.645540e-02	1.271631e-01	0	0	1.839612e+01	5.287605e+01	GTF2H1
+BioPlanet_2019	Neurotrophic factor-mediated Trk receptor signaling	1/60	5.834707e-02	1.271631e-01	0	0	1.777074e+01	5.049282e+01	RAPGEF1
+BioPlanet_2019	HIV genome transcription	1/61	5.929156e-02	1.271631e-01	0	0	1.747368e+01	4.936820e+01	GTF2H1
+BioPlanet_2019	Signaling events mediated by focal adhesion kinase	1/62	6.023514e-02	1.271631e-01	0	0	1.718637e+01	4.828509e+01	RAPGEF1
+BioPlanet_2019	Endothelins	1/64	6.211961e-02	1.275970e-01	0	0	1.663910e+01	4.623495e+01	EDN2
+BioPlanet_2019	Renal cell carcinoma	1/70	6.775151e-02	1.338517e-01	0	0	1.518764e+01	4.088375e+01	RAPGEF1
+BioPlanet_2019	Rac1 cell motility signaling pathway	1/71	6.868703e-02	1.338517e-01	0	0	1.496992e+01	4.009238e+01	NCKAP1
+BioPlanet_2019	Signaling events mediated by hepatocyte growth factor receptor (c-Met)	1/79	7.613916e-02	1.446644e-01	0	0	1.342915e+01	3.458265e+01	RAPGEF1
+BioPlanet_2019	Differentiation pathway in PC12 cells	1/84	8.076794e-02	1.497162e-01	0	0	1.261699e+01	3.174657e+01	RAPGEF1
+BioPlanet_2019	Mitotic G2-G2/M phases	1/87	8.353462e-02	1.511579e-01	0	0	1.217503e+01	3.022444e+01	PCNT
+BioPlanet_2019	RNA polymerase I, RNA polymerase III, and mitochondrial transcription	1/95	9.087381e-02	1.591730e-01	0	0	1.113438e+01	2.670340e+01	GTF2H1
+BioPlanet_2019	Interferon-gamma signaling pathway	1/97	9.269987e-02	1.591730e-01	0	0	1.090132e+01	2.592756e+01	RAPGEF1
+BioPlanet_2019	Integrin-mediated cell adhesion	1/100	9.543242e-02	1.591730e-01	0	0	1.056938e+01	2.483103e+01	RAPGEF1
+BioPlanet_2019	RNA polymerase II transcription	1/101	9.634153e-02	1.591730e-01	0	0	1.046316e+01	2.448228e+01	GTF2H1
+BioPlanet_2019	DNA repair	1/105	9.996930e-02	1.597173e-01	0	0	1.005870e+01	2.316411e+01	GTF2H1
+BioPlanet_2019	ERBB1 downstream pathway	1/106	1.008741e-01	1.597173e-01	0	0	9.962406e+00	2.285259e+01	NCKAP1
+BioPlanet_2019	Signaling by interleukins	1/109	1.035832e-01	1.606597e-01	0	0	9.684211e+00	2.195778e+01	RAPGEF1
+BioPlanet_2019	HIV life cycle	1/118	1.116643e-01	1.684183e-01	0	0	8.935223e+00	1.958832e+01	GTF2H1
+BioPlanet_2019	G alpha s pathway	1/120	1.134506e-01	1.684183e-01	0	0	8.784166e+00	1.911775e+01	RAPGEF1
+BioPlanet_2019	Signaling by PDGF	1/122	1.152336e-01	1.684183e-01	0	0	8.638104e+00	1.866516e+01	RAPGEF1
+BioPlanet_2019	Neurotrophin signaling pathway	1/126	1.187892e-01	1.703393e-01	0	0	8.360000e+00	1.781018e+01	RAPGEF1
+BioPlanet_2019	NGF signaling via TRKA from the plasma membrane	1/136	1.276191e-01	1.796121e-01	0	0	7.736842e+00	1.592787e+01	RAPGEF1
+BioPlanet_2019	p53 signaling pathway	1/139	1.302517e-01	1.799841e-01	0	0	7.567506e+00	1.542475e+01	EDN2
+BioPlanet_2019	Integrin signaling pathway	1/155	1.441649e-01	1.956524e-01	0	0	6.775803e+00	1.312336e+01	RAPGEF1
+BioPlanet_2019	Transcription	1/181	1.663239e-01	2.217652e-01	0	0	5.789474e+00	1.038526e+01	GTF2H1
+BioPlanet_2019	Peptide G-protein coupled receptors	1/192	1.755339e-01	2.300099e-01	0	0	5.453017e+00	9.487832e+00	EDN2
+BioPlanet_2019	HIV infection	1/200	1.821712e-01	2.331279e-01	0	0	5.231685e+00	8.908557e+00	GTF2H1
+BioPlanet_2019	Messenger RNA processing	1/203	1.846471e-01	2.331279e-01	0	0	5.153205e+00	8.705355e+00	GTF2H1
+BioPlanet_2019	Gastrin-CREB signaling pathway via PKC and MAPK	1/206	1.871158e-01	2.331279e-01	0	0	5.077022e+00	8.509228e+00	EDN2
+BioPlanet_2019	Antigen-activated B-cell receptor generation of second messengers	1/211	1.912147e-01	2.343922e-01	0	0	4.954887e+00	8.197160e+00	RAPGEF1
+BioPlanet_2019	Signaling by NGF	1/221	1.993535e-01	2.404900e-01	0	0	4.727273e+00	7.623557e+00	RAPGEF1
+BioPlanet_2019	Actin cytoskeleton regulation	1/226	2.033937e-01	2.415300e-01	0	0	4.621053e+00	7.359543e+00	NCKAP1
+BioPlanet_2019	Focal adhesion	1/233	2.090174e-01	2.443896e-01	0	0	4.480036e+00	7.012769e+00	RAPGEF1
+BioPlanet_2019	Insulin signaling pathway	1/277	2.435123e-01	2.788309e-01	0	0	3.757437e+00	5.307710e+00	RAPGEF1
+BioPlanet_2019	Immune system signaling by interferons, interleukins, prolactin, and growth hormones	1/280	2.458114e-01	2.788309e-01	0	0	3.716469e+00	5.214914e+00	RAPGEF1
+BioPlanet_2019	Immune system	2/998	2.633953e-01	2.943830e-01	0	0	2.117805e+00	2.825361e+00	DEFA5;RAPGEF1
+BioPlanet_2019	Innate immune system	1/319	2.751024e-01	3.030113e-01	0	0	3.254220e+00	4.199936e+00	DEFA5
+BioPlanet_2019	GPCR ligand binding	1/410	3.393024e-01	3.683854e-01	0	0	2.518466e+00	2.722118e+00	EDN2
+BioPlanet_2019	Cell cycle	1/453	3.677235e-01	3.936195e-01	0	0	2.273871e+00	2.274835e+00	PCNT
+BioPlanet_2019	Disease	1/674	4.963879e-01	5.239650e-01	0	0	1.509893e+00	1.057525e+00	GTF2H1
+BioPlanet_2019	Interleukin-2 signaling pathway	1/847	5.793175e-01	6.031251e-01	0	0	1.190370e+00	6.498282e-01	LY75
+BioPlanet_2019	Gene expression	1/968	6.294220e-01	6.413517e-01	0	0	1.034834e+00	4.790797e-01	GTF2H1
+BioPlanet_2019	Signaling by GPCR	1/977	6.329129e-01	6.413517e-01	0	0	1.024806e+00	4.687693e-01	EDN2
+BioPlanet_2019	Signal transduction	1/1020	6.491646e-01	6.491646e-01	0	0	9.793399e-01	4.231424e-01	EDN2

@@ -1,0 +1,128 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	innate immune response in mucosa (GO:0002227)	2/21	1.571000e-05	1.793988e-03	0	0	5.256579e+02	5.814414e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	mucosal immune response (GO:0002385)	2/28	2.825178e-05	1.793988e-03	0	0	3.840000e+02	4.022152e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	antibacterial humoral response (GO:0019731)	2/44	7.055399e-05	2.986786e-03	0	0	2.375238e+02	2.270522e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	2/64	1.499561e-04	4.132668e-03	0	0	1.607419e+02	1.415360e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	defense response to Gram-positive bacterium (GO:0050830)	2/70	1.794914e-04	4.132668e-03	0	0	1.465147e+02	1.263746e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	defense response to Gram-negative bacterium (GO:0050829)	2/73	1.952442e-04	4.132668e-03	0	0	1.403028e+02	1.198363e+03	DEFA6;DEFA5
+GO_Biological_Process_2021	cellular response to molecule of bacterial origin (GO:0071219)	2/115	4.842742e-04	8.368364e-03	0	0	8.796903e+01	6.714552e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	cellular response to lipopolysaccharide (GO:0071222)	2/120	5.271411e-04	8.368364e-03	0	0	8.422034e+01	6.356987e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	response to lipopolysaccharide (GO:0032496)	2/159	9.225488e-04	1.142264e-02	0	0	6.317516e+01	4.414914e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	defense response to bacterium (GO:0042742)	2/176	1.128492e-03	1.142264e-02	0	0	5.695402e+01	3.865397e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	negative regulation of leukocyte adhesion to vascular endothelial cell (GO:1904995)	1/5	1.499220e-03	1.142264e-02	0	0	9.995000e+02	6.499559e+03	CCL21
+GO_Biological_Process_2021	positive regulation of glycoprotein metabolic process (GO:1903020)	1/5	1.499220e-03	1.142264e-02	0	0	9.995000e+02	6.499559e+03	CCL21
+GO_Biological_Process_2021	establishment of T cell polarity (GO:0001768)	1/5	1.499220e-03	1.142264e-02	0	0	9.995000e+02	6.499559e+03	CCL21
+GO_Biological_Process_2021	response to prostaglandin (GO:0034694)	1/5	1.499220e-03	1.142264e-02	0	0	9.995000e+02	6.499559e+03	CCL21
+GO_Biological_Process_2021	positive regulation of membrane permeability (GO:1905710)	1/5	1.499220e-03	1.142264e-02	0	0	9.995000e+02	6.499559e+03	DEFA5
+GO_Biological_Process_2021	cellular response to lipid (GO:0071396)	2/219	1.739198e-03	1.142264e-02	0	0	4.556912e+01	2.895613e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	positive regulation of antigen processing and presentation (GO:0002579)	1/6	1.798841e-03	1.142264e-02	0	0	7.995600e+02	5.053709e+03	CCL21
+GO_Biological_Process_2021	establishment of lymphocyte polarity (GO:0001767)	1/6	1.798841e-03	1.142264e-02	0	0	7.995600e+02	5.053709e+03	CCL21
+GO_Biological_Process_2021	negative regulation of cellular extravasation (GO:0002692)	1/6	1.798841e-03	1.142264e-02	0	0	7.995600e+02	5.053709e+03	CCL21
+GO_Biological_Process_2021	positive regulation of dendritic cell antigen processing and presentation (GO:0002606)	1/6	1.798841e-03	1.142264e-02	0	0	7.995600e+02	5.053709e+03	CCL21
+GO_Biological_Process_2021	negative regulation of dendritic cell apoptotic process (GO:2000669)	1/7	2.098387e-03	1.269025e-02	0	0	6.662667e+02	4.108591e+03	CCL21
+GO_Biological_Process_2021	immunological synapse formation (GO:0001771)	1/8	2.397859e-03	1.324035e-02	0	0	5.710571e+02	3.445290e+03	CCL21
+GO_Biological_Process_2021	positive regulation of dendritic cell chemotaxis (GO:2000510)	1/8	2.397859e-03	1.324035e-02	0	0	5.710571e+02	3.445290e+03	CCL21
+GO_Biological_Process_2021	regulation of dendritic cell antigen processing and presentation (GO:0002604)	1/9	2.697256e-03	1.426765e-02	0	0	4.996500e+02	2.955690e+03	CCL21
+GO_Biological_Process_2021	regulation of glycoprotein biosynthetic process (GO:0010559)	1/10	2.996578e-03	1.426765e-02	0	0	4.441111e+02	2.580412e+03	CCL21
+GO_Biological_Process_2021	regulation of leukocyte tethering or rolling (GO:1903236)	1/10	2.996578e-03	1.426765e-02	0	0	4.441111e+02	2.580412e+03	CCL21
+GO_Biological_Process_2021	innate immune response (GO:0045087)	2/302	3.274844e-03	1.426765e-02	0	0	3.282333e+01	1.877982e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	response to prostaglandin E (GO:0034695)	1/11	3.295826e-03	1.426765e-02	0	0	3.996800e+02	2.284211e+03	CCL21
+GO_Biological_Process_2021	regulation of dendritic cell apoptotic process (GO:2000668)	1/11	3.295826e-03	1.426765e-02	0	0	3.996800e+02	2.284211e+03	CCL21
+GO_Biological_Process_2021	regulation of pseudopodium assembly (GO:0031272)	1/12	3.594998e-03	1.426765e-02	0	0	3.633273e+02	2.044883e+03	CCL21
+GO_Biological_Process_2021	negative regulation of leukocyte apoptotic process (GO:2000107)	1/12	3.594998e-03	1.426765e-02	0	0	3.633273e+02	2.044883e+03	CCL21
+GO_Biological_Process_2021	positive regulation of pseudopodium assembly (GO:0031274)	1/12	3.594998e-03	1.426765e-02	0	0	3.633273e+02	2.044883e+03	CCL21
+GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	2/323	3.736387e-03	1.437943e-02	0	0	3.064330e+01	1.712849e+02	DEFA6;DEFA5
+GO_Biological_Process_2021	response to chemokine (GO:1990868)	1/14	4.193120e-03	1.439260e-02	0	0	3.074000e+02	1.682803e+03	CCL21
+GO_Biological_Process_2021	positive regulation of glycoprotein biosynthetic process (GO:0010560)	1/14	4.193120e-03	1.439260e-02	0	0	3.074000e+02	1.682803e+03	CCL21
+GO_Biological_Process_2021	positive regulation of lymphocyte migration (GO:2000403)	1/14	4.193120e-03	1.439260e-02	0	0	3.074000e+02	1.682803e+03	CCL21
+GO_Biological_Process_2021	positive regulation of T cell chemotaxis (GO:0010820)	1/14	4.193120e-03	1.439260e-02	0	0	3.074000e+02	1.682803e+03	CCL21
+GO_Biological_Process_2021	regulation of T cell chemotaxis (GO:0010819)	1/15	4.492068e-03	1.448690e-02	0	0	2.854286e+02	1.542868e+03	CCL21
+GO_Biological_Process_2021	dendritic cell chemotaxis (GO:0002407)	1/16	4.790942e-03	1.448690e-02	0	0	2.663867e+02	1.422779e+03	CCL21
+GO_Biological_Process_2021	killing by host of symbiont cells (GO:0051873)	1/16	4.790942e-03	1.448690e-02	0	0	2.663867e+02	1.422779e+03	DEFA5
+GO_Biological_Process_2021	eosinophil chemotaxis (GO:0048245)	1/16	4.790942e-03	1.448690e-02	0	0	2.663867e+02	1.422779e+03	CCL21
+GO_Biological_Process_2021	eosinophil migration (GO:0072677)	1/16	4.790942e-03	1.448690e-02	0	0	2.663867e+02	1.422779e+03	CCL21
+GO_Biological_Process_2021	ruffle organization (GO:0031529)	1/17	5.089741e-03	1.487685e-02	0	0	2.497250e+02	1.318680e+03	CCL21
+GO_Biological_Process_2021	dendritic cell migration (GO:0036336)	1/18	5.388466e-03	1.487685e-02	0	0	2.350235e+02	1.227644e+03	CCL21
+GO_Biological_Process_2021	positive regulation of cell adhesion mediated by integrin (GO:0033630)	1/18	5.388466e-03	1.487685e-02	0	0	2.350235e+02	1.227644e+03	CCL21
+GO_Biological_Process_2021	positive regulation of lymphocyte chemotaxis (GO:0140131)	1/18	5.388466e-03	1.487685e-02	0	0	2.350235e+02	1.227644e+03	CCL21
+GO_Biological_Process_2021	positive regulation of neutrophil chemotaxis (GO:0090023)	1/19	5.687116e-03	1.536731e-02	0	0	2.219556e+02	1.147411e+03	CCL21
+GO_Biological_Process_2021	regulation of T cell migration (GO:2000404)	1/20	5.985691e-03	1.583714e-02	0	0	2.102632e+02	1.076207e+03	CCL21
+GO_Biological_Process_2021	positive regulation of neutrophil migration (GO:1902624)	1/22	6.582617e-03	1.671985e-02	0	0	1.902190e+02	9.555317e+02	CCL21
+GO_Biological_Process_2021	positive regulation of granulocyte chemotaxis (GO:0071624)	1/22	6.582617e-03	1.671985e-02	0	0	1.902190e+02	9.555317e+02	CCL21
+GO_Biological_Process_2021	negative regulation of sequestering of calcium ion (GO:0051283)	1/25	7.477447e-03	1.791766e-02	0	0	1.664167e+02	8.147533e+02	CCL21
+GO_Biological_Process_2021	regulation of neutrophil chemotaxis (GO:0090022)	1/25	7.477447e-03	1.791766e-02	0	0	1.664167e+02	8.147533e+02	CCL21
+GO_Biological_Process_2021	positive regulation of T cell migration (GO:2000406)	1/25	7.477447e-03	1.791766e-02	0	0	1.664167e+02	8.147533e+02	CCL21
+GO_Biological_Process_2021	positive regulation of filopodium assembly (GO:0051491)	1/26	7.775574e-03	1.798861e-02	0	0	1.597520e+02	7.758784e+02	CCL21
+GO_Biological_Process_2021	release of sequestered calcium ion into cytosol (GO:0051209)	1/27	8.073627e-03	1.798861e-02	0	0	1.536000e+02	7.402218e+02	CCL21
+GO_Biological_Process_2021	positive regulation of cellular component movement (GO:0051272)	1/27	8.073627e-03	1.798861e-02	0	0	1.536000e+02	7.402218e+02	CCL21
+GO_Biological_Process_2021	negative regulation of plasma membrane bounded cell projection assembly (GO:0120033)	1/27	8.073627e-03	1.798861e-02	0	0	1.536000e+02	7.402218e+02	CCL21
+GO_Biological_Process_2021	positive regulation of phosphatidylinositol 3-kinase activity (GO:0043552)	1/28	8.371605e-03	1.802023e-02	0	0	1.479037e+02	7.074101e+02	CCL21
+GO_Biological_Process_2021	response to ketone (GO:1901654)	1/28	8.371605e-03	1.802023e-02	0	0	1.479037e+02	7.074101e+02	CCL21
+GO_Biological_Process_2021	response to alcohol (GO:0097305)	1/30	8.967338e-03	1.866970e-02	0	0	1.376897e+02	6.490920e+02	CCL21
+GO_Biological_Process_2021	positive regulation of lipid kinase activity (GO:0090218)	1/30	8.967338e-03	1.866970e-02	0	0	1.376897e+02	6.490920e+02	CCL21
+GO_Biological_Process_2021	positive regulation of locomotion (GO:0040017)	1/31	9.265092e-03	1.897850e-02	0	0	1.330933e+02	6.230766e+02	CCL21
+GO_Biological_Process_2021	regulation of chemotaxis (GO:0050920)	1/32	9.562772e-03	1.927733e-02	0	0	1.287935e+02	5.988742e+02	CCL21
+GO_Biological_Process_2021	regulation of cell adhesion mediated by integrin (GO:0033628)	1/34	1.015791e-02	2.015710e-02	0	0	1.209758e+02	5.552186e+02	CCL21
+GO_Biological_Process_2021	regulation of phosphatidylinositol 3-kinase activity (GO:0043551)	1/35	1.045537e-02	2.042818e-02	0	0	1.174118e+02	5.354728e+02	CCL21
+GO_Biological_Process_2021	regulation of receptor-mediated endocytosis (GO:0048259)	1/39	1.164445e-02	2.240674e-02	0	0	1.050316e+02	4.676978e+02	CCL21
+GO_Biological_Process_2021	lymphocyte migration (GO:0072676)	1/40	1.194153e-02	2.263544e-02	0	0	1.023333e+02	4.531047e+02	CCL21
+GO_Biological_Process_2021	regulation of filopodium assembly (GO:0051489)	1/41	1.223854e-02	2.274294e-02	0	0	9.977000e+01	4.393038e+02	CCL21
+GO_Biological_Process_2021	calcium ion transmembrane import into cytosol (GO:0097553)	1/42	1.253548e-02	2.274294e-02	0	0	9.733171e+01	4.262343e+02	CCL21
+GO_Biological_Process_2021	monocyte chemotaxis (GO:0002548)	1/42	1.253548e-02	2.274294e-02	0	0	9.733171e+01	4.262343e+02	CCL21
+GO_Biological_Process_2021	positive regulation of cell-matrix adhesion (GO:0001954)	1/44	1.312912e-02	2.284108e-02	0	0	9.279535e+01	4.020750e+02	CCL21
+GO_Biological_Process_2021	lymphocyte chemotaxis (GO:0048247)	1/44	1.312912e-02	2.284108e-02	0	0	9.279535e+01	4.020750e+02	CCL21
+GO_Biological_Process_2021	positive regulation of receptor-mediated endocytosis (GO:0048260)	1/44	1.312912e-02	2.284108e-02	0	0	9.279535e+01	4.020750e+02	CCL21
+GO_Biological_Process_2021	positive regulation of chemotaxis (GO:0050921)	1/45	1.342584e-02	2.304164e-02	0	0	9.068182e+01	3.908907e+02	CCL21
+GO_Biological_Process_2021	positive regulation of endocytosis (GO:0045807)	1/48	1.431553e-02	2.424096e-02	0	0	8.488085e+01	3.604389e+02	CCL21
+GO_Biological_Process_2021	positive regulation of actin filament polymerization (GO:0030838)	1/49	1.461194e-02	2.441733e-02	0	0	8.310833e+01	3.512088e+02	CCL21
+GO_Biological_Process_2021	chemokine-mediated signaling pathway (GO:0070098)	1/56	1.668477e-02	2.751904e-02	0	0	7.250545e+01	2.967836e+02	CCL21
+GO_Biological_Process_2021	cellular response to chemokine (GO:1990869)	1/60	1.786761e-02	2.909214e-02	0	0	6.757627e+01	2.719786e+02	CCL21
+GO_Biological_Process_2021	regulation of cell-matrix adhesion (GO:0001952)	1/65	1.934450e-02	3.109812e-02	0	0	6.228125e+01	2.457212e+02	CCL21
+GO_Biological_Process_2021	cell chemotaxis (GO:0060326)	1/69	2.052467e-02	3.185639e-02	0	0	5.860588e+01	2.277499e+02	CCL21
+GO_Biological_Process_2021	positive regulation of protein polymerization (GO:0032273)	1/69	2.052467e-02	3.185639e-02	0	0	5.860588e+01	2.277499e+02	CCL21
+GO_Biological_Process_2021	positive regulation of cell-substrate adhesion (GO:0010811)	1/70	2.081953e-02	3.185639e-02	0	0	5.775362e+01	2.236142e+02	CCL21
+GO_Biological_Process_2021	neutrophil chemotaxis (GO:0030593)	1/70	2.081953e-02	3.185639e-02	0	0	5.775362e+01	2.236142e+02	CCL21
+GO_Biological_Process_2021	granulocyte chemotaxis (GO:0071621)	1/73	2.170366e-02	3.205076e-02	0	0	5.533889e+01	2.119631e+02	CCL21
+GO_Biological_Process_2021	positive regulation of JNK cascade (GO:0046330)	1/73	2.170366e-02	3.205076e-02	0	0	5.533889e+01	2.119631e+02	CCL21
+GO_Biological_Process_2021	regulation of actin filament polymerization (GO:0030833)	1/73	2.170366e-02	3.205076e-02	0	0	5.533889e+01	2.119631e+02	CCL21
+GO_Biological_Process_2021	neutrophil migration (GO:1990266)	1/77	2.288147e-02	3.340169e-02	0	0	5.241579e+01	1.979969e+02	CCL21
+GO_Biological_Process_2021	response to interferon-gamma (GO:0034341)	1/80	2.376405e-02	3.391050e-02	0	0	5.041772e+01	1.885412e+02	CCL21
+GO_Biological_Process_2021	positive regulation of cell adhesion (GO:0045785)	1/80	2.376405e-02	3.391050e-02	0	0	5.041772e+01	1.885412e+02	CCL21
+GO_Biological_Process_2021	positive regulation of cytoskeleton organization (GO:0051495)	1/82	2.435207e-02	3.436348e-02	0	0	4.916790e+01	1.826656e+02	CCL21
+GO_Biological_Process_2021	positive regulation of plasma membrane bounded cell projection assembly (GO:0120034)	1/83	2.464597e-02	3.439602e-02	0	0	4.856585e+01	1.798463e+02	CCL21
+GO_Biological_Process_2021	response to interleukin-1 (GO:0070555)	1/86	2.552722e-02	3.523866e-02	0	0	4.684471e+01	1.718268e+02	CCL21
+GO_Biological_Process_2021	positive regulation of supramolecular fiber organization (GO:1902905)	1/91	2.699450e-02	3.686346e-02	0	0	4.423111e+01	1.597682e+02	CCL21
+GO_Biological_Process_2021	T cell activation (GO:0042110)	1/92	2.728773e-02	3.686747e-02	0	0	4.374286e+01	1.575319e+02	CCL21
+GO_Biological_Process_2021	positive regulation of stress-activated MAPK cascade (GO:0032874)	1/99	2.933832e-02	3.919930e-02	0	0	4.060408e+01	1.432862e+02	CCL21
+GO_Biological_Process_2021	cell-matrix adhesion (GO:0007160)	1/100	2.963096e-02	3.919930e-02	0	0	4.019192e+01	1.414328e+02	CCL21
+GO_Biological_Process_2021	activation of GTPase activity (GO:0090630)	1/105	3.109309e-02	4.029411e-02	0	0	3.825000e+01	1.327569e+02	CCL21
+GO_Biological_Process_2021	regulation of JNK cascade (GO:0046328)	1/105	3.109309e-02	4.029411e-02	0	0	3.825000e+01	1.327569e+02	CCL21
+GO_Biological_Process_2021	response to tumor necrosis factor (GO:0034612)	1/110	3.255338e-02	4.134280e-02	0	0	3.648624e+01	1.249608e+02	CCL21
+GO_Biological_Process_2021	regulation of protein kinase activity (GO:0045859)	1/110	3.255338e-02	4.134280e-02	0	0	3.648624e+01	1.249608e+02	CCL21
+GO_Biological_Process_2021	positive regulation of kinase activity (GO:0033674)	1/114	3.372030e-02	4.240077e-02	0	0	3.518761e+01	1.192739e+02	CCL21
+GO_Biological_Process_2021	cellular response to interferon-gamma (GO:0071346)	1/121	3.575957e-02	4.452417e-02	0	0	3.312333e+01	1.103317e+02	CCL21
+GO_Biological_Process_2021	plasma membrane bounded cell projection organization (GO:0120036)	1/128	3.779526e-02	4.650860e-02	0	0	3.128661e+01	1.024815e+02	CCL21
+GO_Biological_Process_2021	positive regulation of macromolecule biosynthetic process (GO:0010557)	1/129	3.808578e-02	4.650860e-02	0	0	3.104062e+01	1.014381e+02	CCL21
+GO_Biological_Process_2021	regulation of cell motility (GO:2000145)	1/133	3.924713e-02	4.747034e-02	0	0	3.009394e+01	9.744047e+01	CCL21
+GO_Biological_Process_2021	positive regulation of response to external stimulus (GO:0032103)	1/139	4.098696e-02	4.910702e-02	0	0	2.877681e+01	9.192756e+01	CCL21
+GO_Biological_Process_2021	positive regulation of hydrolase activity (GO:0051345)	1/149	4.388085e-02	5.208287e-02	0	0	2.681892e+01	8.384338e+01	CCL21
+GO_Biological_Process_2021	positive regulation of protein kinase activity (GO:0045860)	1/154	4.532506e-02	5.314622e-02	0	0	2.593595e+01	8.024310e+01	CCL21
+GO_Biological_Process_2021	cellular response to interleukin-1 (GO:0071347)	1/155	4.561368e-02	5.314622e-02	0	0	2.576623e+01	7.955447e+01	CCL21
+GO_Biological_Process_2021	positive regulation of protein kinase B signaling (GO:0051897)	1/161	4.734390e-02	5.466069e-02	0	0	2.479250e+01	7.562499e+01	CCL21
+GO_Biological_Process_2021	positive regulation of I-kappaB kinase/NF-kappaB signaling (GO:0043123)	1/171	5.022179e-02	5.727380e-02	0	0	2.332235e+01	6.976430e+01	CCL21
+GO_Biological_Process_2021	positive regulation of ERK1 and ERK2 cascade (GO:0070374)	1/172	5.050918e-02	5.727380e-02	0	0	2.318480e+01	6.922053e+01	CCL21
+GO_Biological_Process_2021	positive regulation of cellular biosynthetic process (GO:0031328)	1/180	5.280569e-02	5.934799e-02	0	0	2.213966e+01	6.511577e+01	CCL21
+GO_Biological_Process_2021	regulation of GTPase activity (GO:0043087)	1/189	5.538373e-02	6.169942e-02	0	0	2.107021e+01	6.096601e+01	CCL21
+GO_Biological_Process_2021	cellular response to tumor necrosis factor (GO:0071356)	1/194	5.681345e-02	6.274181e-02	0	0	2.051917e+01	5.884862e+01	CCL21
+GO_Biological_Process_2021	regulation of protein kinase B signaling (GO:0051896)	1/207	6.052228e-02	6.626146e-02	0	0	1.921165e+01	5.388376e+01	CCL21
+GO_Biological_Process_2021	positive regulation of GTPase activity (GO:0043547)	1/214	6.251430e-02	6.785740e-02	0	0	1.857371e+01	5.149301e+01	CCL21
+GO_Biological_Process_2021	positive regulation of cell motility (GO:2000147)	1/221	6.450280e-02	6.942251e-02	0	0	1.797636e+01	4.927405e+01	CCL21
+GO_Biological_Process_2021	regulation of I-kappaB kinase/NF-kappaB signaling (GO:0043122)	1/224	6.535394e-02	6.974748e-02	0	0	1.773184e+01	4.837135e+01	CCL21
+GO_Biological_Process_2021	inflammatory response (GO:0006954)	1/230	6.705428e-02	7.096578e-02	0	0	1.726201e+01	4.664631e+01	CCL21
+GO_Biological_Process_2021	regulation of ERK1 and ERK2 cascade (GO:0070372)	1/238	6.931739e-02	7.275462e-02	0	0	1.667257e+01	4.450009e+01	CCL21
+GO_Biological_Process_2021	positive regulation of MAPK cascade (GO:0043410)	1/274	7.944486e-02	8.270079e-02	0	0	1.444762e+01	3.659137e+01	CCL21
+GO_Biological_Process_2021	plasma membrane bounded cell projection assembly (GO:0120031)	1/278	8.056444e-02	8.318442e-02	0	0	1.423610e+01	3.585644e+01	CCL21
+GO_Biological_Process_2021	positive regulation of protein phosphorylation (GO:0001934)	1/371	1.062767e-01	1.088479e-01	0	0	1.060757e+01	2.377908e+01	CCL21
+GO_Biological_Process_2021	cellular response to cytokine stimulus (GO:0071345)	1/482	1.361784e-01	1.383573e-01	0	0	8.113514e+00	1.617664e+01	CCL21
+GO_Biological_Process_2021	positive regulation of intracellular signal transduction (GO:1902533)	1/546	1.530368e-01	1.542514e-01	0	0	7.137248e+00	1.339716e+01	CCL21
+GO_Biological_Process_2021	cytokine-mediated signaling pathway (GO:0019221)	1/621	1.724429e-01	1.724429e-01	0	0	6.249677e+00	1.098499e+01	CCL21

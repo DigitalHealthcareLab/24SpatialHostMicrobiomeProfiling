@@ -1,0 +1,14 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+BioPlanet_2019	Complement cascade	5/77	9.226284e-11	1.199417e-09	0	0	3.458160e+02	7.990555e+03	IGHG3;IGHG4;IGHG1;IGKC;IGLC2
+BioPlanet_2019	Innate immune system	5/319	1.196154e-07	7.775003e-07	0	0	7.833201e+01	1.248533e+03	IGHG3;IGHG4;IGHG1;IGKC;IGLC2
+BioPlanet_2019	Immune system	5/998	3.261523e-05	1.413327e-04	0	0	2.391490e+01	2.470584e+02	IGHG3;IGHG4;IGHG1;IGKC;IGLC2
+BioPlanet_2019	Interleukin-4 signaling pathway	2/104	9.414164e-04	3.059603e-03	0	0	5.571148e+01	3.882046e+02	IGHG3;IGHG1
+BioPlanet_2019	Immunoregulatory interactions between a lymphoid and a non-lymphoid cell	2/119	1.229757e-03	3.197367e-03	0	0	4.853236e+01	3.252124e+02	IGKC;IGLC2
+BioPlanet_2019	Signaling by the B cell receptor (BCR)	2/151	1.968851e-03	4.265843e-03	0	0	3.804794e+01	2.370503e+02	IGKC;IGLC2
+BioPlanet_2019	Antigen-activated B-cell receptor generation of second messengers	2/211	3.798024e-03	7.053474e-03	0	0	2.704306e+01	1.507184e+02	IGKC;IGLC2
+BioPlanet_2019	STAT3 pathway	1/19	8.519186e-03	1.384368e-02	0	0	1.387014e+02	6.609724e+02	REG1A
+BioPlanet_2019	Gastrin pathway	1/44	1.963039e-02	2.835501e-02	0	0	5.798837e+01	2.279335e+02	REG1A
+BioPlanet_2019	Type II interferon signaling (interferon-gamma)	1/50	2.228056e-02	2.896473e-02	0	0	5.087245e+01	1.935209e+02	REG1A
+BioPlanet_2019	Adaptive immune system	2/606	2.865032e-02	3.385947e-02	0	0	9.170766e+00	3.257998e+01	IGKC;IGLC2
+BioPlanet_2019	Interferon-gamma signaling pathway	1/97	4.282088e-02	4.638929e-02	0	0	2.590495e+01	8.161948e+01	REG1A
+BioPlanet_2019	Insulin signaling pathway	1/277	1.179849e-01	1.179849e-01	0	0	8.928895e+00	1.908282e+01	REG1A

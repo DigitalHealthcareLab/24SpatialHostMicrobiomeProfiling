@@ -1,0 +1,11 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	vesicle fusion with endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane (GO:1990668)	1/6	2.999906e-04	2.999906e-03	0	0	1.999400e+04	1.621865e+05	TAPBP
+GO_Biological_Process_2021	antigen processing and presentation of peptide antigen via MHC class I (GO:0002474)	1/33	1.649968e-03	8.249839e-03	0	0	1.996700e+04	1.279286e+05	TAPBP
+GO_Biological_Process_2021	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent (GO:0002479)	1/73	3.649945e-03	8.499879e-03	0	0	1.992700e+04	1.118511e+05	TAPBP
+GO_Biological_Process_2021	antigen processing and presentation of exogenous peptide antigen via MHC class I (GO:0042590)	1/78	3.899943e-03	8.499879e-03	0	0	1.992200e+04	1.105032e+05	TAPBP
+GO_Biological_Process_2021	retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum (GO:0006890)	1/85	4.249940e-03	8.499879e-03	0	0	1.991500e+04	1.087528e+05	TAPBP
+GO_Biological_Process_2021	protein-containing complex subunit organization (GO:0043933)	1/112	5.599928e-03	9.333214e-03	0	0	1.988800e+04	1.031193e+05	TAPBP
+GO_Biological_Process_2021	regulation of macromolecule metabolic process (GO:0060255)	1/200	9.999899e-03	1.428557e-02	0	0	1.980000e+04	9.118257e+04	TAPBP
+GO_Biological_Process_2021	cellular component assembly (GO:0022607)	1/261	1.304988e-02	1.483320e-02	0	0	1.973900e+04	8.564705e+04	TAPBP
+GO_Biological_Process_2021	protein-containing complex assembly (GO:0065003)	1/267	1.334988e-02	1.483320e-02	0	0	1.973300e+04	8.517252e+04	TAPBP
+GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	1/1079	5.394978e-02	5.394978e-02	0	0	1.892100e+04	5.524367e+04	TAPBP

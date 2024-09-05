@@ -1,0 +1,99 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	neutrophil degranulation (GO:0043312)	3/481	4.129425e-03	4.792580e-02	0	0	1.113047e+01	6.110201e+01	NPC2;LCN2;TCIRG1
+GO_Biological_Process_2021	glycolipid transport (GO:0046836)	1/6	4.193120e-03	4.792580e-02	0	0	3.074000e+02	1.682803e+03	NPC2
+GO_Biological_Process_2021	induction of bacterial agglutination (GO:0043152)	1/6	4.193120e-03	4.792580e-02	0	0	3.074000e+02	1.682803e+03	DMBT1
+GO_Biological_Process_2021	neutrophil activation involved in immune response (GO:0002283)	3/485	4.226504e-03	4.792580e-02	0	0	1.103584e+01	6.032607e+01	NPC2;LCN2;TCIRG1
+GO_Biological_Process_2021	neutrophil mediated immunity (GO:0002446)	3/488	4.300229e-03	4.792580e-02	0	0	1.096589e+01	5.975407e+01	NPC2;LCN2;TCIRG1
+GO_Biological_Process_2021	negative regulation of response to interferon-gamma (GO:0060331)	1/7	4.890388e-03	4.792580e-02	0	0	2.561538e+02	1.362862e+03	PARP14
+GO_Biological_Process_2021	iron coordination entity transport (GO:1901678)	1/7	4.890388e-03	4.792580e-02	0	0	2.561538e+02	1.362862e+03	LCN2
+GO_Biological_Process_2021	negative regulation of interferon-gamma-mediated signaling pathway (GO:0060336)	1/7	4.890388e-03	4.792580e-02	0	0	2.561538e+02	1.362862e+03	PARP14
+GO_Biological_Process_2021	detection of molecule of bacterial origin (GO:0032490)	1/7	4.890388e-03	4.792580e-02	0	0	2.561538e+02	1.362862e+03	DMBT1
+GO_Biological_Process_2021	protein catabolic process in the vacuole (GO:0007039)	1/7	4.890388e-03	4.792580e-02	0	0	2.561538e+02	1.362862e+03	TCIRG1
+GO_Biological_Process_2021	store-operated calcium entry (GO:0002115)	1/8	5.587202e-03	4.825022e-02	0	0	2.195495e+02	1.138864e+03	CRACR2B
+GO_Biological_Process_2021	defense response to bacterium (GO:0042742)	2/176	6.536519e-03	4.825022e-02	0	0	1.897701e+01	9.546102e+01	DMBT1;LCN2
+GO_Biological_Process_2021	protein poly-ADP-ribosylation (GO:0070212)	1/10	6.979474e-03	4.825022e-02	0	0	1.707436e+02	8.477047e+02	PARP14
+GO_Biological_Process_2021	negative regulation of tyrosine phosphorylation of STAT protein (GO:0042532)	1/10	6.979474e-03	4.825022e-02	0	0	1.707436e+02	8.477047e+02	PARP14
+GO_Biological_Process_2021	intrinsic apoptotic signaling pathway in response to oxidative stress (GO:0008631)	1/12	8.369936e-03	4.825022e-02	0	0	1.396853e+02	6.681301e+02	GSKIP
+GO_Biological_Process_2021	protein mono-ADP-ribosylation (GO:0140289)	1/12	8.369936e-03	4.825022e-02	0	0	1.396853e+02	6.681301e+02	PARP14
+GO_Biological_Process_2021	mitochondrial electron transport, ubiquinol to cytochrome c (GO:0006122)	1/12	8.369936e-03	4.825022e-02	0	0	1.396853e+02	6.681301e+02	UQCRC2
+GO_Biological_Process_2021	intracellular sterol transport (GO:0032366)	1/13	9.064489e-03	4.935111e-02	0	0	1.280385e+02	6.022149e+02	NPC2
+GO_Biological_Process_2021	detection of bacterium (GO:0016045)	1/14	9.758591e-03	5.033378e-02	0	0	1.181834e+02	5.471429e+02	DMBT1
+GO_Biological_Process_2021	intracellular cholesterol transport (GO:0032367)	1/15	1.045224e-02	5.121598e-02	0	0	1.097363e+02	5.005004e+02	NPC2
+GO_Biological_Process_2021	negative regulation of receptor signaling pathway via JAK-STAT (GO:0046426)	1/16	1.114544e-02	5.201205e-02	0	0	1.024154e+02	4.605338e+02	PARP14
+GO_Biological_Process_2021	carbohydrate derivative transport (GO:1901264)	1/18	1.253049e-02	5.504841e-02	0	0	9.035747e+01	3.957287e+02	NPC2
+GO_Biological_Process_2021	vacuolar acidification (GO:0007035)	1/21	1.460468e-02	5.504841e-02	0	0	7.679231e+01	3.245560e+02	TCIRG1
+GO_Biological_Process_2021	aerobic respiration (GO:0009060)	1/21	1.460468e-02	5.504841e-02	0	0	7.679231e+01	3.245560e+02	UQCRC2
+GO_Biological_Process_2021	sterol transport (GO:0015918)	1/21	1.460468e-02	5.504841e-02	0	0	7.679231e+01	3.245560e+02	NPC2
+GO_Biological_Process_2021	intracellular lipid transport (GO:0032365)	1/21	1.460468e-02	5.504841e-02	0	0	7.679231e+01	3.245560e+02	NPC2
+GO_Biological_Process_2021	regulation of interferon-gamma-mediated signaling pathway (GO:0060334)	1/23	1.598523e-02	5.802045e-02	0	0	6.980420e+01	2.887165e+02	PARP14
+GO_Biological_Process_2021	cholesterol efflux (GO:0033344)	1/24	1.667483e-02	5.836190e-02	0	0	6.676589e+01	2.733299e+02	NPC2
+GO_Biological_Process_2021	organophosphate ester transport (GO:0015748)	1/25	1.736398e-02	5.867827e-02	0	0	6.398077e+01	2.593369e+02	NPC2
+GO_Biological_Process_2021	innate immune response (GO:0045087)	2/302	1.834625e-02	5.993108e-02	0	0	1.093667e+01	4.372840e+01	DMBT1;LCN2
+GO_Biological_Process_2021	phagosome acidification (GO:0090383)	1/28	1.942874e-02	6.141990e-02	0	0	5.686325e+01	2.240982e+02	TCIRG1
+GO_Biological_Process_2021	protein ADP-ribosylation (GO:0006471)	1/29	2.011610e-02	6.160556e-02	0	0	5.482967e+01	2.141776e+02	PARP14
+GO_Biological_Process_2021	negative regulation of peptidyl-tyrosine phosphorylation (GO:0050732)	1/31	2.148948e-02	6.381724e-02	0	0	5.116923e+01	1.964997e+02	PARP14
+GO_Biological_Process_2021	intracellular pH reduction (GO:0051452)	1/35	2.423087e-02	6.780248e-02	0	0	4.514027e+01	1.679276e+02	TCIRG1
+GO_Biological_Process_2021	positive regulation of cytokine-mediated signaling pathway (GO:0001961)	1/36	2.491511e-02	6.780248e-02	0	0	4.384835e+01	1.619004e+02	PARP14
+GO_Biological_Process_2021	transferrin transport (GO:0033572)	1/36	2.491511e-02	6.780248e-02	0	0	4.384835e+01	1.619004e+02	TCIRG1
+GO_Biological_Process_2021	phagosome maturation (GO:0090382)	1/37	2.559889e-02	6.780248e-02	0	0	4.262821e+01	1.562412e+02	TCIRG1
+GO_Biological_Process_2021	response to peptide (GO:1901652)	1/39	2.696513e-02	6.947342e-02	0	0	4.038057e+01	1.459035e+02	REG1A
+GO_Biological_Process_2021	organic hydroxy compound transport (GO:0015850)	1/40	2.764759e-02	6.947342e-02	0	0	3.934320e+01	1.411719e+02	NPC2
+GO_Biological_Process_2021	cellular respiration (GO:0045333)	1/42	2.901116e-02	7.107734e-02	0	0	3.742026e+01	1.324705e+02	UQCRC2
+GO_Biological_Process_2021	antibacterial humoral response (GO:0019731)	1/44	3.037296e-02	7.259877e-02	0	0	3.567621e+01	1.246599e+02	DMBT1
+GO_Biological_Process_2021	regulation of cellular metabolic process (GO:0031323)	1/47	3.241233e-02	7.562876e-02	0	0	3.334448e+01	1.143454e+02	NPC2
+GO_Biological_Process_2021	cellular defense response (GO:0006968)	1/49	3.376969e-02	7.627474e-02	0	0	3.195192e+01	1.082592e+02	TCIRG1
+GO_Biological_Process_2021	iron ion transport (GO:0006826)	1/50	3.444771e-02	7.627474e-02	0	0	3.129827e+01	1.054224e+02	TCIRG1
+GO_Biological_Process_2021	cholesterol transport (GO:0030301)	1/51	3.512529e-02	7.627474e-02	0	0	3.067077e+01	1.027113e+02	NPC2
+GO_Biological_Process_2021	response to peptide hormone (GO:0043434)	1/52	3.580243e-02	7.627474e-02	0	0	3.006787e+01	1.001182e+02	REG1A
+GO_Biological_Process_2021	negative regulation of cytokine-mediated signaling pathway (GO:0001960)	1/55	3.783119e-02	7.721960e-02	0	0	2.839316e+01	9.297685e+01	PARP14
+GO_Biological_Process_2021	cellular iron ion homeostasis (GO:0006879)	1/58	3.985599e-02	7.721960e-02	0	0	2.689474e+01	8.666782e+01	LCN2
+GO_Biological_Process_2021	positive regulation of tyrosine phosphorylation of STAT protein (GO:0042531)	1/59	4.053005e-02	7.721960e-02	0	0	2.642971e+01	8.472602e+01	PARP14
+GO_Biological_Process_2021	phospholipid transport (GO:0015914)	1/59	4.053005e-02	7.721960e-02	0	0	2.642971e+01	8.472602e+01	NPC2
+GO_Biological_Process_2021	cellular protein catabolic process (GO:0044257)	1/60	4.120366e-02	7.721960e-02	0	0	2.598044e+01	8.285756e+01	TCIRG1
+GO_Biological_Process_2021	iron ion homeostasis (GO:0055072)	1/61	4.187684e-02	7.721960e-02	0	0	2.554615e+01	8.105852e+01	LCN2
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	2/474	4.225649e-02	7.721960e-02	0	0	6.890537e+00	2.180164e+01	REG1A;TCIRG1
+GO_Biological_Process_2021	negative regulation of kinase activity (GO:0033673)	1/62	4.254957e-02	7.721960e-02	0	0	2.512610e+01	7.932526e+01	GSKIP
+GO_Biological_Process_2021	antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	1/64	4.389373e-02	7.727726e-02	0	0	2.432601e+01	7.604270e+01	REG1A
+GO_Biological_Process_2021	regulation of tyrosine phosphorylation of STAT protein (GO:0042509)	1/68	4.657679e-02	7.727726e-02	0	0	2.286912e+01	7.013164e+01	PARP14
+GO_Biological_Process_2021	defense response to Gram-positive bacterium (GO:0050830)	1/70	4.791570e-02	7.727726e-02	0	0	2.220401e+01	6.746272e+01	DMBT1
+GO_Biological_Process_2021	aerobic electron transport chain (GO:0019646)	1/70	4.791570e-02	7.727726e-02	0	0	2.220401e+01	6.746272e+01	UQCRC2
+GO_Biological_Process_2021	mitochondrial ATP synthesis coupled electron transport (GO:0042775)	1/71	4.858449e-02	7.727726e-02	0	0	2.188571e+01	6.619227e+01	UQCRC2
+GO_Biological_Process_2021	cholesterol homeostasis (GO:0042632)	1/71	4.858449e-02	7.727726e-02	0	0	2.188571e+01	6.619227e+01	NPC2
+GO_Biological_Process_2021	sterol homeostasis (GO:0055092)	1/72	4.925286e-02	7.727726e-02	0	0	2.157638e+01	6.496191e+01	NPC2
+GO_Biological_Process_2021	defense response to Gram-negative bacterium (GO:0050829)	1/73	4.992078e-02	7.727726e-02	0	0	2.127564e+01	6.376986e+01	DMBT1
+GO_Biological_Process_2021	insulin receptor signaling pathway (GO:0008286)	1/73	4.992078e-02	7.727726e-02	0	0	2.127564e+01	6.376986e+01	TCIRG1
+GO_Biological_Process_2021	cellular response to amino acid starvation (GO:0034198)	1/74	5.058827e-02	7.727726e-02	0	0	2.098314e+01	6.261444e+01	TCIRG1
+GO_Biological_Process_2021	response to amino acid starvation (GO:1990928)	1/75	5.125533e-02	7.727726e-02	0	0	2.069854e+01	6.149405e+01	TCIRG1
+GO_Biological_Process_2021	negative regulation of protein kinase activity (GO:0006469)	1/90	6.120907e-02	9.088619e-02	0	0	1.719706e+01	4.803930e+01	GSKIP
+GO_Biological_Process_2021	regulation of lipid metabolic process (GO:0019216)	1/92	6.252888e-02	9.146016e-02	0	0	1.681741e+01	4.662000e+01	NPC2
+GO_Biological_Process_2021	cellular transition metal ion homeostasis (GO:0046916)	1/96	6.516335e-02	9.348474e-02	0	0	1.610607e+01	4.398340e+01	LCN2
+GO_Biological_Process_2021	positive regulation of cold-induced thermogenesis (GO:0120162)	1/97	6.582089e-02	9.348474e-02	0	0	1.593750e+01	4.336304e+01	LCN2
+GO_Biological_Process_2021	epithelial cell differentiation (GO:0030855)	1/101	6.844676e-02	9.423103e-02	0	0	1.529692e+01	4.102175e+01	DMBT1
+GO_Biological_Process_2021	intrinsic apoptotic signaling pathway (GO:0097193)	1/102	6.910215e-02	9.423103e-02	0	0	1.514471e+01	4.046922e+01	GSKIP
+GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	2/625	6.923096e-02	9.423103e-02	0	0	5.180043e+00	1.383231e+01	REG1A;TCIRG1
+GO_Biological_Process_2021	lipid transport (GO:0006869)	1/109	7.367795e-02	9.797580e-02	0	0	1.415812e+01	3.692511e+01	NPC2
+GO_Biological_Process_2021	regulation of protein kinase activity (GO:0045859)	1/110	7.432992e-02	9.797580e-02	0	0	1.402752e+01	3.646092e+01	GSKIP
+GO_Biological_Process_2021	regulation of Wnt signaling pathway (GO:0030111)	1/111	7.498148e-02	9.797580e-02	0	0	1.389930e+01	3.600634e+01	GSKIP
+GO_Biological_Process_2021	positive regulation of metabolic process (GO:0009893)	1/113	7.628330e-02	9.836531e-02	0	0	1.364973e+01	3.512485e+01	LCN2
+GO_Biological_Process_2021	calcium ion transport (GO:0006816)	1/115	7.758343e-02	9.874254e-02	0	0	1.340891e+01	3.427855e+01	CRACR2B
+GO_Biological_Process_2021	macroautophagy (GO:0016236)	1/120	8.082631e-02	1.015510e-01	0	0	1.284228e+01	3.230414e+01	TCIRG1
+GO_Biological_Process_2021	epithelium development (GO:0060429)	1/122	8.212049e-02	1.018710e-01	0	0	1.262873e+01	3.156638e+01	DMBT1
+GO_Biological_Process_2021	cellular response to insulin stimulus (GO:0032869)	1/129	8.663683e-02	1.055984e-01	0	0	1.193389e+01	2.919067e+01	TCIRG1
+GO_Biological_Process_2021	positive regulation of canonical Wnt signaling pathway (GO:0090263)	1/130	8.728033e-02	1.055984e-01	0	0	1.184079e+01	2.887530e+01	GSKIP
+GO_Biological_Process_2021	positive regulation of peptidyl-tyrosine phosphorylation (GO:0050731)	1/134	8.985014e-02	1.073819e-01	0	0	1.148236e+01	2.766803e+01	PARP14
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	2/764	9.794213e-02	1.156425e-01	0	0	4.204724e+00	9.769166e+00	REG1A;TCIRG1
+GO_Biological_Process_2021	negative regulation of protein phosphorylation (GO:0001933)	1/152	1.013313e-01	1.175599e-01	0	0	1.010443e+01	2.313268e+01	GSKIP
+GO_Biological_Process_2021	positive regulation of Wnt signaling pathway (GO:0030177)	1/153	1.019652e-01	1.175599e-01	0	0	1.003745e+01	2.291674e+01	GSKIP
+GO_Biological_Process_2021	cellular response to starvation (GO:0009267)	1/158	1.051284e-01	1.197975e-01	0	0	9.715336e+00	2.188450e+01	TCIRG1
+GO_Biological_Process_2021	negative regulation of macromolecule metabolic process (GO:0010605)	1/194	1.275999e-01	1.437332e-01	0	0	7.888800e+00	1.624190e+01	PARP14
+GO_Biological_Process_2021	regulation of signal transduction (GO:0009966)	1/198	1.300641e-01	1.448441e-01	0	0	7.727060e+00	1.576110e+01	GSKIP
+GO_Biological_Process_2021	regulation of canonical Wnt signaling pathway (GO:0060828)	1/253	1.632982e-01	1.798115e-01	0	0	6.023810e+00	1.091621e+01	GSKIP
+GO_Biological_Process_2021	negative regulation of gene expression (GO:0010629)	1/322	2.033247e-01	2.213981e-01	0	0	4.712437e+00	7.506681e+00	PARP14
+GO_Biological_Process_2021	positive regulation of multicellular organismal process (GO:0051240)	1/345	2.162667e-01	2.329026e-01	0	0	4.392218e+00	6.725552e+00	LCN2
+GO_Biological_Process_2021	protein transport (GO:0015031)	1/369	2.295631e-01	2.445346e-01	0	0	4.100753e+00	6.034574e+00	TCIRG1
+GO_Biological_Process_2021	transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)	1/404	2.485785e-01	2.619430e-01	0	0	3.737927e+00	5.203181e+00	TCIRG1
+GO_Biological_Process_2021	cellular protein metabolic process (GO:0044267)	1/417	2.555297e-01	2.664033e-01	0	0	3.618713e+00	4.937432e+00	DMBT1
+GO_Biological_Process_2021	cellular response to cytokine stimulus (GO:0071345)	1/482	2.893988e-01	2.985377e-01	0	0	3.119303e+00	3.867778e+00	LCN2
+GO_Biological_Process_2021	cytokine-mediated signaling pathway (GO:0019221)	1/621	3.570812e-01	3.645203e-01	0	0	2.402730e+00	2.474312e+00	LCN2
+GO_Biological_Process_2021	cellular protein modification process (GO:0006464)	1/1025	5.213491e-01	5.267238e-01	0	0	1.424429e+00	9.277811e-01	PARP14
+GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	1/1079	5.400769e-01	5.400769e-01	0	0	1.349222e+00	8.311798e-01	PARP14

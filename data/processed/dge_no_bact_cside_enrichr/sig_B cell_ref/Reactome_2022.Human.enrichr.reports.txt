@@ -1,0 +1,5 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2022	TNF Receptor Superfamily (TNFSF) Members Mediating Non-Canonical NF-kB Pathway R-HSA-5676594	1/17	1.699287e-03	6.797148e-03	0	0	1.248875e+03	7.964758e+03	LTB
+Reactome_2022	TNFR2 Non-Canonical NF-kB Pathway R-HSA-5668541	1/100	9.975147e-03	1.995029e-02	0	0	2.010000e+02	9.261394e+02	LTB
+Reactome_2022	Cytokine Signaling In Immune System R-HSA-1280215	1/702	6.896942e-02	9.195923e-02	0	0	2.752782e+01	7.361192e+01	LTB
+Reactome_2022	Immune System R-HSA-168256	1/1943	1.848659e-01	1.848659e-01	0	0	9.297631e+00	1.569556e+01	LTB

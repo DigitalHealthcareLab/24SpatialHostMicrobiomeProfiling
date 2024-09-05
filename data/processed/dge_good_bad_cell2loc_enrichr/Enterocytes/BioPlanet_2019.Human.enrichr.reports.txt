@@ -1,0 +1,50 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+BioPlanet_2019	Complement cascade	6/77	9.911504e-11	4.856637e-09	0	0	1.201751e+02	2.768201e+03	IGHG3;IGHG4;IGHG1;IGHG2;IGKC;IGLC2
+BioPlanet_2019	Innate immune system	6/319	5.042926e-07	1.235517e-05	0	0	2.692880e+01	3.904705e+02	IGHG3;IGHG4;IGHG1;IGHG2;IGKC;IGLC2
+BioPlanet_2019	Immune system	7/998	3.297049e-05	5.385180e-04	0	0	1.031771e+01	1.064777e+02	IGHG3;IGHM;IGHG4;IGHG1;IGHG2;IGKC;IGLC2
+BioPlanet_2019	Signaling by the B cell receptor (BCR)	3/151	4.376591e-04	5.361324e-03	0	0	2.364706e+01	1.828880e+02	IGHM;IGKC;IGLC2
+BioPlanet_2019	Antigen-activated B-cell receptor generation of second messengers	3/211	1.155908e-03	1.132790e-02	0	0	1.677489e+01	1.134464e+02	IGHM;IGKC;IGLC2
+BioPlanet_2019	Interleukin-4 signaling pathway	2/104	4.786758e-03	3.909186e-02	0	0	2.165359e+01	1.156714e+02	IGHG3;IGHG1
+BioPlanet_2019	Immunoregulatory interactions between a lymphoid and a non-lymphoid cell	2/119	6.218801e-03	4.353161e-02	0	0	1.886325e+01	9.582866e+01	IGKC;IGLC2
+BioPlanet_2019	Acyl chain remodelling of phosphatidylinositol	1/16	1.588634e-02	6.994280e-02	0	0	7.005263e+01	2.901787e+02	PLA2G2A
+BioPlanet_2019	Acyl chain remodelling of phosphatidylglycerol	1/17	1.687123e-02	6.994280e-02	0	0	6.567105e+01	2.680788e+02	PLA2G2A
+BioPlanet_2019	Acyl chain remodelling of phosphatidylserine	1/17	1.687123e-02	6.994280e-02	0	0	6.567105e+01	2.680788e+02	PLA2G2A
+BioPlanet_2019	Eicosanoid biosynthesis	1/19	1.883822e-02	6.994280e-02	0	0	5.836842e+01	2.318316e+02	PLA2G2A
+BioPlanet_2019	STAT3 pathway	1/19	1.883822e-02	6.994280e-02	0	0	5.836842e+01	2.318316e+02	REG1A
+BioPlanet_2019	Alpha-linolenic acid metabolism	1/19	1.883822e-02	6.994280e-02	0	0	5.836842e+01	2.318316e+02	PLA2G2A
+BioPlanet_2019	Adaptive immune system	3/606	2.149611e-02	6.994280e-02	0	0	5.670764e+00	2.177507e+01	IGHM;IGKC;IGLC2
+BioPlanet_2019	Interleukin-11 pathway	1/23	2.276098e-02	6.994280e-02	0	0	4.774641e+01	1.806107e+02	MUC1
+BioPlanet_2019	Acyl chain remodelling of phosphatidylcholine	1/26	2.569327e-02	6.994280e-02	0	0	4.201053e+01	1.538226e+02	PLA2G2A
+BioPlanet_2019	Termination of O-glycan biosynthesis	1/26	2.569327e-02	6.994280e-02	0	0	4.201053e+01	1.538226e+02	MUC1
+BioPlanet_2019	Interleukin-9 regulation of target genes	1/26	2.569327e-02	6.994280e-02	0	0	4.201053e+01	1.538226e+02	LCN2
+BioPlanet_2019	Phosphatidic acid biosynthesis	1/28	2.764349e-02	7.129110e-02	0	0	3.889474e+01	1.395685e+02	PLA2G2A
+BioPlanet_2019	Linoleic acid metabolism	1/35	3.444008e-02	8.036019e-02	0	0	3.087616e+01	1.040074e+02	PLA2G2A
+BioPlanet_2019	Ether lipid metabolism	1/35	3.444008e-02	8.036019e-02	0	0	3.087616e+01	1.040074e+02	PLA2G2A
+BioPlanet_2019	Gastrin pathway	1/44	4.311226e-02	9.602276e-02	0	0	2.440269e+01	7.672079e+01	REG1A
+BioPlanet_2019	Type II interferon signaling (interferon-gamma)	1/50	4.885255e-02	1.040772e-01	0	0	2.140816e+01	6.463015e+01	REG1A
+BioPlanet_2019	Arachidonic acid metabolism	1/58	5.645540e-02	1.152631e-01	0	0	1.839612e+01	5.287605e+01	PLA2G2A
+BioPlanet_2019	O-linked glycosylation of mucins	1/63	6.117783e-02	1.199085e-01	0	0	1.690832e+01	4.724134e+01	MUC1
+BioPlanet_2019	Long-term depression	1/70	6.775151e-02	1.265016e-01	0	0	1.518764e+01	4.088375e+01	PLA2G2A
+BioPlanet_2019	VEGF signaling pathway	1/76	7.335128e-02	1.265016e-01	0	0	1.396842e+01	3.649244e+01	PLA2G2A
+BioPlanet_2019	Glycerophospholipid metabolism	1/79	7.613916e-02	1.265016e-01	0	0	1.342915e+01	3.458265e+01	PLA2G2A
+BioPlanet_2019	Fc epsilon receptor I signaling pathway	1/79	7.613916e-02	1.265016e-01	0	0	1.342915e+01	3.458265e+01	PLA2G2A
+BioPlanet_2019	SMAD2/3 nuclear pathway	1/82	7.891908e-02	1.265016e-01	0	0	1.292982e+01	3.283312e+01	IGHA1
+BioPlanet_2019	MicroRNAs in cardiomyocyte hypertrophy	1/85	8.169104e-02	1.265016e-01	0	0	1.246617e+01	3.122539e+01	PLA2G2A
+BioPlanet_2019	Glycerophospholipid biosynthesis	1/86	8.261327e-02	1.265016e-01	0	0	1.231889e+01	3.071819e+01	PLA2G2A
+BioPlanet_2019	Salivary secretion	1/89	8.537467e-02	1.267685e-01	0	0	1.189713e+01	2.927533e+01	DMBT1
+BioPlanet_2019	Interferon-gamma signaling pathway	1/97	9.269987e-02	1.311315e-01	0	0	1.090132e+01	2.592756e+01	REG1A
+BioPlanet_2019	Pancreatic secretion	1/101	9.634153e-02	1.311315e-01	0	0	1.046316e+01	2.448228e+01	PLA2G2A
+BioPlanet_2019	GnRH signaling pathway	1/101	9.634153e-02	1.311315e-01	0	0	1.046316e+01	2.448228e+01	PLA2G2A
+BioPlanet_2019	Vascular smooth muscle contraction	1/116	1.098745e-01	1.455094e-01	0	0	9.091533e+00	2.007789e+01	PLA2G2A
+BioPlanet_2019	Notch signaling pathway	1/121	1.143425e-01	1.474417e-01	0	0	8.710526e+00	1.888927e+01	IGHM
+BioPlanet_2019	EGFR1 pathway	1/152	1.415724e-01	1.778730e-01	0	0	6.911467e+00	1.351153e+01	LCN2
+BioPlanet_2019	Post-translational protein modification	1/196	1.788589e-01	2.191021e-01	0	0	5.340081e+00	9.191124e+00	MUC1
+BioPlanet_2019	Phospholipid metabolism	1/205	1.862937e-01	2.226437e-01	0	0	5.102167e+00	8.573839e+00	PLA2G2A
+BioPlanet_2019	Interleukin-4 regulation of apoptosis	1/267	2.358004e-01	2.751005e-01	0	0	3.900673e+00	5.635573e+00	PDZK1IP1
+BioPlanet_2019	Insulin signaling pathway	1/277	2.435123e-01	2.774908e-01	0	0	3.757437e+00	5.307710e+00	REG1A
+BioPlanet_2019	Oncostatin M	1/311	2.691835e-01	2.955336e-01	0	0	3.339559e+00	4.382710e+00	LCN2
+BioPlanet_2019	MAPK signaling pathway	1/314	2.714084e-01	2.955336e-01	0	0	3.307046e+00	4.312819e+00	PLA2G2A
+BioPlanet_2019	Protein metabolism	1/442	3.605656e-01	3.840807e-01	0	0	2.331901e+00	2.378729e+00	MUC1
+BioPlanet_2019	Lipid and lipoprotein metabolism	1/489	3.906208e-01	4.072430e-01	0	0	2.102243e+00	1.976146e+00	PLA2G2A
+BioPlanet_2019	TGF-beta regulation of extracellular matrix	1/565	4.363994e-01	4.454911e-01	0	0	1.811870e+00	1.502398e+00	LCN2
+BioPlanet_2019	Metabolism	1/1615	8.145134e-01	8.145134e-01	0	0	5.989043e-01	1.228739e-01	PLA2G2A

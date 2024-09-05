@@ -1,0 +1,68 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	negative regulation of calcium ion transport into cytosol (GO:0010523)	1/5	9.996772e-04	1.607362e-02	0	0	1.666000e+03	1.150886e+04	TMBIM6
+GO_Biological_Process_2021	cellular response to sodium arsenite (GO:1903936)	1/5	9.996772e-04	1.607362e-02	0	0	1.666000e+03	1.150886e+04	HNRNPA1
+GO_Biological_Process_2021	response to sodium arsenite (GO:1903935)	1/5	9.996772e-04	1.607362e-02	0	0	1.666000e+03	1.150886e+04	HNRNPA1
+GO_Biological_Process_2021	cellular response to salt (GO:1902075)	1/6	1.199524e-03	1.607362e-02	0	0	1.332733e+03	8.963738e+03	HNRNPA1
+GO_Biological_Process_2021	negative regulation of cellular response to hypoxia (GO:1900038)	1/6	1.199524e-03	1.607362e-02	0	0	1.332733e+03	8.963738e+03	TMBIM6
+GO_Biological_Process_2021	fructose 1,6-bisphosphate metabolic process (GO:0030388)	1/9	1.798886e-03	1.696671e-02	0	0	8.328333e+02	5.263996e+03	PFKL
+GO_Biological_Process_2021	fructose 6-phosphate metabolic process (GO:0006002)	1/10	1.998613e-03	1.696671e-02	0	0	7.402593e+02	4.600935e+03	PFKL
+GO_Biological_Process_2021	negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway (GO:1902236)	1/15	2.996803e-03	1.696671e-02	0	0	4.757619e+02	2.764276e+03	TMBIM6
+GO_Biological_Process_2021	cellular response to arsenic-containing substance (GO:0071243)	1/15	2.996803e-03	1.696671e-02	0	0	4.757619e+02	2.764276e+03	HNRNPA1
+GO_Biological_Process_2021	negative regulation of RNA metabolic process (GO:0051253)	1/19	3.794816e-03	1.696671e-02	0	0	3.699630e+02	2.062218e+03	TMBIM6
+GO_Biological_Process_2021	negative regulation of RNA splicing (GO:0033119)	1/19	3.794816e-03	1.696671e-02	0	0	3.699630e+02	2.062218e+03	TMBIM6
+GO_Biological_Process_2021	negative regulation of calcium ion transport (GO:0051926)	1/19	3.794816e-03	1.696671e-02	0	0	3.699630e+02	2.062218e+03	TMBIM6
+GO_Biological_Process_2021	negative regulation of telomere maintenance via telomerase (GO:0032211)	1/20	3.994245e-03	1.696671e-02	0	0	3.504737e+02	1.935631e+03	HNRNPA1
+GO_Biological_Process_2021	regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway (GO:1902235)	1/22	4.393012e-03	1.696671e-02	0	0	3.170635e+02	1.720938e+03	TMBIM6
+GO_Biological_Process_2021	canonical glycolysis (GO:0061621)	1/24	4.791660e-03	1.696671e-02	0	0	2.894638e+02	1.545991e+03	PFKL
+GO_Biological_Process_2021	glucose catabolic process to pyruvate (GO:0061718)	1/24	4.791660e-03	1.696671e-02	0	0	2.894638e+02	1.545991e+03	PFKL
+GO_Biological_Process_2021	negative regulation of response to endoplasmic reticulum stress (GO:1903573)	1/25	4.990939e-03	1.696671e-02	0	0	2.773889e+02	1.470198e+03	TMBIM6
+GO_Biological_Process_2021	glycolytic process through glucose-6-phosphate (GO:0061620)	1/25	4.990939e-03	1.696671e-02	0	0	2.773889e+02	1.470198e+03	PFKL
+GO_Biological_Process_2021	response to hexose (GO:0009746)	1/25	4.990939e-03	1.696671e-02	0	0	2.773889e+02	1.470198e+03	PFKL
+GO_Biological_Process_2021	negative regulation of telomere maintenance via telomere lengthening (GO:1904357)	1/26	5.190188e-03	1.696671e-02	0	0	2.662800e+02	1.400895e+03	HNRNPA1
+GO_Biological_Process_2021	cellular response to unfolded protein (GO:0034620)	1/27	5.389408e-03	1.696671e-02	0	0	2.560256e+02	1.337304e+03	TMBIM6
+GO_Biological_Process_2021	glycolytic process (GO:0006096)	1/29	5.787756e-03	1.696671e-02	0	0	2.377143e+02	1.224707e+03	PFKL
+GO_Biological_Process_2021	negative regulation of DNA biosynthetic process (GO:2000279)	1/32	6.385056e-03	1.696671e-02	0	0	2.146774e+02	1.084936e+03	HNRNPA1
+GO_Biological_Process_2021	response to amino acid (GO:0043200)	1/32	6.385056e-03	1.696671e-02	0	0	2.146774e+02	1.084936e+03	TMBIM6
+GO_Biological_Process_2021	cellular response to topologically incorrect protein (GO:0035967)	1/32	6.385056e-03	1.696671e-02	0	0	2.146774e+02	1.084936e+03	TMBIM6
+GO_Biological_Process_2021	positive regulation of telomere maintenance via telomerase (GO:0032212)	1/33	6.584096e-03	1.696671e-02	0	0	2.079583e+02	1.044595e+03	HNRNPA1
+GO_Biological_Process_2021	positive regulation of telomere maintenance via telomere lengthening (GO:1904358)	1/36	7.181036e-03	1.781961e-02	0	0	1.901048e+02	9.384163e+02	HNRNPA1
+GO_Biological_Process_2021	regulation of apoptotic signaling pathway (GO:2001233)	1/38	7.578847e-03	1.813510e-02	0	0	1.798108e+02	8.779073e+02	TMBIM6
+GO_Biological_Process_2021	nucleocytoplasmic transport (GO:0006913)	1/40	7.976539e-03	1.825826e-02	0	0	1.705726e+02	8.240792e+02	HNRNPA1
+GO_Biological_Process_2021	carbohydrate catabolic process (GO:0016052)	1/41	8.175340e-03	1.825826e-02	0	0	1.663000e+02	7.993431e+02	PFKL
+GO_Biological_Process_2021	cellular response to glucose starvation (GO:0042149)	1/43	8.572852e-03	1.852842e-02	0	0	1.583651e+02	7.536839e+02	HNRNPA1
+GO_Biological_Process_2021	response to unfolded protein (GO:0006986)	1/49	9.764672e-03	1.982524e-02	0	0	1.385278e+02	6.412429e+02	TMBIM6
+GO_Biological_Process_2021	response to glucose (GO:0009749)	1/49	9.764672e-03	1.982524e-02	0	0	1.385278e+02	6.412429e+02	PFKL
+GO_Biological_Process_2021	regulation of telomere maintenance via telomerase (GO:0032210)	1/52	1.036018e-02	2.038925e-02	0	0	1.303595e+02	5.957149e+02	HNRNPA1
+GO_Biological_Process_2021	regulation of alternative mRNA splicing, via spliceosome (GO:0000381)	1/54	1.075704e-02	2.038925e-02	0	0	1.254277e+02	5.684627e+02	HNRNPA1
+GO_Biological_Process_2021	pyruvate metabolic process (GO:0006090)	1/55	1.095542e-02	2.038925e-02	0	0	1.230988e+02	5.556581e+02	PFKL
+GO_Biological_Process_2021	positive regulation of DNA biosynthetic process (GO:2000573)	1/61	1.214509e-02	2.199246e-02	0	0	1.107556e+02	4.885240e+02	HNRNPA1
+GO_Biological_Process_2021	negative regulation of intrinsic apoptotic signaling pathway (GO:2001243)	1/64	1.273952e-02	2.246179e-02	0	0	1.054656e+02	4.601513e+02	TMBIM6
+GO_Biological_Process_2021	nucleic acid metabolic process (GO:0090304)	1/71	1.412549e-02	2.309267e-02	0	0	9.488571e+01	4.041917e+02	HNRNPA1
+GO_Biological_Process_2021	negative regulation of protein binding (GO:0032091)	1/74	1.471903e-02	2.309267e-02	0	0	9.097260e+01	3.837783e+02	TMBIM6
+GO_Biological_Process_2021	fibroblast growth factor receptor signaling pathway (GO:0008543)	1/75	1.491682e-02	2.309267e-02	0	0	8.973874e+01	3.773753e+02	HNRNPA1
+GO_Biological_Process_2021	regulation of RNA splicing (GO:0043484)	1/76	1.511458e-02	2.309267e-02	0	0	8.853778e+01	3.711588e+02	TMBIM6
+GO_Biological_Process_2021	RNA transport (GO:0050658)	1/76	1.511458e-02	2.309267e-02	0	0	8.853778e+01	3.711588e+02	HNRNPA1
+GO_Biological_Process_2021	import into nucleus (GO:0051170)	1/77	1.531230e-02	2.309267e-02	0	0	8.736842e+01	3.651212e+02	HNRNPA1
+GO_Biological_Process_2021	negative regulation of apoptotic signaling pathway (GO:2001234)	1/78	1.551000e-02	2.309267e-02	0	0	8.622944e+01	3.592551e+02	TMBIM6
+GO_Biological_Process_2021	nuclear export (GO:0051168)	1/84	1.669556e-02	2.431745e-02	0	0	7.997189e+01	3.272939e+02	HNRNPA1
+GO_Biological_Process_2021	negative regulation of binding (GO:0051100)	1/88	1.748534e-02	2.492591e-02	0	0	7.627969e+01	3.086576e+02	TMBIM6
+GO_Biological_Process_2021	regulation of mRNA splicing, via spliceosome (GO:0048024)	1/90	1.788005e-02	2.495758e-02	0	0	7.455805e+01	3.000268e+02	HNRNPA1
+GO_Biological_Process_2021	cellular response to fibroblast growth factor stimulus (GO:0044344)	1/92	1.827465e-02	2.498778e-02	0	0	7.291209e+01	2.918117e+02	HNRNPA1
+GO_Biological_Process_2021	RNA export from nucleus (GO:0006405)	1/106	2.103346e-02	2.818484e-02	0	0	6.314603e+01	2.438473e+02	HNRNPA1
+GO_Biological_Process_2021	regulation of protein binding (GO:0043393)	1/118	2.339354e-02	3.073268e-02	0	0	5.663533e+01	2.126824e+02	TMBIM6
+GO_Biological_Process_2021	RNA metabolic process (GO:0016070)	1/133	2.633762e-02	3.393501e-02	0	0	5.016162e+01	1.824256e+02	HNRNPA1
+GO_Biological_Process_2021	cellular response to starvation (GO:0009267)	1/158	3.122963e-02	3.947897e-02	0	0	4.212102e+01	1.460078e+02	HNRNPA1
+GO_Biological_Process_2021	phosphate-containing compound metabolic process (GO:0006796)	1/212	4.173345e-02	5.178040e-02	0	0	3.125592e+01	9.928295e+01	PFKL
+GO_Biological_Process_2021	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO:0000377)	1/251	4.926626e-02	6.001526e-02	0	0	2.632800e+01	7.926086e+01	HNRNPA1
+GO_Biological_Process_2021	negative regulation of signal transduction (GO:0009968)	1/267	5.234376e-02	6.262557e-02	0	0	2.472431e+01	7.293480e+01	TMBIM6
+GO_Biological_Process_2021	mRNA splicing, via spliceosome (GO:0000398)	1/274	5.368781e-02	6.310673e-02	0	0	2.408181e+01	7.042891e+01	HNRNPA1
+GO_Biological_Process_2021	mRNA processing (GO:0006397)	1/300	5.866750e-02	6.777108e-02	0	0	2.195875e+01	6.227215e+01	HNRNPA1
+GO_Biological_Process_2021	negative regulation of gene expression (GO:0010629)	1/322	6.286571e-02	7.138987e-02	0	0	2.043094e+01	5.652741e+01	TMBIM6
+GO_Biological_Process_2021	negative regulation of programmed cell death (GO:0043069)	1/381	7.405522e-02	8.269500e-02	0	0	1.720702e+01	4.478891e+01	TMBIM6
+GO_Biological_Process_2021	transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)	1/404	7.838998e-02	8.610047e-02	0	0	1.620596e+01	4.126132e+01	HNRNPA1
+GO_Biological_Process_2021	neutrophil degranulation (GO:0043312)	1/481	9.279130e-02	9.698723e-02	0	0	1.355278e+01	3.222041e+01	PFKL
+GO_Biological_Process_2021	negative regulation of apoptotic process (GO:0043066)	1/485	9.353478e-02	9.698723e-02	0	0	1.343802e+01	3.184033e+01	TMBIM6
+GO_Biological_Process_2021	neutrophil activation involved in immune response (GO:0002283)	1/485	9.353478e-02	9.698723e-02	0	0	1.343802e+01	3.184033e+01	PFKL
+GO_Biological_Process_2021	neutrophil mediated immunity (GO:0002446)	1/488	9.409209e-02	9.698723e-02	0	0	1.335318e+01	3.156000e+01	PFKL
+GO_Biological_Process_2021	negative regulation of cellular process (GO:0048523)	1/566	1.084921e-01	1.101360e-01	0	0	1.146372e+01	2.546180e+01	TMBIM6
+GO_Biological_Process_2021	regulation of apoptotic process (GO:0042981)	1/742	1.403535e-01	1.403535e-01	0	0	8.661718e+00	1.700807e+01	TMBIM6
