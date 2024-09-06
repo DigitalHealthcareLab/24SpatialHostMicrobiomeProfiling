@@ -1,3 +1,5 @@
 src/*
 !src/SpatialMicrobiomeProfiling_DoubleFilter/
 !src/SpatialMicrobiomeProfiling_SingleFilter/
+data/
+!docs/
