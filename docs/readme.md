@@ -1,7 +1,7 @@
 # 24SpatialHostMicrobiomeProfiling
 
 ![Spatial Host-Microbiome Profiling Overview](figure_readme.png)
-*Figure 1: Overview of the Spatial Host-Microbiome Profiling approach in Crohn's disease tissues.*
+*Overview of the Spatial Host-Microbiome Profiling approach in Crohn's disease tissues.*
 
 ## Objective
 
